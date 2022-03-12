@@ -119,9 +119,10 @@ class EtherScanIoApi(object):
             
             if DEBUG_PRINT_CONTRACTS:
                 print(source)
-            if "&lt;" in source or "&gt;" in source or "&le;" in source or "&ge;" in source or "&amp;" in source or "&vert;" in source or "&quot;" in source:
-                raise Exception("HTML IN OUTPUT!! - BeautifulSoup messed up..")
-            source =  source.replace("&lt;", "<").replace("&gt;", ">").replace("&le;","<=").replace("&ge;",">=").replace("&amp;","&").replace("&vert;","|").replace("&quot;",'"')
+            #if "&lt;" in source or "&gt;" in source or "&le;" in source or "&ge;" in source or "&amp;" in source or "&vert;" in source or "&quot;" in source:
+            #    print(source)
+            #    raise Exception("HTML IN OUTPUT!! - BeautifulSoup messed up..")
+            #source =  source.replace("&lt;", "<").replace("&gt;", ">").replace("&le;","<=").replace("&ge;",">=").replace("&amp;","&").replace("&vert;","|").replace("&quot;",'"')
             sources.append(source)
         if not sources:
             raise Exception("unable to find source-code. rate limited? retry..")
