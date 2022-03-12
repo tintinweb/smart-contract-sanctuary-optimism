@@ -1193,3 +1193,13 @@
 {"address": "0xEa5133A413099b55C3B1538C3B19C5e80D8305E6", "name": "AccountBalance", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/17/2022"}
 {"address": "0x6aDBBFBe58ddeF8aFaB1A4316464c1D737C68aB6", "name": "Exchange", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/17/2022"}
 {"address": "0x5A656BCCdBEAfA3F5DC597F610d55Df74d9d08a8", "name": "ClearingHouseConfig", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/17/2022"}
+{"address": "0x07810385aa29aF1fE6c89f14b2D810954aC78dF8", "name": "ETH2NFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/12/2022"}
+{"address": "0x40E8cb3440C0B05EB20522D1F63397e5B36efcf2", "name": "RewardEscrowProxy", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "3/12/2022"}
+{"address": "0x090559D58aAB8828C27eE7a7EAb18efD5bB90374", "name": "LMTerminalProxy", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/12/2022"}
+{"address": "0x2AA5853d2D934c3A239d83F56dC26EBb25084163", "name": "CLRDeployer", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/12/2022"}
+{"address": "0xF9Ad07EbA7cd32774f35000A16DE52b9ee71e05a", "name": "LMTerminal", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/12/2022"}
+{"address": "0x08B129a7E3105Bba38387Ab940D5546991B209c2", "name": "StakedCLRToken", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/12/2022"}
+{"address": "0xfE42044A2946BEd7cB99613A718f4E2495337d53", "name": "CLR", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/12/2022"}
+{"address": "0x0f58DbEAe68161450587b6E2b521B545B695F3Ab", "name": "UniswapLibrary", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/12/2022"}
+{"address": "0x21a3ed04b3f5e17BD158aa30a75C7429BCb03169", "name": "ProxyAdmin", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/12/2022"}
+{"address": "0xb9dd61Dd3b905fa0C899a708bd135F04EfbA5f7E", "name": "RewardEscrow", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/12/2022"}
