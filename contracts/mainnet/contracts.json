@@ -1216,3 +1216,14 @@
 {"address": "0x37414a8662bc1d25be3ee51fb27c2686e2490a89", "name": "AnyCallProxy", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/14/2022"}
 {"address": "0x336649aeb266f3182d63f4fad7b3cf0dba15f4c8", "name": "Vyper_contract", "compiler": "vyper:0.2.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/14/2022"}
 {"address": "0xe03311D30bdeb60511BAe8de135C6524B9576B2e", "name": "Vyper_contract", "compiler": "vyper:0.2.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "3/14/2022"}
+{"address": "0xaa061cd2886c79c4052bf11698fe195381daa17c", "name": "OptimismRamppContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "3/15/2022"}
+{"address": "0xeCdCc6181f17418efE422D5218D4cc63ad8c5c73", "name": "IssuanceModule", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/15/2022"}
+{"address": "0x1301aD350FdCF82ba0441279B197cD7d9682b0d2", "name": "ReservesSetupHelper", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/15/2022"}
+{"address": "0xeE1BAc9355EaAfCD1B68d272d640d870bC9b4b5C", "name": "DefaultReserveInterestRateStrategy", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/15/2022"}
+{"address": "0x4aa694e6c06D6162d95BE98a2Df6a521d5A7b521", "name": "DefaultReserveInterestRateStrategy", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/15/2022"}
+{"address": "0xbCe1C8D32E432025DD90bdf0137b1089Cd005B7e", "name": "DefaultReserveInterestRateStrategy", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/15/2022"}
+{"address": "0xf86C9e87D16A6556F81275D5157Eb46aAd4B6a25", "name": "CalldataLogic", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/15/2022"}
+{"address": "0x8b55CeA4692cD05C7fd9af204a27Bc2e6505c89c", "name": "Vester", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/15/2022"}
+{"address": "0xe01eEC69a943DCC5cB8aA51d96E3F2EeA76f2789", "name": "CLR", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/15/2022"}
+{"address": "0x30421c14E7d7a1B43cF6F95Cf24A0c087b77E803", "name": "WithdrawalDeposits", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/15/2022"}
+{"address": "0x112F7ef6Ed339c41436f465bF201fC22B8383192", "name": "_0xPalette", "compiler": "0.8.4", "balance": "0.16044 Ether", "txcount": 14, "settings": "", "date": "3/14/2022"}
