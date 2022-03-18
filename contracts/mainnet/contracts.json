@@ -1307,3 +1307,5 @@
 {"address": "0xB618CB0Da4586246F61d1418E684218068a89937", "name": "PerpV2BasisTradingModule", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "3/17/2022"}
 {"address": "0xb1daf02cF0d82555f3b3eBF4C396177698D2993f", "name": "PerpV2Positions", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/17/2022"}
 {"address": "0x4e67414a21D6a06332e17F24f51a8d18d1a7d5cf", "name": "PositionV2", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/17/2022"}
+{"address": "0x7478D71889cddB6eBDC8b9295D83FC554525E885", "name": "BathHouse", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/18/2022"}
+{"address": "0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4", "name": "AnyswapV6ERC20", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/18/2022"}
