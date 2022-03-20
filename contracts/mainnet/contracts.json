@@ -1311,3 +1311,13 @@
 {"address": "0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4", "name": "AnyswapV6ERC20", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/18/2022"}
 {"address": "0xeba66661Afc03aB95ec37383b1BfB724abe14a0F", "name": "ComboOracle_UniV2_UniV3", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/19/2022"}
 {"address": "0x626eFc448227d794dC8C02ffea6a932bB360f72a", "name": "ComboOracle", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "3/19/2022"}
+{"address": "0x3d87d8fbb1e537aa50b0876ca13ad6d464678117", "name": "Contract", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/20/2022"}
+{"address": "0xA77c7f3BA954F4a420D8C51E33de23B36dAaBBAC", "name": "VoterUpgradeable", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/20/2022"}
+{"address": "0x606285b3fE057FeF83b23A56132b37D66F8740A2", "name": "BridgeUpgradeable", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/20/2022"}
+{"address": "0x66A71Dcef29A0fFBDBE3c6a460a3B5BC225Cd675", "name": "UltraLightNode", "compiler": "0.7.6", "balance": "1.010515185421029167 Ether", "txcount": 56, "settings": "", "date": "3/20/2022"}
+{"address": "0x3c2269811836af69497E5F486A85D7316753cf62", "name": "Endpoint", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "3/20/2022"}
+{"address": "0x4a364f8c717cAAD9A442737Eb7b8A55cc6cf18D8", "name": "LPStaking", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 286, "settings": "", "date": "3/19/2022"}
+{"address": "0x296F55F8Fb28E498B858d0BcDA06D955B2Cb3f97", "name": "StargateToken", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 116, "settings": "", "date": "3/19/2022"}
+{"address": "0xE3B53AF74a4BF62Ae5511055290838050bf764Df", "name": "Factory", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "3/19/2022"}
+{"address": "0x701a95707A0290AC8B90b3719e8EE5b210360883", "name": "Bridge", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 31, "settings": "", "date": "3/19/2022"}
+{"address": "0xB0D502E938ed5f4df2E681fE6E419ff29631d62b", "name": "Router", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 455, "settings": "", "date": "3/19/2022"}
