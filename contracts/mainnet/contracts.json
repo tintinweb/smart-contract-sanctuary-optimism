@@ -1321,3 +1321,6 @@
 {"address": "0xE3B53AF74a4BF62Ae5511055290838050bf764Df", "name": "Factory", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "3/19/2022"}
 {"address": "0x701a95707A0290AC8B90b3719e8EE5b210360883", "name": "Bridge", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 31, "settings": "", "date": "3/19/2022"}
 {"address": "0xB0D502E938ed5f4df2E681fE6E419ff29631d62b", "name": "Router", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 455, "settings": "", "date": "3/19/2022"}
+{"address": "0x043d7d6b42714d79e92ce01aA45789BE4a83A8C5", "name": "PriceFeed", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/21/2022"}
+{"address": "0x18D28FE27829FCf030e0346DDe7c3316C0E49039", "name": "PriceFeed", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/21/2022"}
+{"address": "0x44253f82336390bfa38ac4beee993966213de570", "name": "DarkForestValhallaFriends", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "3/21/2022"}
