@@ -1339,3 +1339,15 @@
 {"address": "0xcd3e597539dc80ca0f890476e01110c43228e448", "name": "FeeRecipient", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/22/2022"}
 {"address": "0xaae7ba823679889b12f71d1f18beecbc69e62237", "name": "BalanceScanner", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/22/2022"}
 {"address": "0x8c080a775e2c19486fb751bcfa0068745179fe49", "name": "Bet", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "3/22/2022"}
+{"address": "0xf4a23a2306c3b8666bf1537e95d5cef1cf37ffb3", "name": "StakedCLRTokenProxy", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "3/23/2022"}
+{"address": "0x7cc778c9b8fb55bb874d0eaef0751ff465f80498", "name": "CLRProxy", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/23/2022"}
+{"address": "0x5Aa68f7c198938E94FdD3D307c665a292a0CA344", "name": "OfferFactory", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/23/2022"}
+{"address": "0x1cF3993EbA538e5f085333c86356622161Dd8C0B", "name": "MirrorGate", "compiler": "0.8.1", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/23/2022"}
+{"address": "0xd056351FC32b5Ec443305198FB9093057f8e988C", "name": "SystemSettings", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "3/23/2022"}
+{"address": "0xf18acc02628009231d7baaf9a7a24c0860dda6cb", "name": "ERC1967Proxy", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 135, "settings": "", "date": "3/23/2022"}
+{"address": "0x9393528e747e03745A735547Be6c2bF7292B83a2", "name": "WritingEditionsFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/23/2022"}
+{"address": "0x1648323b9526367fa7d3Dbadae19F2E3ececBD14", "name": "WritingEditions", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/23/2022"}
+{"address": "0x844d982FDc1F5C8eaD82E95d522F2486a7CBb3EE", "name": "PunkTLD", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/23/2022"}
+{"address": "0xA8221890768603210c1a32d88374111084E46E6d", "name": "PunkTLDFactory", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "3/23/2022"}
+{"address": "0xC899791bfa795785651DD0d7214b42BE0dfD6C94", "name": "StakingProgram", "compiler": "0.6.0", "balance": "0 Ether", "txcount": 20, "settings": "", "date": "3/23/2022"}
+{"address": "0xc80464b6b8b1ae70890e4ed8c1a296401da3feae", "name": "StorageTestArbitrum777", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "3/23/2022"}
