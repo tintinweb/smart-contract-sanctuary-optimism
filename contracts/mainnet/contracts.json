@@ -1351,3 +1351,16 @@
 {"address": "0xA8221890768603210c1a32d88374111084E46E6d", "name": "PunkTLDFactory", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "3/23/2022"}
 {"address": "0xC899791bfa795785651DD0d7214b42BE0dfD6C94", "name": "StakingProgram", "compiler": "0.6.0", "balance": "0 Ether", "txcount": 20, "settings": "", "date": "3/23/2022"}
 {"address": "0xc80464b6b8b1ae70890e4ed8c1a296401da3feae", "name": "StorageTestArbitrum777", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "3/23/2022"}
+{"address": "0xBD469fdEDd9A8e62BCB1aa1e479A8A287e5718e0", "name": "PickleJar", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "3/24/2022"}
+{"address": "0xC7b58Fa7Bb3aC9Cf68163D0E6e0d533F441cb921", "name": "StrategyStargateUsdc", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/24/2022"}
+{"address": "0x6A3F7168b2E5E23992a89d7106b5076Cfb52A405", "name": "ThalesRoyale", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/24/2022"}
+{"address": "0xA1dA5AB9DE0b37D2eFa58cacA6C167504a2c0037", "name": "StreamingFeeSplitExtension", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/24/2022"}
+{"address": "0xEc5E33682f4781A440335Df3dB2c80FdE4467aA0", "name": "BaseManager", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/24/2022"}
+{"address": "0x3C38ea795726d882C15c50BF29197647B2520314", "name": "Utility", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/24/2022"}
+{"address": "0xD1546C02DF5EdA431361832d4185Ce6f32198e79", "name": "Vault", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/24/2022"}
+{"address": "0x6a0ac3bf2b956f690e9518bbc6249396e6ecef11", "name": "Counter", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "3/24/2022"}
+{"address": "0xbFFE3A2323E059cC22944Be85fc57A54c38af7F0", "name": "Shares", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/24/2022"}
+{"address": "0xBC5C8DDeA45e543b20DDc6B84F6649231E35DFE7", "name": "DraggableShares", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/24/2022"}
+{"address": "0x0018453cA52d1d71458ad1Ad48A5560A51a94601", "name": "Brokerbot", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/24/2022"}
+{"address": "0x4aCC1C49325Ff2E5f1fB18831D9c5E3E1eF5634c", "name": "FlashLoanProvider", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/24/2022"}
+{"address": "0x0837b2aCcF87De52a099409863CDb5f3588342AD", "name": "VaultFactory", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "3/24/2022"}
