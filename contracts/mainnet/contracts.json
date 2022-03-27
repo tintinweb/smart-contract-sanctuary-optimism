@@ -1388,3 +1388,7 @@
 {"address": "0x4a45b840300c2de408bbaab0bcaea7ec2b88f9a6", "name": "Moloch", "compiler": "0.5.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/26/2022"}
 {"address": "0xc7286c3D9dBe3abD50Ac99E2860D3e750B755dcd", "name": "MinionFactory", "compiler": "0.7.5", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/26/2022"}
 {"address": "0x438f56a37b3cbe9f535b9178e83d43a402b1f420", "name": "Minion", "compiler": "0.7.5", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/26/2022"}
+{"address": "0x43b91b168d210f722f2896d258c2c236b9cebb7b", "name": "OptiNounsContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/27/2022"}
+{"address": "0x5FcCB9032109a5F2624BE628269c4300916ef05d", "name": "WritingEditionsFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/27/2022"}
+{"address": "0x33ce254F40CA40fAd2cE3d8c78A0b1660cc4bBb0", "name": "WritingEditions", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/27/2022"}
+{"address": "0x99c69e6a368dc644a7872a676a16703e7b59d1ec", "name": "PartyPanda", "compiler": "0.8.13", "balance": "0.036408 Ether", "txcount": 46, "settings": "", "date": "3/27/2022"}
