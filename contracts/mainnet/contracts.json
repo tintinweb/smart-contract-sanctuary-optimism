@@ -1441,3 +1441,11 @@
 {"address": "0x5B23E2bAe5C5f00e804EA2C4C9abe601604378fa", "name": "MPTValidatorV2", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/29/2022"}
 {"address": "0x8ebe03a1963901F6E1680A6234643Cc80dE2222F", "name": "DebtIssuanceModuleV2", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/28/2022"}
 {"address": "0x4fe576aa37b9858378425ea981b8d1804a6367ce", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2014, "settings": "-", "date": "3/28/2022"}
+{"address": "0xd7658c01ad0ecfd3d6fe1be6863d17a2693d6c59", "name": "MultiReceiverSG", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/30/2022"}
+{"address": "0x94Dabf4b7C8e49Edf2C799357E4ecD5e8C11Ce44", "name": "FlashLoanLogic", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "3/30/2022"}
+{"address": "0xD6FA681E22306b0F4E605B979b7c9a1dFa865ade", "name": "PoolConfigurator", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "3/30/2022"}
+{"address": "0xb24639a89d78cb9558ccbc6af5a8ba1d0d401fa3", "name": "PolynomialKeeper", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "3/30/2022"}
+{"address": "0x373bd1e154FDa2a43A8696B1434a793576460593", "name": "Layer2DaoPunkDomains", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/30/2022"}
+{"address": "0xb02e538a08cfa00e9900cf94e33b161323d8d162", "name": "StakingRewards", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/30/2022"}
+{"address": "0x051947f71f4b7fC8adDE3A50A2f7eeD8c6d20e0c", "name": "ERC20Guard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/30/2022"}
+{"address": "0x6CA177b0Ee3B1D352e6A9AF62a403FFd7E2013D1", "name": "PoolFactory", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/30/2022"}
