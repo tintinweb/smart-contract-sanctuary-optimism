@@ -1466,3 +1466,5 @@
 {"address": "0xD59D7CcCdcAacb4c283bA6FeC950eDf7D087dAd5", "name": "IssuanceExtension", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/31/2022"}
 {"address": "0x4E86bd25eac00812243295d7Ad7Cb59cee3f79D8", "name": "DelegatedManagerFactory", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "3/31/2022"}
 {"address": "0xe3Ebf3788Fab3de919da7332e7b72899414d3E80", "name": "ManagerCore", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/31/2022"}
+{"address": "0x50500CCD11e29f14008c7778a6ceD655727a21C3", "name": "EVMValidatorStgV3", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/2/2022"}
+{"address": "0xf640aec9141c14D3FEF5F0514712d23e1436E033", "name": "DelegatedManager", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/1/2022"}
