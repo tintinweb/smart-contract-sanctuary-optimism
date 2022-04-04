@@ -1468,3 +1468,8 @@
 {"address": "0xe3Ebf3788Fab3de919da7332e7b72899414d3E80", "name": "ManagerCore", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/31/2022"}
 {"address": "0x50500CCD11e29f14008c7778a6ceD655727a21C3", "name": "EVMValidatorStgV3", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/2/2022"}
 {"address": "0xf640aec9141c14D3FEF5F0514712d23e1436E033", "name": "DelegatedManager", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/1/2022"}
+{"address": "0xB49a6213Da096f72C6f83c63A68F43cAaBb113ad", "name": "Kev0", "compiler": "0.8.7", "balance": "0.00700671752751175 Ether", "txcount": 648, "settings": "", "date": "4/4/2022"}
+{"address": "0xF6d2675468989387e96127546e0CBC9A384fa418", "name": "AirnodeRrp", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "4/4/2022"}
+{"address": "0x25C6f371Cf8d4200B89dF84f9dE69d011013B086", "name": "RequesterAuthorizerWithAirnode", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/4/2022"}
+{"address": "0x14A9E40FcAdA95A273ce3c8d4ccF7EA3280BDd26", "name": "AccessControlRegistry", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "4/4/2022"}
+{"address": "0xEc1Df7EdFcdC2e2042c63252c1cEF480f64F9189", "name": "Gh0stlyGh0sts", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 328, "settings": "", "date": "4/4/2022"}
