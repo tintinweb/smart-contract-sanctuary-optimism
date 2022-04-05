@@ -1473,3 +1473,11 @@
 {"address": "0x25C6f371Cf8d4200B89dF84f9dE69d011013B086", "name": "RequesterAuthorizerWithAirnode", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/4/2022"}
 {"address": "0x14A9E40FcAdA95A273ce3c8d4ccF7EA3280BDd26", "name": "AccessControlRegistry", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "4/4/2022"}
 {"address": "0xEc1Df7EdFcdC2e2042c63252c1cEF480f64F9189", "name": "Gh0stlyGh0sts", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 328, "settings": "", "date": "4/4/2022"}
+{"address": "0x2E9918026db125c692aed46e18697755567f4c1E", "name": "Vester", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/5/2022"}
+{"address": "0xaaeef52ad4695b8e3b758215ca6bbca4d7680c62", "name": "tinydinos", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 168, "settings": "", "date": "4/5/2022"}
+{"address": "0xfdc79d58c3fcb7513d6d5d72f5911d3da9ae4344", "name": "AaveV3View", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "4/5/2022"}
+{"address": "0xe29bC35B3113C550861C4a8e273717FFa25a483b", "name": "Brokerbot", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/5/2022"}
+{"address": "0xa4b00887aCcD7b5f5325732b4e82b98630129B67", "name": "BETA", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 24, "settings": "", "date": "4/5/2022"}
+{"address": "0xc436649d85b30ce66c9808ab7c48d857ea639bb0", "name": "OmniBears", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 68, "settings": "", "date": "4/5/2022"}
+{"address": "0x849b5a8dbd65c5f730cbf936647061e9ff677925", "name": "OmniGalaxy", "compiler": "0.8.7", "balance": "0.04 Ether", "txcount": 4, "settings": "", "date": "4/5/2022"}
+{"address": "0x4ed30D8E003397985D6748282DB5e79Ca140CFAe", "name": "PolygonTest", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/5/2022"}
