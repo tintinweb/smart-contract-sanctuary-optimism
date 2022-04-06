@@ -1481,3 +1481,15 @@
 {"address": "0xc436649d85b30ce66c9808ab7c48d857ea639bb0", "name": "OmniBears", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 68, "settings": "", "date": "4/5/2022"}
 {"address": "0x849b5a8dbd65c5f730cbf936647061e9ff677925", "name": "OmniGalaxy", "compiler": "0.8.7", "balance": "0.04 Ether", "txcount": 4, "settings": "", "date": "4/5/2022"}
 {"address": "0x4ed30D8E003397985D6748282DB5e79Ca140CFAe", "name": "PolygonTest", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/5/2022"}
+{"address": "0x270d4C1b6F0bB172A9fd628E29530Ca484190013", "name": "L2Pool", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "4/6/2022"}
+{"address": "0x1c0c05a2aA31692e5dc9511b04F651db9E4d8320", "name": "UniswapV3ExchangeAdapterV2", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/6/2022"}
+{"address": "0x3814b80df228055ea043f14219c5b70f40a7bf14", "name": "VaultProxiable", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "4/6/2022"}
+{"address": "0x0B58258c40d908F3e7e66bF9753Ef45d9eF85f03", "name": "VaultV2", "compiler": "0.8.0", "balance": "1 wei", "txcount": 4, "settings": "-", "date": "4/6/2022"}
+{"address": "0x8e2bbd49109d6d3723b77ad6c7bc2c9af14ae4ce", "name": "AaveV3Supply", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "4/6/2022"}
+{"address": "0x3Da91E5eD564eE46d4D734E1F99F395f0969101a", "name": "Airdrop", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 23, "settings": "", "date": "4/6/2022"}
+{"address": "0x03b2b5Ac77126B6C9b2484635F853E9Fc492E4FD", "name": "DelegatedManager", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "4/6/2022"}
+{"address": "0xac4df1d3b8eD27A7B1f239A4D915543e8E0E88E8", "name": "testContract", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/6/2022"}
+{"address": "0x4d011c49e202faac24ad66db6c0a9b4915cbf8ed", "name": "testContract", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/6/2022"}
+{"address": "0xf44e50784264d4f227FBF426484a9645704367B2", "name": "ChainlinkPriceFeed", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/6/2022"}
+{"address": "0xFBEB75c41a606849dAc686fb87aFc50E5DaE64DF", "name": "crosschainQiStablecoinSlim", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "4/6/2022"}
+{"address": "0xb9c8f0d3254007ee4b98970b94544e473cd610ec", "name": "crosschainQiStablecoinSlimV2", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "4/6/2022"}
