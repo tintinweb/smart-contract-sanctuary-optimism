@@ -1493,3 +1493,10 @@
 {"address": "0xf44e50784264d4f227FBF426484a9645704367B2", "name": "ChainlinkPriceFeed", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/6/2022"}
 {"address": "0xFBEB75c41a606849dAc686fb87aFc50E5DaE64DF", "name": "crosschainQiStablecoinSlim", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "4/6/2022"}
 {"address": "0xb9c8f0d3254007ee4b98970b94544e473cd610ec", "name": "crosschainQiStablecoinSlimV2", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "4/6/2022"}
+{"address": "0xf2ca9d4d6fa28d7762401d55be5040f81f4a8619", "name": "RaidProjectBaseCore", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/7/2022"}
+{"address": "0x7ef7560789eE2cB301eC38c3C8B91bA8a94Cd1e4", "name": "SynapseBridge", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/7/2022"}
+{"address": "0x6e72f85f774d0958cd194ef2a3333e31b48a3022", "name": "SmolFrens", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "4/7/2022"}
+{"address": "0x5F2080542ab6ae7e0b06778F0B2d263006297840", "name": "Multicall", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "4/7/2022"}
+{"address": "0xb5eB0528C6890f02d579C5cF8CaF3d41cAa7190f", "name": "BridgeUpgradeable", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/7/2022"}
+{"address": "0xc9347b307b4aa891785c44a63ea6411c8f19c479", "name": "Vaults", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "4/7/2022"}
+{"address": "0xf12d64C674a5A8AE89d9F5823A8E1B98e879632d", "name": "DeltaNeutralBasisTradingStrategyExtension", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "4/7/2022"}
