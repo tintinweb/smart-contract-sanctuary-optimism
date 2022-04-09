@@ -1535,3 +1535,6 @@
 {"address": "0xfB14128FB28Dcbfd1F77e06dFdf633e0c7A3cbC0", "name": "Registry", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "4/8/2022"}
 {"address": "0x302BE002D4931D5cB6fb0B3557F73742F26Ca241", "name": "Config", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "4/8/2022"}
 {"address": "0x7a864E7226d077b9468c8097B1Cc7C776B22d005", "name": "OptimizedTransparentUpgradeableProxy", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "4/8/2022"}
+{"address": "0x5567f52da11180b90ea6615aeafff8426e47cbb1", "name": "NFT", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 16, "settings": "", "date": "4/9/2022"}
+{"address": "0x27a1B793b5B51a8862F66B0a1181EF42b2A8D9C2", "name": "MultiChainMirrorGate", "compiler": "0.8.1", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "4/9/2022"}
+{"address": "0xB3D245242BB28C456D15c74bE0f5eB3518e83918", "name": "PublicLock", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/8/2022"}
