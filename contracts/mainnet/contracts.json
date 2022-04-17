@@ -1649,3 +1649,9 @@
 {"address": "0x6281E0628eb2B37fE9943279EA39725D5f0E0dBe", "name": "DODOV1PmmHelper", "compiler": "0.6.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/16/2022"}
 {"address": "0x0BD7426f008737FeeD575ED8e2aA1bd4Fc49112D", "name": "DODOCalleeHelper", "compiler": "0.6.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/16/2022"}
 {"address": "0x56f8E27B27BFF96B5203c95977e8982f62bE70C2", "name": "DODOSellHelper", "compiler": "0.6.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/16/2022"}
+{"address": "0x1A0a9864e6607e163bB41F831a81D518DFE1cDce", "name": "OmniChicks", "compiler": "0.8.12", "balance": "0.0552 Ether", "txcount": 377, "settings": "", "date": "4/17/2022"}
+{"address": "0x2d49a247AA77cA433218C9567953645bE04A7b3A", "name": "ApplicationReviewRegistry", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/17/2022"}
+{"address": "0x32798CC9da06363eF2b0eE12e54cD4476D9C891a", "name": "ApplicationRegistry", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/17/2022"}
+{"address": "0xda717ab1206c59493e1E5c66F4e0712B39EC6D81", "name": "GrantFactory", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/17/2022"}
+{"address": "0x6D0f81BDA11995f25921aAd5B43359630E65Ca96", "name": "WorkspaceRegistry", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/17/2022"}
+{"address": "0xcd32d9ba75a1ebe133f7d097e274f1e5dd41327d", "name": "SuperOmniCockroaches", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 88, "settings": "", "date": "4/17/2022"}
