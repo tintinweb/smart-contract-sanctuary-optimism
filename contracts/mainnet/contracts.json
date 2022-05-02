@@ -1929,3 +1929,6 @@
 {"address": "0x8C19d4F64D208E1061FbDEc8a2f3dCe567428801", "name": "NiftyswapFactory20", "compiler": "0.7.4", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "4/29/2022"}
 {"address": "0xD08B593eb3460B7aa5Ce76fFB0A3c5c938fd89b8", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "4/29/2022"}
 {"address": "0xf185ffdc16e051206b666896f32cceddcb872e1c", "name": "MerkleDistributor", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "5/1/2022"}
+{"address": "0x2cb32d185a6211b07bcaaee79d2fd8566e5711a9", "name": "AaveV3View", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "5/2/2022"}
+{"address": "0xbb0bbd5c908e9e0267fb3c8fb5260e71126a9ad8", "name": "XenoGemsContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "5/2/2022"}
+{"address": "0xf25cba0ae45496e71117442378f820b2cf09e9f1", "name": "Rockets", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 143, "settings": "", "date": "5/2/2022"}
