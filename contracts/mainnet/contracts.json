@@ -2023,3 +2023,10 @@
 {"address": "0x8ea78686fb00ef2c2c6ea8a1bf555e3de6b52a08", "name": "Eeethers", "compiler": "0.8.13", "balance": "0.05 Ether", "txcount": 5, "settings": "", "date": "5/6/2022"}
 {"address": "0xc12bf1a9fb2fc31600b780c06ffdeaf89cae0050", "name": "smolsaurs", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 106, "settings": "", "date": "5/6/2022"}
 {"address": "0xDFF1091149bE811aDB2e5FE0fB48DBa8DcE5a755", "name": "ConnectV2AaveV3ImportOptimism", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/5/2022"}
+{"address": "0xa4248aC1a4Fc557134802f39cddF830Fde6DdA06", "name": "lostandfound_vol_1_reloaded", "compiler": "0.8.9", "balance": "0.2 Ether", "txcount": 5, "settings": "", "date": "5/8/2022"}
+{"address": "0x0485954f55efDa230F9027ffDE40466467965610", "name": "CLR", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/8/2022"}
+{"address": "0xd8f365c2c85648f9b89d9f1bf72c0ae4b1c36cfd", "name": "TheDAO", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/7/2022"}
+{"address": "0x0f85a0fada9dd59860e6fe54ecf074d811793bb6", "name": "Renderer", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/7/2022"}
+{"address": "0x387854f1885c08CEa896EB75f08917E45c6B3C5F", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "5/7/2022"}
+{"address": "0x7B1DB2CfCdd3DBd38d3700310CA3c76e94799081", "name": "MultiCoinBalanceLookup", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/7/2022"}
+{"address": "0xBd8a6Eb64723aa6BC3a7b5C990Bc6d974DB65F7b", "name": "MiniWolf", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "5/7/2022"}
