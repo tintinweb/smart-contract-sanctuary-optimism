@@ -2101,3 +2101,4 @@
 {"address": "0xe17b5aC5BD4a70436Af32Aee07BA9e2aE262e2eE", "name": "StolenNFT", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/10/2022"}
 {"address": "0xdb0f2d9ef30ffae97474d6db8c1f0e999934737d", "name": "MolochTokenFactory", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/9/2022"}
 {"address": "0x5b39b84e6753ab14b047d29961e5a707b24fe0ec", "name": "MolochToken", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "5/9/2022"}
+{"address": "0xAe7Cd06693191c1f5f1477B9E9a567732d715F21", "name": "ConnectV2HopOptimism", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/11/2022"}
