@@ -2102,3 +2102,17 @@
 {"address": "0xdb0f2d9ef30ffae97474d6db8c1f0e999934737d", "name": "MolochTokenFactory", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/9/2022"}
 {"address": "0x5b39b84e6753ab14b047d29961e5a707b24fe0ec", "name": "MolochToken", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "5/9/2022"}
 {"address": "0xAe7Cd06693191c1f5f1477B9E9a567732d715F21", "name": "ConnectV2HopOptimism", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/11/2022"}
+{"address": "0x8314ccaEc41244F2a6a013fd997b234Ed5ee49A2", "name": "AccessControlledOffchainAggregator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 251, "settings": "", "date": "5/12/2022"}
+{"address": "0x1EED080B8743CE5015A57bb1C57F1c05016e8245", "name": "DeltaNeutralBasisTradingStrategyExtension", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "5/12/2022"}
+{"address": "0x0baccdd05a729ab8b56e09ef19c15f953e10885f", "name": "NFTLoanFacilitator", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 14, "settings": "", "date": "5/12/2022"}
+{"address": "0x4c6822204Ee5E13B4281942Ff231314Bf05f2D3D", "name": "LendTicket", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/12/2022"}
+{"address": "0xe01194534169DC6f38c9Aefea4917C623a99E7Ec", "name": "BorrowTicket", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/12/2022"}
+{"address": "0xc37a73e2cE90eE073e70D95Cd73cD7ac8f8FF1b1", "name": "BorrowTicketSVGHelper", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/12/2022"}
+{"address": "0x3bffd69722073889793989eaC1b98cb1b721e294", "name": "LendTicketSVGHelper", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/12/2022"}
+{"address": "0x007Ff7Eb7a45bE057192D8b7f660BeA70f3e141c", "name": "LendTicketDescriptor", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/12/2022"}
+{"address": "0xDaC8316F24364FfEEa73A190ee7E332eaA04b8f2", "name": "BorrowTicketDescriptor", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/12/2022"}
+{"address": "0x631f74dec39078f6566557fdfd5501dd491820fe", "name": "SoulMinter", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "5/12/2022"}
+{"address": "0xf1eb6da3557a82cf6ea5a13b84bbba47db4a3ce5", "name": "LabBunniesClub", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 32, "settings": "", "date": "5/12/2022"}
+{"address": "0xfb76789977577627bd1ef817f76099c5b06c1904", "name": "ERC20View", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "5/12/2022"}
+{"address": "0xAdBdeC92B9DAa3fDEf58C4BC6ab887DBA9ECB351", "name": "DhedgeEasySwapper", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "5/12/2022"}
+{"address": "0xd322F4E5FA3Ec65739D9605faA100B7d5Ef36F51", "name": "StakedCLRToken", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/11/2022"}
