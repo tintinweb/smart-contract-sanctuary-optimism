@@ -2151,3 +2151,10 @@
 {"address": "0xdE48d4b3B8737446193720ce23ef24f922341155", "name": "SystemSettings", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "5/14/2022"}
 {"address": "0xfCE359115dFe1533a2458650123F86C454BC0213", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/14/2022"}
 {"address": "0x9fae78c4bbb649deb7b2295ddb8a03ada7eb660f", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/14/2022"}
+{"address": "0xEDfb71771125065675bD22Ef053298457e17F54b", "name": "ERC1967Proxy", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/15/2022"}
+{"address": "0x34A90dFfbF6F50f9b5C9Dd5655D7f56f435a440d", "name": "PassageRegistry", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/15/2022"}
+{"address": "0x335A50DcE3c4db037c1E86e465e10bEA6856dCaA", "name": "LoyaltyLedger", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/15/2022"}
+{"address": "0x969e54fdE94e8De61149DF3384F139435123fD28", "name": "Passport", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/15/2022"}
+{"address": "0x8150F58218120AB900105C7cDBf0F12061D94441", "name": "ArbitraryCaller", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/15/2022"}
+{"address": "0x5649cb6ac4870d617bc13604b06f2e2db5c13f15", "name": "OmniSkulls", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 60, "settings": "", "date": "5/15/2022"}
+{"address": "0x6d93556339AdA77b5d1814b84101B8bb1572578C", "name": "Sonotoki", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 9, "settings": "-", "date": "5/14/2022"}
