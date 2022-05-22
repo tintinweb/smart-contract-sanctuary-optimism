@@ -2293,3 +2293,7 @@
 {"address": "0x15feEA944A7F4eE4835c59ABC488C1935f2301b4", "name": "MPTValidatorV4", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/21/2022"}
 {"address": "0x44aC5eD26d8B7BBcF3Bcb9Ac486191cBb294B140", "name": "ConnectV2UniswapV3SwapOptimism", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/21/2022"}
 {"address": "0x571bD41D4aA39a654F09D99d584a34Bc2c16D7f6", "name": "Fling", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "5/21/2022"}
+{"address": "0xbD07728E20c49F0Fa22c82915955fbeA5E203a6a", "name": "InstaUniswapV3ResolverOptimism", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/22/2022"}
+{"address": "0xcaa40f38e4400d3078ed6b1cab020eb917cf9cca", "name": "QiDaoFolderOptimismWETH", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/22/2022"}
+{"address": "0xb96cea6123a53e69cc95f63b63fe3d35526d2b87", "name": "QiDaoFolderProxy", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "5/22/2022"}
+{"address": "0xa420b2d1c0841415A695b81E5B867BCD07Dff8C9", "name": "Optimism_SpokePool", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/21/2022"}
