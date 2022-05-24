@@ -2297,3 +2297,15 @@
 {"address": "0xcaa40f38e4400d3078ed6b1cab020eb917cf9cca", "name": "QiDaoFolderOptimismWETH", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/22/2022"}
 {"address": "0xb96cea6123a53e69cc95f63b63fe3d35526d2b87", "name": "QiDaoFolderProxy", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "5/22/2022"}
 {"address": "0xa420b2d1c0841415A695b81E5B867BCD07Dff8C9", "name": "Optimism_SpokePool", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/21/2022"}
+{"address": "0x7cf167390E2526Bc03F3CF6852A7AF1CEC3e243d", "name": "SushiXSwap", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "5/24/2022"}
+{"address": "0x5c824c516bA5FA8dB75738ef5bDac4EfDCa691f1", "name": "MPTValidatorV5", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/24/2022"}
+{"address": "0x2c8C987C4777AB740d20Cb581f5d381BE95A4A4a", "name": "SushiXSwap", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "5/24/2022"}
+{"address": "0xd2c77e2a3a52bb84c192a72a763609d99d39f750", "name": "PrivateMulticall", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 23, "settings": "-", "date": "5/23/2022"}
+{"address": "0x775b40C294b10f821cA82a9560d6203EB2355610", "name": "Migration_RasalhagueOptimism", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/23/2022"}
+{"address": "0x274D1dbe298993EaD5AC1B25624F53786d16006e", "name": "MintableSynthetix", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "5/23/2022"}
+{"address": "0xBF5C27CC7c1c91E924fA7B4df7928371e8f713a6", "name": "DCAHubSwapper", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "5/23/2022"}
+{"address": "0xa3DB2c0D23720e8CDA0f4d80A53B94d20d02b061", "name": "DCAHubCompanion", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "5/23/2022"}
+{"address": "0x059d306A25c4cE8D7437D25743a8B94520536BD5", "name": "DCAHub", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "5/23/2022"}
+{"address": "0x6f54391fE0386D506b51d69Deeb8b04E0544E088", "name": "DCAPermissionsManager", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/23/2022"}
+{"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "5/23/2022"}
+{"address": "0xbA5EdDa000E13E78897c4087dd73BEE50D23dB80", "name": "DssProxyRegistry", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "5/23/2022"}
