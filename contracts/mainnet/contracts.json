@@ -2409,3 +2409,4 @@
 {"address": "0xdbbd1d5d119c415449c0651cc948ecee952fb304", "name": "OptimismWrapper", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "5/28/2022"}
 {"address": "0xb25cedec758949a4393cb0321ec106002ee889c5", "name": "DefNFT", "compiler": "0.8.7", "balance": "0.005 Ether", "txcount": 7, "settings": "", "date": "5/28/2022"}
 {"address": "0xBD278Afe9B2F1b9ac8Ab8db883fa4F40a4B24e70", "name": "CreditPool", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/27/2022"}
+{"address": "0xdcd803c0ad8778662c0a53b4daed81ab9ef06834", "name": "WeightedPool2Tokens", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "5/29/2022"}
