@@ -2618,3 +2618,17 @@
 {"address": "0xeb4b5ABcE7310855319440d936cd3aDd77DFA193", "name": "CollateralShort", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/2/2022"}
 {"address": "0x0d69505994AC920aA28eC5d3783227072f236E8C", "name": "Migration_KochabOptimism", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/2/2022"}
 {"address": "0x84Ec90f9CD4D00Ad95002d88D35f99cd9F66E393", "name": "Issuer", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/2/2022"}
+{"address": "0xcBB16B39B5AdED9c4edAc5abA6609B189A662094", "name": "ZipLife", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/4/2022"}
+{"address": "0x15DdA60616Ffca20371ED1659dBB78E888f65556", "name": "AssetReceiver", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/4/2022"}
+{"address": "0x9340857794710bbccf68167222a1DE4F0e269b10", "name": "Edu", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/4/2022"}
+{"address": "0x0f79aebfadd3d63d8fd3c37f3625dd5663c4d986", "name": "MasterChefV2", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "6/4/2022"}
+{"address": "0xdca2553b6c56fe3ee389e4b45db3c5fdfbbf934b", "name": "Pangea", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 6, "settings": "-", "date": "6/4/2022"}
+{"address": "0x62cd928b16b7a92101c3091f5136fd9bb017870a", "name": "EvoBridgeV2", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/4/2022"}
+{"address": "0x9983D8cDEAf7872501628229d311E2F7Df396aDd", "name": "EvoProxy", "compiler": "0.8.13", "balance": "8.444254761655049135 Ether", "txcount": 194, "settings": "", "date": "6/4/2022"}
+{"address": "0x755DF7891d2EE278490aDeC998ad22f545b9f4Da", "name": "ZipLife", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/4/2022"}
+{"address": "0x80FF8DfBC3C99EAc6355D8fB079C6B4dFD842f89", "name": "Vault", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/4/2022"}
+{"address": "0x0d8ab4cb61bcaa6cd506d10e7c572c418cc0d0d4", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "0 Ether", "txcount": 5, "settings": "-", "date": "6/4/2022"}
+{"address": "0xfb9aFCb6F144457fE34117Df51ECF867BFF8ff22", "name": "Controller", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/4/2022"}
+{"address": "0x14AB9b3008D41b941092BfE7e5109f6456de27aC", "name": "Storage", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/4/2022"}
+{"address": "0x3620313f3a1719a79cf7989dea2fe46c1677e7db", "name": "LuckyCatPlatinum", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/4/2022"}
+{"address": "0x4d23960E3b3275FB95C8cCA2D781E40d4B39449d", "name": "CORG", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 37, "settings": "-", "date": "6/3/2022"}
