@@ -2796,3 +2796,10 @@
 {"address": "0x9427A2a738AffBc5880F0646b5251069c022e525", "name": "GlobalTransactionPaymentSolution", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "6/11/2022"}
 {"address": "0xaEBeE588A40529993fA507617EDFd6975fef1d2C", "name": "ZippyInuCollectibles", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/11/2022"}
 {"address": "0xb8c32878c69F4cC4705D0Bd99bca082C4eEFd76D", "name": "CelerImplL1L2", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/10/2022"}
+{"address": "0xdBd2BaCe25998F67781aA087cEaF8f2a45B5f9B4", "name": "ERC1155Owl", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/12/2022"}
+{"address": "0x4ee2D9cc8395f297183341acE35214E21666C71B", "name": "ERC721Owl", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/12/2022"}
+{"address": "0xe8fdf5d5b243dc8e092bcbbe10e38728eafb5f6d", "name": "SasoshiLab", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 57, "settings": "", "date": "6/12/2022"}
+{"address": "0xa7fb15d282b80d60e007eb7fed2bed9b9dcd1081", "name": "NFT", "compiler": "0.8.7", "balance": "13.925 Ether", "txcount": 541, "settings": "", "date": "6/12/2022"}
+{"address": "0xC7C3050195395A3f0212A060B12A3bD2c38B97d0", "name": "PoolManagerLogic", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/12/2022"}
+{"address": "0x49c45b837e16Ee40C7111Db22b300124AE3FD83E", "name": "ApetimismRoyaltyFee", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "6/12/2022"}
+{"address": "0x7baab033717c2b312c293168fc10d2b3aade6500", "name": "OptiCockroach", "compiler": "0.8.7", "balance": "0.012 Ether", "txcount": 11, "settings": "", "date": "6/12/2022"}
