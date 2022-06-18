@@ -2931,3 +2931,7 @@
 {"address": "0x3CEE1d7A35E8B961db2BbAE6636cC54ca10A850D", "name": "OptionMarketViewer", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/17/2022"}
 {"address": "0xB210CE856631EeEB767eFa666EC7C1C57738d438", "name": "StaticOracle", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/17/2022"}
 {"address": "0x00dF5b1995b4e90F0fE16Cbb730D34B175001b06", "name": "SynthSwap", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/16/2022"}
+{"address": "0x89566CD6302EC9730970BB4E9374d9329b756E2C", "name": "ConnectV2AaveV3Optimism", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/18/2022"}
+{"address": "0x2b18989A6dF7b932E53852ff352Ea178DAeC815c", "name": "OptimisticBears", "compiler": "0.8.9", "balance": "0.018 Ether", "txcount": 4, "settings": "-", "date": "6/18/2022"}
+{"address": "0x08fee50861051c15bf68e4b02bf7a8bbe6b0d42f", "name": "StrategyMockUpgradeableV1", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/18/2022"}
+{"address": "0xee7afECd937a7a133e421719D790563F871410E7", "name": "ConnectV2AaveV3ImportPermitOptimism", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/18/2022"}
