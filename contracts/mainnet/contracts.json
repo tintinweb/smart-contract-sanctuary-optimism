@@ -3199,3 +3199,11 @@
 {"address": "0xeee721e82c47fb50d0209ef0b2455a592cb2f422", "name": "ERC721PermitEverywhere", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2022"}
 {"address": "0xeee20aa331e2f68d3ce44dca37eb066a3f34f4ed", "name": "ERC20PermitEverywhere", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2022"}
 {"address": "0x1e8c93377954360f18b4a2a9f3f1f4a9917484e1", "name": "MrBlendClub", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2022"}
+{"address": "0xB49c4e680174E331CB0A7fF3Ab58afC9738d5F8b", "name": "RouterETH", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 14, "settings": "", "date": "6/29/2022"}
+{"address": "0xd22363e3762cA7339569F3d33EADe20127D5F98C", "name": "Pool", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "6/29/2022"}
+{"address": "0xb69c8CBCD90A39D8D3d3ccf0a3E968511C3856A0", "name": "StargateEthVault", "compiler": "0.7.6", "balance": "155.162274195836213858 Ether", "txcount": 2, "settings": "", "date": "6/29/2022"}
+{"address": "0x824BB1f0438A38Ea424e19171eF6665A4bCCe3A5", "name": "NerdApeDAONFT", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/29/2022"}
+{"address": "0x3AFeb77D4df9393cD8dA93b29D0987C9D74538eB", "name": "USDCWETHVELO", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "6/29/2022"}
+{"address": "0xa01CE7CAfe37504040dC365E72f2ef77131964Ed", "name": "DropERC1155", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2022"}
+{"address": "0x3ECC47016c47948ed6C88FFf689429FA0141E92d", "name": "Multiwrap", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2022"}
+{"address": "0xcb2a50bebe8e118c260867a813e5ed3752b12f29", "name": "optikitties", "compiler": "0.8.7", "balance": "0.005 Ether", "txcount": 10, "settings": "", "date": "6/29/2022"}
