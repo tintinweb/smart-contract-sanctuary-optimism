@@ -3207,3 +3207,8 @@
 {"address": "0xa01CE7CAfe37504040dC365E72f2ef77131964Ed", "name": "DropERC1155", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2022"}
 {"address": "0x3ECC47016c47948ed6C88FFf689429FA0141E92d", "name": "Multiwrap", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2022"}
 {"address": "0xcb2a50bebe8e118c260867a813e5ed3752b12f29", "name": "optikitties", "compiler": "0.8.7", "balance": "0.005 Ether", "txcount": 10, "settings": "", "date": "6/29/2022"}
+{"address": "0x491f0858ef9e6987e260587322149ac33d762e6e", "name": "TransientStorage", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0xeee721c6f50d0223d4c19ca30cf9f448e5b17426", "name": "ERC721PermitEverywhere", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2022"}
+{"address": "0xeee20efde3b7222561cb29b03aa62d3f1368fba2", "name": "ERC20PermitEverywhere", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2022"}
+{"address": "0xc3e5a8A1c3B0b4c81F85Ec322554187B3575C478", "name": "OmniseaToken", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "6/29/2022"}
+{"address": "0xCA02d7d726EFf80e391FA62ad65676b19e994c94", "name": "AutoRebal", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/29/2022"}
