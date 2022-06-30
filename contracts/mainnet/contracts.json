@@ -3212,3 +3212,9 @@
 {"address": "0xeee20efde3b7222561cb29b03aa62d3f1368fba2", "name": "ERC20PermitEverywhere", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2022"}
 {"address": "0xc3e5a8A1c3B0b4c81F85Ec322554187B3575C478", "name": "OmniseaToken", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "6/29/2022"}
 {"address": "0xCA02d7d726EFf80e391FA62ad65676b19e994c94", "name": "AutoRebal", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/29/2022"}
+{"address": "0x070d58401128d13ee8c8f8a8afb978b245915b6c", "name": "AllowListDepositStrategy", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0x113a9aa029dfc994170ac075ba72080097ad7e5d", "name": "MerkleTreeVerifier", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/30/2022"}
+{"address": "0xeaA629224B3ab2b42b42fDDB53a1B51351acBE4F", "name": "AutoRebal", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "6/30/2022"}
+{"address": "0x0EC4A47065bf52e1874d2491D4dEeEd3c638C75F", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "6/30/2022"}
+{"address": "0x668aa0157594A4113312107D1002D2aBf4c8CCC9", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "6/30/2022"}
+{"address": "0x71bE803096c7863dee95Eff6646328D5522ecc55", "name": "OrderBook", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/30/2022"}
