@@ -3218,3 +3218,8 @@
 {"address": "0x0EC4A47065bf52e1874d2491D4dEeEd3c638C75F", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "6/30/2022"}
 {"address": "0x668aa0157594A4113312107D1002D2aBf4c8CCC9", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "6/30/2022"}
 {"address": "0x71bE803096c7863dee95Eff6646328D5522ecc55", "name": "OrderBook", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/30/2022"}
+{"address": "0x8F6af4186200089f5e4Df5FC264459B21753d57E", "name": "BotWETH_USDC", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/1/2022"}
+{"address": "0xBC19214568D47571DC0B48D539aa538504b20890", "name": "BotWETH_USDC", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/1/2022"}
+{"address": "0xAEeA6D9B3D67Ff5F5F19d6cEd92ac25199eE985F", "name": "SimpleGovernance", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/1/2022"}
+{"address": "0xf0EE62005149B008bD3991EdfEA2cAd5EAE592aA", "name": "GovernedOwnerProxy", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/1/2022"}
+{"address": "0x9c2bCd81D612cd8AFf5fF9a87461aDDdB7599E20", "name": "BatchExchangeV1", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "6/30/2022"}
