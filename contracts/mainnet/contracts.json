@@ -3244,3 +3244,6 @@
 {"address": "0xA2C882C66797b201788EEF25E3Ca3411204bf3D7", "name": "DrawBuffer", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/1/2022"}
 {"address": "0xEeF2297e15CD085A0ad33197CE8c2Eab6F023c2B", "name": "AaveV3YieldSource", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/1/2022"}
 {"address": "0x374FBf09Ec4E4D91ad348f5B7A1e507D2E3bD6A5", "name": "BotWETH_USDC", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 13, "settings": "", "date": "7/1/2022"}
+{"address": "0x051E1F4954B9bb705218a42599ae4f219c92a400", "name": "StrategyMockUpgradeableV1", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/2/2022"}
+{"address": "0x3F9DA045b0F77d707eA4061110339C4Ea8ecFA70", "name": "ExchangeV5", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "7/2/2022"}
+{"address": "0x0E6470E890A67c7BCdB818A9724d7E4E60716840", "name": "StrategyStargateStaking", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/2/2022"}
