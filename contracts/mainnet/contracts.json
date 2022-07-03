@@ -3247,3 +3247,6 @@
 {"address": "0x051E1F4954B9bb705218a42599ae4f219c92a400", "name": "StrategyMockUpgradeableV1", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/2/2022"}
 {"address": "0x3F9DA045b0F77d707eA4061110339C4Ea8ecFA70", "name": "ExchangeV5", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "7/2/2022"}
 {"address": "0x0E6470E890A67c7BCdB818A9724d7E4E60716840", "name": "StrategyStargateStaking", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/2/2022"}
+{"address": "0x8FA2c0864fE84D1f56D6C3C33e31E00564425782", "name": "DexRecords", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "7/3/2022"}
+{"address": "0xFe11B5dC16be0E55d96c8419a330588915a7c44F", "name": "LoanTokenLogicStandard", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/3/2022"}
+{"address": "0x18cb24cdf1213afe26b79f3412b3bb4ddda64404", "name": "TrainerAdjustment", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 9, "settings": "-", "date": "7/2/2022"}
