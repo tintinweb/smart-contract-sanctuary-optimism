@@ -3342,3 +3342,13 @@
 {"address": "0x4603fa8F565B36E17586E3efb621B2F86D3eE993", "name": "AccountBalance", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/5/2022"}
 {"address": "0xf9d9e828A2965418A2FA04ae78A6Cb904816fd6F", "name": "Exchange", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/5/2022"}
 {"address": "0xbb5518859AB064BD484fB632A475968e7592e2E3", "name": "BunnyBats", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "7/5/2022"}
+{"address": "0x458ef40fd32298a32d65f13a361e599715c06542", "name": "ReaperStrategyLove", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2022"}
+{"address": "0x91A252E0bC6082e6cA0Fc554968177BC5dbd53f1", "name": "PrizeTierHistory", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/5/2022"}
+{"address": "0xB47e3984B81298F10C0Ba75E26362E044B8488F9", "name": "PrizeFlush", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/5/2022"}
+{"address": "0x74312Cab0d0AB42D4b4f7Ae424EF2Ea35E3CD472", "name": "TwabRewards", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2022"}
+{"address": "0xa843cfbf6549e3c93453a74e762f1af66575ee89", "name": "PrizeDistributionFactory", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/5/2022"}
+{"address": "0x52a4a6287Cc3AdaFC5E369D65FDd362EEd296054", "name": "DeltaNeutralPerp", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2022"}
+{"address": "0x0fd9F11B9C54a9F100234EeEf9ee7873d73C2204", "name": "HopImplL2", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2022"}
+{"address": "0xA84062253E6FBC0c03Ab100A7953Ebe88BE86415", "name": "SportsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2022"}
+{"address": "0xCCF8730dcF43ef4284E029f3C0f0006e1B8eae87", "name": "DHedgePoolAggregator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2022"}
+{"address": "0xa365317291122b44a549C34a383CCd117b71941e", "name": "PrizeDistributor", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2022"}
