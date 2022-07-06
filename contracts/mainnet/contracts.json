@@ -3352,3 +3352,8 @@
 {"address": "0xA84062253E6FBC0c03Ab100A7953Ebe88BE86415", "name": "SportsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2022"}
 {"address": "0xCCF8730dcF43ef4284E029f3C0f0006e1B8eae87", "name": "DHedgePoolAggregator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2022"}
 {"address": "0xa365317291122b44a549C34a383CCd117b71941e", "name": "PrizeDistributor", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2022"}
+{"address": "0xDA9AaD130ce7290CAd9ecCD2c27C4E1d14d108a3", "name": "OpenSeaLandMapContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/6/2022"}
+{"address": "0xc335740c951F45200b38C5Ca84F0A9663b51AEC6", "name": "PickleJarUniV3Optimism", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/6/2022"}
+{"address": "0x754ece9AC6b3FF9aCc311261EC82Bd1B69b8E00B", "name": "StrategyEthBtcUniV3Optimism", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/6/2022"}
+{"address": "0xc04dbaf536286d3e06bc4bd60681c47be586f44f", "name": "StrategyCommonSolidlyGaugeLP", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "7/6/2022"}
+{"address": "0xa936511d24F9488Db343AfDdccBf78AD28bd3F42", "name": "ControllerV7", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2022"}
