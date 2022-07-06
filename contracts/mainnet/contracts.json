@@ -3357,3 +3357,13 @@
 {"address": "0x754ece9AC6b3FF9aCc311261EC82Bd1B69b8E00B", "name": "StrategyEthBtcUniV3Optimism", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/6/2022"}
 {"address": "0xc04dbaf536286d3e06bc4bd60681c47be586f44f", "name": "StrategyCommonSolidlyGaugeLP", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "7/6/2022"}
 {"address": "0xa936511d24F9488Db343AfDdccBf78AD28bd3F42", "name": "ControllerV7", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2022"}
+{"address": "0x51f8B486662Ea4c4051eBa3bc207C20BE96377E0", "name": "Cancellation", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/6/2022"}
+{"address": "0xfF96C11f6B58d65e1206d9666469AcDFb75d3cd3", "name": "StrategyCommonSolidlyGaugeLP", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 11, "settings": "", "date": "7/6/2022"}
+{"address": "0x2232455bf4622002c1416153ee59fd32b239863b", "name": "BeefyVaultV6", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "7/6/2022"}
+{"address": "0xbb1b0DA320CCC7a677A2FE00871F422e2E505fb1", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 495, "settings": "-", "date": "7/6/2022"}
+{"address": "0xF49c523F08B4e7c8E51a44088ea2a5e6b5f397D9", "name": "StrategyCommonSolidlyGaugeLP", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/6/2022"}
+{"address": "0x94A43BE1c647798dB5A1Fa4181d376390487dE4c", "name": "CommonHealthCheck", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/6/2022"}
+{"address": "0xa6a704072c2fc0c46a7f0b7d44d231b52903aef8", "name": "Chirper", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "7/6/2022"}
+{"address": "0x4fCc058Bda7Ca460647A245Fa2f8117454E50824", "name": "HysteriaJoint", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "7/6/2022"}
+{"address": "0xe9d12BAd05B3b92316B152aFF76f86686bdd1131", "name": "jointLPHolderVelo", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "7/6/2022"}
+{"address": "0x022d32C5BD7F99ee8C352d56906fa813744Fe9DE", "name": "providerAAVE", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "7/6/2022"}
