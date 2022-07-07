@@ -3376,3 +3376,7 @@
 {"address": "0x6BA3bC09F00DE197Ab99E7Cde834dFD9A8E0B99C", "name": "KeeperHelper", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "7/7/2022"}
 {"address": "0x9eA7a3f50044EEBFCeA7aCb08069E4Fd238Ba1fD", "name": "AnyswapV6ERC20", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/7/2022"}
 {"address": "0xA3a3D699B0a3a027d32C8d5040352ddE1b8A8106", "name": "AnyswapV6ERC20", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "7/7/2022"}
+{"address": "0x0D710512E100C171139D2Cf5708f22C680eccF52", "name": "AngleRouterOptimism", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/7/2022"}
+{"address": "0x1b6BF7Ab4163f9a7C1D4eCB36299525048083B5e", "name": "PerpPositionHandlerL2", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/7/2022"}
+{"address": "0x99097E6C293982f0e05937fdfB45F69eF8914F0e", "name": "StrategyStargateOp", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/7/2022"}
+{"address": "0xb25eB9105549627050AAB3A1c909fBD454014beA", "name": "BeefyVaultV6", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "7/7/2022"}
