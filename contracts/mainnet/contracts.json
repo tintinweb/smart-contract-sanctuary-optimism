@@ -3428,3 +3428,5 @@
 {"address": "0xfA2A9D305f2009F2A7a2a95bA501B51F9a06B815", "name": "SportPositionalMarketData", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/8/2022"}
 {"address": "0x951159A8c1BC97F70D200fF39fA026Ce31134783", "name": "TherundownConsumer", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/8/2022"}
 {"address": "0xBA6F3aF1836b2e9EB347dCa0490C62CdcBBfB2bf", "name": "SportsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/8/2022"}
+{"address": "0x008b0dc9bcbc738d477214275876bcda6371943f", "name": "DAIUMAR", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "7/9/2022"}
+{"address": "0x0edba6ef9c754d4e81f79e9fc5f8a9879637886f", "name": "DropFactory", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "7/9/2022"}
