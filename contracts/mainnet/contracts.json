@@ -3522,3 +3522,6 @@
 {"address": "0xb0324286B3ef7dDdC93Fb2fF7c8B7B8a3524803c", "name": "BalancerV2PortalIn", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/12/2022"}
 {"address": "0xEa49D02c248b357B99670d9E9741F54f72dF9Cb3", "name": "PortalRegistryV1", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/12/2022"}
 {"address": "0xd6aa6f4A4f93415e4c91184C926515C01bf837FC", "name": "Guestbook__v1_2", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/12/2022"}
+{"address": "0xd2900bFdB0C1411Ffe15ad708C79388a88a1B96F", "name": "ClaimTokenTerminal", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/14/2022"}
+{"address": "0xB3dB299622A9DB0E944ccda2Ef899d6fF365B082", "name": "GasFeeTakerL2", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/13/2022"}
+{"address": "0x0a712026eeB86f3daE538308852215f19D4b769C", "name": "GasFeeTaker", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/13/2022"}
