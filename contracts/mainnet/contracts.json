@@ -3604,3 +3604,4 @@
 {"address": "0x007BC7363E9a98fa158413FB23374b6c7eD1b89d", "name": "LockDrop", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "7/15/2022"}
 {"address": "0xcBFfCA36CdC13c646f8391Db55e4C13A7CE05f0A", "name": "StargateFeeLibraryV04", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/14/2022"}
 {"address": "0x2e6A5b24BFe6C2E45A0F1AF5bb5EB6E362129e2C", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 803, "settings": "-", "date": "7/14/2022"}
+{"address": "0x7a045193ADE1E7013d8D19F3EdD3f6Cb8Ae61275", "name": "StargateFeeLibraryV04", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/15/2022"}
