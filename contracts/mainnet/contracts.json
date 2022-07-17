@@ -3607,3 +3607,8 @@
 {"address": "0x7a045193ADE1E7013d8D19F3EdD3f6Cb8Ae61275", "name": "StargateFeeLibraryV04", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/15/2022"}
 {"address": "0x1838b053E0223F05FB768fa79aA07Df3f0f27480", "name": "SushiXSwap", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/16/2022"}
 {"address": "0x8c3292e680e8b4ae72279d9f46a52b253667da1d", "name": "Optimoon", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "7/16/2022"}
+{"address": "0x52c223e9efb7a305ecf9b5cc9f8752e81451a1a4", "name": "ReaperStrategyHappyRoad", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/17/2022"}
+{"address": "0xF506296c9D79aAEAa537a1c1C85D1571804232DA", "name": "GelatoResolver", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/17/2022"}
+{"address": "0xAaC83cb4c3E503Fd746ca6858ba2475909971d69", "name": "BotWETH_USDC", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "7/17/2022"}
+{"address": "0x7626B2b10e8C53f9CfbC00f512f02B977AD23d24", "name": "BotWETH_USDC", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "7/17/2022"}
+{"address": "0x91C79D8D7Ff2E554fD6ff5E2a34f48e600265853", "name": "BotWETH_USDC", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "7/17/2022"}
