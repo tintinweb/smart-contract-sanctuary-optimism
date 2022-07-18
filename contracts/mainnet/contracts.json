@@ -3613,3 +3613,5 @@
 {"address": "0x7626B2b10e8C53f9CfbC00f512f02B977AD23d24", "name": "BotWETH_USDC", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "7/17/2022"}
 {"address": "0x91C79D8D7Ff2E554fD6ff5E2a34f48e600265853", "name": "BotWETH_USDC", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "7/17/2022"}
 {"address": "0x140F82C8B718D2730724cA1C0Ac976271B87D271", "name": "AaveV3View", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/17/2022"}
+{"address": "0x8c8cfda39d526182AEDED8A7F10663b3108ACa44", "name": "AaveV3View", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/17/2022"}
+{"address": "0x4D93E49B8989222571c2D171B988c5A3C04C6621", "name": "AaveSubProxy", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/17/2022"}
