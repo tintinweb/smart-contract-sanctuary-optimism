@@ -3629,3 +3629,9 @@
 {"address": "0x04b4786c3bb42387235a63628b7a4cb178817429", "name": "GutterPunks", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "7/19/2022"}
 {"address": "0xd0A8822202aD830DD1a6c8aFE1e343151714c5B6", "name": "Multicall2", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/19/2022"}
 {"address": "0x66e8617d1Df7ab523a316a6c01D16Aa5beD93681", "name": "ShackToken", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/18/2022"}
+{"address": "0x856C5D1D9D00f38119EFE66b413B281b983dFb8a", "name": "VeloStaker", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "7/19/2022"}
+{"address": "0xB75aB9cE048b6cBb27BA1C639FA5fD8853e8E07f", "name": "PaymentManager", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/19/2022"}
+{"address": "0xB23313EF6F6723f03dC003465d13F9a24Aa1d53c", "name": "DcPerpetualVault", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/19/2022"}
+{"address": "0xd3f776e9b61535d4dece0cfd0fa898c2c08d1137", "name": "DSProxy", "compiler": "0.4.26", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "7/19/2022"}
+{"address": "0xab107e8497c254879aa76d07f6114286d68811d9", "name": "OneSplit", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/19/2022"}
+{"address": "0x5f9f9f9e7a410f54084e477ab3d370218e8a093a", "name": "OptimisticGoblinPixelArt", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/19/2022"}
