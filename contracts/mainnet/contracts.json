@@ -3625,3 +3625,7 @@
 {"address": "0x9da5a072804ee44b6259181bde3f5393aeef2bec", "name": "BeefyUniV2ZapSolidly", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/18/2022"}
 {"address": "0x442ca31de7e6732455e60e3641ac076fa7a0905f", "name": "BeefyUniV2ZapSolidly", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/18/2022"}
 {"address": "0xe8e26db4130f498c6f66cbed9bc2f82db74586d5", "name": "BeefyUniV2ZapSolidly", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/18/2022"}
+{"address": "0xfaF84B533e810FC96586bcacdAA77b2E35624128", "name": "UniSwapperV3", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/19/2022"}
+{"address": "0x04b4786c3bb42387235a63628b7a4cb178817429", "name": "GutterPunks", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "7/19/2022"}
+{"address": "0xd0A8822202aD830DD1a6c8aFE1e343151714c5B6", "name": "Multicall2", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/19/2022"}
+{"address": "0x66e8617d1Df7ab523a316a6c01D16Aa5beD93681", "name": "ShackToken", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/18/2022"}
