@@ -3643,3 +3643,9 @@
 {"address": "0x16419058f15a86795933f78dC624B384D09E3a4e", "name": "WidgetSwap", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/19/2022"}
 {"address": "0x843D0AAD40295f2198ef528ad747CDF6AB9000e4", "name": "SushiXSwap", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/20/2022"}
 {"address": "0x8Bd68d02251B8466E802436e96734082C664eEEf", "name": "IBAgreementFactory", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/20/2022"}
+{"address": "0xC24c73C256d527726a7a012e1360c78d0cc02eEA", "name": "VeloStaker", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/20/2022"}
+{"address": "0x672584379Ae3082b25F794E7224057E1b8b3553d", "name": "VeloStaker", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 11, "settings": "", "date": "7/20/2022"}
+{"address": "0x96a4f2d63b30c78e27025c2a4e4d3c049d02bdcb", "name": "OpWrap", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/20/2022"}
+{"address": "0xc68579ABf282415DbaBd074020FF430f96b32f6B", "name": "VeloStaker", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 11, "settings": "", "date": "7/20/2022"}
+{"address": "0xEE3fa2ec6053a427B9768b2B481AFA31e5b555D4", "name": "VeloStaker", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "7/20/2022"}
+{"address": "0xee91c335eab126df5fdb3797ea9d6ad93aec9722", "name": "Wormhole", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/20/2022"}
