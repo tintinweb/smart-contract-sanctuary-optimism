@@ -3649,3 +3649,8 @@
 {"address": "0xc68579ABf282415DbaBd074020FF430f96b32f6B", "name": "VeloStaker", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 11, "settings": "", "date": "7/20/2022"}
 {"address": "0xEE3fa2ec6053a427B9768b2B481AFA31e5b555D4", "name": "VeloStaker", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "7/20/2022"}
 {"address": "0xee91c335eab126df5fdb3797ea9d6ad93aec9722", "name": "Wormhole", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/20/2022"}
+{"address": "0x5c89d9E1A668d0B39F4EC242F280bdDd445C633c", "name": "BatchRelayerLibrary", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/20/2022"}
+{"address": "0x5556834773f7c01e11a47449d56042cdf6df9128", "name": "TransparentUpgradeableProxy", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/20/2022"}
+{"address": "0x5b6c670bac19d5defffeb8202df3f7384bf444bb", "name": "BadgerBridgeZeroControllerOptimism", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/20/2022"}
+{"address": "0x6d406a4a9ea1074dcc8b284af6922970216f9c0b", "name": "ProxyAdmin", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/20/2022"}
+{"address": "0x6347C23cd6283E619728854D44FF852A462fBaAc", "name": "VeloStaker", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 14, "settings": "", "date": "7/20/2022"}
