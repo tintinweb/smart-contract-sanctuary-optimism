@@ -3635,3 +3635,9 @@
 {"address": "0xd3f776e9b61535d4dece0cfd0fa898c2c08d1137", "name": "DSProxy", "compiler": "0.4.26", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "7/19/2022"}
 {"address": "0xab107e8497c254879aa76d07f6114286d68811d9", "name": "OneSplit", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/19/2022"}
 {"address": "0x5f9f9f9e7a410f54084e477ab3d370218e8a093a", "name": "OptimisticGoblinPixelArt", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/19/2022"}
+{"address": "0x5891be896ed4a79ed928c55b17fbbecdb46f8a00", "name": "MultiSigWalletWithDailyLimit", "compiler": "0.4.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/20/2022"}
+{"address": "0x7ef8dd9c5c68df6e697091a17a6f699b204f8762", "name": "BountyRegistryV1", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/20/2022"}
+{"address": "0x18aE6d4BEcAe6cb6D2536ECCE89871F27a8c1bB0", "name": "StargateFeeLibraryV04", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/19/2022"}
+{"address": "0x81b30ff521D1fEB67EDE32db726D95714eb00637", "name": "OptimisticExplorerNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "7/19/2022"}
+{"address": "0x52CaD924093414CF7E0Eadd597Ad985B33D17a7c", "name": "SignatureDrop", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/19/2022"}
+{"address": "0x16419058f15a86795933f78dC624B384D09E3a4e", "name": "WidgetSwap", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/19/2022"}
