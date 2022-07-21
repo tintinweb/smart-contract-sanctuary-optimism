@@ -3663,3 +3663,7 @@
 {"address": "0x17acb45848fe573a6e1eb67a218cf04d60543ca6", "name": "BlkSolidlyGaugeLP", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "7/21/2022"}
 {"address": "0x63f3e63f7e1398f081f22f567def4315cbbf8c52", "name": "BlkSolidlyGaugeLP", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 12, "settings": "", "date": "7/21/2022"}
 {"address": "0x74aaa646a7cccce0e58a6c3137266a227f12b6f9", "name": "Vault", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/21/2022"}
+{"address": "0x8B396ddF906D552b2F98a8E7d743DD58Cd0d920f", "name": "SushiXSwap", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/21/2022"}
+{"address": "0xB0af86f18c6155CeFaE1A6D6dA35b05F176F6278", "name": "VeloStaker", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "7/21/2022"}
+{"address": "0x89287c32c2CAC1C76227F6d300B2DBbab6b75C08", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/21/2022"}
+{"address": "0x77aa5Dc1c39D189584DDb1409FB43383BE36580C", "name": "Optiminer", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/21/2022"}
