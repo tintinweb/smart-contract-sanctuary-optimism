@@ -3667,3 +3667,9 @@
 {"address": "0xB0af86f18c6155CeFaE1A6D6dA35b05F176F6278", "name": "VeloStaker", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "7/21/2022"}
 {"address": "0x89287c32c2CAC1C76227F6d300B2DBbab6b75C08", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/21/2022"}
 {"address": "0x77aa5Dc1c39D189584DDb1409FB43383BE36580C", "name": "Optiminer", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/21/2022"}
+{"address": "0x289C6F0a48461d6247b179cf99794C939B1cB3fE", "name": "FirnBase", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/21/2022"}
+{"address": "0xD14A32348B15430D8B496165B01e9AE1a0E726b8", "name": "WithdrawalVerifier", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/21/2022"}
+{"address": "0x987E8Da8161D488B4B0D51738Afc526D0e7D1AE0", "name": "TransferVerifier", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/21/2022"}
+{"address": "0xf91f5a6bbd84c1815041a500b49d3e05398b4197", "name": "DepositVerifier", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/21/2022"}
+{"address": "0x69a68eb548A37ee475D9f89646945588558796D1", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3840, "settings": "-", "date": "7/21/2022"}
+{"address": "0x7680639E51155a2C7C9cC98872f0c12A15990241", "name": "BeefyRewardPool", "compiler": "0.5.5", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "7/21/2022"}
