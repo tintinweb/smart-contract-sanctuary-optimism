@@ -3673,3 +3673,15 @@
 {"address": "0xf91f5a6bbd84c1815041a500b49d3e05398b4197", "name": "DepositVerifier", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/21/2022"}
 {"address": "0x69a68eb548A37ee475D9f89646945588558796D1", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3840, "settings": "-", "date": "7/21/2022"}
 {"address": "0x7680639E51155a2C7C9cC98872f0c12A15990241", "name": "BeefyRewardPool", "compiler": "0.5.5", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "7/21/2022"}
+{"address": "0xEB02A14704353a678B559829FF9969f5B1Db0DB4", "name": "LyraPositionHandlerL2", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/22/2022"}
+{"address": "0x148ca47e42676C882e648e75A228d605F04Fe3fe", "name": "IBAgreementV3", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/22/2022"}
+{"address": "0xEeB3981D5587C185bD809D74B3Ddb6C3b0363099", "name": "ChainlinkPriceFeedAggregator", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/22/2022"}
+{"address": "0x8f3aB2bE32dA1F5b1Db934946FDC5f5415140f8B", "name": "UniswapV3Converter", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/22/2022"}
+{"address": "0xC782DbC08DaacA58F612085335f8f521E15A92A7", "name": "IBAgreementFactory", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/22/2022"}
+{"address": "0xb9349347fcC0318137e6143A01c6582C072Fb581", "name": "MultiSigWalletWithDailyLimit", "compiler": "0.4.19", "balance": "0 Ether", "txcount": 13, "settings": "", "date": "7/22/2022"}
+{"address": "0x2879588c2aF17879aE3F6E71B4c2ffD2C2cabdB9", "name": "ReaperStrategyGranary", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/22/2022"}
+{"address": "0x6AD8889BE1634F1AF4e2bD7CCfA0362c71CEF2b4", "name": "ReaperStrategyGranary", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/22/2022"}
+{"address": "0x000000000000cd17345801aa8147b8D3950260FF", "name": "Poster", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "7/22/2022"}
+{"address": "0x3ed113e74bf0d45d79e63f40ed1e269cf29f3ec1", "name": "ReaperStrategyGranary", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/22/2022"}
+{"address": "0x67051a1EB8E32Ae82b56CEA2f8dA3d7dC629396f", "name": "FirnReader", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/21/2022"}
+{"address": "0x93b3b2eaC9FaDFcA7F9D399467355D16d91aD1FF", "name": "FirnLogic", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 21, "settings": "", "date": "7/21/2022"}
