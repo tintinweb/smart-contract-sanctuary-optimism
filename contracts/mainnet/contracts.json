@@ -3722,3 +3722,14 @@
 {"address": "0x50f70adaa18ef9070ce5167e42a073bfe946fdf1", "name": "MartianMarketTokenController", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/22/2022"}
 {"address": "0x4d479aaa35fc98ddd836f0270c46e4c52d93c731", "name": "MartianMarketWL", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "7/22/2022"}
 {"address": "0x85b355bca05cf4f833a0c0cfd0e57ace32b3a6b4", "name": "ReaperStrategyVelodromeUsdc", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/22/2022"}
+{"address": "0x4bb48255c72bebb45351f042a38430554f486ade", "name": "ReaperStrategyVelodromeUsdc", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/23/2022"}
+{"address": "0x790b5b11cbea99e2a6dc259263960b383235784d", "name": "ReaperStrategyVelodromeUsdc", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/23/2022"}
+{"address": "0xb100682b0ae5d2632ce9ac4966e005a61a85a6a3", "name": "ReaperStrategyVelodromeUsdc", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/23/2022"}
+{"address": "0x55b6345219ce250ba7b582ff41ace886f4d596a9", "name": "ReaperStrategyVelodromeUsdc", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/23/2022"}
+{"address": "0x3aa7e08e3e0cb20a9afe03c04f65b55113d98cce", "name": "ReaperStrategyVelodrome", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/23/2022"}
+{"address": "0xe223b22b8de0dfae31bc5be5f9ca4d3149cdd401", "name": "ReaperStrategyVelodrome", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/23/2022"}
+{"address": "0x119FFDf012c4AAb8a419B4BeebD50F24666a3a84", "name": "ReaperStrategyVelodrome", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/23/2022"}
+{"address": "0xcc074519b9b8ee38a2b4bac88e31ffa69b1ec0de", "name": "DeterministicDeployer", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/23/2022"}
+{"address": "0xb7de33440b7171159a9718cbe748086cecdd9685", "name": "Vyper_contract", "compiler": "vyper:0.3.0", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/23/2022"}
+{"address": "0x246Ebb0514c69767547213E2ff56223062628eF9", "name": "CLR", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/23/2022"}
+{"address": "0xFe63667EAd82Ae168782e80492393f8d4d6aDa7C", "name": "UniswapLibrary", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/23/2022"}
