@@ -3739,3 +3739,9 @@
 {"address": "0x0bbba96b2a730d34b2f09bddf36d557da47ea088", "name": "Crazy", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/24/2022"}
 {"address": "0x470227f4ddce982269cefe1a5d2a1fae38fd7b32", "name": "Magic", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/24/2022"}
 {"address": "0x24c9044d7b69c135fecb09a2fd560f4b0b21935b", "name": "HumanPunks", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 18, "settings": "", "date": "7/24/2022"}
+{"address": "0x72294ea069FCafB98a960CAdF80B2452360e44E1", "name": "NFT", "compiler": "0.8.1", "balance": "0.0625 Ether", "txcount": 185, "settings": "", "date": "7/24/2022"}
+{"address": "0x8bdc49dc956c0c0c3b6f29b9374d2fbb3d3bfede", "name": "AsteroidsLeaderboardV1", "compiler": "0.8.8", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "7/24/2022"}
+{"address": "0xa6f0c85958ef69a50fd50b91af36d7388f96d6ed", "name": "TetrisLeaderboardV1", "compiler": "0.8.8", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/24/2022"}
+{"address": "0x3d2bB989b5aD16248f38B50657A1CA4CbbCD6541", "name": "GtpsFinance", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "7/24/2022"}
+{"address": "0x88df8dc84426AfDe551acb655042c4660f512Df3", "name": "SafelySend", "compiler": "0.8.13", "balance": "0.00001 Ether", "txcount": 3, "settings": "", "date": "7/24/2022"}
+{"address": "0x92c22e13b638c81227ae9316980ba649216eed1a", "name": "MyProxy", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 16, "settings": "", "date": "7/24/2022"}
