@@ -3733,3 +3733,4 @@
 {"address": "0xb7de33440b7171159a9718cbe748086cecdd9685", "name": "Vyper_contract", "compiler": "vyper:0.3.0", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/23/2022"}
 {"address": "0x246Ebb0514c69767547213E2ff56223062628eF9", "name": "CLR", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/23/2022"}
 {"address": "0xFe63667EAd82Ae168782e80492393f8d4d6aDa7C", "name": "UniswapLibrary", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/23/2022"}
+{"address": "0x6a9c95dd2cc3951f23a1ab9bfac7f5a9a8301117", "name": "WeightedPool2Tokens", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/23/2022"}
