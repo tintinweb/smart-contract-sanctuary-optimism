@@ -3748,3 +3748,8 @@
 {"address": "0x02313d5c2aeb3b0bdf5c6725a2a1b0400bfcd83b", "name": "CampaignFactory", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "7/25/2022"}
 {"address": "0x1983CaAFf9a0b08c7a97bf9fB8fAaED234909219", "name": "UniSwapperV3", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/25/2022"}
 {"address": "0xE455245087DE38A74347234b65FEcd3790599Eb5", "name": "SgBridge", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/25/2022"}
+{"address": "0xd57Aa8f0Ccb32a33Ab9Fe4e4a5f425c343733f7c", "name": "MultiSigWalletWithDailyLimit", "compiler": "0.4.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/25/2022"}
+{"address": "0xd8b3cca9fe905497c22d500cdf76beda0a65d442", "name": "BeefyUniV2ZapSolidly", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 19, "settings": "", "date": "7/25/2022"}
+{"address": "0x14c6cd1a9b3d5684c8fdd0883a8b14b90f07d35c", "name": "BeefyUniV2ZapSolidly", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/25/2022"}
+{"address": "0x76913cbc80df343bae78f66cddc8d275020a12fb", "name": "BeefyUniV2ZapSolidly", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/25/2022"}
+{"address": "0x0A9A47f9c19b486237A398c27bAFC60cac2Cb15C", "name": "LyraPositionHandlerL2", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/25/2022"}
