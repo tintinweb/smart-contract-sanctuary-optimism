@@ -3745,3 +3745,6 @@
 {"address": "0x3d2bB989b5aD16248f38B50657A1CA4CbbCD6541", "name": "GtpsFinance", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "7/24/2022"}
 {"address": "0x88df8dc84426AfDe551acb655042c4660f512Df3", "name": "SafelySend", "compiler": "0.8.13", "balance": "0.00001 Ether", "txcount": 3, "settings": "", "date": "7/24/2022"}
 {"address": "0x92c22e13b638c81227ae9316980ba649216eed1a", "name": "MyProxy", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 16, "settings": "", "date": "7/24/2022"}
+{"address": "0x02313d5c2aeb3b0bdf5c6725a2a1b0400bfcd83b", "name": "CampaignFactory", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "7/25/2022"}
+{"address": "0x1983CaAFf9a0b08c7a97bf9fB8fAaED234909219", "name": "UniSwapperV3", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/25/2022"}
+{"address": "0xE455245087DE38A74347234b65FEcd3790599Eb5", "name": "SgBridge", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/25/2022"}
