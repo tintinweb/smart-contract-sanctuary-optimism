@@ -3753,3 +3753,9 @@
 {"address": "0x14c6cd1a9b3d5684c8fdd0883a8b14b90f07d35c", "name": "BeefyUniV2ZapSolidly", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/25/2022"}
 {"address": "0x76913cbc80df343bae78f66cddc8d275020a12fb", "name": "BeefyUniV2ZapSolidly", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/25/2022"}
 {"address": "0x0A9A47f9c19b486237A398c27bAFC60cac2Cb15C", "name": "LyraPositionHandlerL2", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/25/2022"}
+{"address": "0xB32b3Bb699634c7f5ED0B39cE7f2290B0E8Cd601", "name": "RoyalCrows", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 43, "settings": "", "date": "7/25/2022"}
+{"address": "0x629b50ee46e73ab9ef74131d68006f1a9f438eef", "name": "Governance", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/25/2022"}
+{"address": "0x61645ae7bb524c2ea11cf90d673079ee2abbb961", "name": "BeefyRewardPool", "compiler": "0.5.5", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/25/2022"}
+{"address": "0xfc9e51a77c0d2755121e5a2fa4d19daf072f97b4", "name": "BeefyFeeBatchV3SolidlyRouter", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/25/2022"}
+{"address": "0xfee5B5faae7Edb8483A994534Fc163Bed344f9D3", "name": "Autopay", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/25/2022"}
+{"address": "0x6937aAa5B7acD0f955ebd2D9196471A4F444A4E1", "name": "TellorFlex", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/25/2022"}
