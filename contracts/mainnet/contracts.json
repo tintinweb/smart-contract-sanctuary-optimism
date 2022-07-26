@@ -3759,3 +3759,13 @@
 {"address": "0xfc9e51a77c0d2755121e5a2fa4d19daf072f97b4", "name": "BeefyFeeBatchV3SolidlyRouter", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/25/2022"}
 {"address": "0xfee5B5faae7Edb8483A994534Fc163Bed344f9D3", "name": "Autopay", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/25/2022"}
 {"address": "0x6937aAa5B7acD0f955ebd2D9196471A4F444A4E1", "name": "TellorFlex", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/25/2022"}
+{"address": "0xB0B06F0440ce13d03D41c5399C55AEfEa1b372CE", "name": "LyraSafetyModule", "compiler": "0.7.5", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/26/2022"}
+{"address": "0x0c8626197Be1C155960e470b1588E8B4761BA8cd", "name": "RevenueSplitFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/26/2022"}
+{"address": "0x6d183F4A271e5E068FCC09E93daD92f3c5E325F1", "name": "RevenueSplit", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/26/2022"}
+{"address": "0xcaBe7f84339AD635a6fCAF6e297EE04A4d5EB6d1", "name": "DropCollection", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/26/2022"}
+{"address": "0x7bE941FbF8C1B2acA38818EcBBef6cCBB5c975D9", "name": "DropCollection", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/26/2022"}
+{"address": "0x370a695F879B665dB5745DE917105208A1Dc61fD", "name": "TokenCollection", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/26/2022"}
+{"address": "0x951d77B7cE4CAA3e48c3c3bCd694E5A909006d4D", "name": "NiftyKitV2", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/26/2022"}
+{"address": "0x998EF16Ea4111094EB5eE72fC2c6f4e6E8647666", "name": "Seaport", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0xB4b53A25d16376105f7db6F3c6f39Ad8e64C41EC", "name": "ConduitController", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0x8C0ef71B6FFB7786db4b4b00eD2503c8896e6038", "name": "PausableZoneV1Upgradeable", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/26/2022"}
