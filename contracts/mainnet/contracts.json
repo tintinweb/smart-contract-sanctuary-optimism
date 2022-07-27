@@ -3792,3 +3792,7 @@
 {"address": "0xF92b8AD7a62437142C4bf87D91e2bE0Fe1F44e9f", "name": "VolatilitySurfaceOracle", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/26/2022"}
 {"address": "0xC4B2C51f969e0713E799De73b7f130Fb7Bb604CF", "name": "ProxyUpgradeableOwnable", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/26/2022"}
 {"address": "0x6ffCE281766590D59199a91dadB994B6a035409c", "name": "Fudimism", "compiler": "0.8.1", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "7/26/2022"}
+{"address": "0x96499C097EFC56Ba5cf6B2a474392db17790Ce96", "name": "FillQuoteTransformer", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/27/2022"}
+{"address": "0x7Ad08B5363bEC581950618551699F4eD889AE804", "name": "PermissionToken", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/27/2022"}
+{"address": "0xa1273442434DfEb8555Fa2C837D66FA5F4851e90", "name": "OptimismBridgeAdapter", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/27/2022"}
+{"address": "0x920f3D3A8FCf2E707D1ae577aA0BFE4BD5bC3fcf", "name": "BadgeRegistry", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 11, "settings": "-", "date": "7/26/2022"}
