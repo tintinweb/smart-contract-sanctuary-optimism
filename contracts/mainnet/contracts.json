@@ -3796,3 +3796,6 @@
 {"address": "0x7Ad08B5363bEC581950618551699F4eD889AE804", "name": "PermissionToken", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/27/2022"}
 {"address": "0xa1273442434DfEb8555Fa2C837D66FA5F4851e90", "name": "OptimismBridgeAdapter", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/27/2022"}
 {"address": "0x920f3D3A8FCf2E707D1ae577aA0BFE4BD5bC3fcf", "name": "BadgeRegistry", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 11, "settings": "-", "date": "7/26/2022"}
+{"address": "0x5825C125A20d233cF83d464B2047f8E81B5AC711", "name": "QredoWalletImplementation", "compiler": "0.6.11", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "7/27/2022"}
+{"address": "0xa7E616fB7B71Dd90CB068839069373C5eC0484a9", "name": "WalletFactory", "compiler": "0.6.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/27/2022"}
+{"address": "0xfbDC8Af4F55985B577c62cdB5d565e1031A1968c", "name": "vePERPRewardDistributor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/27/2022"}
