@@ -3799,3 +3799,5 @@
 {"address": "0x5825C125A20d233cF83d464B2047f8E81B5AC711", "name": "QredoWalletImplementation", "compiler": "0.6.11", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "7/27/2022"}
 {"address": "0xa7E616fB7B71Dd90CB068839069373C5eC0484a9", "name": "WalletFactory", "compiler": "0.6.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/27/2022"}
 {"address": "0xfbDC8Af4F55985B577c62cdB5d565e1031A1968c", "name": "vePERPRewardDistributor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/27/2022"}
+{"address": "0x78E9354077a65672eB2BCb546C8A5Ee749f83806", "name": "SportsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/27/2022"}
+{"address": "0x85aaC38Db1234fbA6E06D86E10CB1289d7d79657", "name": "Referrals", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/27/2022"}
