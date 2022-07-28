@@ -3816,3 +3816,10 @@
 {"address": "0x295425B90077252D52c35F15eABfb5C6d3178a4C", "name": "LPTokensManager", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/28/2022"}
 {"address": "0xBD6F3c7D03aca8141bc24aaf096bbAFce277a85f", "name": "TreasuryV2", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/28/2022"}
 {"address": "0xF11438cFDC2B8463A1F4d79C3825930a233C76bd", "name": "StoreV2", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/28/2022"}
+{"address": "0x710853aA41428c3e0f2bB9258E3E6c9555b25a51", "name": "ZeroXUniswapLikeLPLevSwapper", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/28/2022"}
+{"address": "0xC8f5Eb8A632f9600D1c7BC91e97dAD5f8B1e3748", "name": "ZeroXUniswapLikeLPSwapper", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/28/2022"}
+{"address": "0xDfa94F2CE5bC1961F2604338F97F468592CA293D", "name": "InvertedLPOracle", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/28/2022"}
+{"address": "0x4C44B16422c4cd58a37aAD4Fc3b8b376393a91dC", "name": "LPChainlinkOracle", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/28/2022"}
+{"address": "0xaE031bDe8582BE194AEeBc097710c97a538BBE90", "name": "TokenOracle", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/28/2022"}
+{"address": "0x04146736FEF83A25e39834a972cf6A5C011ACEad", "name": "ProxyOracle", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/28/2022"}
+{"address": "0x1E217d3cA2a19f2cB0F9f12a65b40f335286758E", "name": "MultichainWithdrawer", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/28/2022"}
