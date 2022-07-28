@@ -3802,3 +3802,6 @@
 {"address": "0x78E9354077a65672eB2BCb546C8A5Ee749f83806", "name": "SportsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/27/2022"}
 {"address": "0x85aaC38Db1234fbA6E06D86E10CB1289d7d79657", "name": "Referrals", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/27/2022"}
 {"address": "0x80fe12c1076d2b708D6495186690f6D275740D44", "name": "MyMissingJigsaw", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "7/27/2022"}
+{"address": "0x1A23c286038B036C6bCF25b563fb3d427D0a3274", "name": "FirnReader", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/28/2022"}
+{"address": "0x1287954816A80c80E70025F0DDc87c3e6af7cc01", "name": "FirnLogic", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "7/28/2022"}
+{"address": "0xac80c9aa2e5f8524f5eb61847b12ae58c2d1084e", "name": "FirnLogic", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/28/2022"}
