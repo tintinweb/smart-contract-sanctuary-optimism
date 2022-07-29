@@ -3823,3 +3823,11 @@
 {"address": "0xaE031bDe8582BE194AEeBc097710c97a538BBE90", "name": "TokenOracle", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/28/2022"}
 {"address": "0x04146736FEF83A25e39834a972cf6A5C011ACEad", "name": "ProxyOracle", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/28/2022"}
 {"address": "0x1E217d3cA2a19f2cB0F9f12a65b40f335286758E", "name": "MultichainWithdrawer", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/28/2022"}
+{"address": "0x5Ca135cB8527d76e932f34B5145575F9d8cbE08E", "name": "FraxswapFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/29/2022"}
+{"address": "0xc2544A32872A91F4A553b404C6950e89De901fdb", "name": "FraxswapRouter", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/29/2022"}
+{"address": "0x2b44C227d95B8FDa1c8750986d3aDfF0E67627F7", "name": "FlashMintPerp", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "7/29/2022"}
+{"address": "0xa1BE037c26e08D0D1763263A4bA0b2A8D7a80472", "name": "ReaperVeloZap", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "7/29/2022"}
+{"address": "0x2ABecf0D844c85ECA7A08ea7a2D6747c8A6662a2", "name": "JigsawLaunchpad", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 5, "settings": "-", "date": "7/29/2022"}
+{"address": "0x1d8F22ac523f97d36A9709eBF7D5A5E40295835B", "name": "DcPerpetualVault", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/28/2022"}
+{"address": "0x4bc77d6c07245189c47c5f1cd65df4e82c94d45f", "name": "MultipleCaller", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/28/2022"}
+{"address": "0xfB46f4edDDdF65548692e57D4A728b943ca886c1", "name": "DeCommasStrategyRouter", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/28/2022"}
