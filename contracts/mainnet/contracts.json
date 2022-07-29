@@ -3833,3 +3833,11 @@
 {"address": "0xfB46f4edDDdF65548692e57D4A728b943ca886c1", "name": "DeCommasStrategyRouter", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/28/2022"}
 {"address": "0x74160c69d46e6eb97f7a97843d47452a71bb11ae", "name": "HelloWorld", "compiler": "0.8.8", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/29/2022"}
 {"address": "0xddd927eea0863b3157fc98fab6c09072587644be", "name": "HelloWorld", "compiler": "0.8.8", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/29/2022"}
+{"address": "0xcd45ccd6835cacc459ab0bea0c2403d493eceb28", "name": "BackedCommunityTokenV1", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/29/2022"}
+{"address": "0xE28Adc50c7551CFf69FCF32D45d037e5F6554264", "name": "KeeperRegistryDev", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/29/2022"}
+{"address": "0x468F0E89a78183313D35C3a919CA9Ab3f8b6429F", "name": "KeeperRegistryDev", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "7/29/2022"}
+{"address": "0x7c00609A0E7Ae826A3a8A76c1cfa39B1eb2FE27f", "name": "KeeperRegistryDev", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/29/2022"}
+{"address": "0xC0874d3a2F652f875BE54a4f187279dA810B199F", "name": "MNYeArbitrageBot", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/29/2022"}
+{"address": "0xC480325c86392b773Cbad885759c205F26d91BbB", "name": "JustBananaNFT", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 584, "settings": "", "date": "7/29/2022"}
+{"address": "0xD65604822e0A2C75Ab03A07dCa11c560682c796e", "name": "StakingThales", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/29/2022"}
+{"address": "0xA7F71c9C99063Ee255786a04134585CAdC597C22", "name": "Brokerbot", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/29/2022"}
