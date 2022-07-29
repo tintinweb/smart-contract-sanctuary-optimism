@@ -3831,3 +3831,5 @@
 {"address": "0x1d8F22ac523f97d36A9709eBF7D5A5E40295835B", "name": "DcPerpetualVault", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/28/2022"}
 {"address": "0x4bc77d6c07245189c47c5f1cd65df4e82c94d45f", "name": "MultipleCaller", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/28/2022"}
 {"address": "0xfB46f4edDDdF65548692e57D4A728b943ca886c1", "name": "DeCommasStrategyRouter", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/28/2022"}
+{"address": "0x74160c69d46e6eb97f7a97843d47452a71bb11ae", "name": "HelloWorld", "compiler": "0.8.8", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/29/2022"}
+{"address": "0xddd927eea0863b3157fc98fab6c09072587644be", "name": "HelloWorld", "compiler": "0.8.8", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/29/2022"}
