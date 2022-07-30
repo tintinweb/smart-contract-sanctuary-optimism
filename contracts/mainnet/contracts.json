@@ -3841,3 +3841,4 @@
 {"address": "0xC480325c86392b773Cbad885759c205F26d91BbB", "name": "JustBananaNFT", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 584, "settings": "", "date": "7/29/2022"}
 {"address": "0xD65604822e0A2C75Ab03A07dCa11c560682c796e", "name": "StakingThales", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/29/2022"}
 {"address": "0xA7F71c9C99063Ee255786a04134585CAdC597C22", "name": "Brokerbot", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/29/2022"}
+{"address": "0xde44d3fb118e0f007f2c0d8fffe98b994383949a", "name": "ArkNetwork", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/29/2022"}
