@@ -3865,3 +3865,5 @@
 {"address": "0x341836e0c5741527c5a1898307E690AB84E53D2F", "name": "FraxswapRouter", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/30/2022"}
 {"address": "0xCf4b6c6fd9985dE4A65b3e007B1f465Ee9f63FA9", "name": "manhatten_transfer", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/30/2022"}
 {"address": "0x3e1eeeacced26b032952e21ca0df8aa83788f76c", "name": "ProjectDudes", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/31/2022"}
+{"address": "0xe4354a874366a70980bd37f1822dc27371186e72", "name": "optimism", "compiler": "0.8.8", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/31/2022"}
+{"address": "0xe0f90020bfb30ad0fb230db3e011659e457dadfd", "name": "opt", "compiler": "0.8.8", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/31/2022"}
