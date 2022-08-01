@@ -3905,3 +3905,7 @@
 {"address": "0x4244eB811D6e0Ef302326675207A95113dB4E1F8", "name": "Vyper_contract", "compiler": "vyper:0.2.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/31/2022"}
 {"address": "0x114c4042b11a2b16f58fe1bfe847589a122f678a", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/31/2022"}
 {"address": "0xe8269B33E47761f552E1a3070119560d5fa8bBD6", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/31/2022"}
+{"address": "0x1aC33f8EEE3Bd06481Abf286CDbd7BbfDE5681f2", "name": "PickleJar", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/1/2022"}
+{"address": "0x64F3877CE3dd803abF4C6C5BEEBA56be69808062", "name": "BalancerV2PortalOut", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/1/2022"}
+{"address": "0x45A46d031A0F6b3463159E3393ca89E38414b6f8", "name": "OptiChadsContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 11, "settings": "", "date": "8/1/2022"}
+{"address": "0x6c47D2eFa8DCBAb412203C1Fd0A59D8c2ed272AF", "name": "CurveWrapperV3", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/1/2022"}
