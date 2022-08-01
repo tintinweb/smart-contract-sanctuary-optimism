@@ -3909,3 +3909,14 @@
 {"address": "0x64F3877CE3dd803abF4C6C5BEEBA56be69808062", "name": "BalancerV2PortalOut", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/1/2022"}
 {"address": "0x45A46d031A0F6b3463159E3393ca89E38414b6f8", "name": "OptiChadsContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 11, "settings": "", "date": "8/1/2022"}
 {"address": "0x6c47D2eFa8DCBAb412203C1Fd0A59D8c2ed272AF", "name": "CurveWrapperV3", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/1/2022"}
+{"address": "0x5c9D55b78FEBCC2061715BA4f57EcF8EA2711F2c", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 6585, "settings": "-", "date": "8/1/2022"}
+{"address": "0xacAaC3e6D6Df918Bf3c809DFC7d42de0e4a72d4C", "name": "ProtocolFeePercentagesProvider", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/1/2022"}
+{"address": "0x25e2222Bc50E3B2dc945E1b9430F5498107FD3A5", "name": "FraxswapPair", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "8/1/2022"}
+{"address": "0x8cC2f2aF67beaF595eb666356867abbDf407d45D", "name": "StrategyVeloUsdcLyraVlp", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/1/2022"}
+{"address": "0x9dC23189BC539b36cd51D94817880E33D92aA0bF", "name": "StrategyVeloUsdcFraxSlp", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/1/2022"}
+{"address": "0x0beA755c9EcFFFE1D701C092d6DD2a12BB17EE03", "name": "StrategyVeloUsdcAgeurVlp", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/1/2022"}
+{"address": "0x7553B5ECfA93AEA9A5f661c13Fb8E7Ef53089DAd", "name": "StrategyVeloOpVlp", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/1/2022"}
+{"address": "0x9fc985C7fa20141ab70eFd04Af3827Aa7c60D7e5", "name": "StrategyVeloOpUsdcVlp", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/1/2022"}
+{"address": "0xA58D59A5d96c8411263d891cBAE870546cFE6587", "name": "StrategyVeloEthUsdcVlp", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/1/2022"}
+{"address": "0x3C7825811A2426491356caDcE143bC67DB071E40", "name": "StrategyVeloEthOpVlp", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/1/2022"}
+{"address": "0xE40be09CBF2EC3b3b437d902bDc5504788B17d68", "name": "StrategyVeloEthAlienVlp", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/1/2022"}
