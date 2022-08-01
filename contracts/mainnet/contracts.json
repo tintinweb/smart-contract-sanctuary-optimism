@@ -3899,3 +3899,9 @@
 {"address": "0xb9CE4C20184971cd9484BdE50Ce470F6Af465085", "name": "Vault", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/31/2022"}
 {"address": "0xb1B4A7FB97138F3CB324174Ca57e1c6ff5bbc051", "name": "VaultParameters", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "7/31/2022"}
 {"address": "0x6660426ecd1A2Fedaa6bC6e7ae79EB00180F5364", "name": "USDP", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/31/2022"}
+{"address": "0xeC6554a0dF63c3029262c8Cfc948C254464685e4", "name": "ERC721Staking", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/1/2022"}
+{"address": "0x70beCf593a0F094Dd7d5F8b8B48fB8582c0EC575", "name": "ZeroXSolidlyLikeVolatileLPLevSwapper", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/1/2022"}
+{"address": "0x2ed641367f16f9783666409be7d083c8c49cBEc2", "name": "ZeroXUniswapLikeLPSwapper", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/1/2022"}
+{"address": "0x4244eB811D6e0Ef302326675207A95113dB4E1F8", "name": "Vyper_contract", "compiler": "vyper:0.2.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/31/2022"}
+{"address": "0x114c4042b11a2b16f58fe1bfe847589a122f678a", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/31/2022"}
+{"address": "0xe8269B33E47761f552E1a3070119560d5fa8bBD6", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/31/2022"}
