@@ -3930,3 +3930,9 @@
 {"address": "0x95820B7d30904BEa4419c0CAbd9AC93b35D488E9", "name": "PositionalMarketMastercopy", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/2/2022"}
 {"address": "0xFaE0177f052c9F020e6e984aCCF98241Ae35FACd", "name": "PositionalMarketFactory", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/2/2022"}
 {"address": "0xD458aB8971CcA2D51515cBA564e9498Cf81CC36d", "name": "PositionalMarketManager", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/2/2022"}
+{"address": "0x60B30c1a7633E55248FcBA53aB8f24f5C54984C3", "name": "RubiconRouter", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/2/2022"}
+{"address": "0xA4d20e7Afa8f3Cf1F089144f710D5BC28b0daEE8", "name": "BathPair", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/2/2022"}
+{"address": "0x9d809021D92ED6b6CeEb5053B1081fBc32eC6729", "name": "RubiconMarket", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/2/2022"}
+{"address": "0xa804271ec55e891670caf9a85dba77170d4af99d", "name": "OptyFi", "compiler": "0.4.26", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/2/2022"}
+{"address": "0x02668a6d9B8c9D4c8AeF7916270E945C3bFBBbAe", "name": "PositionalMarketManager", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/2/2022"}
+{"address": "0x8eF3a39a2d1362FCF62213012618C4d463B2a0cC", "name": "PositionalMarketManager", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/2/2022"}
