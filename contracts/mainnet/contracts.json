@@ -3924,3 +3924,9 @@
 {"address": "0xD2b75447A9e1f7D26fb063779F519Db170B0e62c", "name": "LockDrop", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/2/2022"}
 {"address": "0xf66B6AEa7a1eb478f538b1Ea21fF4b21045675a2", "name": "StrategyVeloUsdcVlp", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/2/2022"}
 {"address": "0xb0450ff766c81222d29f7e61ff47b5d0e43d78f2", "name": "N2W", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "8/1/2022"}
+{"address": "0x70c6AF9Dff8C19B3db576E5E199B22A883874f05", "name": "Vault", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "8/2/2022"}
+{"address": "0xeaa2ce6351d803456235809d82357ed8d23e8502", "name": "BlkBeetsMultiRewardGauge", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 11, "settings": "", "date": "8/2/2022"}
+{"address": "0xDA10FEd3bf26BDC131f408Ec224C38816C2B15cB", "name": "PositionMastercopy", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/2/2022"}
+{"address": "0x95820B7d30904BEa4419c0CAbd9AC93b35D488E9", "name": "PositionalMarketMastercopy", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/2/2022"}
+{"address": "0xFaE0177f052c9F020e6e984aCCF98241Ae35FACd", "name": "PositionalMarketFactory", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/2/2022"}
+{"address": "0xD458aB8971CcA2D51515cBA564e9498Cf81CC36d", "name": "PositionalMarketManager", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/2/2022"}
