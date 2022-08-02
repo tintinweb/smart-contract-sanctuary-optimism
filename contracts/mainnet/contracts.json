@@ -3920,3 +3920,7 @@
 {"address": "0xA58D59A5d96c8411263d891cBAE870546cFE6587", "name": "StrategyVeloEthUsdcVlp", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/1/2022"}
 {"address": "0x3C7825811A2426491356caDcE143bC67DB071E40", "name": "StrategyVeloEthOpVlp", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/1/2022"}
 {"address": "0xE40be09CBF2EC3b3b437d902bDc5504788B17d68", "name": "StrategyVeloEthAlienVlp", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/1/2022"}
+{"address": "0x9B9F542456ad12796cCB8EB6644f29E3314e68e1", "name": "OptiChadsContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "8/2/2022"}
+{"address": "0xD2b75447A9e1f7D26fb063779F519Db170B0e62c", "name": "LockDrop", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/2/2022"}
+{"address": "0xf66B6AEa7a1eb478f538b1Ea21fF4b21045675a2", "name": "StrategyVeloUsdcVlp", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/2/2022"}
+{"address": "0xb0450ff766c81222d29f7e61ff47b5d0e43d78f2", "name": "N2W", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "8/1/2022"}
