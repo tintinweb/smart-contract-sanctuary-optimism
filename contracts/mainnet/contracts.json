@@ -3949,3 +3949,8 @@
 {"address": "0xbADcCcf4156967783fA818Bc4a8c93b5575A07B0", "name": "OssifiableProxy", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/3/2022"}
 {"address": "0x75ff3dd673Ef9fC459A52E1054db5dF2A1101212", "name": "ERC20Bridged", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/3/2022"}
 {"address": "0xfD2aAeBAe937dd69E13119250B065de4C21FcdBe", "name": "BotRegistry", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "8/3/2022"}
+{"address": "0xbcbe21cd9b3fd415e71366d84a97e4f911b7e84d", "name": "Chef", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/3/2022"}
+{"address": "0xac6efad5443280b1e5d93f5bfe076a7ce6e448de", "name": "RFStorage", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/3/2022"}
+{"address": "0x9ab9369784e99b1fd8467dAC60aae04ac406b5DE", "name": "UniSwapperV3", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/3/2022"}
+{"address": "0x522871dc841ba76fD2962a47bE5BF818fd3463d6", "name": "BeefyFeeConfigurator", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/3/2022"}
+{"address": "0x9cEabddc181b3E1B38E1047cD3Dca479edE0a69b", "name": "VeloMatrixLpAutoCompound", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/3/2022"}
