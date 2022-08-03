@@ -3936,3 +3936,12 @@
 {"address": "0xa804271ec55e891670caf9a85dba77170d4af99d", "name": "OptyFi", "compiler": "0.4.26", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/2/2022"}
 {"address": "0x02668a6d9B8c9D4c8AeF7916270E945C3bFBBbAe", "name": "PositionalMarketManager", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/2/2022"}
 {"address": "0x8eF3a39a2d1362FCF62213012618C4d463B2a0cC", "name": "PositionalMarketManager", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/2/2022"}
+{"address": "0x3Ce5AF2d1455c581d95B979AB7E64b1A7D1b5537", "name": "LockDrop", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "8/3/2022"}
+{"address": "0x8bb765AE3e2320fd9447889D10b9DC7CE4970DA5", "name": "TinyDaemons", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/2/2022"}
+{"address": "0x96def3e0f4bebe3acdf652f09c27adf4f4a069fe", "name": "StrategyCommonSolidlyGaugeLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "8/2/2022"}
+{"address": "0x56145Ed571DdF7B7F4881eb00d5FED8b1846f912", "name": "AdrastiaUniswapV3PA", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 16, "settings": "", "date": "8/2/2022"}
+{"address": "0x1D8B85D36189cAB860F6E45F7835355ee9E0A391", "name": "AdrastiaTwapOracle", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "8/2/2022"}
+{"address": "0xAD96e6c9e5D2B5639D3490AbE23274660fa876DC", "name": "AdrastiaUniswapV3LA", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "8/2/2022"}
+{"address": "0x2Ff3791C3F933dCad359CaE024bbC80847aD2deb", "name": "AdrastiaAggregatedTwapOracle", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 21, "settings": "", "date": "8/2/2022"}
+{"address": "0x1bD311bd5aD4DCfE18bCb55d42F0a3c714E2bfDe", "name": "ConnectV2UniswapV3SwapOptimism", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/2/2022"}
+{"address": "0x052b006a2cfb2523042b3041f15adc7fa5356312", "name": "BeefyFeeConfigurator", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/2/2022"}
