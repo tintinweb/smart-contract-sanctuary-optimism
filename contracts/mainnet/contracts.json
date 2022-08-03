@@ -3954,3 +3954,4 @@
 {"address": "0x9ab9369784e99b1fd8467dAC60aae04ac406b5DE", "name": "UniSwapperV3", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/3/2022"}
 {"address": "0x522871dc841ba76fD2962a47bE5BF818fd3463d6", "name": "BeefyFeeConfigurator", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/3/2022"}
 {"address": "0x9cEabddc181b3E1B38E1047cD3Dca479edE0a69b", "name": "VeloMatrixLpAutoCompound", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/3/2022"}
+{"address": "0x4DeA9e918c6289a52cd469cAC652727B7b412Cd2", "name": "LPStakingTime", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "8/3/2022"}
