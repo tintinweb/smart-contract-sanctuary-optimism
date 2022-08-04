@@ -3966,3 +3966,9 @@
 {"address": "0x0389996552F5Da35fa6Ddc80B083F78622df3A6f", "name": "PoolExercise", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/4/2022"}
 {"address": "0x7518ea3Bc20474d4d9871F40E3eD4Dc31aB2B48D", "name": "PoolBase", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/4/2022"}
 {"address": "0x834C025fA5Eb6726803a2D67f160fcfABC49a174", "name": "ExchangeHelper", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/4/2022"}
+{"address": "0x328345ab56a490383b515c17ea6788bab205bca4", "name": "Rebel", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 5, "settings": "-", "date": "8/4/2022"}
+{"address": "0xB600EA446390C71525bEAf117761Ae4FE74d6ad3", "name": "AaveV3View", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "8/4/2022"}
+{"address": "0x472337F1C9c1C5497c23dD8060df8729f33b5543", "name": "UiPoolDataProviderV3", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/4/2022"}
+{"address": "0x44b864b92043a960313F3C94BD6DB4dA202814F6", "name": "UiIncentiveDataProviderV3", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/4/2022"}
+{"address": "0x9f15f3eb43d16ec7a0398eb84e762163b56faaa3", "name": "Chef", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "8/4/2022"}
+{"address": "0xbab15c7f13919a29e4fa358d12293c67635c0eca", "name": "Chef", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "8/4/2022"}
