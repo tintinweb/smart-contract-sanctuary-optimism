@@ -3984,3 +3984,14 @@
 {"address": "0x6ca558bd3eab53da1b25ab97916dd14bf6cfee4e", "name": "PegToken", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "8/4/2022"}
 {"address": "0xa60b1b4b4518b2eb719742e66d64821a5bd07e18", "name": "Bond", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/4/2022"}
 {"address": "0xC9dda8FaE1E53f3dA18e558c68F9c04aD0Fff18A", "name": "AaveV3View", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/4/2022"}
+{"address": "0x8eb23a3010795574eE3DD101843dC90bD63b5099", "name": "StrategyAaveSupplyOnlyOptimismBeets", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/4/2022"}
+{"address": "0xF8ACFA4EB30792a5FC90F894b5a747033Cc152f5", "name": "Treasury", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/4/2022"}
+{"address": "0xb20d84ebFeCdC6821448C7094564a039F0AE5EA4", "name": "ERC20", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "8/4/2022"}
+{"address": "0x24569e59375d65817e72ecc55517aed168662e92", "name": "StrategyAaveSupplyOnlyOptimism", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "8/4/2022"}
+{"address": "0xbD46f1EAbCd39763C819Da8297fC1F0aA7Bf5B0E", "name": "GCucked", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/4/2022"}
+{"address": "0x09cadCBe6Fe623F01B7bC37635b97ABF385d46Dd", "name": "ConnectV3AaveIncentivesOptimism", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/4/2022"}
+{"address": "0xa4361Ff34949bEf0605a10ad7B50fE1e22C92E3B", "name": "ConnectV3AaveIncentivesOptimism", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/4/2022"}
+{"address": "0xAa496E474b32F7e6b1EF0Ca4b1F381Fca54Da2aB", "name": "StrategyAaveSupplyOnlyOptimism", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "8/4/2022"}
+{"address": "0xCe52E553e2E15bfC06583d676501e18b11d4971D", "name": "DcPerpetualVault", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/4/2022"}
+{"address": "0x286d0acde6bfa4e624a102e8d68367b0dc582e1a", "name": "BeefyVaultV6Native", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "8/4/2022"}
+{"address": "0x7a114F8E4ee7b6edbB7fe297de1356C5068d2234", "name": "StrategyAaveSupplyOnlyOptimism", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "8/4/2022"}
