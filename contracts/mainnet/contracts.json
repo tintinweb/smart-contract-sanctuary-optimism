@@ -3955,3 +3955,14 @@
 {"address": "0x522871dc841ba76fD2962a47bE5BF818fd3463d6", "name": "BeefyFeeConfigurator", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/3/2022"}
 {"address": "0x9cEabddc181b3E1B38E1047cD3Dca479edE0a69b", "name": "VeloMatrixLpAutoCompound", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/3/2022"}
 {"address": "0x4DeA9e918c6289a52cd469cAC652727B7b412Cd2", "name": "LPStakingTime", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "8/3/2022"}
+{"address": "0x42b69e33cb1d5cbc48b21ba721af39bb5a68e6a0", "name": "Chef", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "8/4/2022"}
+{"address": "0x617dee16b86534a5d792a4d7a62fb491b544111e", "name": "MetaAggregationRouter", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 155, "settings": "", "date": "8/4/2022"}
+{"address": "0xA7FbBa9BF51A3c4301580E355d9C21DB3b89BDDF", "name": "PremiaMining", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/4/2022"}
+{"address": "0x4024F711B40F9fA42620123Fc179102A53E6A500", "name": "PoolWrite", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/4/2022"}
+{"address": "0xDE8400FB8DC171fe452F11B5b6daee8ECEfB4aa4", "name": "PoolView", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/4/2022"}
+{"address": "0xCf18Fc4a662Aa6A5B2Ad6Af873a82B6848f6cE17", "name": "PoolSettings", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/4/2022"}
+{"address": "0x8D69eAcDFfEE59c5F4C9936aDaBE72EAF891745D", "name": "PoolSell", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/4/2022"}
+{"address": "0x5747A767799cA0bC1F4470e17313d4aaAF5e0Bb9", "name": "PoolIO", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/4/2022"}
+{"address": "0x0389996552F5Da35fa6Ddc80B083F78622df3A6f", "name": "PoolExercise", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/4/2022"}
+{"address": "0x7518ea3Bc20474d4d9871F40E3eD4Dc31aB2B48D", "name": "PoolBase", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/4/2022"}
+{"address": "0x834C025fA5Eb6726803a2D67f160fcfABC49a174", "name": "ExchangeHelper", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/4/2022"}
