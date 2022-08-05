@@ -3999,3 +3999,16 @@
 {"address": "0xcE3C5AdDA86F5D062f51E7335dE00fFEfDb6aF47", "name": "StrategyStargateOp", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/5/2022"}
 {"address": "0xd7d832e1af8c0c07b95390abf4504890fe21de2b", "name": "BitCatsNFT", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/4/2022"}
 {"address": "0xb5faD977c4020550d06A1FaAE09503B06623789b", "name": "DcPerpetualVault", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/4/2022"}
+{"address": "0xd9c451d0518AF2b40bd02232C628E2F46AcF5B3E", "name": "StrategyStargateOpNative", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "8/5/2022"}
+{"address": "0x936AAd8dA1364b0940d0E882D3d468f4E0f65421", "name": "BeefyVaultV6", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "8/5/2022"}
+{"address": "0x424532a7216cf1bf35faf2ab32eede07c3b77598", "name": "ReaperStrategyVelodromeUsdcStable", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/5/2022"}
+{"address": "0x680bAedaf5ac0A90fe279d0fc26eFA591735F9d0", "name": "OptimismAdapter01", "compiler": "0.7.5", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/5/2022"}
+{"address": "0xbe8e8cea67085f869c1c0040fd52f9f3115e962e", "name": "AaveV3ClaimRewards", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/5/2022"}
+{"address": "0xdC6E2b14260F972ad4e5a31c68294Fba7E720701", "name": "DystopiaExchangeRouter", "compiler": "0.7.5", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/5/2022"}
+{"address": "0x4968Bad1eE33b800260E4C678F8dA979a1719cF7", "name": "StrategyAaveSupplyOnlyOptimism", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "8/5/2022"}
+{"address": "0x45797137aC0936F460E6a71144D21721d05E3eaa", "name": "BeefyVaultV6", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "8/5/2022"}
+{"address": "0x8082e58681350876aFe8f52d3Bf8672034A03Db0", "name": "Upgrader", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/5/2022"}
+{"address": "0x23B96aDD54c479C6784Dd504670B5376B808f4C7", "name": "L2ERC20TokenBridge", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/5/2022"}
+{"address": "0x92834c37dF982A13bb0f8C3F6608E26F0546538e", "name": "ERC20Bridged", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/5/2022"}
+{"address": "0x1391128C712a2cF2a56cC4d6612Bc1f658049e3F", "name": "SgBridge", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/5/2022"}
+{"address": "0xcF942Fe237016eA778d1F9A4b185b98913b35888", "name": "AaveYield", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "8/5/2022"}
