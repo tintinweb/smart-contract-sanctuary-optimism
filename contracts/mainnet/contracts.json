@@ -3995,3 +3995,7 @@
 {"address": "0xCe52E553e2E15bfC06583d676501e18b11d4971D", "name": "DcPerpetualVault", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/4/2022"}
 {"address": "0x286d0acde6bfa4e624a102e8d68367b0dc582e1a", "name": "BeefyVaultV6Native", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "8/4/2022"}
 {"address": "0x7a114F8E4ee7b6edbB7fe297de1356C5068d2234", "name": "StrategyAaveSupplyOnlyOptimism", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "8/4/2022"}
+{"address": "0x7a2efdaF1eFdC6b75ecA8ee2af14537c2E0B49E6", "name": "MedCucked", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "8/5/2022"}
+{"address": "0xcE3C5AdDA86F5D062f51E7335dE00fFEfDb6aF47", "name": "StrategyStargateOp", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/5/2022"}
+{"address": "0xd7d832e1af8c0c07b95390abf4504890fe21de2b", "name": "BitCatsNFT", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/4/2022"}
+{"address": "0xb5faD977c4020550d06A1FaAE09503B06623789b", "name": "DcPerpetualVault", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/4/2022"}
