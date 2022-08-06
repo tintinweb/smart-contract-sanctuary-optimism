@@ -4037,3 +4037,7 @@
 {"address": "0x03726d5537E29061A93e2Ed537F8f53afd37523C", "name": "ReaperAutoCompoundFlashBorrow", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/5/2022"}
 {"address": "0x20de838befab49d4181bd7165247924837d20e18", "name": "PbCrvOpEth", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/5/2022"}
 {"address": "0x8ae32c034dacd85a79cfd135050fcb8e6d4207d8", "name": "PbCrvOpUsd", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/5/2022"}
+{"address": "0x1CfcC4D6Cc34319E922bBcEC5D3918E8E5273fcF", "name": "Whitelist", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/6/2022"}
+{"address": "0x658f41d3DF7887Ac0968567528901550B3ceC4c9", "name": "CAFE", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/6/2022"}
+{"address": "0x349B564016351d8184C51D704a840C973D220658", "name": "Beacon", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/6/2022"}
+{"address": "0x5f580A0De8d0892759Ffc25C4A35c8a710AE5AC9", "name": "OpBum", "compiler": "0.8.9", "balance": "0.001 Ether", "txcount": 4, "settings": "", "date": "8/6/2022"}
