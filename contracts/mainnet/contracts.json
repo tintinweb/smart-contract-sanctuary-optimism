@@ -4042,3 +4042,16 @@
 {"address": "0x349B564016351d8184C51D704a840C973D220658", "name": "Beacon", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/6/2022"}
 {"address": "0x5f580A0De8d0892759Ffc25C4A35c8a710AE5AC9", "name": "OpBum", "compiler": "0.8.9", "balance": "0.001 Ether", "txcount": 4, "settings": "", "date": "8/6/2022"}
 {"address": "0x35f048853b59400fbec80748592904f66374cfc0", "name": "UpgradableProxy", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/6/2022"}
+{"address": "0x3d8F58774611676fd196D26149C71a9142C45296", "name": "CommonHealthCheck", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/6/2022"}
+{"address": "0x84654e35e504452769757aae5a8c7c6599cbf954", "name": "Treasury", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/6/2022"}
+{"address": "0xdb8bbf2b0e28721f9bac603e687e39bcf52201f8", "name": "Vyper_contract", "compiler": "vyper:0.2.12", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "8/6/2022"}
+{"address": "0x1ba4eb0f44ab82541e56669e18972b0d6037dfe0", "name": "Vyper_contract", "compiler": "vyper:0.2.11", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "8/6/2022"}
+{"address": "0x671b29e20d834dc27e2af3a717f2204d89af9cd7", "name": "MuonPresale", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/6/2022"}
+{"address": "0xd98bfb05dd6aa37ba5624479eb4264de9a3384ee", "name": "MultichainWithdrawer", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/6/2022"}
+{"address": "0xc2fdefbd7816f7b9163196fb546e9b383eb22a2b", "name": "SolidlyGaugeVolatileLPStrategy", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "8/6/2022"}
+{"address": "0x7c8fef8ea9b1fe46a7689bfb8149341c90431d38", "name": "ZeroXSolidlyLikeVolatileLPLevSwapper", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/6/2022"}
+{"address": "0x4d526f103307b548227f502655f7b80796b64f52", "name": "ZeroXUniswapLikeLPSwapper", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/6/2022"}
+{"address": "0xb6957806b7fd389323628674bcdfcd61b9cc5e02", "name": "CauldronV3_2", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/6/2022"}
+{"address": "0xa93c81f564579381116ee3e007c9fcfd2eba1723", "name": "DegenBox", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "8/6/2022"}
+{"address": "0xa5e9237b53c44d4b3de26e307c2034df1084c94c", "name": "MultichainWithdrawer", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/6/2022"}
+{"address": "0xee2f020885475759ecd6ec24d922fbb5998f143a", "name": "MultichainWithdrawer", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/6/2022"}
