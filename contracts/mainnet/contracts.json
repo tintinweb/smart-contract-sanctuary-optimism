@@ -4030,3 +4030,10 @@
 {"address": "0xe93e70dF9fF34B6175720252C9C6EB2d68694fC3", "name": "ReaperStrategyVelodromeUsdcStable", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/5/2022"}
 {"address": "0x6f5c7BE5EA924a1579e85e6bC74AC0504183e0Da", "name": "ReaperStrategyVelodromeUsdcStable", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/5/2022"}
 {"address": "0xA9BAa5DF418E8273d5A61bD0F6B6CD24ff85F1A0", "name": "ReaperStrategyVelodromeUsdcStable", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/5/2022"}
+{"address": "0x4fE49C11582B3517a6C6B5Ae31dFAD3Cc6CA0F12", "name": "ABCSweepRouter", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/6/2022"}
+{"address": "0xdbA6080B5986d933dA305cDA34188aA67fa8A937", "name": "ABCSweepRouter", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/6/2022"}
+{"address": "0xe17311173dae2be384a57efa862c1f6809fe40f8", "name": "WrappedExternalBribe", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "8/5/2022"}
+{"address": "0x7955519e14fdf498e28831f4cc06af4b8e3086a8", "name": "WrappedExternalBribeFactory", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 94, "settings": "", "date": "8/5/2022"}
+{"address": "0x03726d5537E29061A93e2Ed537F8f53afd37523C", "name": "ReaperAutoCompoundFlashBorrow", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/5/2022"}
+{"address": "0x20de838befab49d4181bd7165247924837d20e18", "name": "PbCrvOpEth", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/5/2022"}
+{"address": "0x8ae32c034dacd85a79cfd135050fcb8e6d4207d8", "name": "PbCrvOpUsd", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/5/2022"}
