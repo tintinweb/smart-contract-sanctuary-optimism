@@ -4055,3 +4055,17 @@
 {"address": "0xa93c81f564579381116ee3e007c9fcfd2eba1723", "name": "DegenBox", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "8/6/2022"}
 {"address": "0xa5e9237b53c44d4b3de26e307c2034df1084c94c", "name": "MultichainWithdrawer", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/6/2022"}
 {"address": "0xee2f020885475759ecd6ec24d922fbb5998f143a", "name": "MultichainWithdrawer", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/6/2022"}
+{"address": "0xd3a93c794ee2798d8f7906493cd3c2a835aa0074", "name": "StrategiesHelper", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/6/2022"}
+{"address": "0x5be63bf19d30e48738b13f7b07d33839bb25044b", "name": "String", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/6/2022"}
+{"address": "0x156bab355e81b498072c9ce3cf655e9844a12529", "name": "AddressMergeHelper", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/6/2022"}
+{"address": "0x167aa4ba31b8285707d1489ad705cb24cf4e5186", "name": "BalancesHelper", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/6/2022"}
+{"address": "0xbcfca75ff12e2c1bb404c2c216dbf901be047690", "name": "RegistryAdapterV2Vault", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/6/2022"}
+{"address": "0xb082d9f4734c535d9d80536f7e87a6f4f471bf65", "name": "Oracle", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/6/2022"}
+{"address": "0x94141d7bff3d04d61ce65b917bdd37b655e08f18", "name": "AllowancesHelper", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/6/2022"}
+{"address": "0x776c1e69b858f1b9622085052fb7b64a196ac602", "name": "Helper", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/6/2022"}
+{"address": "0xd63ab09ac2048a7ecac92f0ffad5f104edd0e032", "name": "AddressesGeneratorV2Vaults", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/6/2022"}
+{"address": "0x7e9756e1427b3c38f001f9d272d8d62bef63d619", "name": "ManagementList", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/6/2022"}
+{"address": "0x8273217252254Ad7353f227aaEcd2b1C4A326Fa2", "name": "AddressesProvider", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/6/2022"}
+{"address": "0x02ff746d8cb62709aeec611cec9b17d7dd1d3480", "name": "String", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/6/2022"}
+{"address": "0x061ea85f0F2936d382cAd1861D7BceFd986d79e1", "name": "String", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/6/2022"}
+{"address": "0xf3885ede00171997bfadaa98e01e167b53a78ec5", "name": "Basefee", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "8/6/2022"}
