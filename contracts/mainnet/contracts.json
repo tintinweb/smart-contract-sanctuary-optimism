@@ -4070,3 +4070,5 @@
 {"address": "0x061ea85f0F2936d382cAd1861D7BceFd986d79e1", "name": "String", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/6/2022"}
 {"address": "0xf3885ede00171997bfadaa98e01e167b53a78ec5", "name": "Basefee", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "8/6/2022"}
 {"address": "0xf53b18570db14c1e7dbc7dc74538c48d042f1332", "name": "HyperfyWorlds", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/7/2022"}
+{"address": "0x76f9187b4163Ca723C7e479c1d8A614DE56064A3", "name": "LadyFoxy", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "8/7/2022"}
+{"address": "0xF59F2aC485E94e2ee61882B0E39cef945993C960", "name": "OppaBearSpecial", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 5, "settings": "-", "date": "8/7/2022"}
