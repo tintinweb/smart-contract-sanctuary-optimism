@@ -4114,3 +4114,10 @@
 {"address": "0x8c40274C160460FfeF2339060820a7A6d04E1eE7", "name": "VeloStrategy_SUSDUSDC", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/8/2022"}
 {"address": "0xEf140450548f30C96090342A4234f25d3363a67C", "name": "NukeVault", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "8/8/2022"}
 {"address": "0xc36475bcf230c80f08c02565d5a3d9376ceed323", "name": "NativeDutchLaunchpad", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/8/2022"}
+{"address": "0x0ffe8434eae67c9838b12c3cd11ac4005daa7227", "name": "CalculationsCurve", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/8/2022"}
+{"address": "0x9eb8dE8c5107e518b8Bd8a832DdFb8682865bD61", "name": "AelinNftTest", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 12, "settings": "", "date": "8/8/2022"}
+{"address": "0xeF6CAf4032E018258F0BcA0eef710Ba88754E17b", "name": "OEStandardSecurityToken", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/8/2022"}
+{"address": "0xc674EA45064a90910c1Ee08B4E9918ecBFAF8e9d", "name": "OEStandardSecurityToken", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/8/2022"}
+{"address": "0xD7fF0597A891b2CD9731073410b92b5326bdAC07", "name": "OEStandardSecurityToken", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/8/2022"}
+{"address": "0xC7e342a88ADEAe5541B912c217afc40f5B494B2a", "name": "OEStandardSecurityToken", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/8/2022"}
+{"address": "0x90aF7635cD039bca2083EA7F579AC951f98108e9", "name": "OEStandardSecurityToken", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/8/2022"}
