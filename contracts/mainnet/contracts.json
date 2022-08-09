@@ -4121,3 +4121,5 @@
 {"address": "0xD7fF0597A891b2CD9731073410b92b5326bdAC07", "name": "OEStandardSecurityToken", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/8/2022"}
 {"address": "0xC7e342a88ADEAe5541B912c217afc40f5B494B2a", "name": "OEStandardSecurityToken", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/8/2022"}
 {"address": "0x90aF7635cD039bca2083EA7F579AC951f98108e9", "name": "OEStandardSecurityToken", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/8/2022"}
+{"address": "0xB73C7F43DA35B6a678567e88a993a3a553b31858", "name": "NewSplitter", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "8/8/2022"}
+{"address": "0x77BfEcce13B0E166146cc88D701FFAdb969c7D78", "name": "Multicall", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/8/2022"}
