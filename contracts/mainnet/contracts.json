@@ -4164,3 +4164,8 @@
 {"address": "0x99D2daaF23167DaAF6eC25D350105b4b92451713", "name": "StargateStrategy_USDC", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/9/2022"}
 {"address": "0xf5e49b0a960459799f1e9b3f313dfa81d2ce553c", "name": "ShareRewardPool", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/9/2022"}
 {"address": "0x09448876068907827ec15f49a8f1a58c70b04d45", "name": "Share", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "8/9/2022"}
+{"address": "0x34cfac646f301356faa8b21e94227e3583fe3f5f", "name": "GnosisSafe", "compiler": "0.5.14", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "8/9/2022"}
+{"address": "0xac0f293fccbcb46a42507de9da4d326a404e9169", "name": "Proxy", "compiler": "0.5.14", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "8/9/2022"}
+{"address": "0xa50b7D03fCBd5a6fBa14f0F9Ed435a40a39568F6", "name": "TablelandTables", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/9/2022"}
+{"address": "0xdc602965F3e5f1e7BAf2446d5564b407d5113A06", "name": "AdminUpgradeabilityProxy", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/9/2022"}
+{"address": "0x00000b7665850F6b1E99447a68dB1e83d8Deafe3", "name": "BadgerRegistry", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/9/2022"}
