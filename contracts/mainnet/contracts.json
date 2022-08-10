@@ -4191,3 +4191,15 @@
 {"address": "0x4c8dc708d58651eb67222d81e60c8bc703245a40", "name": "VaultToken", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/10/2022"}
 {"address": "0xfc506a5d5e5c84970878d010b269b095d61e2c67", "name": "BlackScholesLib", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/10/2022"}
 {"address": "0x2B1c7b41f6A8F2b2bc45C3233a5d5FB3cD6dC9A8", "name": "AntiSnipAttackPositionManager", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 60, "settings": "", "date": "8/10/2022"}
+{"address": "0xEaB3b53b08926182324bF7E12D30A5393C394cE3", "name": "TestRecipient", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/10/2022"}
+{"address": "0x0606df062990c6cDD81a99C398B81A271F92ED3D", "name": "StargateStrategy_USDC", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "8/10/2022"}
+{"address": "0x35F4521d42C6122975161ccf496bF06Df2a325F7", "name": "NukeVault", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "8/10/2022"}
+{"address": "0xFeE6aD77aE0249eEB27899a71440A2455233E7aD", "name": "VeloStrategy_SUSDUSDC", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "8/10/2022"}
+{"address": "0x6FFe4c4224DBa3AEE91a3a458146372e7Abc6A9e", "name": "NukeVault", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "8/10/2022"}
+{"address": "0xC20182c56112932Da01d07D90e4b5A63204d404D", "name": "CurveSusdStrategy", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "8/10/2022"}
+{"address": "0xC781af407e816469CE31c9f11b403ced3DEF37f9", "name": "NukeVault", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "8/10/2022"}
+{"address": "0x3E2D9825b6F5f9fFB0285FCd720b936413050bEE", "name": "TokenERC20", "compiler": "0.4.16", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "8/10/2022"}
+{"address": "0xC3650F57dd14aC5e5Ca86B350Ea7C73dEe36ECd3", "name": "TherundownConsumer", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/10/2022"}
+{"address": "0x221f3c35eb8df641787af6782b01e960cc7b20f5", "name": "Optimism_Land", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "8/10/2022"}
+{"address": "0xa11451acd2fbdf4ae798f44c4227cab9517739d7", "name": "PutSellingVault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 103, "settings": "", "date": "8/10/2022"}
+{"address": "0x53268e841e30278ef0b9597813893fa8e4559510", "name": "CallSellingVault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 83, "settings": "", "date": "8/10/2022"}
