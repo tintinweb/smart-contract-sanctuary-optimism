@@ -4169,3 +4169,6 @@
 {"address": "0xa50b7D03fCBd5a6fBa14f0F9Ed435a40a39568F6", "name": "TablelandTables", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/9/2022"}
 {"address": "0xdc602965F3e5f1e7BAf2446d5564b407d5113A06", "name": "AdminUpgradeabilityProxy", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/9/2022"}
 {"address": "0x00000b7665850F6b1E99447a68dB1e83d8Deafe3", "name": "BadgerRegistry", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/9/2022"}
+{"address": "0xd27206C5C8AB1157d3178Ed306b41852a333C019", "name": "NukeVault", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/10/2022"}
+{"address": "0xF74C91c6D513145F3534195e1aA7defA0f517C38", "name": "CurveSusdStrategy", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/10/2022"}
+{"address": "0x24ff88705c1b141a69b207f694790185a423f2a2", "name": "GenericAaveV3", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/9/2022"}
