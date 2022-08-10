@@ -4203,3 +4203,6 @@
 {"address": "0x221f3c35eb8df641787af6782b01e960cc7b20f5", "name": "Optimism_Land", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "8/10/2022"}
 {"address": "0xa11451acd2fbdf4ae798f44c4227cab9517739d7", "name": "PutSellingVault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 103, "settings": "", "date": "8/10/2022"}
 {"address": "0x53268e841e30278ef0b9597813893fa8e4559510", "name": "CallSellingVault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 83, "settings": "", "date": "8/10/2022"}
+{"address": "0x681F12990dc1c186c0de351406d1e9aCA625352b", "name": "GenericAaveV3", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/10/2022"}
+{"address": "0x2551d311a2e285ba83274e47cd6b98dbcb1ea4b3", "name": "JigsawLaunchpad2", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 4, "settings": "-", "date": "8/10/2022"}
+{"address": "0xdf43263dfec19117f2fe79d1d9842a10c7495ccd", "name": "Strategy", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/10/2022"}
