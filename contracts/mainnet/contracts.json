@@ -4229,3 +4229,8 @@
 {"address": "0x1aD0ABe4FD37e8f1E1B0A018425b5E4eAE703304", "name": "Seed", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "8/11/2022"}
 {"address": "0x180555D4d45e67520adC7c0c51b512c7A50877f2", "name": "MetaAggregationRouter", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "8/11/2022"}
 {"address": "0xf40508173319df27923e7bdf52a3880c8629b1a6", "name": "PolynomialAuthority", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "8/11/2022"}
+{"address": "0x3D1E0062CEe473F3deCE845199ea16DC1D489d67", "name": "TherundownThalesConsumer", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/11/2022"}
+{"address": "0x220e691831fdcba750c9d49e930434736f18a5a0", "name": "Address", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "8/11/2022"}
+{"address": "0x11cc37a2f75d4277a33b0f577233e715f1d840ab", "name": "Address", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "8/11/2022"}
+{"address": "0x0bc81047265c0e1be360E7594928c121E26e02E8", "name": "VeloStrategy_SUSDUSDC", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "8/11/2022"}
+{"address": "0xAa2447052Ea11Eed8Aa10Fe79e3E82719e8cb6fb", "name": "VeloStrategy_SUSDUSDC", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "8/11/2022"}
