@@ -4206,3 +4206,10 @@
 {"address": "0x681F12990dc1c186c0de351406d1e9aCA625352b", "name": "GenericAaveV3", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/10/2022"}
 {"address": "0x2551d311a2e285ba83274e47cd6b98dbcb1ea4b3", "name": "JigsawLaunchpad2", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 4, "settings": "-", "date": "8/10/2022"}
 {"address": "0xdf43263dfec19117f2fe79d1d9842a10c7495ccd", "name": "Strategy", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/10/2022"}
+{"address": "0x2fAC63DBE4BD4f3D118909193Ff2563Da027eB88", "name": "AaveIncentivesControllerV3Guard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/11/2022"}
+{"address": "0x2e98053f4a1b2595bfaa4d0ad0a450f8deb8bbcc", "name": "OptStrategy", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "8/10/2022"}
+{"address": "0xe4Cb95201229B4F94e4F45E2Ccc59bFc47D4C089", "name": "BarnStakingPolicy", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/10/2022"}
+{"address": "0x35859ed2793072faD81FD31ABB13FE21818502D9", "name": "BarnTreasury", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/10/2022"}
+{"address": "0x1b27E87C03B3222e8E43eFaAC1e0E2593B58F360", "name": "XBOND", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/10/2022"}
+{"address": "0x52B478882a64dCec8708c6909E83E6864f28F179", "name": "Governance", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/10/2022"}
+{"address": "0xe01557DB983d1f7032933c73249f0001AE8889F4", "name": "Kernel", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "8/10/2022"}
