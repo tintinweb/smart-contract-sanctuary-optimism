@@ -4234,3 +4234,9 @@
 {"address": "0x11cc37a2f75d4277a33b0f577233e715f1d840ab", "name": "Address", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "8/11/2022"}
 {"address": "0x0bc81047265c0e1be360E7594928c121E26e02E8", "name": "VeloStrategy_SUSDUSDC", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "8/11/2022"}
 {"address": "0xAa2447052Ea11Eed8Aa10Fe79e3E82719e8cb6fb", "name": "VeloStrategy_SUSDUSDC", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "8/11/2022"}
+{"address": "0xBEEbA3F30cd912debdc18B1E4035d51584973480", "name": "Identity", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "8/11/2022"}
+{"address": "0x312A8E33d78d3Ab79E62971E86e5e8c9c5E28D64", "name": "FuroVestingRouter", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/11/2022"}
+{"address": "0xf30CF8D373D78D7964A2F7793b730BF7ae0970a8", "name": "FuroStreamRouter", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/11/2022"}
+{"address": "0x3eB42604b82972477D36C8D4e4B026F37AeA70C1", "name": "IdentityFactory", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "8/11/2022"}
+{"address": "0xBc30AF9080cF750fb96fF831B7B1c52e5b604Ac7", "name": "OptimismAdapter01", "compiler": "0.7.5", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/11/2022"}
+{"address": "0xa2f581b012E0f2dcCDe86fCbfb529f4aC5dD4983", "name": "DystopiaExchangeRouter", "compiler": "0.7.5", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/11/2022"}
