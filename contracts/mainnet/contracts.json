@@ -4240,3 +4240,11 @@
 {"address": "0x3eB42604b82972477D36C8D4e4B026F37AeA70C1", "name": "IdentityFactory", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "8/11/2022"}
 {"address": "0xBc30AF9080cF750fb96fF831B7B1c52e5b604Ac7", "name": "OptimismAdapter01", "compiler": "0.7.5", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/11/2022"}
 {"address": "0xa2f581b012E0f2dcCDe86fCbfb529f4aC5dD4983", "name": "DystopiaExchangeRouter", "compiler": "0.7.5", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/11/2022"}
+{"address": "0x8471d8584a26C17375B34335e118384898C0E938", "name": "Treasury", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/12/2022"}
+{"address": "0xD5f3433774Da8A75768f8e0e4F26F614f5d5C4F3", "name": "SShareRewardPool", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "8/12/2022"}
+{"address": "0xb312070272cb7C8dBb889340abafb01F6F581610", "name": "SeedRewardPool", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/12/2022"}
+{"address": "0x54cbB0e38FA2838df46C003640eADA8fe0744De8", "name": "SeedGenesisRewardPool", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "8/12/2022"}
+{"address": "0x21d7b09bcf08f7b6b872bed56cb32416ae70bcc8", "name": "TradeHandler", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/12/2022"}
+{"address": "0x53720fd02a2e2d7AA14064907eeBCF33Ea5A281F", "name": "TupleHelper", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/12/2022"}
+{"address": "0x658843BB859B7b85cEAb5cF77167e3F0a78dFE7f", "name": "RocketBalancerRateProvider", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/12/2022"}
+{"address": "0x1a8F81c256aee9C640e14bB0453ce247ea0DFE6F", "name": "RocketOvmPriceOracle", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/12/2022"}
