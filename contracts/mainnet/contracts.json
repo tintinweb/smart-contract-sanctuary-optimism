@@ -4252,3 +4252,6 @@
 {"address": "0xB98f58705D9268d49E06a89d04a7a56232f92f4C", "name": "CurvePortalOut", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/12/2022"}
 {"address": "0xfaE728596e21166E1c4CB619604ea44D01D0FEE6", "name": "OppaBearTownStoryV1NFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "8/12/2022"}
 {"address": "0x3040387c46e21b453e4a8f648528368b9066628b", "name": "StrategyCurveLPUniV3Router", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "8/12/2022"}
+{"address": "0xbce556cf365E631fF50449211A6f2CB8936f40D1", "name": "ProjectRegistry", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "8/12/2022"}
+{"address": "0x555592c1b8db4A023873f94Ca6A8ec04fcE15555", "name": "TricycleSwap", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "8/12/2022"}
+{"address": "0x4Fd63966879300caFafBB35D157dC5229278Ed23", "name": "MetaStablePool", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "8/12/2022"}
