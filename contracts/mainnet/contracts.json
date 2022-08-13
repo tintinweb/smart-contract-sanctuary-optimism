@@ -4277,3 +4277,7 @@
 {"address": "0xb525312Fe5ADBBD0812191c78d4f58fF6b278c49", "name": "RTHMToken", "compiler": "0.6.2", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "8/12/2022"}
 {"address": "0x6793C4390Dd2f95a74E20329e93957243Ae70232", "name": "ConnectV2ParaswapV5Optimism", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/12/2022"}
 {"address": "0x65cb037dec3c51b8a4ee48b4fb114514198d5626", "name": "Zoop", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 17, "settings": "", "date": "8/12/2022"}
+{"address": "0xC847F745C21c69255B362ECc8DA721d77ddaA74e", "name": "AssetViewer", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/13/2022"}
+{"address": "0xc838D135aeAdb14168A43BF7F2764c274D6c1877", "name": "BorrowModule", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/13/2022"}
+{"address": "0x4019b346063A2cAC33B090dc9837f8Ad1e079295", "name": "ParametersStorage", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "8/13/2022"}
+{"address": "0xcc07e1fab177a5b81ad39a348f3fba2ad8269999", "name": "InitContract", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "8/13/2022"}
