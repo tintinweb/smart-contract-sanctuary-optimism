@@ -4281,3 +4281,8 @@
 {"address": "0xc838D135aeAdb14168A43BF7F2764c274D6c1877", "name": "BorrowModule", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/13/2022"}
 {"address": "0x4019b346063A2cAC33B090dc9837f8Ad1e079295", "name": "ParametersStorage", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "8/13/2022"}
 {"address": "0xcc07e1fab177a5b81ad39a348f3fba2ad8269999", "name": "InitContract", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "8/13/2022"}
+{"address": "0x4a5EDEA0E77dAaB2E995FA6CEB23b4479A7081a5", "name": "CryptoArt", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 8, "settings": "-", "date": "8/13/2022"}
+{"address": "0xb82b7887f0a92CA07907e7c01d9FfbBEBe95daf4", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1243, "settings": "-", "date": "8/13/2022"}
+{"address": "0x12f0215ee1fd10a3a8f19224265aac5472961639", "name": "fishbags", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "8/13/2022"}
+{"address": "0x4676E053d6ea1E907aAf3bD69a2D81462Eba0e00", "name": "BorrowModule", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/13/2022"}
+{"address": "0x6764b0Ed665F60BBECAfA4Fa697C2851612EEA65", "name": "ParametersStorage", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "8/13/2022"}
