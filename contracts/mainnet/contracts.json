@@ -4286,3 +4286,8 @@
 {"address": "0x12f0215ee1fd10a3a8f19224265aac5472961639", "name": "fishbags", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "8/13/2022"}
 {"address": "0x4676E053d6ea1E907aAf3bD69a2D81462Eba0e00", "name": "BorrowModule", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/13/2022"}
 {"address": "0x6764b0Ed665F60BBECAfA4Fa697C2851612EEA65", "name": "ParametersStorage", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "8/13/2022"}
+{"address": "0x9e841f05dc2b92199f3fce96bdefc36a08dcb9f6", "name": "OPTIMISM", "compiler": "0.7.0", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "8/14/2022"}
+{"address": "0x8F2D8BA71B65d3F341E173d8a2AC049CA397e497", "name": "Oracle", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/14/2022"}
+{"address": "0x885C00125AaF2bf16d4A527b33BFEE20Ae5E121c", "name": "Treasury", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/14/2022"}
+{"address": "0xAEbcB1D4655bDb0D753AAD238beb32000c4B91AC", "name": "Router", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/13/2022"}
+{"address": "0x699ec8F15802A17B74821894088E8733b5a59C63", "name": "Trading", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/13/2022"}
