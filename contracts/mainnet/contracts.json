@@ -4302,3 +4302,4 @@
 {"address": "0xcE8eF8e0f0FE68c618A7a9A8ab6871511f41B403", "name": "Rewards", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/14/2022"}
 {"address": "0xBb989F4752CB6B98A367dA7437CB4b93cBAD447f", "name": "Pool", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/14/2022"}
 {"address": "0x2a8f808ad38e1ed7693fc9459b2177a1fa4a1fe5", "name": "Pool", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/14/2022"}
+{"address": "0x3dae20351f200a95a14085499b9705ccc6f769e0", "name": "Rewards", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/14/2022"}
