@@ -4291,3 +4291,14 @@
 {"address": "0x885C00125AaF2bf16d4A527b33BFEE20Ae5E121c", "name": "Treasury", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/14/2022"}
 {"address": "0xAEbcB1D4655bDb0D753AAD238beb32000c4B91AC", "name": "Router", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/13/2022"}
 {"address": "0x699ec8F15802A17B74821894088E8733b5a59C63", "name": "Trading", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/13/2022"}
+{"address": "0x32f4e770feac9676f41c88065228bffdf9116e26", "name": "BadgerBridgeZeroControllerOptimism", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/14/2022"}
+{"address": "0x5A34299C61A3eF4a559859fB389198C69C989665", "name": "StrategyVeloUsdcAlusdSlp", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/14/2022"}
+{"address": "0x22c40e877AE928e90D0FDE276973BacEe2f4047b", "name": "StrategySynapseUsdc", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/14/2022"}
+{"address": "0x2602848d8eB53aa9bff5b41B38656439C15Dc72A", "name": "StrategyAave", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/14/2022"}
+{"address": "0x9C72f0837d08b30AF5B59F4CA1c914E8F1c332F1", "name": "Rewards", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/14/2022"}
+{"address": "0x469788fe6e9e9681c6ebf3bf78e7fd26fc015446", "name": "DelegateRegistry", "compiler": "0.7.2", "balance": "0 Ether", "txcount": 4, "settings": "-", "date": "8/14/2022"}
+{"address": "0x58Bd1102f3dABDf95F2D5D2147F4d96Ef66973B8", "name": "PoolONA", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/14/2022"}
+{"address": "0x07b265E93cbceAC2804D45104104D7C53Bd7f3EF", "name": "Rewards", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/14/2022"}
+{"address": "0xcE8eF8e0f0FE68c618A7a9A8ab6871511f41B403", "name": "Rewards", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/14/2022"}
+{"address": "0xBb989F4752CB6B98A367dA7437CB4b93cBAD447f", "name": "Pool", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/14/2022"}
+{"address": "0x2a8f808ad38e1ed7693fc9459b2177a1fa4a1fe5", "name": "Pool", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/14/2022"}
