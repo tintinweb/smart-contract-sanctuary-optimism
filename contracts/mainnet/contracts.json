@@ -4306,3 +4306,8 @@
 {"address": "0x87d88d6177ee8c5594db9c9e1cff77b8fe4cede9", "name": "Shark", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "8/15/2022"}
 {"address": "0x71e2c7a29a9cdc12d1229383256ffe285e2ad883", "name": "Astromust", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/15/2022"}
 {"address": "0x988c5c24ae6348404196267e19962f36961cac29", "name": "ToggleSub", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/15/2022"}
+{"address": "0xdd85574d51f281f627abb3c7485cb22bb11600c2", "name": "BadgerBridgeZeroControllerOptimism", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/15/2022"}
+{"address": "0x3116c67a1758f82b91bb97ea503506b409a90ae1", "name": "StrategyCommonChefSolidlyLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "8/15/2022"}
+{"address": "0x63500d833140bdd69e6fbf3039b111c703333996", "name": "OPc", "compiler": "0.8.8", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "8/15/2022"}
+{"address": "0xda2307a45d298e855415675bf388e2bd64351d5b", "name": "StrategyCommonChefSolidlyLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "8/15/2022"}
+{"address": "0xe8e8093d44f84be11974E3183d219e94fc9c36D7", "name": "TherundownConsumer", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/15/2022"}
