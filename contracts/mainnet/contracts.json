@@ -4418,3 +4418,16 @@
 {"address": "0x2b58528dABF7fC3Ed0102DF7bfE2578e951bDE02", "name": "AelinDeal", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/17/2022"}
 {"address": "0xf145650Cbb189f5f05ece057fc55F341d513C8C4", "name": "AelinFeeEscrow", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/17/2022"}
 {"address": "0x7E6BAb8ea532Cd13c040da36E1070E6a2482Ee42", "name": "WWX", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "8/18/2022"}
+{"address": "0xf917D20bF8ADA622Bc36f027544A6600826de5a9", "name": "ReaperStrategyVelodromeUsdc", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/18/2022"}
+{"address": "0x89E8e196ea5c6d325164a40B4b690e141eA9641e", "name": "ReaperStrategyVelodromeUsdc", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/18/2022"}
+{"address": "0x8F567291d6c6F2129D4ce283A7a5CbfcA0909333", "name": "ReaperStrategyVelodrome", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/18/2022"}
+{"address": "0xe7632AaF1096c694f0E6b7e118d0532d12F89CA2", "name": "ReaperStrategyVelodrome", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/18/2022"}
+{"address": "0x43c36fF1955140674d3Cb7222655ab2DC4422e5F", "name": "ReaperStrategyVelodromeUsdc", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/18/2022"}
+{"address": "0xcfe741a4e6820a331Ca1B613f9F395Df980eDa1b", "name": "Badges", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/18/2022"}
+{"address": "0xC768A71959f331638058e30037E6adF8392281F9", "name": "SpecDataHolder", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/18/2022"}
+{"address": "0xaa9A1A786A14623FA83BC04415547E1421772428", "name": "Raft", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/18/2022"}
+{"address": "0xdF44AF1F4aEd81249d24508f74fd4565646c2312", "name": "WondrousX", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/18/2022"}
+{"address": "0x0c5b4c92c948691EEBf185C17eeB9c230DC019E9", "name": "AnyswapV6ERC20", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/18/2022"}
+{"address": "0x5442fF0573Fd54A4F6C02A7a0d8E22BdC1a3C671", "name": "OvertimeVoucher", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/18/2022"}
+{"address": "0x61b9353e2ae30e327f360d18b65972e3ab8198ed", "name": "ReaperStrategyVelodrome", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/18/2022"}
+{"address": "0x02d21061ae1df3b4ec8ec246e790418259cf1443", "name": "ReaperStrategyVelodromeUsdc", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/18/2022"}
