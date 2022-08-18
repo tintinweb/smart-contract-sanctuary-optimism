@@ -4407,3 +4407,13 @@
 {"address": "0x4b58C9022fAF4c4e6DCcf256E311bAB41bBA72c5", "name": "CollateralManager", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/16/2022"}
 {"address": "0x6d4a7EA11Cd9e053319DB911e2A01A45d4767b63", "name": "ClearingHouse", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/16/2022"}
 {"address": "0xC711252C26cDa0603a6e3103354c65bB668e14CD", "name": "Vault", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/16/2022"}
+{"address": "0x373263A5D58b667f4aB6D200D895d1ef252a6c51", "name": "Badge", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "8/18/2022"}
+{"address": "0x1642b47eD6688e20680213201d97ADF6D1d92481", "name": "IBAgreementV3", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/18/2022"}
+{"address": "0x46Bc16F76B0aE14Abb820D3410843Ba54D8ef6f0", "name": "WidgetSwap", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/18/2022"}
+{"address": "0xD5734c42E2e593933231bE61BAc2B94ACdc44DC4", "name": "UniswapV3Converter", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/18/2022"}
+{"address": "0xc358D3Ea954e39cAeABc9c2fD80DCE21A920387b", "name": "IBAgreementFactory", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/18/2022"}
+{"address": "0xbAC6c6e28bd000a72fA18735CC24CeEe49F51069", "name": "OvertimeVoucher", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/17/2022"}
+{"address": "0x8B35551d6459a3d49B9A5A0D7333c6D7E0cCbBd9", "name": "AelinPoolFactory", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/17/2022"}
+{"address": "0x9d30dE9EeEb855D08c22155593FA5e035a742108", "name": "AelinPool", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/17/2022"}
+{"address": "0x2b58528dABF7fC3Ed0102DF7bfE2578e951bDE02", "name": "AelinDeal", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/17/2022"}
+{"address": "0xf145650Cbb189f5f05ece057fc55F341d513C8C4", "name": "AelinFeeEscrow", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/17/2022"}
