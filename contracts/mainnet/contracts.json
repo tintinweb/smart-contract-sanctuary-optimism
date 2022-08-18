@@ -4431,3 +4431,10 @@
 {"address": "0x5442fF0573Fd54A4F6C02A7a0d8E22BdC1a3C671", "name": "OvertimeVoucher", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/18/2022"}
 {"address": "0x61b9353e2ae30e327f360d18b65972e3ab8198ed", "name": "ReaperStrategyVelodrome", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/18/2022"}
 {"address": "0x02d21061ae1df3b4ec8ec246e790418259cf1443", "name": "ReaperStrategyVelodromeUsdc", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/18/2022"}
+{"address": "0xE633E60a301428f202D999FC9A91F9229085Cb23", "name": "ReaperStrategyVelodrome", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/18/2022"}
+{"address": "0xed9416054a155a92099f35e8ef23f9740bb98974", "name": "ReaperStrategyVelodrome", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/18/2022"}
+{"address": "0x49d0716e7eddac4de1b7a1b4fbc86808e77d2510", "name": "ChainlinkTriggerFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/18/2022"}
+{"address": "0x65CfB7265dFe16cfF2E90218e1b585db961a6c0A", "name": "WrappedExzoCoin20", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "8/18/2022"}
+{"address": "0x00d13230950000701e9Ca8a9506c00Df00220085", "name": "OptimismFeeCollector", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "8/18/2022"}
+{"address": "0x0000000033cA97C0b4DF29103DC8dA00a967884f", "name": "UpgradeBeacon", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "8/18/2022"}
+{"address": "0x0000a26b00c1F0DF003000390027140000fAa719", "name": "PayableProxy", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/18/2022"}
