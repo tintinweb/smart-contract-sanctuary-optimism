@@ -4442,3 +4442,5 @@
 {"address": "0xfb1fc21d2937bf5a49d480189e7fed42bf8282ad", "name": "VelodromeLibrary", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/19/2022"}
 {"address": "0x9c12939390052919af3155f41bf4160fd3666a6f", "name": "Router", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/19/2022"}
 {"address": "0x3590c3f79d8c15ccfa223974a258006a1267412d", "name": "BeefyVaultV6", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "8/19/2022"}
+{"address": "0x9cc89a349221f286f7a53867abe7c474584e00a9", "name": "UMATriggerFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/19/2022"}
+{"address": "0xcbe0f557f7455bcaa81847f6650977054ac09c13", "name": "ChainlinkTriggerFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/19/2022"}
