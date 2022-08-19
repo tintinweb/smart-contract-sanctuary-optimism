@@ -4444,3 +4444,8 @@
 {"address": "0x3590c3f79d8c15ccfa223974a258006a1267412d", "name": "BeefyVaultV6", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "8/19/2022"}
 {"address": "0x9cc89a349221f286f7a53867abe7c474584e00a9", "name": "UMATriggerFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/19/2022"}
 {"address": "0xcbe0f557f7455bcaa81847f6650977054ac09c13", "name": "ChainlinkTriggerFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/19/2022"}
+{"address": "0x8964e71578E6e6a7552692D3E1d0A576711298e6", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "8/19/2022"}
+{"address": "0xB78025912338dD72b34755AAffF7dE1dCb0B8030", "name": "MultichainRouter", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/19/2022"}
+{"address": "0xDB85184a60FeEc85dA3428e34F6d09bB3114d749", "name": "MultichainPortal", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/19/2022"}
+{"address": "0xe03bf2968ef7ad03162a998805b90ea63ec71f7e", "name": "UMATriggerFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/19/2022"}
+{"address": "0x1c6ac12983bb6ba9c6ad9e3a72c88670442ecd33", "name": "ChainlinkTriggerFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/19/2022"}
