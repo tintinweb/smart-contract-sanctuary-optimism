@@ -4449,3 +4449,10 @@
 {"address": "0xDB85184a60FeEc85dA3428e34F6d09bB3114d749", "name": "MultichainPortal", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/19/2022"}
 {"address": "0xe03bf2968ef7ad03162a998805b90ea63ec71f7e", "name": "UMATriggerFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/19/2022"}
 {"address": "0x1c6ac12983bb6ba9c6ad9e3a72c88670442ecd33", "name": "ChainlinkTriggerFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/19/2022"}
+{"address": "0x9b50b06b81f033ca86d70f0a44f30bd7e0155737", "name": "BeefyUniV2ZapSolidly", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 11, "settings": "", "date": "8/20/2022"}
+{"address": "0xe4b3c2b19db4fbaafbe99bd8ec869fc4c37063ae", "name": "BeefyUniV2ZapSolidly", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "8/20/2022"}
+{"address": "0x621ab9a2ef4256a43defeb37f0a1eacb276bbf97", "name": "BeefyUniV2ZapSolidly", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/20/2022"}
+{"address": "0x7d9dfe621d0c4b95711a64107d7b8350403d83c7", "name": "Migrator", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 29, "settings": "", "date": "8/20/2022"}
+{"address": "0xb28df1b71a5b3a638ecedf484e0545465a45d2ec", "name": "PutSellingVault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 13, "settings": "", "date": "8/20/2022"}
+{"address": "0x2D46292cbB3C601c6e2c74C32df3A4FCe99b59C7", "name": "CallSellingVault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 38, "settings": "", "date": "8/20/2022"}
+{"address": "0x0f827ba4d9389f71724739b7f9784505e0716d8c", "name": "PolynomialEarnResolver", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "8/20/2022"}
