@@ -4458,3 +4458,5 @@
 {"address": "0x0f827ba4d9389f71724739b7f9784505e0716d8c", "name": "PolynomialEarnResolver", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "8/20/2022"}
 {"address": "0xedb68101aafc8d035b8c254dbb2ce191ad63356a", "name": "StakingRewards", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "8/20/2022"}
 {"address": "0xf599511ed7714349cbed92a251b28c7ac61b8e72", "name": "StakingRewards", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "8/20/2022"}
+{"address": "0xbd78022D5e2d05cd39cb622d5c91F8dbA25CfE76", "name": "Xocolatl", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "8/21/2022"}
+{"address": "0x79094EBC9356f58a32268620306F2dF7A83af1eB", "name": "YourCollectible", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 15, "settings": "", "date": "8/21/2022"}
