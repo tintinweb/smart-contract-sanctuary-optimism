@@ -4456,3 +4456,5 @@
 {"address": "0xb28df1b71a5b3a638ecedf484e0545465a45d2ec", "name": "PutSellingVault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 13, "settings": "", "date": "8/20/2022"}
 {"address": "0x2D46292cbB3C601c6e2c74C32df3A4FCe99b59C7", "name": "CallSellingVault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 38, "settings": "", "date": "8/20/2022"}
 {"address": "0x0f827ba4d9389f71724739b7f9784505e0716d8c", "name": "PolynomialEarnResolver", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "8/20/2022"}
+{"address": "0xedb68101aafc8d035b8c254dbb2ce191ad63356a", "name": "StakingRewards", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "8/20/2022"}
+{"address": "0xf599511ed7714349cbed92a251b28c7ac61b8e72", "name": "StakingRewards", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "8/20/2022"}
