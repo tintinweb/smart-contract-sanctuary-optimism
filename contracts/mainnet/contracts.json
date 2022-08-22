@@ -4465,3 +4465,17 @@
 {"address": "0xcCF4Fdc780401010Aa7572102bF82A769b741A19", "name": "SportPositionalMarketManager", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/21/2022"}
 {"address": "0x3a6C2B9833ABBF7299FC24c51751951E904f02DD", "name": "MerkleClaimERC20", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/21/2022"}
 {"address": "0x6f0F15A58363E076a671B4d4165Cd3e53E507B83", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 777, "settings": "-", "date": "8/21/2022"}
+{"address": "0x349fc66424445f35da9f1660de2b83bf75181db6", "name": "UMATrigger", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "8/22/2022"}
+{"address": "0x3424517a4db48479e442867a89634be81a494054", "name": "ChainlinkTrigger", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "8/22/2022"}
+{"address": "0x604d0e8fb90db7d42baef32edc6416e586eb3f14", "name": "FixedPriceAggregator", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "8/22/2022"}
+{"address": "0x87a848fa89917988f4b9e4518cebc82b9e998a4b", "name": "UMATriggerFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/22/2022"}
+{"address": "0xcd5a264cc34dac1cb44afcd41d8da357ff37b864", "name": "ChainlinkTriggerFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/22/2022"}
+{"address": "0x0e6055148e22b0c2e0b44e5674984e76ed8c65b9", "name": "ChainlinkTrigger", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "8/22/2022"}
+{"address": "0x39C1206C547054CbcD8fC0E3bF07Cb0311704A0e", "name": "AaveFlashSupply", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/22/2022"}
+{"address": "0x6e7be86000df697facf4396efd2ae2c322165dc3", "name": "AugustusRegistry", "compiler": "0.7.5", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/22/2022"}
+{"address": "0x7ebb8399768047af810c3fd965ce21fb2ae4f15f", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/22/2022"}
+{"address": "0x06228f0a1790975597c7ed1b2df9729894e52d94", "name": "GenericConsumer", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/22/2022"}
+{"address": "0xac4ef9d6fc426f8ffd188771d9c688890b634462", "name": "Wrappr", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/22/2022"}
+{"address": "0xfdb949f5ff93d5f396cbf855f75e9f69b667458f", "name": "DhedgeUniV3V2Router", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/22/2022"}
+{"address": "0x3dd626be44c220cac45c677e9eb0d5d103308b49", "name": "DhedgeSuperSwapper", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/22/2022"}
+{"address": "0x44D77f6f6f64E402Aa795e8131bD60AaCE187Dd7", "name": "O3OptimismUniswapV3Aggregator", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "8/22/2022"}
