@@ -4496,3 +4496,10 @@
 {"address": "0x525f9584Cf000C7645896E5774bec11b4AD5877D", "name": "DhedgeSuperSwapper", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/23/2022"}
 {"address": "0x0B753Bf5b4583A984D1049a19d9D0F3E6029E45E", "name": "DhedgeUniV3V2Router", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/23/2022"}
 {"address": "0xd01263bb1c4b5ba7f2afe90397212d84e74e1d0e", "name": "CallSellingQuoteVault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 13, "settings": "", "date": "8/23/2022"}
+{"address": "0x7666c95d09a684f45e90267325489a2ace8235f7", "name": "Vyper_contract", "compiler": "vyper:0.3.6", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "8/23/2022"}
+{"address": "0xa81ba3a50445718e37de0cd0ae8f8d6d98c8b5e7", "name": "UMATrigger", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "8/23/2022"}
+{"address": "0x6504dcec9fd65677faab286137087bdf0675b881", "name": "UMATrigger", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "8/23/2022"}
+{"address": "0x5a8c0b0f3aa7971a7935f9b6cc0956000147c131", "name": "UMATrigger", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "8/23/2022"}
+{"address": "0x7ba5dbce5b8022c1698a4092267749425bf867ec", "name": "UMATrigger", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "8/23/2022"}
+{"address": "0x9BeF98489F586C53E01f2f28B27058B3CE415Bbb", "name": "MerkleDistributor", "compiler": "0.6.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/23/2022"}
+{"address": "0xb4eb9d5c5b85165db0dbb152708519ae38928154", "name": "UMATriggerFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "8/23/2022"}
