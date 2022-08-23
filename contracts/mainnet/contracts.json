@@ -4479,3 +4479,5 @@
 {"address": "0xfdb949f5ff93d5f396cbf855f75e9f69b667458f", "name": "DhedgeUniV3V2Router", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/22/2022"}
 {"address": "0x3dd626be44c220cac45c677e9eb0d5d103308b49", "name": "DhedgeSuperSwapper", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/22/2022"}
 {"address": "0x44D77f6f6f64E402Aa795e8131bD60AaCE187Dd7", "name": "O3OptimismUniswapV3Aggregator", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "8/22/2022"}
+{"address": "0x1621aea861bd12781b78e8d9a1c0e776a4566822", "name": "CoboSafeModule", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "8/23/2022"}
+{"address": "0x67A45c2163798d47c32Fc2bcD5Dc0ABc6dCDFe78", "name": "L2DaiTeleportGateway", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "8/22/2022"}
