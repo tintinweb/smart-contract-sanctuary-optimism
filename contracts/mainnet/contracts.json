@@ -4503,3 +4503,10 @@
 {"address": "0x7ba5dbce5b8022c1698a4092267749425bf867ec", "name": "UMATrigger", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "8/23/2022"}
 {"address": "0x9BeF98489F586C53E01f2f28B27058B3CE415Bbb", "name": "MerkleDistributor", "compiler": "0.6.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/23/2022"}
 {"address": "0xb4eb9d5c5b85165db0dbb152708519ae38928154", "name": "UMATriggerFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "8/23/2022"}
+{"address": "0xB26A49dAD928C6A045e23f00683e3ee9F65dEB23", "name": "ChipTable", "compiler": "0.8.5", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "8/23/2022"}
+{"address": "0x9aa3cd420f830E049e2b223D0b07D8c809C94d15", "name": "ChainlinkRateProvider", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/23/2022"}
+{"address": "0x5b1Fd862988b2fF641d832DBc1DA11D36D242c07", "name": "MultichainPortal", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/23/2022"}
+{"address": "0x4e20d5404ebde5a12ad555e50186efe3e2d5553d", "name": "LlamaPayBot", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "8/23/2022"}
+{"address": "0x7cE100ab7aC01b4A7B66632F4b9D5f591360FBbC", "name": "UMATrigger", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "8/23/2022"}
+{"address": "0xe4deb5084e31b1a9a1835f4e60ca9750c831735a", "name": "OptimismPad", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "8/23/2022"}
+{"address": "0x7082880DA9E1f19643c44fe0957ED6Fe5aabdA10", "name": "LyraQuoter", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/23/2022"}
