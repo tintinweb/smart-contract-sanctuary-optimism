@@ -4527,3 +4527,11 @@
 {"address": "0xb10306D35BE44AC8c2Fc5F17913cd492578C9b00", "name": "Forum", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "8/24/2022"}
 {"address": "0xe039f8102319af854fe11489a19d6b5d2799ada7", "name": "PickleRewarder", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/23/2022"}
 {"address": "0x849C283375A156A6632E8eE928308Fcb61306b7B", "name": "MiniChefV2", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/23/2022"}
+{"address": "0xea83ee73eB397c5974CB6b5220AE0A32fbE48B2B", "name": "LyraQuoter", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/24/2022"}
+{"address": "0x43e9603c8e53ceda24b3a186e7c3eb8ce4e8f7ed", "name": "UniswapV2Router02", "compiler": "0.6.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/24/2022"}
+{"address": "0x77b0f201E49FeCA78F02939092C3B77449F8bBA8", "name": "Forum", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "8/24/2022"}
+{"address": "0x8190944748c24dd64aac627c85e6805c0ab2f88f", "name": "UniswapV2Factory", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/24/2022"}
+{"address": "0x201DC30cA21450877FE209CDa9aA055a605CcFd9", "name": "Forum", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "8/24/2022"}
+{"address": "0xd8b3f50e964d3c8df2f53a805ece03d8e36f5e64", "name": "BaseUpgradeabilityProxy", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/24/2022"}
+{"address": "0xfd1b6f0d9dc019def120d2b9b814110fd4e265a0", "name": "BaseAdminUpgradeabilityProxy", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "8/24/2022"}
+{"address": "0xaa0b67216f3321c4b6905a72ecfbfa0f6315b49f", "name": "Vyper_contract", "compiler": "vyper:0.3.6", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "8/24/2022"}
