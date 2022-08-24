@@ -4535,3 +4535,4 @@
 {"address": "0xd8b3f50e964d3c8df2f53a805ece03d8e36f5e64", "name": "BaseUpgradeabilityProxy", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/24/2022"}
 {"address": "0xfd1b6f0d9dc019def120d2b9b814110fd4e265a0", "name": "BaseAdminUpgradeabilityProxy", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "8/24/2022"}
 {"address": "0xaa0b67216f3321c4b6905a72ecfbfa0f6315b49f", "name": "Vyper_contract", "compiler": "vyper:0.3.6", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "8/24/2022"}
+{"address": "0x8f7886eac7185f55d03c41f52709ed8111dfae51", "name": "Vyper_contract", "compiler": "vyper:0.3.6", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "8/24/2022"}
