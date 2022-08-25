@@ -4552,3 +4552,7 @@
 {"address": "0x965e460bf5cb38bada79fb2293c6304c799d0b1c", "name": "GammaVault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 104, "settings": "", "date": "8/25/2022"}
 {"address": "0x1896450330872D9492834C30D40c450eF0b529F2", "name": "GenericHandlerUpgradeable", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/25/2022"}
 {"address": "0x13Bae69A10C013E21824876bC500735162e2e4cf", "name": "OptimismAdapter01", "compiler": "0.7.5", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0x000000000F02C7b2916230b51256d017ed9b8A52", "name": "TokenLockup", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "8/25/2022"}
+{"address": "0x5edf6b341f73f9782c9afd105fe3fff6bd84d2e8", "name": "BeefyVaultV6", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "8/25/2022"}
+{"address": "0x0232aaee24235e21d06c0ceed51216005b9edbff", "name": "StrategyCommonSolidlyGaugeLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "8/25/2022"}
+{"address": "0xe9a1283ff0465bdc15076d8c07dba1cd06699d76", "name": "ReaperStrategyLennonLong", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/25/2022"}
