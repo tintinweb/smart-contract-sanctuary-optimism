@@ -4545,3 +4545,10 @@
 {"address": "0xe4dE4B87345815C71aa843ea4841bCdc682637bb", "name": "BuildToken", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "8/25/2022"}
 {"address": "0x1c2eaf0ed3e566fbdf528ba97b4e5ae0bb2ad051", "name": "AllowList", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 13, "settings": "", "date": "8/25/2022"}
 {"address": "0xf3ea7b1f45e2c5ae76b5dc80cb06a97830f60774", "name": "MerkleDistributor", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0x343d5191a9f2610c0f16a00f13af91677317aa16", "name": "ReaperStrategyLennonLong", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0xdFDA34D21665485acdA4c03dA9a5A35Dc4FFb0A0", "name": "GenericHandlerUpgradeable", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0x7bb92bf93bca068b698d2f21c2d7f03d0f4969d8", "name": "SpecialNFT", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "8/25/2022"}
+{"address": "0x727f42f5dba592574b1b95f78e006908a3a3c256", "name": "DcPerpetualVault", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0x965e460bf5cb38bada79fb2293c6304c799d0b1c", "name": "GammaVault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 104, "settings": "", "date": "8/25/2022"}
+{"address": "0x1896450330872D9492834C30D40c450eF0b529F2", "name": "GenericHandlerUpgradeable", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0x13Bae69A10C013E21824876bC500735162e2e4cf", "name": "OptimismAdapter01", "compiler": "0.7.5", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/25/2022"}
