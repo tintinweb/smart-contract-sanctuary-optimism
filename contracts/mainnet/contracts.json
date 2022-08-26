@@ -4578,3 +4578,5 @@
 {"address": "0xF811F2D6256C436Ea092B2401FE175167E4BC766", "name": "ChibismNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 11, "settings": "", "date": "8/26/2022"}
 {"address": "0xEa6E1Bf48E119517B7889678ae7472a06F7BD6Da", "name": "ChibismNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 11, "settings": "", "date": "8/26/2022"}
 {"address": "0x19828283852a852f8cfff4696038bc19e5070a49", "name": "PolynomialAuthority", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "8/26/2022"}
+{"address": "0xEF76F4523C83fbB8A2833b80b1c13489B4AB1563", "name": "MagicMirrorManager", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "8/26/2022"}
+{"address": "0x6b0ce7051d48a42d52444dd0ff173c01c32c4437", "name": "Wizard", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/26/2022"}
