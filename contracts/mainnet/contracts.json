@@ -4556,3 +4556,8 @@
 {"address": "0x5edf6b341f73f9782c9afd105fe3fff6bd84d2e8", "name": "BeefyVaultV6", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "8/25/2022"}
 {"address": "0x0232aaee24235e21d06c0ceed51216005b9edbff", "name": "StrategyCommonSolidlyGaugeLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "8/25/2022"}
 {"address": "0xe9a1283ff0465bdc15076d8c07dba1cd06699d76", "name": "ReaperStrategyLennonLong", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0x62546825BA293DBaCC44acAD64f36Dba56822C3a", "name": "OptiCryptoDickbutts", "compiler": "0.8.9", "balance": "0.1416 Ether", "txcount": 391, "settings": "", "date": "8/26/2022"}
+{"address": "0x9779d71945310e75761240e8b9fd5752c6d63155", "name": "ImmutableReadProxy", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0x76ce2CB1Ae48Fa067f4fb8c5f803111AE0B24BEA", "name": "SignatureDrop", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0xF12832a5917659786Fd4ceB40B32BDC211834de5", "name": "DropERC20", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0x145d55aE4848f9782eFCAC785A655E3e5DcE1bCD", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/25/2022"}
