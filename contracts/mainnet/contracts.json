@@ -4580,3 +4580,7 @@
 {"address": "0x19828283852a852f8cfff4696038bc19e5070a49", "name": "PolynomialAuthority", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "8/26/2022"}
 {"address": "0xEF76F4523C83fbB8A2833b80b1c13489B4AB1563", "name": "MagicMirrorManager", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "8/26/2022"}
 {"address": "0x6b0ce7051d48a42d52444dd0ff173c01c32c4437", "name": "Wizard", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/26/2022"}
+{"address": "0xb911895d1d325d6b1ba870a10bd18e694864f21f", "name": "BlackCat", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/27/2022"}
+{"address": "0x31cdb3df9caf48e343a72111922d0e64a5666db9", "name": "Burna", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "8/27/2022"}
+{"address": "0x39d36cF934aAE9Fcf4c5112648a016B8A7127B35", "name": "dETHV3", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 15, "settings": "", "date": "8/27/2022"}
+{"address": "0xFcF9F3207b9709C2788416c9065339A4679B8946", "name": "Prrot", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/26/2022"}
