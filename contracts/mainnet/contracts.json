@@ -4584,3 +4584,4 @@
 {"address": "0x31cdb3df9caf48e343a72111922d0e64a5666db9", "name": "Burna", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "8/27/2022"}
 {"address": "0x39d36cF934aAE9Fcf4c5112648a016B8A7127B35", "name": "dETHV3", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 15, "settings": "", "date": "8/27/2022"}
 {"address": "0xFcF9F3207b9709C2788416c9065339A4679B8946", "name": "Prrot", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/26/2022"}
+{"address": "0x169242aD32592d4A9f9395C80a882491E4edaf60", "name": "CurvePortalIn", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/27/2022"}
