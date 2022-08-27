@@ -4585,3 +4585,7 @@
 {"address": "0x39d36cF934aAE9Fcf4c5112648a016B8A7127B35", "name": "dETHV3", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 15, "settings": "", "date": "8/27/2022"}
 {"address": "0xFcF9F3207b9709C2788416c9065339A4679B8946", "name": "Prrot", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/26/2022"}
 {"address": "0x169242aD32592d4A9f9395C80a882491E4edaf60", "name": "CurvePortalIn", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/27/2022"}
+{"address": "0x84848224aAAEEAF842634CE644D92f0c45e0432D", "name": "KPLPManager", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/27/2022"}
+{"address": "0x6FeB9b9045cb729AF8d6A8320837F92a16C206e5", "name": "KPLP", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "8/27/2022"}
+{"address": "0x5A8931f2b235Caa2eABF3f07cD1154360c933e17", "name": "TarotSolidlyPriceOracle", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "8/27/2022"}
+{"address": "0x981Bd9F77c8AAFC14EBC86769503f86A3CC29aF5", "name": "TarotPriceOracle", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "8/27/2022"}
