@@ -4590,3 +4590,5 @@
 {"address": "0x5A8931f2b235Caa2eABF3f07cD1154360c933e17", "name": "TarotSolidlyPriceOracle", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "8/27/2022"}
 {"address": "0x981Bd9F77c8AAFC14EBC86769503f86A3CC29aF5", "name": "TarotPriceOracle", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "8/27/2022"}
 {"address": "0xF3A9C1C365d80Df167fA19408FEC81f75acAAE83", "name": "ByeByeGalaxy", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "8/27/2022"}
+{"address": "0xe09997b58112d6721b702491e92d5dcdcb602de8", "name": "Selfies", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/28/2022"}
+{"address": "0x1b94628d1eb7804d00b6b106e6e95b86267df3b7", "name": "dETHRewardPools", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 12, "settings": "", "date": "8/28/2022"}
