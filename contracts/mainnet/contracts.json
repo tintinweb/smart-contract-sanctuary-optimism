@@ -4599,3 +4599,5 @@
 {"address": "0x760c10299f3f9eb76b6c16d9abdd40251a6f69ff", "name": "Solana", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "8/28/2022"}
 {"address": "0x73FF8cdEeA2770BA2B8bA1FD000090A7dd598F0b", "name": "AirnodeProtocol", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "8/28/2022"}
 {"address": "0x167f0a6d8E65619b2a7dF28d86245e9beF62c06D", "name": "Forum", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "8/28/2022"}
+{"address": "0xFb10b1b0f68b3EaAcA1eCD12a47Cf7F55BeabB98", "name": "SelfServeDapiServerWhitelister", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/28/2022"}
+{"address": "0xB33B89de8b18350A2AD05DadF1959fC1C9321008", "name": "DapiServer", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/28/2022"}
