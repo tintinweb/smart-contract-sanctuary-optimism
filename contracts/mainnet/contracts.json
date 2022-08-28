@@ -4597,3 +4597,5 @@
 {"address": "0xF03714a8C084EE547758038A6e9a54F5f082B118", "name": "DrinkerContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "8/28/2022"}
 {"address": "0xe1453a3c85f7573b525d7d87ed6d6f42e815a2bb", "name": "HelloWorld", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "8/28/2022"}
 {"address": "0x760c10299f3f9eb76b6c16d9abdd40251a6f69ff", "name": "Solana", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "8/28/2022"}
+{"address": "0x73FF8cdEeA2770BA2B8bA1FD000090A7dd598F0b", "name": "AirnodeProtocol", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "8/28/2022"}
+{"address": "0x167f0a6d8E65619b2a7dF28d86245e9beF62c06D", "name": "Forum", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "8/28/2022"}
