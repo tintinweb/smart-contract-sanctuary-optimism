@@ -4622,3 +4622,6 @@
 {"address": "0x672f466b13ee1856c32f8bd956730d8eff28bf16", "name": "Faucet721", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "8/29/2022"}
 {"address": "0x7d7B7FF91CB21B1F0BD731982f72Ad1Ff1c0b53a", "name": "PerpetualsVaultUtils", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/29/2022"}
 {"address": "0xDb5ba38a37e728D82D6919808dAbAa4e6CDf1D43", "name": "PerpetualsVaultUtils", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/29/2022"}
+{"address": "0x91907F5268f3485BFEe913F55717EF9187A465A2", "name": "StrategyStargateEthOptimism", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/29/2022"}
+{"address": "0x69ab6153b32775FD6068a958d8C8DDA1c7B8EB06", "name": "StrategyStargateUsdcOptimism", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/29/2022"}
+{"address": "0x66Deb6cC4d65dc9CB02875DC5E8751d71Fa5D50E", "name": "L2StateOfMindContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 82, "settings": "", "date": "8/29/2022"}
