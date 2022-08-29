@@ -4605,3 +4605,14 @@
 {"address": "0xa92556deb1Ce7cF6bB3078c1012cf66bAd82e4f6", "name": "DevconMintableSTD", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/29/2022"}
 {"address": "0x1f9Ec846B7F861b3b2a9dDD442341CEa95E0B06f", "name": "AutoRebal", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/28/2022"}
 {"address": "0xD880f546946d59D4d4a9d086349D6aD4699b63C0", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "8/28/2022"}
+{"address": "0xDBA1EB2C3ABc62DFce544CFB17fcC4661B794778", "name": "RipaeDoubleSolidlyLpVault", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/29/2022"}
+{"address": "0x7978b1b235b1e268ce2feb148fa80b61e3aca061", "name": "HelloWorld", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "8/29/2022"}
+{"address": "0x5Bde4E21bF5487BEcBE98881E977FdC220010b4a", "name": "RipaeDoubleSolidlyLpVault", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/29/2022"}
+{"address": "0x072D88B9525803056FC3a461B310Ec1947EcCdAa", "name": "RipaeDoubleSolidlyLpVault", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/29/2022"}
+{"address": "0x6d0F559FfCD786FAa734F8a05c47d722c1726dF1", "name": "PerptualsVaultOptimismPriceFeed", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "8/29/2022"}
+{"address": "0xd0B628cB062bcb34331482391C2110CD7a731e5a", "name": "Comptroller", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/29/2022"}
+{"address": "0x053Ba886857DbFAE1Fb0Ee91EA1A17555EcfBaA6", "name": "TransparentUpgradeableProxy", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "8/29/2022"}
+{"address": "0x014bb189673C18c921b29F32DD78C1aC3987153b", "name": "RipaeSolidlyLpVault", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/29/2022"}
+{"address": "0x7ad867c08b668af40e4ea30c18158dcb8a2baa4d", "name": "ProxyAdmin", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "8/29/2022"}
+{"address": "0x7796961a7b01847b97a313ac93a252b9cf961ca6", "name": "WomenApeYachtClub", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 353, "settings": "", "date": "8/29/2022"}
+{"address": "0xBBEff97bAb754F5b0044E4567495953c4Ee9e19A", "name": "PolynomialEarnResolver", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "8/29/2022"}
