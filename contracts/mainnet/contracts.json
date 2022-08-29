@@ -4601,3 +4601,7 @@
 {"address": "0x167f0a6d8E65619b2a7dF28d86245e9beF62c06D", "name": "Forum", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "8/28/2022"}
 {"address": "0xFb10b1b0f68b3EaAcA1eCD12a47Cf7F55BeabB98", "name": "SelfServeDapiServerWhitelister", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/28/2022"}
 {"address": "0xB33B89de8b18350A2AD05DadF1959fC1C9321008", "name": "DapiServer", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/28/2022"}
+{"address": "0xf5ed69ABB9b31ec7beC5A089290724035E3EDb2c", "name": "RouterMintBurnWrapper", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "8/29/2022"}
+{"address": "0xa92556deb1Ce7cF6bB3078c1012cf66bAd82e4f6", "name": "DevconMintableSTD", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/29/2022"}
+{"address": "0x1f9Ec846B7F861b3b2a9dDD442341CEa95E0B06f", "name": "AutoRebal", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/28/2022"}
+{"address": "0xD880f546946d59D4d4a9d086349D6aD4699b63C0", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "8/28/2022"}
