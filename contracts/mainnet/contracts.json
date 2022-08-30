@@ -4677,3 +4677,4 @@
 {"address": "0xa5974bd897B48C957CC7Cd93DB680045315d596d", "name": "OPrintProxy", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/30/2022"}
 {"address": "0x910dC765089c3f3cf8b5B874292e740bdE09B926", "name": "OPrintToken", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/30/2022"}
 {"address": "0x427d26c4259aca81af8038882b76adcfd51a00fd", "name": "BustShakalaka", "compiler": "0.8.16", "balance": "0.00599934 Ether", "txcount": 5, "settings": "", "date": "8/30/2022"}
+{"address": "0x436EfdD117094080F9C262017379C40f1e965203", "name": "CybernatedRoundsContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 531, "settings": "", "date": "8/30/2022"}
