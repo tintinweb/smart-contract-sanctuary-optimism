@@ -4678,3 +4678,10 @@
 {"address": "0x910dC765089c3f3cf8b5B874292e740bdE09B926", "name": "OPrintToken", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/30/2022"}
 {"address": "0x427d26c4259aca81af8038882b76adcfd51a00fd", "name": "BustShakalaka", "compiler": "0.8.16", "balance": "0.00599934 Ether", "txcount": 5, "settings": "", "date": "8/30/2022"}
 {"address": "0x436EfdD117094080F9C262017379C40f1e965203", "name": "CybernatedRoundsContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 531, "settings": "", "date": "8/30/2022"}
+{"address": "0x7c86a5D26184Fb06c7a266f4A5e9269B868947E8", "name": "LyraOptionMarketWrapperAssetGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/31/2022"}
+{"address": "0x0E45E996Bc0152F8e46CD1bD082A4B902dd7FC09", "name": "DhedgeOptionMarketWrapperForLyra", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/31/2022"}
+{"address": "0x3824825FaF0aC44A44de40fe95eF4cdC17d234d9", "name": "LyraOptionMarketWrapperContractGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/31/2022"}
+{"address": "0x6de4c78b94ABAB75532c8dA42473823be924841B", "name": "ERC721ContractGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/31/2022"}
+{"address": "0xb20ED5aCA7ECac6559894bEb719668fdB5C7CaE9", "name": "DhedgeNftTrackerStorage", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/31/2022"}
+{"address": "0x5F99826CA44a00E3A6a56fF058BA4a442C51A6AF", "name": "DhedgeNftTrackerStorage", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/31/2022"}
+{"address": "0xF1B3cd2FC6F487257dF637B78ed7369122Eb3CC2", "name": "DhedgeNftTrackerStorage", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/31/2022"}
