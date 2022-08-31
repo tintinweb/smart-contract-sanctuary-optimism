@@ -4693,3 +4693,9 @@
 {"address": "0x698fFb29932C629B5138D8F385eF92Da4AB36449", "name": "AaveV3PortalIn", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/31/2022"}
 {"address": "0x75C5f6D32d8Ef3a4f0F43F7792Aa08e8678972F9", "name": "BitcoinBR", "compiler": "0.6.4", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "8/31/2022"}
 {"address": "0xD5c959fDEca82a38A94e16CB565e54aB8e32c4a9", "name": "StrategyBeetxEthRethLp", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/31/2022"}
+{"address": "0x7cEee88E71F5C3614F6d0153e922871Ae402d1d1", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "8/31/2022"}
+{"address": "0x0110Bb5739a6F82eafc748418e572Fc67d854a0F", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1000, "settings": "-", "date": "8/31/2022"}
+{"address": "0x0b37e78eb1bff17021c9b5b02ff8b7c11ed146de", "name": "BustShakalaka", "compiler": "0.8.16", "balance": "0.00705 Ether", "txcount": 5, "settings": "", "date": "8/31/2022"}
+{"address": "0x2F0a7d2eAC59A453C82f51fEa8ba722d6c3560d2", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 128, "settings": "-", "date": "8/31/2022"}
+{"address": "0x83a9D1e387E49Ef392E68cc6cbf6Ac58a832B3D1", "name": "BustShakalaka", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "8/31/2022"}
+{"address": "0xAF5977f9288836D5BC2538b5832fb3dc105eC479", "name": "BustShakalaka", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 11, "settings": "", "date": "8/31/2022"}
