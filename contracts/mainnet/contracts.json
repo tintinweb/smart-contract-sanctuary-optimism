@@ -4692,3 +4692,4 @@
 {"address": "0xe13f6925b0a648dc7546ea71b7115470a8e34f75", "name": "FunderFactory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/31/2022"}
 {"address": "0x698fFb29932C629B5138D8F385eF92Da4AB36449", "name": "AaveV3PortalIn", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/31/2022"}
 {"address": "0x75C5f6D32d8Ef3a4f0F43F7792Aa08e8678972F9", "name": "BitcoinBR", "compiler": "0.6.4", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "8/31/2022"}
+{"address": "0xD5c959fDEca82a38A94e16CB565e54aB8e32c4a9", "name": "StrategyBeetxEthRethLp", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "8/31/2022"}
