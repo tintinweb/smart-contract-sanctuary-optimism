@@ -4711,3 +4711,6 @@
 {"address": "0x7f9A6fD8584c1Ac6C3f814461c9509f6CeD821ab", "name": "VeloZapper", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/1/2022"}
 {"address": "0x3727181ED49576bB5E00CC04C788E98C563Cc649", "name": "DHedgePoolAggregator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/31/2022"}
 {"address": "0xcE17BbEEE29159f08a61a89259c2E9aDedA3EC70", "name": "UniV3TWAPAggregator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "8/31/2022"}
+{"address": "0x5ebC0a9278a87caFFc090f8E1e53f2fE60f76F9E", "name": "Vault", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/1/2022"}
+{"address": "0x919b4e24204cefe79a33a33ae159837b00bcce80", "name": "EggFools", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/1/2022"}
+{"address": "0x6AA6aA8548C8870201ac1f5aB7b8D8f6A4513884", "name": "OPepe", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "9/1/2022"}
