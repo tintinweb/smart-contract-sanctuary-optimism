@@ -4714,3 +4714,8 @@
 {"address": "0x5ebC0a9278a87caFFc090f8E1e53f2fE60f76F9E", "name": "Vault", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/1/2022"}
 {"address": "0x919b4e24204cefe79a33a33ae159837b00bcce80", "name": "EggFools", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/1/2022"}
 {"address": "0x6AA6aA8548C8870201ac1f5aB7b8D8f6A4513884", "name": "OPepe", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "9/1/2022"}
+{"address": "0x5eBAc1107171A3fb640671552F62466861E4E391", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "9/1/2022"}
+{"address": "0x8b2b853c7b4ea9e54a5506bbc2ffa53a9fe17c23", "name": "StrategyBeetsMultiRewardGauge", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/1/2022"}
+{"address": "0x17F74d4166abfceD865a44F231aAe55279752384", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 832, "settings": "-", "date": "9/1/2022"}
+{"address": "0x9b957257a6b2120f63c951fe3f29537dae25b686", "name": "BustShakalaka", "compiler": "0.8.16", "balance": "0.0038 Ether", "txcount": 8, "settings": "", "date": "9/1/2022"}
+{"address": "0x9ABa6eeb0c79f03cb2c0764021722bc34bFa054a", "name": "GenericConsumer", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/1/2022"}
