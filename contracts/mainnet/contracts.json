@@ -4729,3 +4729,9 @@
 {"address": "0x082Be61153b0aF71E50f07Ac0be5F176656d5Ba8", "name": "StrategyVeloUsdcSnxVlp", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/1/2022"}
 {"address": "0x76Ffb63845a65232C1F8A32aAB80E8702C121302", "name": "StrategyVeloUsdcSusdSlp", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/1/2022"}
 {"address": "0xf279f383622F2A9904A51cfB7A7f4d1B43D6f44b", "name": "StrategyVeloUsdcMaiSlp", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/1/2022"}
+{"address": "0x0e3dae6768b979fc4325369cca940174c2775f7e", "name": "CSQMigrator", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/2/2022"}
+{"address": "0xb7b4270cfd938f4f1c111ac819e7365e8ce0300a", "name": "CallSellingQuoteVault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "9/2/2022"}
+{"address": "0x88b373B83166E72FD55648Ce114712633f1782E2", "name": "Multicall", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/2/2022"}
+{"address": "0x78136EF4BDcbdABb8D7aa09a33C3c16Ca6381910", "name": "VaultTokenReward", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/2/2022"}
+{"address": "0x2aC63723a576f89b628D514Ff671300801dc1702", "name": "Maximillion", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/2/2022"}
+{"address": "0x9e9e81dad0d33d816d52be31f72de5269f3462fd", "name": "HelloWorldV2", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "9/2/2022"}
