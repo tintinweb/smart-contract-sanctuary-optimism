@@ -4742,3 +4742,9 @@
 {"address": "0x5Cb7B29e621810Ce9a04Bee137F8427935795d00", "name": "KeeperRegistryLogic1_3", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/2/2022"}
 {"address": "0x937dd15025412b74661bf0ae7734210bc63d00b7", "name": "MistenPresale", "compiler": "0.8.10", "balance": "0.5 Ether", "txcount": 8, "settings": "-", "date": "9/2/2022"}
 {"address": "0x99999999999FcC662a7bF2B75eA160Bc4aa06359", "name": "G", "compiler": "0.4.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/2/2022"}
+{"address": "0x4ED766aF5B30a4695F7b247AE1bB0f6B34bC6378", "name": "StrategyCommonSolidlyGaugeLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "9/2/2022"}
+{"address": "0xD340e02a1174696f77Df3c9ca043c809453c5C83", "name": "Distributor", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/2/2022"}
+{"address": "0xc99c96e761afeb6454f3bf3163668d599110305a", "name": "ReaperVaultv1_4", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "9/2/2022"}
+{"address": "0x1337709aab907f678dd22cf0b74f786f8052dc4e", "name": "ReaperStrategyRocketFuel", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/2/2022"}
+{"address": "0x4bB13a3e911190F02AC1688f9aeDc0820c20B144", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 11, "settings": "-", "date": "9/2/2022"}
+{"address": "0x0f6a060cd4edf1ca4c5498c885206d8ba4efb5e5", "name": "Vyper_contract", "compiler": "vyper:0.3.6", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "9/2/2022"}
