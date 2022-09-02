@@ -4719,3 +4719,13 @@
 {"address": "0x17F74d4166abfceD865a44F231aAe55279752384", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 832, "settings": "-", "date": "9/1/2022"}
 {"address": "0x9b957257a6b2120f63c951fe3f29537dae25b686", "name": "BustShakalaka", "compiler": "0.8.16", "balance": "0.0038 Ether", "txcount": 8, "settings": "", "date": "9/1/2022"}
 {"address": "0x9ABa6eeb0c79f03cb2c0764021722bc34bFa054a", "name": "GenericConsumer", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/1/2022"}
+{"address": "0x7e803b54295Cd113Bf48E7f069f0531575DA1139", "name": "XSwapper", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/2/2022"}
+{"address": "0xd79c63fE2Ab662A6225f46BFEea3c94c46de9cc7", "name": "XYDexAggregator", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/2/2022"}
+{"address": "0x0e9EEbe3d4b7A313700582E244824aFf33525ac6", "name": "XYDexAggregatorAdaptor", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/2/2022"}
+{"address": "0xF07108249Edd2f59ABd1d091A0778D58ECedBC49", "name": "MerkleDistributor", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 80, "settings": "", "date": "9/2/2022"}
+{"address": "0x59b903Bcdc3e1b96619fb3f79B602da95c5A52F6", "name": "StrategyStargateUsdcOptimism", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/1/2022"}
+{"address": "0xEC50bBc4ab56a1A85b279D35b0C4c77b94AF4D94", "name": "StrategyVeloEthAlethSlp", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/1/2022"}
+{"address": "0x90Cf236C4104020D493A8e919c42794671b7ac13", "name": "StrategyVeloEthSethSlp", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/1/2022"}
+{"address": "0x082Be61153b0aF71E50f07Ac0be5F176656d5Ba8", "name": "StrategyVeloUsdcSnxVlp", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/1/2022"}
+{"address": "0x76Ffb63845a65232C1F8A32aAB80E8702C121302", "name": "StrategyVeloUsdcSusdSlp", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/1/2022"}
+{"address": "0xf279f383622F2A9904A51cfB7A7f4d1B43D6f44b", "name": "StrategyVeloUsdcMaiSlp", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/1/2022"}
