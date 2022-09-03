@@ -4748,3 +4748,7 @@
 {"address": "0x1337709aab907f678dd22cf0b74f786f8052dc4e", "name": "ReaperStrategyRocketFuel", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/2/2022"}
 {"address": "0x4bB13a3e911190F02AC1688f9aeDc0820c20B144", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 11, "settings": "-", "date": "9/2/2022"}
 {"address": "0x0f6a060cd4edf1ca4c5498c885206d8ba4efb5e5", "name": "Vyper_contract", "compiler": "vyper:0.3.6", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "9/2/2022"}
+{"address": "0x92Af94E1f13133443c6350C6b23E3f136bcfd6Ed", "name": "TrueFiArbitrage", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "9/3/2022"}
+{"address": "0xA96162B28125815dd22671234a1EdE3B70b938a1", "name": "TrueFiArbitrage", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "9/3/2022"}
+{"address": "0xed713d9b5a324667a82f5af16fa23bf0a450a878", "name": "HelloWorld", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "9/3/2022"}
+{"address": "0x0e212C1d3C2C2adDC9E93C58d76E97F5eC7E2e4e", "name": "TrueFiArbitrage", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "9/3/2022"}
