@@ -4762,3 +4762,5 @@
 {"address": "0x680c419f4d4a9341a13e9299fcb9db9e9fe76666", "name": "ProxyForMctMultisender", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/3/2022"}
 {"address": "0xacbd4be8bba053961b142e44d33be717e1e3867b", "name": "Seals", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/3/2022"}
 {"address": "0x557a7e4f703fab912bddca176b05736bd660ecee", "name": "ERC721DropProxy", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/3/2022"}
+{"address": "0x9792d875fd515682fa032a98d00e689b6462262f", "name": "GalaxyCoder", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "9/3/2022"}
+{"address": "0x27ede35d56d25ef6395807146df5d4d72453f442", "name": "GalaxyCoder", "compiler": "0.8.16", "balance": "0.000002000000000044 Ether", "txcount": 5, "settings": "-", "date": "9/3/2022"}
