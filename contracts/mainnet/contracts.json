@@ -4781,3 +4781,6 @@
 {"address": "0xfc71bc5C15cA6C76d5890A48B49438380B680838", "name": "OPrintOracle", "compiler": "0.6.6", "balance": "0 Ether", "txcount": 66, "settings": "", "date": "9/4/2022"}
 {"address": "0x79D95Eaca7e1aBc45d9eC7572224cE5e998FC40D", "name": "HolyChef", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/4/2022"}
 {"address": "0xa13724bb786027b99426dD327728F22CaB9ADC50", "name": "Distributor", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/4/2022"}
+{"address": "0xf1121D7334f73171c3d326fbD4E4D50AAE996b6d", "name": "GalaxyCoder", "compiler": "0.8.16", "balance": "0.00000003 Ether", "txcount": 4, "settings": "-", "date": "9/5/2022"}
+{"address": "0xc0e1A46cfea33E598CF0102eF4E06421ED16FbbE", "name": "CWrappedNativeDelegate", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/5/2022"}
+{"address": "0x7354faF7eee5702fb20ECB61A8a64482d736e612", "name": "ACMasterChefStargateV2WithVelodromeSwap", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/4/2022"}
