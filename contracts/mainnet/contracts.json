@@ -4789,3 +4789,8 @@
 {"address": "0xC954c562ac747d494b8fecC885485f0B5daCCbf4", "name": "UniswapV3Utilities", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "9/5/2022"}
 {"address": "0x429b30Fe13c158e9A8E4Fcc3699cA0e11d4eaB59", "name": "UniswapV3Utilities", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "9/5/2022"}
 {"address": "0x90B30698492eE84731fAab8fC9F7fE5CA67605D4", "name": "ApplicationRegistry", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/5/2022"}
+{"address": "0x88D537a86e09B753361D70448d60D3dC2D75883d", "name": "BeefyV2AppMulticall", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/5/2022"}
+{"address": "0x1dDAF95C8f58d1283E9aE5e3C964b575D7cF7aE3", "name": "WrappedTokenGatewayV3", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/5/2022"}
+{"address": "0xc6ff5b01f7c7b35b6e093ff70d2332b361c5be5a", "name": "TokenBalance", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/5/2022"}
+{"address": "0xE07c1D857ACB6363757c5468d0BF6b0203bdE973", "name": "PipelineProxy", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/5/2022"}
+{"address": "0xc2F96b7Ca8b416600fc89eAfD6a3689C34024B73", "name": "Pipeline", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "9/5/2022"}
