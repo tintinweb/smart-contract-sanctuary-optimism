@@ -4808,3 +4808,8 @@
 {"address": "0x1a3a2c2d6952a9835c62521cb701318dedf9a268", "name": "Vyper_contract", "compiler": "vyper:0.3.6", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "9/5/2022"}
 {"address": "0x5ee0753e3aB9a991849200Ff70B342053b61ef6D", "name": "OmnichainRouter", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "9/5/2022"}
 {"address": "0xB89c1b3d9f335B9d8Bb16016F3d60160AE71041f", "name": "stableQiVault", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "9/5/2022"}
+{"address": "0x76D3030728e52DEB8848d5613aBaDE88441cbc59", "name": "WrappedTokenGatewayV3", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/6/2022"}
+{"address": "0xb85ebE2e4eA27526f817FF33fb55fB240057C03F", "name": "KyberSwapElasticLM", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "9/6/2022"}
+{"address": "0x10f6FB1A8B495A972bDcE5BF86f2969F64359B00", "name": "KyberRewardLockerV2", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/6/2022"}
+{"address": "0xfbcF23D2BeF8A2C491cfa4dD409D8dF12d431c85", "name": "FLAaveV3", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/6/2022"}
+{"address": "0xdcfeaa47272738d10f88f3d80bb28212b1fa9c1a", "name": "BlueSweepDataDecoder", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/6/2022"}
