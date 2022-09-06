@@ -4813,3 +4813,8 @@
 {"address": "0x10f6FB1A8B495A972bDcE5BF86f2969F64359B00", "name": "KyberRewardLockerV2", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/6/2022"}
 {"address": "0xfbcF23D2BeF8A2C491cfa4dD409D8dF12d431c85", "name": "FLAaveV3", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/6/2022"}
 {"address": "0xdcfeaa47272738d10f88f3d80bb28212b1fa9c1a", "name": "BlueSweepDataDecoder", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/6/2022"}
+{"address": "0xaDEEAD87209130020C90B09Bb8a4cCf1ba64216C", "name": "MasterChef", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/6/2022"}
+{"address": "0x601E471dE750cDCe1D5a2B8E6e671409C8EB2367", "name": "MockToken", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/6/2022"}
+{"address": "0xeC573f93dD55e2aefD67B1e59ddfa758676B1184", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "9/6/2022"}
+{"address": "0x74f6c748e2df1c89bf7ed29617a2b41b0f4f82a2", "name": "PbProxy", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/6/2022"}
+{"address": "0x14dcfeff5ce62777f34a801270ddafb044645c37", "name": "PbVelo", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/6/2022"}
