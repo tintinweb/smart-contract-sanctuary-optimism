@@ -4861,3 +4861,15 @@
 {"address": "0x4D73AdB72bC3DD368966edD0f0b2148401A178E2", "name": "UltraLightNodeV2", "compiler": "0.7.6", "balance": "0.086669257875937061 Ether", "txcount": 68, "settings": "", "date": "9/7/2022"}
 {"address": "0x0a4df7809f83e130d8ffa297f03b75318e37b461", "name": "BlackpoolLocker", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/7/2022"}
 {"address": "0x9fa11255f91B3D5f25B2c6e4bDFEFf23dCAb8B8d", "name": "Exchange", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/7/2022"}
+{"address": "0xb7cd2e5a6d02983f258a06e26baaf310054b14b1", "name": "UMATrigger", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/7/2022"}
+{"address": "0x2f150a966d32ed8928200136d1d30a15c3694909", "name": "UMATrigger", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/7/2022"}
+{"address": "0x5e3a0e3acbc61e54793256100cd9d9d87e86ce44", "name": "UMATrigger", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/7/2022"}
+{"address": "0x6fae18f377e58f62e089868edf831f1d22114f14", "name": "UMATrigger", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/7/2022"}
+{"address": "0x8b566ee7e34c80e9db2c1d6ab17652388d91ab05", "name": "UMATrigger", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/7/2022"}
+{"address": "0xf9fed7853dc6f3e74421606f79a360dae9256cc3", "name": "ChainlinkTrigger", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/7/2022"}
+{"address": "0xEc2b9a0D85CA82276cab8E008Aa55fbB60b179F9", "name": "KeeperRegistry1_3", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "9/7/2022"}
+{"address": "0xE0E60688773bC190683bE2be1b218D7666668a15", "name": "KeeperRegistryLogic1_3", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/7/2022"}
+{"address": "0x4b6a9df80afe203bf5b6fe246d098bce373a3f6e", "name": "UMATriggerFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "9/7/2022"}
+{"address": "0x52acac2c49ccec6be4a762811c62a1208248db33", "name": "ChainlinkTriggerFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/7/2022"}
+{"address": "0x09e7f25462045052c9222463a62bad3258d6c16c", "name": "Vyper_contract", "compiler": "vyper:0.3.6", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "9/7/2022"}
+{"address": "0xb3c06cc2b7e3185d2db4033efcb2b18eafb89574", "name": "Vyper_contract", "compiler": "vyper:0.3.6", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "9/7/2022"}
