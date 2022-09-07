@@ -4824,3 +4824,16 @@
 {"address": "0xbc5F786D871fa5eB5187cb0Fc696c537960ee85E", "name": "Multicall2", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "9/6/2022"}
 {"address": "0xf145caFB67081895EE80eB7c04A30Cf87f07b745", "name": "ComposableStablePoolFactory", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/6/2022"}
 {"address": "0xF8aC5F71300482b60d1F8fAE5c8079B9B3bFFC76", "name": "OPPStaking", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "9/6/2022"}
+{"address": "0xcA2462C4203259E0Ae1c21C0849e3FeD71be6cc6", "name": "O3OptimismZipSwapAggregator", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/7/2022"}
+{"address": "0xBD1d2CAACF79f0A725D5fE44f201Bbb838e1f75c", "name": "O3OptimismVelodromeAggregator", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/7/2022"}
+{"address": "0x5a2637803f25c3B6C10430f21819BD5F83D89b4e", "name": "LyraOptionMarketWrapperContractGuardRollups", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/7/2022"}
+{"address": "0x9e8676f76696524eb49d9d7f3aee97bc52b7c8a5", "name": "Poker", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/7/2022"}
+{"address": "0xd847253c30502af5ae84275c52f24b438fdd9fe7", "name": "AaveV3ERC4626Factory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/7/2022"}
+{"address": "0x145a65460e191bb2f80f58f33e02a96bfa390932", "name": "UniswapV3Utilities", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "9/7/2022"}
+{"address": "0x8961247cd37cEa51095697a4C3145e059568CFA1", "name": "RewardsRegistry", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/7/2022"}
+{"address": "0x302c230bc53901d3fe363d3483b2548f938efa33", "name": "UniswapV3xPYTFactory", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/7/2022"}
+{"address": "0x79464810c6df82cbdbb4be23900250ed2311f105", "name": "UniswapV3Juggler", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/7/2022"}
+{"address": "0x983dfd698bbbf72e585dbacda5b242221306565f", "name": "UniswapV3Swapper", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/7/2022"}
+{"address": "0x36b49ebf089be8860d7fc60f2553461e9cc8e9e2", "name": "ERC4626Gate", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/7/2022"}
+{"address": "0xe3d12a35962778becfc731ad73642539c4edf548", "name": "YearnGate", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/7/2022"}
+{"address": "0xbd16088611054fce04711aa9509d1d86e04dce2c", "name": "Factory", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/7/2022"}
