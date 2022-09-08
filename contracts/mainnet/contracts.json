@@ -4873,3 +4873,4 @@
 {"address": "0x52acac2c49ccec6be4a762811c62a1208248db33", "name": "ChainlinkTriggerFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/7/2022"}
 {"address": "0x09e7f25462045052c9222463a62bad3258d6c16c", "name": "Vyper_contract", "compiler": "vyper:0.3.6", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "9/7/2022"}
 {"address": "0xb3c06cc2b7e3185d2db4033efcb2b18eafb89574", "name": "Vyper_contract", "compiler": "vyper:0.3.6", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "9/7/2022"}
+{"address": "0x4Bb4dfd14A98DE99B1821013BB826B2c29A912E2", "name": "LyraOptionMarketWrapperContractGuardRollups", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/8/2022"}
