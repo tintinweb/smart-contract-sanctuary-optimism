@@ -4925,3 +4925,12 @@
 {"address": "0x21d3ed8ecb4e627ec94eaab21f2ce22f0f26ec38", "name": "PbUniV3Op", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/9/2022"}
 {"address": "0xf3df4a07333ebcb7340a399abf94f015b31b9f4f", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 8, "settings": "-", "date": "9/9/2022"}
 {"address": "0x4870fC0FFc415d6dae75d7023b9Cb0F26cedb892", "name": "ControllerStock", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/9/2022"}
+{"address": "0x24cb8de4f381b06d66c7607bf1d080d89442fda2", "name": "ChainlinkTrigger", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/9/2022"}
+{"address": "0x1b2987da4e34c0e34dfecd8d6ef7f8f0aaae5f49", "name": "UMATrigger", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/9/2022"}
+{"address": "0x27f495ce3a1af8b647ec58834ff4354f5dc357d0", "name": "UMATrigger", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/9/2022"}
+{"address": "0x37136e49dbf24d11f6d42cab89784b9092f934c9", "name": "UMATrigger", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/9/2022"}
+{"address": "0x0c22d6e2c242a37bbc4dfcbf50704dcd3fd5162e", "name": "UMATrigger", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/9/2022"}
+{"address": "0x845c75A791ccEb1A451f4ca5778C011226DDa95C", "name": "FillQuoteTransformer", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/9/2022"}
+{"address": "0xe12d14Da372157401ac19DA1edB9c68A1810F48c", "name": "OptimismBridgeAdapter", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/9/2022"}
+{"address": "0x737330fC2ac9b8E62ccD7A182d785914C4e88FB7", "name": "UMATrigger", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/9/2022"}
+{"address": "0xe1e132dc16a5edfe60671a2128122a81aa19970c", "name": "ChainlinkTriggerFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/9/2022"}
