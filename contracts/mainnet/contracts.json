@@ -4913,3 +4913,15 @@
 {"address": "0xb56DDB0EDFE1265bd8d7f25E45B759aB82BB06DA", "name": "SynthereumMultiLpLiquidityPoolMainLib", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/8/2022"}
 {"address": "0x818dCB8B72f83f3824Df9E7d83b38e5f7A96515E", "name": "SynthereumDeployer", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/8/2022"}
 {"address": "0xc0d9d6177B8bba1387BE158630Fff5Af879C99Fc", "name": "StargatePortalOut", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/8/2022"}
+{"address": "0xb2eeb93d778c364e7e2274d6299e2aa0c2bea090", "name": "PythUpgradable", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/9/2022"}
+{"address": "0x2e7b974e8c8fb055d9497b54292cf089375c505e", "name": "ERC721BatchTransfer", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/9/2022"}
+{"address": "0xbe49ac1EadAc65dccf204D4Df81d650B50122aB2", "name": "InstantDistributionAgreementV1", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/9/2022"}
+{"address": "0x507c3a7C6Ccc253884A2e3a3ee2A211cC7E796a6", "name": "SlotsBitmapLibrary", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/9/2022"}
+{"address": "0xf04F2C525819691ed9ABD3D2B7109E1633795e68", "name": "ConstantFlowAgreementV1", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/9/2022"}
+{"address": "0xd0DE1486F69495D49c02D8f541B7dADf9Cf5CD91", "name": "SuperTokenFactory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/9/2022"}
+{"address": "0x5f001c3915084186B9109fB9DC1E978C98F854B0", "name": "Superfluid", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/9/2022"}
+{"address": "0x6788ffdea052875f7e5f6f0dc5aa8e5003308049", "name": "PbUniV3OpReward", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/9/2022"}
+{"address": "0xab736e1d68f3a51933e0de23cbc6c1147d0c2934", "name": "PbProxy", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/9/2022"}
+{"address": "0x21d3ed8ecb4e627ec94eaab21f2ce22f0f26ec38", "name": "PbUniV3Op", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/9/2022"}
+{"address": "0xf3df4a07333ebcb7340a399abf94f015b31b9f4f", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 8, "settings": "-", "date": "9/9/2022"}
+{"address": "0x4870fC0FFc415d6dae75d7023b9Cb0F26cedb892", "name": "ControllerStock", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/9/2022"}
