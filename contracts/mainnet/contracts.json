@@ -4934,3 +4934,11 @@
 {"address": "0xe12d14Da372157401ac19DA1edB9c68A1810F48c", "name": "OptimismBridgeAdapter", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/9/2022"}
 {"address": "0x737330fC2ac9b8E62ccD7A182d785914C4e88FB7", "name": "UMATrigger", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/9/2022"}
 {"address": "0xe1e132dc16a5edfe60671a2128122a81aa19970c", "name": "ChainlinkTriggerFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/9/2022"}
+{"address": "0x99BFdeE8d6AbbA65Acc70d1B96b457B38a78aFFd", "name": "LaunchToken", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/10/2022"}
+{"address": "0x5B905fE05F81F3a8ad8B28C6E17779CFAbf76068", "name": "NonceContract", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/10/2022"}
+{"address": "0x85aB3b59A7876A9bbc9fa2f2361F839a9681c0C1", "name": "CollectionsRepository", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/9/2022"}
+{"address": "0x6b7240aAaeB6b4223C4737F3D47FCbF5B3D95c81", "name": "CollectionFactory", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "9/9/2022"}
+{"address": "0x016AFA6E17E98A714B96dF98490366Bc54f9C539", "name": "Counter", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/9/2022"}
+{"address": "0xE523cC4DB850045d1E53587A66C447b8dF17eDd2", "name": "TokenFactory", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 11, "settings": "", "date": "9/9/2022"}
+{"address": "0x086Cc1c04eF1AA4797c18a946c5688bF3949e89D", "name": "RangedMarketsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/9/2022"}
+{"address": "0xeF9E3A581a2D7916B05d24C2EF54a505B3219e72", "name": "ThalesAMM", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/9/2022"}
