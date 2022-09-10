@@ -4944,3 +4944,4 @@
 {"address": "0xeF9E3A581a2D7916B05d24C2EF54a505B3219e72", "name": "ThalesAMM", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/9/2022"}
 {"address": "0xbdE93971cd89688661CF4ccd69262206C0F81eb0", "name": "OptimismPayoutListener", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/10/2022"}
 {"address": "0xC39df58FbCec75d89E516cfa9C89c431e59f9A16", "name": "ONFTGateway", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "9/10/2022"}
+{"address": "0xef39ff76E2D1032524168b35864578e93Eb855a6", "name": "ZoraNFTCreatorV1", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/10/2022"}
