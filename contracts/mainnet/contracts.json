@@ -4942,3 +4942,4 @@
 {"address": "0xE523cC4DB850045d1E53587A66C447b8dF17eDd2", "name": "TokenFactory", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 11, "settings": "", "date": "9/9/2022"}
 {"address": "0x086Cc1c04eF1AA4797c18a946c5688bF3949e89D", "name": "RangedMarketsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/9/2022"}
 {"address": "0xeF9E3A581a2D7916B05d24C2EF54a505B3219e72", "name": "ThalesAMM", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/9/2022"}
+{"address": "0xbdE93971cd89688661CF4ccd69262206C0F81eb0", "name": "OptimismPayoutListener", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/10/2022"}
