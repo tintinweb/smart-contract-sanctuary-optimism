@@ -4948,3 +4948,9 @@
 {"address": "0x7BF5579Acc0697fe5284DBbf3229F946b51FE5ae", "name": "BeaconProxy", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/11/2022"}
 {"address": "0x45F3c746D067c1a653c6A1Af323b4fDb4b63C28e", "name": "PhantomTT3Vault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/11/2022"}
 {"address": "0x6CE5DD6C3E295cb6D7aCbdaA0403eC956f858f11", "name": "PhantomTT3VaultFactory", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/11/2022"}
+{"address": "0x673af4efEA41a42c2A52C9FFee5AD27fC7a8Cd96", "name": "TradeModule", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/11/2022"}
+{"address": "0x6BfD9740da95ee53e30Ec5dc4BD095Ca8d925512", "name": "StreamingFeeModule", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/11/2022"}
+{"address": "0x50d22AD63823eb9f2f31C949663a31b587a8F3DA", "name": "BasicIssuanceModule", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/11/2022"}
+{"address": "0x47e175d928A6037Bd99877e6e3b14033e6ACD27c", "name": "SetTokenCreator", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/11/2022"}
+{"address": "0x34449c78C4A9794046294a6fDcb5948B46D45EAD", "name": "Controller", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/11/2022"}
+{"address": "0x83B14aD462146a8C4A5dC1983883D419379b26d4", "name": "OppaNeard", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 10, "settings": "-", "date": "9/11/2022"}
