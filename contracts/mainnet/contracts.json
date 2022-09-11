@@ -4954,3 +4954,4 @@
 {"address": "0x47e175d928A6037Bd99877e6e3b14033e6ACD27c", "name": "SetTokenCreator", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/11/2022"}
 {"address": "0x34449c78C4A9794046294a6fDcb5948B46D45EAD", "name": "Controller", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/11/2022"}
 {"address": "0x83B14aD462146a8C4A5dC1983883D419379b26d4", "name": "OppaNeard", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 10, "settings": "-", "date": "9/11/2022"}
+{"address": "0x9E8F79006069675aC0FE4b8d48E8514B213f1333", "name": "GambotsNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/11/2022"}
