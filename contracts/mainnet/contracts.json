@@ -4972,3 +4972,13 @@
 {"address": "0x08bfe49094940702B33Ebc5Ce7D0FE84AE9608d2", "name": "SportPositionalMarketManager", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/12/2022"}
 {"address": "0x7FcCFA727EC289Dbd62080F08fAD316D1497DCa9", "name": "OppaBearEtacha", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 4, "settings": "-", "date": "9/12/2022"}
 {"address": "0xed386Fe855C1EFf2f843B910923Dd8846E45C5A4", "name": "Multicall2", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/12/2022"}
+{"address": "0x406db502d1F9aB52ac9e3f9297a906a690B9bD06", "name": "AggregationRouter", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/12/2022"}
+{"address": "0x6Cf2100b5162F0cC1D5bf1A0EcDAc34916756FA5", "name": "ClipperExchangeInterface", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/12/2022"}
+{"address": "0x617b2e3c10325c546533ecae277bcf9964ab3373", "name": "BlacklistAndTimeFilter", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/12/2022"}
+{"address": "0x465Eba99388166F8F8a40d14f3A13a79BB23a810", "name": "KeeperRegistryCheckUpkeepGasUsageWrapper1_2", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/12/2022"}
+{"address": "0x490d05d7ef82816f47737c7d72d10f5c172e7772", "name": "MedianBTCUSD", "compiler": "0.5.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/12/2022"}
+{"address": "0xad4Eb727D219121007762C6f0e6Af8255ec6794E", "name": "YearnLinearPoolFactory", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/12/2022"}
+{"address": "0x19968D4b7126904Fd665eD25417599Df9604Df83", "name": "ReaperLinearPoolFactory", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/12/2022"}
+{"address": "0xb46544680ad2f13dc8ceeea7dd8e1a2cd68b39ed", "name": "PengTogether", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/12/2022"}
+{"address": "0xb68f3d8e341b88df22a73034dbde3c888f4be9de", "name": "PbProxy", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/12/2022"}
+{"address": "0xf7a1f8918301d9c09105812eb045aa168ab3bfea", "name": "FarmCurve", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/12/2022"}
