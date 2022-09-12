@@ -4968,3 +4968,7 @@
 {"address": "0x30f104Bef5FD3008D7d37b784aDDa548f5F814bd", "name": "CollectionFactory", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/12/2022"}
 {"address": "0xB7d342565D8a22c07c793b5eE57187952050c81c", "name": "TokenFactory", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/12/2022"}
 {"address": "0x2e4ebefe81F4DFFf4F901C6A47558313aA22b61f", "name": "Casino", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 4, "settings": "-", "date": "9/11/2022"}
+{"address": "0xbbf1a875b13e4614645934faa3fee59258320415", "name": "MedianETHUSD", "compiler": "0.5.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/12/2022"}
+{"address": "0x08bfe49094940702B33Ebc5Ce7D0FE84AE9608d2", "name": "SportPositionalMarketManager", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/12/2022"}
+{"address": "0x7FcCFA727EC289Dbd62080F08fAD316D1497DCa9", "name": "OppaBearEtacha", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 4, "settings": "-", "date": "9/12/2022"}
+{"address": "0xed386Fe855C1EFf2f843B910923Dd8846E45C5A4", "name": "Multicall2", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/12/2022"}
