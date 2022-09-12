@@ -4982,3 +4982,6 @@
 {"address": "0xb46544680ad2f13dc8ceeea7dd8e1a2cd68b39ed", "name": "PengTogether", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/12/2022"}
 {"address": "0xb68f3d8e341b88df22a73034dbde3c888f4be9de", "name": "PbProxy", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/12/2022"}
 {"address": "0xf7a1f8918301d9c09105812eb045aa168ab3bfea", "name": "FarmCurve", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/12/2022"}
+{"address": "0x1aBBA7EA800f9023Fa4D1F8F840000bE7e3469a1", "name": "ChronicleETHUSD", "compiler": "0.5.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/12/2022"}
+{"address": "0xBF5a34C191998E5227A2eBc38D91FBEbEc8893d9", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 57, "settings": "-", "date": "9/12/2022"}
+{"address": "0xe862ec3d0c14f8545668d75975375c61316b1156", "name": "Bipsea", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "9/12/2022"}
