@@ -4955,3 +4955,16 @@
 {"address": "0x34449c78C4A9794046294a6fDcb5948B46D45EAD", "name": "Controller", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/11/2022"}
 {"address": "0x83B14aD462146a8C4A5dC1983883D419379b26d4", "name": "OppaNeard", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 10, "settings": "-", "date": "9/11/2022"}
 {"address": "0x9E8F79006069675aC0FE4b8d48E8514B213f1333", "name": "GambotsNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/11/2022"}
+{"address": "0x09a2961f6b0dcffd92815cd1c24caa92a69cbfb4", "name": "CurvedInterestRate", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 11, "settings": "", "date": "9/12/2022"}
+{"address": "0x40b3D5094db253601F98A8bBCd53600aB2c6f719", "name": "PoolLogic", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/12/2022"}
+{"address": "0x8f77b1dbeBD2f09aBFFd660532f853aB72f09890", "name": "PoolFactory", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/12/2022"}
+{"address": "0x932C54Abf6D1E25D969182306991A63cA2642b97", "name": "DhedgeEasySwapper", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/12/2022"}
+{"address": "0x65f1c179687aac77d95c6fbb002722a33c8f24f7", "name": "Crown", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/12/2022"}
+{"address": "0x08b3b627c9870e0146e19150b703cfa4eafb273c", "name": "Box", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/12/2022"}
+{"address": "0x07ae2d181de9d3c5ba58ef4de616ea70a65a401d", "name": "PartyPanda2", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 49, "settings": "", "date": "9/12/2022"}
+{"address": "0x8dd358c8b9f7ae525be46ca5154c3ce52fe29946", "name": "NounsGlasses", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/12/2022"}
+{"address": "0x00000000bbe723D51C3980cDBc84b1F94d700119", "name": "RoundIdFetcher", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/12/2022"}
+{"address": "0x5bD3a92929cebE42F542F3aCBCb7797708DAC371", "name": "CollectionsRepository", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/12/2022"}
+{"address": "0x30f104Bef5FD3008D7d37b784aDDa548f5F814bd", "name": "CollectionFactory", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/12/2022"}
+{"address": "0xB7d342565D8a22c07c793b5eE57187952050c81c", "name": "TokenFactory", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/12/2022"}
+{"address": "0x2e4ebefe81F4DFFf4F901C6A47558313aA22b61f", "name": "Casino", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 4, "settings": "-", "date": "9/11/2022"}
