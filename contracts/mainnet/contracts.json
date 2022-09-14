@@ -5037,3 +5037,8 @@
 {"address": "0xef48a4e629daaa67c7b2f04111e4b8f80ea2a63f", "name": "Deployer", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "9/14/2022"}
 {"address": "0x7461a28866eb4e2ee9806b311f6eca3ef5bffa7a", "name": "VaultFactory", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/14/2022"}
 {"address": "0xE0b50B0635b90F7021d2618f76AB9a31B92D0094", "name": "WeightedPool", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/14/2022"}
+{"address": "0xCFF5D411eE7B06365d9BCA95557086136BEe54d1", "name": "Bridge", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/14/2022"}
+{"address": "0xd61B8A3605784Ac1b68Bf692630499f03ED3A4ca", "name": "NaivePaymaster", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 10, "settings": "-", "date": "9/14/2022"}
+{"address": "0xEd2917EB2e4aC54321272D5e27Ad7b22C5532Ab0", "name": "SportsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/14/2022"}
+{"address": "0x46b1ec25e5e7696EcbaE9441D3F79D01b118E154", "name": "SportPositionalMarketManager", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/14/2022"}
+{"address": "0x7a07c26166Dc04f1319e58d630769585ADA2CAD8", "name": "ApexConsumerWrapper", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/14/2022"}
