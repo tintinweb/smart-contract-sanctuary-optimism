@@ -5014,3 +5014,8 @@
 {"address": "0xc3864f98f2a61A7cAeb95b039D031b4E2f55e0e9", "name": "OpenX", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/13/2022"}
 {"address": "0x6e0cef87b1d55ec54d657f0ada04ae2c90a470ba", "name": "UniswapV2Router02", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/13/2022"}
 {"address": "0x4d0b24a7ca2612b97df80fa88272553fdbcf1cc8", "name": "UniswapV2Factory", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/13/2022"}
+{"address": "0xf572649606db4743d217a2fa6e8b8eb79742c24a", "name": "ComposableStablePool", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/14/2022"}
+{"address": "0x593aCBFB1EaF3B6ec86fa60325D816996fDcbc0d", "name": "ComposableStablePool", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/14/2022"}
+{"address": "0x62de5ca16a618e22f6dfe5315ebd31acb10c44b6", "name": "ComposableStablePool", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/14/2022"}
+{"address": "0x4effDb9bF554D6e4CBcD18513741C19e31Dda299", "name": "AnyswapAdapter", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/14/2022"}
+{"address": "0x9964b1bD3CC530E5c58BA564e45d45290F677BE2", "name": "ComposableStablePool", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/14/2022"}
