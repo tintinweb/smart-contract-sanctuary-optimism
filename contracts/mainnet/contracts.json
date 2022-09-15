@@ -5072,3 +5072,10 @@
 {"address": "0x71452f3F9c557DADa476434a8C64d5D3410861e4", "name": "Router", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/15/2022"}
 {"address": "0xe9c7b5C2Bf5504922DD2F5b47529806134b4a865", "name": "ElectionModule", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/15/2022"}
 {"address": "0xD62ADef80341E0271031711c14A8E7263d196c1F", "name": "ElectionInspectorModule", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/15/2022"}
+{"address": "0xe527d0cbcaa9a60c1d002ecfa2452faa3078ad96", "name": "UMATrigger", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/15/2022"}
+{"address": "0x593d38d543753816a0cA40ed62Ae9671f4a2ed4b", "name": "UMATrigger", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/15/2022"}
+{"address": "0xcdf57d08abdf72a4d6112008a8d87ccd568b9c2c", "name": "UMATrigger", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/15/2022"}
+{"address": "0x4a26e7e17d836de95270e009ce6afff7083051a4", "name": "FixedPriceAggregator", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/15/2022"}
+{"address": "0x89f91d60ffddd47a4196981d7e740fa125d74cf0", "name": "Vyper_contract", "compiler": "vyper:0.3.6", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "9/15/2022"}
+{"address": "0x898392a5Bd0029fCD55492c7cBD7442bafcFb71c", "name": "TherundownConsumer", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/15/2022"}
+{"address": "0xAde200D6E602C53d05ce735AA4ae84BC811be105", "name": "OppaStock", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "9/15/2022"}
