@@ -5047,3 +5047,5 @@
 {"address": "0xC45Eb8d37917AB65D06806F35cC54e09dea135AC", "name": "ThalesBonds", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/14/2022"}
 {"address": "0xF0D52e9CBe8d091C5D11f8e5D56Ef7CE8C0d93c6", "name": "SportsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/14/2022"}
 {"address": "0x3A1f59f5a0a263c85697F689817051A1ea0eea74", "name": "AspireToken", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "9/14/2022"}
+{"address": "0x24e98a389c046a32465e90f9213cacffa795dc40", "name": "Deployer", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "9/15/2022"}
+{"address": "0xDDed222297B3d08DAFDAc8f65eeB799B2674C78F", "name": "PodToken", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/15/2022"}
