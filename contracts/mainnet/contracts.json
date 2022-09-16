@@ -5079,3 +5079,4 @@
 {"address": "0x89f91d60ffddd47a4196981d7e740fa125d74cf0", "name": "Vyper_contract", "compiler": "vyper:0.3.6", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "9/15/2022"}
 {"address": "0x898392a5Bd0029fCD55492c7cBD7442bafcFb71c", "name": "TherundownConsumer", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/15/2022"}
 {"address": "0xAde200D6E602C53d05ce735AA4ae84BC811be105", "name": "OppaStock", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "9/15/2022"}
+{"address": "0x6adaa902a0a0f68c4c800230d220f06c55af5c55", "name": "NiftyMoves", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "9/16/2022"}
