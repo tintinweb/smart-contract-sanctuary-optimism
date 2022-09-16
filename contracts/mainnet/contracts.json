@@ -5100,3 +5100,12 @@
 {"address": "0x0000000002B0D8F6B89EB7C3294a14e89021e00C", "name": "FixedWager", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/16/2022"}
 {"address": "0x000000000A4C1Ff3204Aef1e1D7451a40b863854", "name": "ConditionalWager", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/16/2022"}
 {"address": "0xcbC71843E4Dec985469191dD8Bea2c04EB83b300", "name": "StakingRewardsHelper", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/16/2022"}
+{"address": "0xcd5380201fdc29bc417c8afb926df60aacc0c0f4", "name": "AaveV3View", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/16/2022"}
+{"address": "0x10fD095543E3a1Feb26CC1F57F20a8f4002b0220", "name": "MasterChefV2O", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/16/2022"}
+{"address": "0xaefa7fe90b0421e75272b2c39444a36619ffaccc", "name": "Vyper_contract", "compiler": "vyper:0.3.6", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "9/16/2022"}
+{"address": "0x441077f931333D60364eF6D7879B5062057f5CEE", "name": "PerpV2LeverageModuleViewer", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/16/2022"}
+{"address": "0xEF74B0145994611efd2a3beaC408ceDF834120fd", "name": "PerpV2BasisTradingModule", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/16/2022"}
+{"address": "0xB8e3A2B0EE68E4beF6E0207F9e26d669db34B05a", "name": "PerpV2LeverageModuleViewer", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/16/2022"}
+{"address": "0x08a1DFec601fc4d5d39E191EBcD950D1cd369E04", "name": "PerpV2LeverageModuleV2", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/16/2022"}
+{"address": "0x2347C016371082C4100357D14CAB13A0a66759ce", "name": "PerpV2Positions", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/16/2022"}
+{"address": "0x749D3647ea64147b791C0f7acB463979BF867cd5", "name": "PerpV2LibraryV2", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/16/2022"}
