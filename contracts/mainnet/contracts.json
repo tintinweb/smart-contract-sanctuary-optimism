@@ -5110,3 +5110,5 @@
 {"address": "0x2347C016371082C4100357D14CAB13A0a66759ce", "name": "PerpV2Positions", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/16/2022"}
 {"address": "0x749D3647ea64147b791C0f7acB463979BF867cd5", "name": "PerpV2LibraryV2", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/16/2022"}
 {"address": "0xbe5cbcd36cfba87f91ee1c63da266c3877b8c747", "name": "Vyper_contract", "compiler": "vyper:0.3.6", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "9/16/2022"}
+{"address": "0x1a58897Ab366082028ced3740900ecBD765Af738", "name": "BalancerRelayer", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/16/2022"}
+{"address": "0x8E5698dC4897DC12243c8642e77B4f21349Db97C", "name": "BatchRelayerLibrary", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/16/2022"}
