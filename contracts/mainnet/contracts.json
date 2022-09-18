@@ -5117,3 +5117,6 @@
 {"address": "0x7E409930295D6778058D5C6C52879f25245221E0", "name": "ContractCheck", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "9/17/2022"}
 {"address": "0x217B182744B4c36a4EB7D7519114DF4106F382cA", "name": "ContractCheck", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 6, "settings": "-", "date": "9/17/2022"}
 {"address": "0x7765Bf5987cD6a2362D47D75F7d9768fA25893fF", "name": "VoterUpgradeable", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/17/2022"}
+{"address": "0x4501251217ff62A267455D18AF168C35c38f2837", "name": "MyMintplexProjectContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/18/2022"}
+{"address": "0x0841dEF9362c205a5F59A5e232d925fC7A8d8537", "name": "RedistributionChef", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/18/2022"}
+{"address": "0x41e727A4c19EEA4B7D0A079688268F3E74D4F6F0", "name": "RedistributionChef", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/18/2022"}
