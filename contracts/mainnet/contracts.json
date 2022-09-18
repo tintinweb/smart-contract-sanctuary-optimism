@@ -5121,3 +5121,5 @@
 {"address": "0x0841dEF9362c205a5F59A5e232d925fC7A8d8537", "name": "RedistributionChef", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/18/2022"}
 {"address": "0x41e727A4c19EEA4B7D0A079688268F3E74D4F6F0", "name": "RedistributionChef", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/18/2022"}
 {"address": "0xFBF562a98aB8584178efDcFd09755FF9A1e7E3a2", "name": "RedistributionChef", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/18/2022"}
+{"address": "0x5c93df5d2ed53a34da2525b50de995e43a08dcf9", "name": "Vyper_contract", "compiler": "vyper:0.3.6", "balance": "0 Ether", "txcount": 18, "settings": "", "date": "9/18/2022"}
+{"address": "0xf7abeac1e7c4b85e33b51ed02c39f3b8d6c75809", "name": "apepunks", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/18/2022"}
