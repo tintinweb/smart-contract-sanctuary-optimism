@@ -5145,3 +5145,6 @@
 {"address": "0xb7c1101a91a1df7c528294ff5c1d51665541860d", "name": "lzCore", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/19/2022"}
 {"address": "0xC5a998D0b5eB81bb3C9244152025e074c5ECf5Bb", "name": "GelatoRelay", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/19/2022"}
 {"address": "0x7a924305e8c00757db6131d665e5d559ead9f7cd", "name": "DIAOracleV2", "compiler": "0.7.4", "balance": "0 Ether", "txcount": 102, "settings": "", "date": "9/19/2022"}
+{"address": "0xd7F0c55038683B8Eb998A9588e2bf3CDE712B33a", "name": "ONFTGateway", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "9/19/2022"}
+{"address": "0xb606D0a6F114C866FbAB0C4f7c492e4E180500C7", "name": "ERC1155RH", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/19/2022"}
+{"address": "0x91155c72ea13bcbf6066dd161beced3eb7c35e35", "name": "ReaperAutoCompoundFlashBorrow", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "9/19/2022"}
