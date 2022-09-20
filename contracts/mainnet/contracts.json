@@ -5148,3 +5148,6 @@
 {"address": "0xd7F0c55038683B8Eb998A9588e2bf3CDE712B33a", "name": "ONFTGateway", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "9/19/2022"}
 {"address": "0xb606D0a6F114C866FbAB0C4f7c492e4E180500C7", "name": "ERC1155RH", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/19/2022"}
 {"address": "0x91155c72ea13bcbf6066dd161beced3eb7c35e35", "name": "ReaperAutoCompoundFlashBorrow", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "9/19/2022"}
+{"address": "0xf2acd5F10E16BCd2b436701647513bB6C20cF62F", "name": "KyberStaticQuoter", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/20/2022"}
+{"address": "0xBE13e651FF246ac63fA36CaD6cd8610B090A6A25", "name": "AggregationExecutor", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/20/2022"}
+{"address": "0xcfa1e187c9141b8ba90a436cb789017fa573d051", "name": "CFAv1Forwarder", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/19/2022"}
