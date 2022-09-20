@@ -5151,3 +5151,9 @@
 {"address": "0xf2acd5F10E16BCd2b436701647513bB6C20cF62F", "name": "KyberStaticQuoter", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/20/2022"}
 {"address": "0xBE13e651FF246ac63fA36CaD6cd8610B090A6A25", "name": "AggregationExecutor", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/20/2022"}
 {"address": "0xcfa1e187c9141b8ba90a436cb789017fa573d051", "name": "CFAv1Forwarder", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/19/2022"}
+{"address": "0x4382866F9a997f07355f1f601bE985a7059aC6A4", "name": "FundingManagerReader", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/20/2022"}
+{"address": "0x9a8362b327108730e61c9e72beff6597cafd0a88", "name": "WhitenoiseNFT", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/20/2022"}
+{"address": "0x3391696c974ca24559d3e0b970b075b3a25cca09", "name": "PolynomialLyraResolver", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/20/2022"}
+{"address": "0xe6410Ef478F3BA4A9d983d205226ACC6cC794b07", "name": "Vyper_contract", "compiler": "vyper:0.3.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/20/2022"}
+{"address": "0x2D40eB17E68d790940e1005A736D7b878A81F471", "name": "MyOptiBoyzNftContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "9/20/2022"}
+{"address": "0xc80f61d1bdAbD8f5285117e1558fDDf8C64870FE", "name": "UniswapV3StaticQuoter", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/20/2022"}
