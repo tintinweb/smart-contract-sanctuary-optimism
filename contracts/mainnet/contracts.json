@@ -5169,3 +5169,13 @@
 {"address": "0xac3B9b3f5956b52c448158c0a07DDFA9D5c53a3B", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "9/21/2022"}
 {"address": "0x442659a6d04B907C879032DA1EF634548110dd37", "name": "UniswapV2Pair", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "9/20/2022"}
 {"address": "0x950cF66BEf352325D0e4ddcf3f32deFBc24605a0", "name": "TokenPaymentManager", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/20/2022"}
+{"address": "0xb88c2541DA2c47b0c131E35e2A76440B41b36Dce", "name": "FundingManagerReader", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/21/2022"}
+{"address": "0xED57fB46927B158F49C1eed17DA700b6D67dEE21", "name": "FundingManagerReader", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/21/2022"}
+{"address": "0x0d8bEA33A916041ab46B8A1dD0B3c4197a5be527", "name": "Swap", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/21/2022"}
+{"address": "0xf6f2dafa542FefAae22187632Ef30D2dAa252b4e", "name": "SmartWalletProxy", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/21/2022"}
+{"address": "0x6917812739D8Cc378ABd80569D6045Fff349d224", "name": "KyberSwapV3", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/21/2022"}
+{"address": "0xB95FBBC6cA74bb9BBBFE0f881CFB6AA95B16bB93", "name": "FetchAaveDataWrapper", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/21/2022"}
+{"address": "0xfA5d8aAF312c96b42Ac4355B13D9D28fB10b305c", "name": "FetchTokenBalances", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/21/2022"}
+{"address": "0x55abE1518005a297d3cF76C99cB94cCA572e5c99", "name": "SmartWalletImplementation", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/21/2022"}
+{"address": "0xc98a3CB070Ed9eD7711b80E29755519C44450607", "name": "AaveV3", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/21/2022"}
+{"address": "0x852f3662e0fdD1e820c493285C4F6F54Dc871640", "name": "Vault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 11, "settings": "-", "date": "9/21/2022"}
