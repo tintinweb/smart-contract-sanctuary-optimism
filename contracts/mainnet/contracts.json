@@ -5212,3 +5212,8 @@
 {"address": "0x63614ADc11e3Bd10bdD502710C7E9fb4870F476C", "name": "MarketAid", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/21/2022"}
 {"address": "0x333F344c3a68F5379c42673A4B78e0Ff163E4554", "name": "Pack", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/21/2022"}
 {"address": "0xAAA001881225f33122eE1538949fD991098C4269", "name": "StrategistUtility", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/21/2022"}
+{"address": "0xDD29dDAc5E6AdA1359fC20b8DEbad2b98963e0DD", "name": "MultiSend", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/22/2022"}
+{"address": "0x8702c9a26d400ae1f996569fa508063fb26db0c0", "name": "ReaperAutoCompoundFlashBorrow", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "9/22/2022"}
+{"address": "0x381d7f421c72579c7db349a3d6a8a7bf0ddacdd5", "name": "Deployer", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 15, "settings": "", "date": "9/22/2022"}
+{"address": "0xA0A2164522228846637586B7ED2f30161F237f5A", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 8, "settings": "-", "date": "9/22/2022"}
+{"address": "0x8c63B23811060d8C39f5797060E50545F7712135", "name": "ONFTGateway", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "9/21/2022"}
