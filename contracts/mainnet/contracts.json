@@ -5270,3 +5270,5 @@
 {"address": "0x95170d027c905B83dC356A75E866C7C20e440356", "name": "Vault", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/22/2022"}
 {"address": "0x48118CEf3D2b980cE92f136232CF1f2C328a540a", "name": "AccountBalance", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/22/2022"}
 {"address": "0x970D6b8c1479ec2bfE5a82dC69caFe4003099bC0", "name": "StakingRewardsHelper", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/22/2022"}
+{"address": "0x5147b87d71233e374448ef63b6525d32f3db0fbe", "name": "CatsAndDogs", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/23/2022"}
+{"address": "0x4DE97B1669CeEd6EF9F38a6a76Dd982D394810c4", "name": "AccessTokenVerifier", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/23/2022"}
