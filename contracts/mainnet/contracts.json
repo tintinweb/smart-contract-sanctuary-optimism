@@ -5316,3 +5316,8 @@
 {"address": "0xc541372c68bcdbdf20561155aafcee400d8bc053", "name": "AaveRouterFactory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/23/2022"}
 {"address": "0x03D7f750777eC48d39D080b020D83Eb2CB4e3547", "name": "L2_OptimismBridge", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/23/2022"}
 {"address": "0x79d6bf536b8DD65909a3174C87eA6395310d5c41", "name": "FLBalancer", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/23/2022"}
+{"address": "0xC5bf02f77e90925F4b78dAEe24812DEBf5c9e210", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "9/24/2022"}
+{"address": "0x3F604120bf5f2653b6F53f2AbfB40D4cd651f528", "name": "WrappedExternalBribe", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/24/2022"}
+{"address": "0xcd476505861bde63942ef0bcebc2fb2538e46765", "name": "xPool", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/23/2022"}
+{"address": "0x2513486f18eee1498d7b6281f668b955181dd0d9", "name": "OpenXGov", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/23/2022"}
+{"address": "0x237aef9e106f35406ba435d865ab151e2ba82d7b", "name": "MasterChefV2O", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "9/23/2022"}
