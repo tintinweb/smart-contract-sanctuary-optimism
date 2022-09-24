@@ -5326,3 +5326,10 @@
 {"address": "0x479A7d1fcDD71ce0C2ED3184bfbe9d23B92E8337", "name": "ComposableStablePool", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/24/2022"}
 {"address": "0xC0d7013A05860271a1EDB52415CF74BC85B2AcE7", "name": "ReaperLinearPool", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/24/2022"}
 {"address": "0xa1a77e5d7d769bfbb790a08ec976dc738bf795b9", "name": "ReaperLinearPool", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/24/2022"}
+{"address": "0xefcc8cc9597636d0c06efaded4bc31b9aec6404e", "name": "xConverter", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/24/2022"}
+{"address": "0x9cB46586C9ec74E4D9De6cD67c760F89915bBcD8", "name": "OneClicks", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 13, "settings": "", "date": "9/24/2022"}
+{"address": "0xFE7029a4538C6405f92245950077dA144597B6F4", "name": "__UpgradeSingleton", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "9/24/2022"}
+{"address": "0x07c6241ef6585d271ed933054647563ac097b558", "name": "LPBreaker", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "9/24/2022"}
+{"address": "0x8c06c9ad3c7f7dA8AFB02636a54970B4cCf490f1", "name": "LedgerPayWallet", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/24/2022"}
+{"address": "0xF3fc94c4AF077986490fDfF25Bb4953A3B7bDb1C", "name": "Fetcher", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "9/24/2022"}
+{"address": "0x1f04b0a34e6abbfc09c14c1ed9ec546cbab353be", "name": "SadBunnies", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 48, "settings": "", "date": "9/24/2022"}
