@@ -5321,3 +5321,8 @@
 {"address": "0xcd476505861bde63942ef0bcebc2fb2538e46765", "name": "xPool", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/23/2022"}
 {"address": "0x2513486f18eee1498d7b6281f668b955181dd0d9", "name": "OpenXGov", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/23/2022"}
 {"address": "0x237aef9e106f35406ba435d865ab151e2ba82d7b", "name": "MasterChefV2O", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "9/23/2022"}
+{"address": "0x981Fb05B738e981aC532a99e77170ECb4Bc27AEF", "name": "WeightedPool", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/24/2022"}
+{"address": "0x1f131ec1175f023ee1534b16fa8ab237c00e2381", "name": "ComposableStablePool", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/24/2022"}
+{"address": "0x479A7d1fcDD71ce0C2ED3184bfbe9d23B92E8337", "name": "ComposableStablePool", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/24/2022"}
+{"address": "0xC0d7013A05860271a1EDB52415CF74BC85B2AcE7", "name": "ReaperLinearPool", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/24/2022"}
+{"address": "0xa1a77e5d7d769bfbb790a08ec976dc738bf795b9", "name": "ReaperLinearPool", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/24/2022"}
