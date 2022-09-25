@@ -5337,3 +5337,5 @@
 {"address": "0x45f884f24002a71eaa088bbe2270be34b3bb3d46", "name": "PaymentSplitter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/24/2022"}
 {"address": "0xfc1aa395ebd27664b11fc093c07e10ff00f0122c", "name": "WrappedExternalBribeFactory", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 150, "settings": "", "date": "9/24/2022"}
 {"address": "0xe1ADE8ec6cfaC0Ae2dd8908aBe181fD56cA52281", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 5, "settings": "-", "date": "9/24/2022"}
+{"address": "0xa60D490C1984D91AB2E43e5b891b2AB8Ab790752", "name": "LyraQuoter", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/25/2022"}
+{"address": "0x1DB2466d9F5e10D7090E7152B68d62703a2245F0", "name": "Sonne", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/25/2022"}
