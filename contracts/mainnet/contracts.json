@@ -5355,3 +5355,9 @@
 {"address": "0x506bc01c73664006e114a392e4623fb10ec29d77", "name": "LiquidNFT_deploy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/25/2022"}
 {"address": "0x93e74d0f849c5d3E842791801Ba8d66d50D730bF", "name": "ThreeToN", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/25/2022"}
 {"address": "0x8c0751530452ee6a7b98fe571427d83adf3335de", "name": "UniFeeSwap", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/25/2022"}
+{"address": "0x2A6D4EA1c0ef6060665AbB853523807E8f3f2873", "name": "SobtaMagicNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "9/26/2022"}
+{"address": "0x7F8955bf9F43f162B2A48241813156F2A699f5d8", "name": "AaveV3", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/26/2022"}
+{"address": "0x97a89911a94DD081E290fbc732D2FFC501ca0d00", "name": "Vault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 7, "settings": "-", "date": "9/26/2022"}
+{"address": "0x690783Db69FE92C8027cB010f02B124340a216a1", "name": "VelodromeVariableLPAggregator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/26/2022"}
+{"address": "0x5b59A43b164089Efd6C62CD1716D30Ec25c55d1A", "name": "VelodromeStableLPAggregator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/26/2022"}
+{"address": "0x274D146c910dCe811805E08fF8F61a1c3A931c4a", "name": "BigShot", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/26/2022"}
