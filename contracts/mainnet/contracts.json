@@ -5375,3 +5375,12 @@
 {"address": "0x3aA54b07c57705dfA388570447B0fEd263Be6Cf7", "name": "DisperseVKZ", "compiler": "0.4.25", "balance": "0 Ether", "txcount": 6, "settings": "-", "date": "9/26/2022"}
 {"address": "0x31d8EAfF8AF8c1207644B1E04980d3E821fDDe05", "name": "SignatureDrop", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/26/2022"}
 {"address": "0x421f39748E5898BA59456F49c605bB1405D77005", "name": "LQDR", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/26/2022"}
+{"address": "0xB14ed6801A9dae7b98Cf962eFDa80d0b9925FCA0", "name": "LyraAutomator", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/26/2022"}
+{"address": "0x780CE455bc835127182809Bc8fF36fFfE55Bc4B8", "name": "RevestAddressRegistry", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/26/2022"}
+{"address": "0xfDc8fb38727650c76c47630F0941099f79870E2c", "name": "RevestA4", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/26/2022"}
+{"address": "0x490867a64746AC33f721A778dD8C30BBb0074055", "name": "TokenVaultV2", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/26/2022"}
+{"address": "0x412c1197E1d7F1C0FDF22998737D3E329eF42F1B", "name": "AdminTimeLock", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/26/2022"}
+{"address": "0x56584B080CbfADa50112271B0486A61444AE6FE2", "name": "SupplyLock", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/26/2022"}
+{"address": "0x86169239aeeEdefb9A571c952B809F2681c0e209", "name": "BinaryComboLock", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/26/2022"}
+{"address": "0x0d5d900ee9b801e3c32ed9d9ed6fe1ec994f692f", "name": "PbVelo", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/26/2022"}
+{"address": "0x8e30bd41861d4f3643d23e3940d53f4dfb716510", "name": "ValixOrgBulk", "compiler": "0.4.24", "balance": "0 Ether", "txcount": 4, "settings": "-", "date": "9/26/2022"}
