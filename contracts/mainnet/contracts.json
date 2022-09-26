@@ -5361,3 +5361,8 @@
 {"address": "0x690783Db69FE92C8027cB010f02B124340a216a1", "name": "VelodromeVariableLPAggregator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/26/2022"}
 {"address": "0x5b59A43b164089Efd6C62CD1716D30Ec25c55d1A", "name": "VelodromeStableLPAggregator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/26/2022"}
 {"address": "0x274D146c910dCe811805E08fF8F61a1c3A931c4a", "name": "BigShot", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/26/2022"}
+{"address": "0x94977c9888F3D2FAfae290d33fAB4a5a598AD764", "name": "MultichainVerseExplore", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/26/2022"}
+{"address": "0x750bfe8490175c2A9A9387b19Aa2AaE2d75dB638", "name": "TransparentUpgradeableProxy", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/26/2022"}
+{"address": "0x3a7ffb4cc8929afeed81f0aa3bc0ff77f16db7a8", "name": "UniFeeSwap", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/26/2022"}
+{"address": "0xE7a31Aeb048ee0d5879054CB7A49860A68c46043", "name": "TeaVaultV2", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/26/2022"}
+{"address": "0x136ac542035c2e5Ae5E17f2684Ef0eB5caabe183", "name": "PoolLogic", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/26/2022"}
