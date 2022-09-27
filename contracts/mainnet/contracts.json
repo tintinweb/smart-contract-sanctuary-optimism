@@ -5424,3 +5424,9 @@
 {"address": "0xBa3e8437a06397430036E23fF9153408a3203aFD", "name": "ATokenGateway", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/27/2022"}
 {"address": "0x80a79d0fe8c658bc2ae7bd37fc48a74d59803a5f", "name": "ReaperGranaryLoop", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/27/2022"}
 {"address": "0x229ecbB1D76463E761535dD0e591C34317396131", "name": "ReaperVaultv1_4", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "9/27/2022"}
+{"address": "0x90a8E9B9DffB04c3742787085B343e1FB8a71ED9", "name": "TokenPaymentManager", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/27/2022"}
+{"address": "0x41a3e588c495a9cd2703404e23f70dff73e5c052", "name": "HyperLPFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/27/2022"}
+{"address": "0x5790E1805AA5Ed35F0B062Cf6eaD5343b938F812", "name": "HyperLPRouter", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/27/2022"}
+{"address": "0xb4bF17210844418F9F2D3B90036E11aa40517971", "name": "VesterCliff", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/27/2022"}
+{"address": "0x31aeCf2a51bbaf4C74B0425466C5746D9Db4e342", "name": "HyperLPool", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/27/2022"}
+{"address": "0x2Cf5BC8B539C2C7C0b2c89c6a635E00dbe43BfeC", "name": "OppaBull", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "9/27/2022"}
