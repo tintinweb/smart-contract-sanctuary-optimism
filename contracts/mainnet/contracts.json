@@ -5430,3 +5430,9 @@
 {"address": "0xb4bF17210844418F9F2D3B90036E11aa40517971", "name": "VesterCliff", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/27/2022"}
 {"address": "0x31aeCf2a51bbaf4C74B0425466C5746D9Db4e342", "name": "HyperLPool", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/27/2022"}
 {"address": "0x2Cf5BC8B539C2C7C0b2c89c6a635E00dbe43BfeC", "name": "OppaBull", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "9/27/2022"}
+{"address": "0x65a0b01756E837e6670634816E4F5B3a3fF21107", "name": "Vyper_contract", "compiler": "vyper:0.3.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/28/2022"}
+{"address": "0xDC05d85069Dc4ABa65954008ff99f2D73FF12618", "name": "StakedDistributor", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/27/2022"}
+{"address": "0x0d3627F61B40e621A601458229D9EE0Eb2b1769F", "name": "JumpRateModelV2", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/27/2022"}
+{"address": "0x4425832beC2A700D4a02bC3E16518eb53CcBF572", "name": "Comptroller", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "9/27/2022"}
+{"address": "0x0A9B7d676FE7c8E77f31C9B1aC46C67192a1B992", "name": "ChainlinkPriceOracle", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/27/2022"}
+{"address": "0x256164c051fB8B9cDf5f460EeC43e114F251f450", "name": "CErc20Immutable", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/27/2022"}
