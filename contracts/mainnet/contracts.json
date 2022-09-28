@@ -5458,3 +5458,6 @@
 {"address": "0x73AAe33A9ec285d542fDC1cA7e293EADAD5247C1", "name": "SportPositionalMarketManager", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/28/2022"}
 {"address": "0xA8A415dEf7ABA752726BF8fB1c980b4CE52cf582", "name": "TherundownConsumer", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/28/2022"}
 {"address": "0xA7f7De387425036Fa189f90A3d9b0D2B5835Fc51", "name": "OpenSeaOnOptimismContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2858, "settings": "", "date": "9/28/2022"}
+{"address": "0x6B38c561366A939eA8711a7311C8e5aab0A71Df9", "name": "MerkleAirdrop", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/28/2022"}
+{"address": "0x2071a1Ed8Bfe4F4639F556b100D88E5A3c79FEe3", "name": "ControllerCurveUniV3Strat", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "9/28/2022"}
+{"address": "0x402c4B0FE1D2128E0C5a9D077501c9abCa430e01", "name": "Controller", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/28/2022"}
