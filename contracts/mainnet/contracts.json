@@ -5492,3 +5492,7 @@
 {"address": "0xA9F38AF839FA0627254cF59E5E7f16DcAdD8f06B", "name": "ReaperStrategyVelodromeUsdc", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/29/2022"}
 {"address": "0x5faAa355a1d1C25cCd16333E14C11dc78C573F24", "name": "ReaperStrategyVelodrome", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/29/2022"}
 {"address": "0x0Bfbd3718Ed63D6F37B0f9E0CEaB66e92b1fF4ed", "name": "ReaperStrategyVelodrome", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/29/2022"}
+{"address": "0xa9e0c56A0B7D40fc2c36e24e516feAC1794A3F8E", "name": "DeltaShortStrategy", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/29/2022"}
+{"address": "0xbf2c77dd0627a1963991b1c7a04438cde94f96ac", "name": "PythUpgradable", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/29/2022"}
+{"address": "0xC086a19470114ADE2535317502727268BEe352aE", "name": "L2ERC721Registry", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/29/2022"}
+{"address": "0xAa1B917bd2cb1b1B0E122F9526f9045ed54991e4", "name": "Raft", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/29/2022"}
