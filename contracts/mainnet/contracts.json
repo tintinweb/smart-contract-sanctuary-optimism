@@ -5470,3 +5470,4 @@
 {"address": "0x76AB3512f3bfa0f5a9E10E584b44ca2dA9fE248d", "name": "MathUtils", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/28/2022"}
 {"address": "0x6B8B75C66D808Ab236d8A7996636521a12E374D8", "name": "SwapUtils", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/28/2022"}
 {"address": "0x1990BC6dfe2ef605Bfc08f5A23564dB75642Ad73", "name": "Swap", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "9/28/2022"}
+{"address": "0x035bb9f8d4d390bf75c97e2d95f1eba6eada1ad8", "name": "PolynomialLyraResolver", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/29/2022"}
