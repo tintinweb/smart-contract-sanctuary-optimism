@@ -5461,3 +5461,12 @@
 {"address": "0x6B38c561366A939eA8711a7311C8e5aab0A71Df9", "name": "MerkleAirdrop", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/28/2022"}
 {"address": "0x2071a1Ed8Bfe4F4639F556b100D88E5A3c79FEe3", "name": "ControllerCurveUniV3Strat", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "9/28/2022"}
 {"address": "0x402c4B0FE1D2128E0C5a9D077501c9abCa430e01", "name": "Controller", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/28/2022"}
+{"address": "0x6be04743a8894A9F858b0aA41229B0CDfbd64541", "name": "LyraOptionMarketWrapperAssetGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/29/2022"}
+{"address": "0x438286d83B20De7Aba859E68aF55D5705FD9c5E4", "name": "DhedgeOptionMarketWrapperForLyra", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "9/29/2022"}
+{"address": "0xf9B0F866C276B68407A1CCAB6fBd5332Ed3ac643", "name": "UniswapV2PortalIn", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/29/2022"}
+{"address": "0x78b2d65dd1d3d9Fb2972d7Ef467261Ca101EC2B9", "name": "FlashProtocol", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "9/28/2022"}
+{"address": "0x05736a8D6bc208B9E3C9A7E20e7f53674AeA6Ab1", "name": "FlashFTokenFactory", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/28/2022"}
+{"address": "0x3b090839C26fE3b2BdfA2F4CD7F3ab001ccdF73F", "name": "FlashNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/28/2022"}
+{"address": "0x76AB3512f3bfa0f5a9E10E584b44ca2dA9fE248d", "name": "MathUtils", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/28/2022"}
+{"address": "0x6B8B75C66D808Ab236d8A7996636521a12E374D8", "name": "SwapUtils", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/28/2022"}
+{"address": "0x1990BC6dfe2ef605Bfc08f5A23564dB75642Ad73", "name": "Swap", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "9/28/2022"}
