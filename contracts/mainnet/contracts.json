@@ -5539,3 +5539,5 @@
 {"address": "0xef6231f7d39e6ab4f4a6dda47d3a0e5882b7c5ef", "name": "ShitPunks", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 60, "settings": "", "date": "9/30/2022"}
 {"address": "0x70fBF5953ab43De68F69b7dB71ac23a95bD34394", "name": "DCAV3Factory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/30/2022"}
 {"address": "0x6cd26DB69EBe1334173b035dC2148B2a00dbA7a2", "name": "WrappedUsdPlusToken", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/30/2022"}
+{"address": "0x22031BE61b10d2C6cC9648f251E1284Be5AFa3f9", "name": "VelodromeTWAP", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/30/2022"}
+{"address": "0x3cee229B25c3EFa130f148166564Cb7F4e5D29f7", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 776, "settings": "-", "date": "9/30/2022"}
