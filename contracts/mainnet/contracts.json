@@ -5535,3 +5535,7 @@
 {"address": "0xbce968f06e664A67Ed2Fae8ADf5B8d6b307B8ee0", "name": "BrewingBeers", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "9/30/2022"}
 {"address": "0xdc9d37d76e7a782460f94ffd811d4e0579f04756", "name": "ReaperLinearPoolRebalancer", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/30/2022"}
 {"address": "0x036D9cB816F382D947DFBC26a13d2aC8cdB13d34", "name": "ChainlinkPriceOracle", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/30/2022"}
+{"address": "0xc254e6b3d502ea760774a49780834d5a62f006d9", "name": "Vyper_contract", "compiler": "vyper:0.3.6", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "9/30/2022"}
+{"address": "0xef6231f7d39e6ab4f4a6dda47d3a0e5882b7c5ef", "name": "ShitPunks", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 60, "settings": "", "date": "9/30/2022"}
+{"address": "0x70fBF5953ab43De68F69b7dB71ac23a95bD34394", "name": "DCAV3Factory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "9/30/2022"}
+{"address": "0x6cd26DB69EBe1334173b035dC2148B2a00dbA7a2", "name": "WrappedUsdPlusToken", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/30/2022"}
