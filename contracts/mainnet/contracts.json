@@ -5527,3 +5527,11 @@
 {"address": "0x135fC9D26E5eC51260ece1DF4ED424E2f55c7766", "name": "DropERC1155", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/30/2022"}
 {"address": "0xca0B071899E575BA86495D46c5066971b6f3A901", "name": "DropERC20", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/30/2022"}
 {"address": "0x9cF91118C8ee2913F0588e0F10e36B3d63F68bF6", "name": "SignatureDrop", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/30/2022"}
+{"address": "0xe532f879E19E3b28bCF101B1A15076F431714839", "name": "HopAdapter", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/30/2022"}
+{"address": "0x8A141288f997acB33c54cFD1DD5E70565d7A0b5A", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 12, "settings": "-", "date": "9/30/2022"}
+{"address": "0xcc788217d8CbA6BE4774Edee2D0891DB07926aa9", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 21, "settings": "-", "date": "9/30/2022"}
+{"address": "0xEE0A945a76864444b3E0aA35acf90481650e4258", "name": "BrewingBeers", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 6, "settings": "-", "date": "9/30/2022"}
+{"address": "0x78F5ec41672137c901d70Df0076D2ba9411B6E74", "name": "BrewingBeers", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 5, "settings": "-", "date": "9/30/2022"}
+{"address": "0xbce968f06e664A67Ed2Fae8ADf5B8d6b307B8ee0", "name": "BrewingBeers", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "9/30/2022"}
+{"address": "0xdc9d37d76e7a782460f94ffd811d4e0579f04756", "name": "ReaperLinearPoolRebalancer", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "9/30/2022"}
+{"address": "0x036D9cB816F382D947DFBC26a13d2aC8cdB13d34", "name": "ChainlinkPriceOracle", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/30/2022"}
