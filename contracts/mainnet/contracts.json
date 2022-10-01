@@ -5541,3 +5541,8 @@
 {"address": "0x6cd26DB69EBe1334173b035dC2148B2a00dbA7a2", "name": "WrappedUsdPlusToken", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/30/2022"}
 {"address": "0x22031BE61b10d2C6cC9648f251E1284Be5AFa3f9", "name": "VelodromeTWAP", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "9/30/2022"}
 {"address": "0x3cee229B25c3EFa130f148166564Cb7F4e5D29f7", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 776, "settings": "-", "date": "9/30/2022"}
+{"address": "0x4EF18713A279d18db7725291609d4Ebe8825fD51", "name": "DhedgeEasySwapper", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0x42a537cb675056c5d813d603d1f8717680945295", "name": "ZombieRouter", "compiler": "0.6.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0x5ee7b02ad05bc8d1d4c7e112ce360231225c1a15", "name": "ZombieFactory", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/1/2022"}
+{"address": "0x3ed839bab81e13888010ded85cb0076639a883e0", "name": "Counter", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0xc79Ae87E9f55761c08e346B98dDdf070C9872787", "name": "StablePoolFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/30/2022"}
