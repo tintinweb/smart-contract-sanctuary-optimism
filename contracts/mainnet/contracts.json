@@ -5546,3 +5546,10 @@
 {"address": "0x5ee7b02ad05bc8d1d4c7e112ce360231225c1a15", "name": "ZombieFactory", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/1/2022"}
 {"address": "0x3ed839bab81e13888010ded85cb0076639a883e0", "name": "Counter", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/1/2022"}
 {"address": "0xc79Ae87E9f55761c08e346B98dDdf070C9872787", "name": "StablePoolFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "9/30/2022"}
+{"address": "0x50F1b3066656a8EB61847662b587373B4b4823Fe", "name": "VaultFactory", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0xf719033d0d078b71bdc2bb43547ea836d626a715", "name": "ZombiePair", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/1/2022"}
+{"address": "0xD1203f9e6a110654b52E55d7d9892c7217fb44f4", "name": "LPTokenProcessorV1", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "10/1/2022"}
+{"address": "0xFd63A0FF3451136f1A44731cC04E1e6040Aa42f1", "name": "PaymentModuleV1", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/1/2022"}
+{"address": "0x08520B7fef4fF9a585C18465560EA0A79967C0a4", "name": "VaultKey", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "10/1/2022"}
+{"address": "0x15f7b0d67eD428c4cef4D6a05716EfCd5D24Fae4", "name": "PricingModuleV1", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0x77b5585F17D323fC5c4fF8ff37Ed9B259D33c0D1", "name": "GodBunnyNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/1/2022"}
