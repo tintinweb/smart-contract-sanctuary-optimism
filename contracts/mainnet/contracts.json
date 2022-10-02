@@ -5564,3 +5564,10 @@
 {"address": "0x952c235644b6029975Fb6618b6BB2297230a821b", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 6, "settings": "-", "date": "10/1/2022"}
 {"address": "0xa8Aed2520DB64Db360C96F91B3e717dff48adae1", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "10/1/2022"}
 {"address": "0x16240019A077203447a42e710C8A8bba2E205fCc", "name": "StablePool", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0xA2449e80c6E7dae9CE64Ac90841c339FBF46E2eb", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 8, "settings": "-", "date": "10/2/2022"}
+{"address": "0x812d2d0add720322866ad184c8227417bda58e27", "name": "PolynomialLyraResolver", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/2/2022"}
+{"address": "0x2c0128153c95128de27af4db4ae60676e971ede9", "name": "SettlementTokenManager", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/2/2022"}
+{"address": "0x1555ef41d21b50793f3c3d234ac54223f5b4ad39", "name": "xUSDL", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/2/2022"}
+{"address": "0x840e9b5dd7f7de125ea7da4a138f3a1746d7855c", "name": "USDLemma", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/2/2022"}
+{"address": "0xc8811262a356aa682a9d3139bb8572b7c5f7f887", "name": "xLemmaSynth", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/2/2022"}
+{"address": "0x3e1acfc916492027e351c94ecf00fa62f722e4f9", "name": "PerpLemmaCommon", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/2/2022"}
