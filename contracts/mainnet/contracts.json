@@ -5572,3 +5572,11 @@
 {"address": "0xc8811262a356aa682a9d3139bb8572b7c5f7f887", "name": "xLemmaSynth", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/2/2022"}
 {"address": "0x3e1acfc916492027e351c94ecf00fa62f722e4f9", "name": "PerpLemmaCommon", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/2/2022"}
 {"address": "0x7338d1a72d0ed2e0a0888a513bbe527a80e7d0a4", "name": "Tester", "compiler": "0.8.1", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "10/2/2022"}
+{"address": "0xd2b66d92459d24cac2cba9687564a713ec978912", "name": "ReaperStrategyMAILife", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/2/2022"}
+{"address": "0x32b4c887a4025f565891667f085662f67dcd944e", "name": "ReaperStrategySteadyBeets", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/2/2022"}
+{"address": "0x6536dfFd07C1CD3773f896F0e46962dF7C14A833", "name": "ReaperVaultv1_4", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/2/2022"}
+{"address": "0xA84f13a005F978FE964E9264E33ab530fD61Df3A", "name": "CollectionsRepository", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/2/2022"}
+{"address": "0xaF598Ea2c3Daa9d40d19aed52A30Ab59644C6414", "name": "CollectionFactory", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "10/2/2022"}
+{"address": "0x4f325FcBcEa979a3F8FBcC619F202BE9b8E38B25", "name": "TokenFactory", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "10/2/2022"}
+{"address": "0x2831Aa51DE4E3bB318Cf01eAcd8a7FdbB440ac3A", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 307, "settings": "-", "date": "10/2/2022"}
+{"address": "0xbd0d988376300d3a424bf10b8e8d1112a95b8326", "name": "OptiDoge", "compiler": "0.7.4", "balance": "0 Ether", "txcount": 33, "settings": "-", "date": "10/2/2022"}
