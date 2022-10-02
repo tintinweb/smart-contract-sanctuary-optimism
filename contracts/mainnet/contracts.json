@@ -5571,3 +5571,4 @@
 {"address": "0x840e9b5dd7f7de125ea7da4a138f3a1746d7855c", "name": "USDLemma", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/2/2022"}
 {"address": "0xc8811262a356aa682a9d3139bb8572b7c5f7f887", "name": "xLemmaSynth", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/2/2022"}
 {"address": "0x3e1acfc916492027e351c94ecf00fa62f722e4f9", "name": "PerpLemmaCommon", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/2/2022"}
+{"address": "0x7338d1a72d0ed2e0a0888a513bbe527a80e7d0a4", "name": "Tester", "compiler": "0.8.1", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "10/2/2022"}
