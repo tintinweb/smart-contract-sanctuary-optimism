@@ -5580,3 +5580,8 @@
 {"address": "0x4f325FcBcEa979a3F8FBcC619F202BE9b8E38B25", "name": "TokenFactory", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "10/2/2022"}
 {"address": "0x2831Aa51DE4E3bB318Cf01eAcd8a7FdbB440ac3A", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 307, "settings": "-", "date": "10/2/2022"}
 {"address": "0xbd0d988376300d3a424bf10b8e8d1112a95b8326", "name": "OptiDoge", "compiler": "0.7.4", "balance": "0 Ether", "txcount": 33, "settings": "-", "date": "10/2/2022"}
+{"address": "0x9fbb3df7c40da2e5a0de984ffe2ccb7c47cd0abf", "name": "CREATE3Factory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/3/2022"}
+{"address": "0xb5f9a278ff1Ba748F3fbF570F10983f923EBD087", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 6, "settings": "-", "date": "10/3/2022"}
+{"address": "0x30E00c2bb13D8EAf3475CD8c8066Ed2881477FcA", "name": "DCAV3Factory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/2/2022"}
+{"address": "0x5ebc6063f478b16d514f43e53d2ad576993240f8", "name": "ReaperStrategyWonderwall", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/2/2022"}
+{"address": "0x859cee22130d4c974c12c6774d323105348edcbd", "name": "ReaperStrategyHappyRoadReloaded", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/2/2022"}
