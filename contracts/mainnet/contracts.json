@@ -5585,3 +5585,8 @@
 {"address": "0x30E00c2bb13D8EAf3475CD8c8066Ed2881477FcA", "name": "DCAV3Factory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/2/2022"}
 {"address": "0x5ebc6063f478b16d514f43e53d2ad576993240f8", "name": "ReaperStrategyWonderwall", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/2/2022"}
 {"address": "0x859cee22130d4c974c12c6774d323105348edcbd", "name": "ReaperStrategyHappyRoadReloaded", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/2/2022"}
+{"address": "0x75441c125890612f95b5fbf3f73db0c25f5573cd", "name": "ReaperVaultv1_4", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 37, "settings": "", "date": "10/3/2022"}
+{"address": "0xD7936052D1e096d48C81Ef3918F9Fd6384108480", "name": "SolidlyOracle", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/3/2022"}
+{"address": "0x4065e8da096917987d99bce9c8e78a74c6abc7f1", "name": "ReaperLinearPoolRebalancer", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "10/3/2022"}
+{"address": "0x85c20f47b8df7ed41b85ca613d9c4208ce00326b", "name": "AaveV3Supply", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/3/2022"}
+{"address": "0x2dE8e18BDaef25C2DE0bED29C8B72E49261CA88d", "name": "RewardDelegate", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/3/2022"}
