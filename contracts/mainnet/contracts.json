@@ -5628,3 +5628,13 @@
 {"address": "0x9CF512116Fb29eC1dD3798E6eA9A7cd9D18bBeD1", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/3/2022"}
 {"address": "0xb577ED8dB5a965815b53d5141A83D1DEed438DBC", "name": "NpngToken", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "10/3/2022"}
 {"address": "0xb61fF6980BcdA6e26ae2FA6509893E3d29251C2e", "name": "ConstantProductPool", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/3/2022"}
+{"address": "0x4538584C46BADffE261E049fa25296CF35B26391", "name": "ThalesAMM", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/5/2022"}
+{"address": "0xe1095DCeb4e4184BfB6adE590998fae94B815f2C", "name": "ThalesAMMUtils", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/5/2022"}
+{"address": "0x7291826DE06edf5426E13f07fE4fE0Df77FfaAB0", "name": "ThalesAMM", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/5/2022"}
+{"address": "0xA1F13ccC3205F767cEa4F254Bb1A2B53933798b2", "name": "PickleRebalancingKeeper", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/5/2022"}
+{"address": "0xd63bd47fba5416b32e649f6cf3066de82b6bcce3", "name": "ReaperStrategySonne", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/5/2022"}
+{"address": "0xC7095c9b4CcCb3Ec86ABe5CA4cb0b50443a2c135", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "10/5/2022"}
+{"address": "0x72376A5FC5758DD2b36C61960fd1936430A40A32", "name": "TherundownConsumer", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/5/2022"}
+{"address": "0xEa71aACad9C7105859581AA7048126d6f98B391F", "name": "TherundownConsumerVerifier", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/5/2022"}
+{"address": "0xfB6527Ba5700b1d8ED135469b15Bf8264AeB8335", "name": "PositionalMarketMastercopy", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/5/2022"}
+{"address": "0xc0201EE722280F3F86a20C0aa9FBa2eF6fcfd26D", "name": "PositionalMarketManager", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/5/2022"}
