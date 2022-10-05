@@ -5638,3 +5638,8 @@
 {"address": "0xEa71aACad9C7105859581AA7048126d6f98B391F", "name": "TherundownConsumerVerifier", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/5/2022"}
 {"address": "0xfB6527Ba5700b1d8ED135469b15Bf8264AeB8335", "name": "PositionalMarketMastercopy", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/5/2022"}
 {"address": "0xc0201EE722280F3F86a20C0aa9FBa2eF6fcfd26D", "name": "PositionalMarketManager", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/5/2022"}
+{"address": "0xcfa132e353cb4e398080b9700609bb008eceb125", "name": "CFAv1Forwarder", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/5/2022"}
+{"address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b", "name": "EIP1967Proxy", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "10/5/2022"}
+{"address": "0x98db3a72bef2145a8f8d8b94f81317341af2b08c", "name": "BobToken", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/5/2022"}
+{"address": "0x6B4313a412d2CdeF9317Aaadc0fd518f60889443", "name": "Exchange", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/5/2022"}
+{"address": "0x0541a9f74bf67626056784b3bc56d990f360fd58", "name": "Vyper_contract", "compiler": "vyper:0.3.6", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "10/5/2022"}
