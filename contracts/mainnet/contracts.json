@@ -5643,3 +5643,7 @@
 {"address": "0x98db3a72bef2145a8f8d8b94f81317341af2b08c", "name": "BobToken", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/5/2022"}
 {"address": "0x6B4313a412d2CdeF9317Aaadc0fd518f60889443", "name": "Exchange", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/5/2022"}
 {"address": "0x0541a9f74bf67626056784b3bc56d990f360fd58", "name": "Vyper_contract", "compiler": "vyper:0.3.6", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "10/5/2022"}
+{"address": "0x69dd38645f7457be13571a847ffd905f9acbaf6d", "name": "OdosRouter", "compiler": "0.8.8", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "10/6/2022"}
+{"address": "0xeb51a729CA01CC25057953eB85491197BDD883a6", "name": "Bitcoin", "compiler": "0.6.4", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "10/6/2022"}
+{"address": "0x1a1314121b06f1e358eec90e76e459a679c88863", "name": "WaterfallModule", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/5/2022"}
+{"address": "0x4df01754ebd055498c8087b1e9a5c7a9ad19b0f6", "name": "WaterfallModuleFactory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/5/2022"}
