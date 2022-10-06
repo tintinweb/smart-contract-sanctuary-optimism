@@ -5647,3 +5647,16 @@
 {"address": "0xeb51a729CA01CC25057953eB85491197BDD883a6", "name": "Bitcoin", "compiler": "0.6.4", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "10/6/2022"}
 {"address": "0x1a1314121b06f1e358eec90e76e459a679c88863", "name": "WaterfallModule", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/5/2022"}
 {"address": "0x4df01754ebd055498c8087b1e9a5c7a9ad19b0f6", "name": "WaterfallModuleFactory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/5/2022"}
+{"address": "0xfc550bad3c14160cba7bc05ee263b3f060149aff", "name": "ReaperStrategySonne", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0x9B0817fA08b46670B92300B58AA1f4AB155701ea", "name": "AuthoredEscrow", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0xf5312b8a4d66160f9365d3c4a4adff18b9617a30", "name": "ReaperStrategyVelodrome", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0xb99e8cf514a07b60c1fcab8f1ecba5894f083fc7", "name": "ReaperStrategyVelodromeUsdc", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0xb7641c958f9b939c5152e15f1fa4508f1a240f96", "name": "ReaperStrategyVelodromeStable", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0xb25429714c0cad172cb16a85a231c3e51713aa1e", "name": "ReaperStrategyVelodromeUsdcStable", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0x9a60fe0c1b5835e6165c563d737a90c63bcc9c57", "name": "RocketFactory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0x6a1532428A7f434f202A1D6A7eE9Aa290f5D4940", "name": "LyraOptionMarketWrapperAssetGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0x2a488Eb37De95c7B42B44172F56E17453CD9C0c3", "name": "DhedgeOptionMarketWrapperForLyra", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0x86C5007EeA22Bf48BE5Ba52BFb1AB97Bb4633EbB", "name": "DhedgeOptionMarketWrapperForLyra", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0x5031779c7d9b8219482670460b7eAFdc1b3b2008", "name": "veMigrationDest", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/6/2022"}
+{"address": "0xB90B9B1F91a01Ea22A182CD84C1E22222e39B415", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "0.108884468806920389 Ether", "txcount": 2, "settings": "", "date": "10/6/2022"}
+{"address": "0xEfDE221f306152971D8e9f181bFe998447975810", "name": "Vyper_contract", "compiler": "vyper:0.2.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/6/2022"}
