@@ -5707,3 +5707,11 @@
 {"address": "0x0473136B0732606e826fFeB42f3abC81A7A766d5", "name": "ReaperLinearPoolFactory", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/7/2022"}
 {"address": "0xe12103a2f6a41a812c1f58bd02afac93f3e43e6c", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 127, "settings": "-", "date": "10/7/2022"}
 {"address": "0x3B7442AA5B9A2fAaDDe94e5098F0eAf9FE316058", "name": "LPTokenProcessorV1", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "10/7/2022"}
+{"address": "0xd087509490a84c22f3b831ef09f919061220c876", "name": "AaveV3Supply", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/7/2022"}
+{"address": "0xBB1A40c95F3ad1D499EeFf3C7beEEA26210fd9a2", "name": "BurnBanana", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/7/2022"}
+{"address": "0x87E8A1d0FB4de2Be3dC36bC27C4b0642c09886C2", "name": "Spender", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/7/2022"}
+{"address": "0x165BB5141BC48147F6451615c1719415f75f2211", "name": "Create2Factory", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/7/2022"}
+{"address": "0x6199f2B5d762321f4bbBF4a5550003e65Ed793F9", "name": "Deployer", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/7/2022"}
+{"address": "0x804d5Debb1c7364c2F9C1b65B295CceAd38d37dE", "name": "MetaSwap", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/7/2022"}
+{"address": "0x7B30e9C4F584AD1153318ff462bD05a1Af628198", "name": "Executor", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/7/2022"}
+{"address": "0x51C37Df7c10dB0BEa505abc560eF1a26B8900D17", "name": "PeripheryRegistryFacet", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/7/2022"}
