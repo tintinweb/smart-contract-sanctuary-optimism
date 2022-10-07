@@ -5715,3 +5715,5 @@
 {"address": "0x804d5Debb1c7364c2F9C1b65B295CceAd38d37dE", "name": "MetaSwap", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/7/2022"}
 {"address": "0x7B30e9C4F584AD1153318ff462bD05a1Af628198", "name": "Executor", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/7/2022"}
 {"address": "0x51C37Df7c10dB0BEa505abc560eF1a26B8900D17", "name": "PeripheryRegistryFacet", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/7/2022"}
+{"address": "0x6feE44c705aa554120bb91a9157392EedD95372c", "name": "TransparentUpgradeableProxy", "compiler": "0.7.0", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/7/2022"}
+{"address": "0x8101Fc8CC739300f8a404aeDac6958839a53C62b", "name": "Settlement", "compiler": "0.7.0", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/7/2022"}
