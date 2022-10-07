@@ -5703,3 +5703,7 @@
 {"address": "0x8c4908310621bA0Ab32Cc6C970C36835F443A6bb", "name": "CurveLPOracle", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/6/2022"}
 {"address": "0xdd50cbf82f22170b01cfedc5403b0736911498ce", "name": "Greeter", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/6/2022"}
 {"address": "0x5364A429Cc1647e4aDCAc157168711BD8185fd83", "name": "MarketAid", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0xe94cbdf5a89ef7ffbf253012da24e0ceb472ef20", "name": "Rocket", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/7/2022"}
+{"address": "0x0473136B0732606e826fFeB42f3abC81A7A766d5", "name": "ReaperLinearPoolFactory", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/7/2022"}
+{"address": "0xe12103a2f6a41a812c1f58bd02afac93f3e43e6c", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 127, "settings": "-", "date": "10/7/2022"}
+{"address": "0x3B7442AA5B9A2fAaDDe94e5098F0eAf9FE316058", "name": "LPTokenProcessorV1", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "10/7/2022"}
