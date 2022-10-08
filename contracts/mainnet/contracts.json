@@ -5731,3 +5731,10 @@
 {"address": "0x7ccb80d6aa785fc0e918c4a2ce02f161811a6cea", "name": "BunniMigrator", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/7/2022"}
 {"address": "0x736816a98cd4b1159eca25a9ae0f82c00249ea53", "name": "BunniLens", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/7/2022"}
 {"address": "0xa048ff56741e8b43430f5cea085405316ea4ea52", "name": "BunniHub", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/7/2022"}
+{"address": "0x9601f3fa992662475e0077f801813181243714d3", "name": "Vault_seth", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/8/2022"}
+{"address": "0xde3318e14e71240d6ccd7fba69778c0f3b160198", "name": "Record_eth", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/8/2022"}
+{"address": "0x42adf84b545a3a8f0aa73c746b48f11a323720f2", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 5, "settings": "-", "date": "10/8/2022"}
+{"address": "0x4E720DD3Ac5CFe1e1fbDE4935f386Bb1C66F4642", "name": "AnyswapV6ERC20", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 417, "settings": "", "date": "10/8/2022"}
+{"address": "0x673acb29765fab093ddd522850f16f0b2e3d3c39", "name": "WeatherData", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "10/8/2022"}
+{"address": "0xc2C171bD6FC3B5885b589ed8b4d135F31085e973", "name": "CurvePortalIn", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/8/2022"}
+{"address": "0x8E10Efa8092646Eb92DAcf75Dd7e9Ee060646b06", "name": "Vyper_contract", "compiler": "vyper:0.3.7", "balance": "0 Ether", "txcount": 41, "settings": "", "date": "10/8/2022"}
