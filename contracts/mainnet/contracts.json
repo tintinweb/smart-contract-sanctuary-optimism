@@ -5738,3 +5738,4 @@
 {"address": "0x673acb29765fab093ddd522850f16f0b2e3d3c39", "name": "WeatherData", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "10/8/2022"}
 {"address": "0xc2C171bD6FC3B5885b589ed8b4d135F31085e973", "name": "CurvePortalIn", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/8/2022"}
 {"address": "0x8E10Efa8092646Eb92DAcf75Dd7e9Ee060646b06", "name": "Vyper_contract", "compiler": "vyper:0.3.7", "balance": "0 Ether", "txcount": 41, "settings": "", "date": "10/8/2022"}
+{"address": "0x45f01532fcb77ac9ed0d847f2fac25845b18482a", "name": "Vault_seth", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/8/2022"}
