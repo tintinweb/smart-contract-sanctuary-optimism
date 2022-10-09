@@ -5742,3 +5742,14 @@
 {"address": "0xd685d399754Aa20b4766759ee50Ee180c5163151", "name": "OrderRouter", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/8/2022"}
 {"address": "0xd782ac4ee247e0986522ca05c08cda330dfc14c4", "name": "MintableSuperToken", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "10/8/2022"}
 {"address": "0xf633516025678d72E35843bDCF90AC1FE726061A", "name": "MarketAid", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/8/2022"}
+{"address": "0x3BEbc3a0a97F7de155c978CA76954Ad9C284Bab9", "name": "HopAdapter", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/9/2022"}
+{"address": "0xEE064652655FA40E8e455a2004Fd6C75a8E750Eb", "name": "Market", "compiler": "0.8.9", "balance": "0.000001 Ether", "txcount": 5, "settings": "", "date": "10/9/2022"}
+{"address": "0x8f957ed3f969d7b6e5d6df81e61a5ff45f594dd1", "name": "SwftSwap", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "10/9/2022"}
+{"address": "0xb845f36779d9a0707f19bea934a30728f485d7c9", "name": "Cocodrop", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "10/9/2022"}
+{"address": "0xAd669b6cf06704e9D3b8D1d85A275623A1bD8288", "name": "Token", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/9/2022"}
+{"address": "0xF4ff0D2e17D8A617b1DE67fb22250dE31834045E", "name": "CheckoutHub", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/9/2022"}
+{"address": "0x12D139B9b50791227E8b329244f5D1b9f7f7d58c", "name": "CheckoutDao", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/9/2022"}
+{"address": "0xd1261634ef4255beb11ed38a35eBDE5897b8532e", "name": "OneInchCodec", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/9/2022"}
+{"address": "0xa7dc76Ae4A98da6352F283874b4C6d3BFb817dC1", "name": "DAO", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/9/2022"}
+{"address": "0xBace7a1b6ee3FB476fc5fEb7E7bf3a60293bC3cb", "name": "PunkCity", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/9/2022"}
+{"address": "0xb3911d5F92181fF728C72F0a162e8D6f3BDD5b66", "name": "Account", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/9/2022"}
