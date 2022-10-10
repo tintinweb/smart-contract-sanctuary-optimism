@@ -5757,3 +5757,9 @@
 {"address": "0x8710b2Ae18233383ABBA6AfC17aD6177BDc958a1", "name": "CryptoMoney", "compiler": "0.8.13", "balance": "0.001 Ether", "txcount": 3, "settings": "", "date": "10/9/2022"}
 {"address": "0x227027416662258424947A8311e1f4F9EAD16F0f", "name": "ERC721TestToken", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "10/9/2022"}
 {"address": "0x4a455A84F05690a9E6D599F13E9f8C2d5622e798", "name": "pic2peer", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "10/9/2022"}
+{"address": "0x25Acb2ad06ef327c8DA26f4F30960B5546eeB19C", "name": "Collection", "compiler": "0.8.9", "balance": "0.00015 Ether", "txcount": 3, "settings": "", "date": "10/10/2022"}
+{"address": "0x6123F328AB34301B8D1ce3BF899F78b3B3d390FD", "name": "OneClicks", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "10/10/2022"}
+{"address": "0xe6a9f1d76fe905629185b0c901a681fee8372377", "name": "StrategyBeetsComposableMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "10/9/2022"}
+{"address": "0x154656fdc48413de57565a364f828ad2818696cc", "name": "StrategyBeetsComposableMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/9/2022"}
+{"address": "0xf602dAaDb9860fC4c9dd0b3D76b8f5cB1CDcF30D", "name": "OrderRouter", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "10/9/2022"}
+{"address": "0xbBBec320a9d4B2dC0f76be7544bad34cD59ED261", "name": "OrderRouter", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/9/2022"}
