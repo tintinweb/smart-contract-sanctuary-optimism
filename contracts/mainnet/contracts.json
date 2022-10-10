@@ -5778,3 +5778,7 @@
 {"address": "0x7a2658c72f1c64a9b00be5e6c5088471314f5340", "name": "BeefyVaultV6", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "10/10/2022"}
 {"address": "0xa35f008e16cc06ddb3302a65c54df584fbd82dd4", "name": "StrategyBeetsComposableMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "10/10/2022"}
 {"address": "0x7Db4de78E6b9A98752B56959611e4cfdA52269D2", "name": "DevconSuveneer", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/10/2022"}
+{"address": "0x2649b0d997fc267154a542540aa90c09cbc7c480", "name": "StrategyBeetsMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "10/10/2022"}
+{"address": "0x7e0b4d598bd389f07677c8414576f2b25744d19d", "name": "StrategyBeetsComposableMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "10/10/2022"}
+{"address": "0x8bb50940c443b832fc4079e4db53447c8aef5b90", "name": "StrategyBeetsComposableMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "10/10/2022"}
+{"address": "0x0921E4fA2F85B6461fa83961d28DC7e1f9A32B40", "name": "StrategyBeetsComposableMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "10/10/2022"}
