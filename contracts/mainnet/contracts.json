@@ -5769,3 +5769,12 @@
 {"address": "0x87C8D333C7b11177Fd0b56F467a7EA78df0e3228", "name": "HumanboundExtendLogic", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/10/2022"}
 {"address": "0xAe548A79e1f8f8f3218480240C9947B953Ee913E", "name": "LyraOptionMarketWrapperAssetGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/10/2022"}
 {"address": "0x6f2Eb15DC0dBf79c966adA52a4A737321Efb5704", "name": "DhedgeOptionMarketWrapperForLyra", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/10/2022"}
+{"address": "0x54f666a9d81b2d422d64c2ffbd20ccc6250214f5", "name": "StrategyBeetsComposableMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/10/2022"}
+{"address": "0xfbae682cf798d1be11bd55a9a1a558719a922d52", "name": "StrategyBeetsComposableMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/10/2022"}
+{"address": "0x9c1979f94684c85207db02f66775c34a6fb60dbf", "name": "TreasuryVester", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/10/2022"}
+{"address": "0xCa18b507Dd25e48B295B0d0f0588F7ED4d633d28", "name": "SgBridge", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/10/2022"}
+{"address": "0x808fa0EEF189E102fE8dA31D02fB19Db6f490AFF", "name": "Perp_Booster_2", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/10/2022"}
+{"address": "0xdB4D2F90fB9018d3C500e088259872E1e0CA971A", "name": "AnbotoExecV1", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/10/2022"}
+{"address": "0x7a2658c72f1c64a9b00be5e6c5088471314f5340", "name": "BeefyVaultV6", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "10/10/2022"}
+{"address": "0xa35f008e16cc06ddb3302a65c54df584fbd82dd4", "name": "StrategyBeetsComposableMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "10/10/2022"}
+{"address": "0x7Db4de78E6b9A98752B56959611e4cfdA52269D2", "name": "DevconSuveneer", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/10/2022"}
