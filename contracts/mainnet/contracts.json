@@ -5763,3 +5763,9 @@
 {"address": "0x154656fdc48413de57565a364f828ad2818696cc", "name": "StrategyBeetsComposableMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/9/2022"}
 {"address": "0xf602dAaDb9860fC4c9dd0b3D76b8f5cB1CDcF30D", "name": "OrderRouter", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "10/9/2022"}
 {"address": "0xbBBec320a9d4B2dC0f76be7544bad34cD59ED261", "name": "OrderRouter", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/9/2022"}
+{"address": "0xF26b4ea4Ddc422C55A649E53c7228b130A942f39", "name": "HumanboundApproveLogic", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/10/2022"}
+{"address": "0x9905C30AF6F8F990FD41e7a8844a8Ffaa2658203", "name": "HumanboundReplaceLogic", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/10/2022"}
+{"address": "0x1b8C298698e854aC9c33748ec0Fb6B75Fe6E09FC", "name": "HumanboundRetractLogic", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/10/2022"}
+{"address": "0x87C8D333C7b11177Fd0b56F467a7EA78df0e3228", "name": "HumanboundExtendLogic", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/10/2022"}
+{"address": "0xAe548A79e1f8f8f3218480240C9947B953Ee913E", "name": "LyraOptionMarketWrapperAssetGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/10/2022"}
+{"address": "0x6f2Eb15DC0dBf79c966adA52a4A737321Efb5704", "name": "DhedgeOptionMarketWrapperForLyra", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/10/2022"}
