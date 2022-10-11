@@ -5805,3 +5805,10 @@
 {"address": "0x9bd8a303ef63606C68E033f90F7FA1FC94c257cd", "name": "InsuranceFund", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/11/2022"}
 {"address": "0x2025c0525f450C14114db683eA8789b1dD5a6c90", "name": "Vault", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/11/2022"}
 {"address": "0xc0AFABC1cfB1A07dF27176a388F3b78AaEF07297", "name": "veMigrationDest", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/11/2022"}
+{"address": "0xfed67cc40e9c5934f157221169d772b328cb138e", "name": "VeloFarmer", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/11/2022"}
+{"address": "0x2baadf55fb2177e8d13708a7f09b966f671555eb", "name": "Multicall", "compiler": "0.5.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/11/2022"}
+{"address": "0xb116706AAf354f793374d1525D4b23b4BeAaB9d4", "name": "VeloVoteHelper", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/11/2022"}
+{"address": "0x1c84c7e891fed487e51b1d761e35a095c199ca02", "name": "VeloVoteManager", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/11/2022"}
+{"address": "0x27B1F546426f95ff7305c9aD5316642bf5b039Ee", "name": "VeloVoteFarmer", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/11/2022"}
+{"address": "0xdAf8A28890FC0cBE3952aeaA353aF868e9A9F33c", "name": "ERC1967ProxyClone", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/11/2022"}
+{"address": "0x99b0C08FaFcA02C51fD08291376892dd3B8f2cAc", "name": "DefaultReserveInterestRateStrategy", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/11/2022"}
