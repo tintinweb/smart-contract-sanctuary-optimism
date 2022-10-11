@@ -5782,3 +5782,11 @@
 {"address": "0x7e0b4d598bd389f07677c8414576f2b25744d19d", "name": "StrategyBeetsComposableMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "10/10/2022"}
 {"address": "0x8bb50940c443b832fc4079e4db53447c8aef5b90", "name": "StrategyBeetsComposableMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "10/10/2022"}
 {"address": "0x0921E4fA2F85B6461fa83961d28DC7e1f9A32B40", "name": "StrategyBeetsComposableMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "10/10/2022"}
+{"address": "0xA0B15044bB7b4eAfd9b34180BfE727f4cd949300", "name": "Autobots", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/11/2022"}
+{"address": "0xfedd8b17b4d419f143c4417477ac3c7e688b92d1", "name": "VeloFarmer", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/11/2022"}
+{"address": "0x25E39DE2678C59983738134d8DA1953D0191e53F", "name": "StashController", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/11/2022"}
+{"address": "0xfed8ae7e644bfa760281cb797cbd752f9d5d75cd", "name": "VeloFarmer", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/11/2022"}
+{"address": "0xa4cdacbf6cd74eafbb785064b03b9ed11ec377ff", "name": "MultiMerkleStash", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/11/2022"}
+{"address": "0x3299ef424fd225f07ef614b4c9e8a591490fb564", "name": "VotiumVeCRVOpti", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/11/2022"}
+{"address": "0x5f9f852d3b04c22a43b44eac364c91252882c7e8", "name": "SplitFunds", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/11/2022"}
+{"address": "0xdF46e2Dc15b3388607fB6f9AffBc8df137b4c76f", "name": "OptimismMintableERC721", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/10/2022"}
