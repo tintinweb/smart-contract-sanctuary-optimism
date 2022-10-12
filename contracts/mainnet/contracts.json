@@ -5812,3 +5812,7 @@
 {"address": "0x27B1F546426f95ff7305c9aD5316642bf5b039Ee", "name": "VeloVoteFarmer", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/11/2022"}
 {"address": "0xdAf8A28890FC0cBE3952aeaA353aF868e9A9F33c", "name": "ERC1967ProxyClone", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/11/2022"}
 {"address": "0x99b0C08FaFcA02C51fD08291376892dd3B8f2cAc", "name": "DefaultReserveInterestRateStrategy", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/11/2022"}
+{"address": "0x5a8d1919647C4de929664bCB442afbF94279B913", "name": "ReaperVaultv1_4", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/12/2022"}
+{"address": "0xcf210488dad6da5fe54d260c45253afc3a9e708c", "name": "Greeter", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/12/2022"}
+{"address": "0xc2c539bded5ec649c8b1b54f746076c4eed64f90", "name": "OneClicks", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 11, "settings": "", "date": "10/12/2022"}
+{"address": "0xdf20b2b88f6bbbc40e368b4043f12997a4627699", "name": "T", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/12/2022"}
