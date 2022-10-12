@@ -5816,3 +5816,13 @@
 {"address": "0xcf210488dad6da5fe54d260c45253afc3a9e708c", "name": "Greeter", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/12/2022"}
 {"address": "0xc2c539bded5ec649c8b1b54f746076c4eed64f90", "name": "OneClicks", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 11, "settings": "", "date": "10/12/2022"}
 {"address": "0xdf20b2b88f6bbbc40e368b4043f12997a4627699", "name": "T", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/12/2022"}
+{"address": "0x0C65eE287e90Dc65C51eEaB3c885a8ce452C6A4C", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 7, "settings": "-", "date": "10/12/2022"}
+{"address": "0x18ecce7f6b8bb54933643751d3c2d4b3ea034463", "name": "BeefyLaunchpool", "compiler": "0.5.5", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0x851DE4aE771483bFF6790F79ee78A92dAF400e76", "name": "WethUnwrapper", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0xA7b2Ff8EAff742B4E543d72033880D5445e1f3be", "name": "TransferSwapper", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "10/12/2022"}
+{"address": "0xFdE79c1e8510eE19360B71f2561766Cf2C757Fc7", "name": "fee_dist", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/12/2022"}
+{"address": "0x5402508a800db6b72792b80623193e38839a9e24", "name": "ve_dist", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/12/2022"}
+{"address": "0x15aB2Cc164d7817Ac2a5b2A6362AbeE088B7F2df", "name": "FeeDistFactory", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/12/2022"}
+{"address": "0xB795d08676e70f09E3217EB25D742D4ee6e987e0", "name": "ClaimHelper", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0xd3467a3e160029295b78dc5007924f4f561d79a5", "name": "ReaperStrategyLidoShuffle", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0x4033a2736bc9e0aac3ee6b16febcd6af326d46f0", "name": "ReaperStrategyYellowSubmarine", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/12/2022"}
