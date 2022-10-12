@@ -5826,3 +5826,17 @@
 {"address": "0xB795d08676e70f09E3217EB25D742D4ee6e987e0", "name": "ClaimHelper", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/12/2022"}
 {"address": "0xd3467a3e160029295b78dc5007924f4f561d79a5", "name": "ReaperStrategyLidoShuffle", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/12/2022"}
 {"address": "0x4033a2736bc9e0aac3ee6b16febcd6af326d46f0", "name": "ReaperStrategyYellowSubmarine", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0x7b670C683b93d62b8514251FF62b10B3D8F8cEd4", "name": "OppaBearSE2", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "10/12/2022"}
+{"address": "0x8838f39daEb607Bfb1D3cEA620705099Ae8fb73b", "name": "WithdrawStrategy", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0x84Aa7F36A397cAd693e70224930d925B1E98E085", "name": "AutomatedLineOfCredit", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0xca3FFD696147637D50fC9e5780eb09E7F50B7370", "name": "DepositStrategy", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0xD3c706e029584c2A24bc25Ed5aB0fAe87d5372Bb", "name": "AutomatedLineOfCreditFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0x6eB289af544778039348BcF8c12641620faCb144", "name": "ProtocolConfig", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0xb059cf6320b29780c39817c42af1a032bf821d90", "name": "StablePool", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0xEfBE581419FE63593f166252bd62f8eE76cB8b67", "name": "HumanboundMintLogic", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0x9c54e82ef8752b8f573390a6c36893e7eaca234c", "name": "FeesAccumulator", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 18, "settings": "", "date": "10/12/2022"}
+{"address": "0x5A6C716826eC22bB414c63Fca9b3A9eecD28D798", "name": "SwitchCelerReceiver", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0x13A209574C63Ae3702a71aad175323775B4491Aa", "name": "SwitchCelerSender", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0x652073F67C83096eB2A5052C35e1A9fa1D3550f5", "name": "SwitchNxtp", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0x4BBd6D583eE4940e75b221C903ffFA9eA86924DB", "name": "Switch", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0xD6E79063E71a5d5365fc888a611c77e25b662cFE", "name": "SwitchView", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/12/2022"}
