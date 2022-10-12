@@ -5840,3 +5840,4 @@
 {"address": "0x652073F67C83096eB2A5052C35e1A9fa1D3550f5", "name": "SwitchNxtp", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/12/2022"}
 {"address": "0x4BBd6D583eE4940e75b221C903ffFA9eA86924DB", "name": "Switch", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/12/2022"}
 {"address": "0xD6E79063E71a5d5365fc888a611c77e25b662cFE", "name": "SwitchView", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0x0473A77eF6F0B242bf4C29e00Ad5A5FB3f9a05F4", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "10/12/2022"}
