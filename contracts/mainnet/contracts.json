@@ -5841,3 +5841,9 @@
 {"address": "0x4BBd6D583eE4940e75b221C903ffFA9eA86924DB", "name": "Switch", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/12/2022"}
 {"address": "0xD6E79063E71a5d5365fc888a611c77e25b662cFE", "name": "SwitchView", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/12/2022"}
 {"address": "0x0473A77eF6F0B242bf4C29e00Ad5A5FB3f9a05F4", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "10/12/2022"}
+{"address": "0xadd6b725ceb279ac655ed491ea25b2b595831df3", "name": "DeltaShortStrategy", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "10/13/2022"}
+{"address": "0x1f4075ebb27b8fcbb5bff2bfa5434db29bada300", "name": "StakingRewards", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/13/2022"}
+{"address": "0x6b3B00192c22C3f7B01c6170d2DA288adeb4eC55", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 19, "settings": "-", "date": "10/12/2022"}
+{"address": "0x91718f2d08C25e36298FD7A908D97B69C123d21a", "name": "OptiLightsNftContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/12/2022"}
+{"address": "0x6bA97CF6023cc1cC56cCc9CB871612b3D7CD09CA", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "10/12/2022"}
+{"address": "0xE52180815c81D7711B83412e53259bed6a3aB70a", "name": "TridentRouter", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 13, "settings": "", "date": "10/12/2022"}
