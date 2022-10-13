@@ -5847,3 +5847,7 @@
 {"address": "0x91718f2d08C25e36298FD7A908D97B69C123d21a", "name": "OptiLightsNftContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/12/2022"}
 {"address": "0x6bA97CF6023cc1cC56cCc9CB871612b3D7CD09CA", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "10/12/2022"}
 {"address": "0xE52180815c81D7711B83412e53259bed6a3aB70a", "name": "TridentRouter", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 13, "settings": "", "date": "10/12/2022"}
+{"address": "0xd407b00728d04830afcb04692b3753a987e014f0", "name": "multiCall", "compiler": "0.8.17", "balance": "0.041 Ether", "txcount": 11, "settings": "-", "date": "10/13/2022"}
+{"address": "0x8dccba703e3ca40d3d50435a06637c577d36aafb", "name": "CryptoMultisender", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "10/13/2022"}
+{"address": "0xaD499f09aa463dA515906f6a956364634E12907d", "name": "Exchange", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/13/2022"}
+{"address": "0xf166fefb827ed071f1fde1c027c7aea5eb6b1a20", "name": "multiCall", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 16, "settings": "-", "date": "10/13/2022"}
