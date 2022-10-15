@@ -5907,3 +5907,6 @@
 {"address": "0x380C85e4461C229939Ba89af6D75C277D9C1d1D7", "name": "UMATrigger", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/13/2022"}
 {"address": "0x67f5970cA2e54B85760294DF169b5D9Bc7e8E353", "name": "ChainlinkTrigger", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/13/2022"}
 {"address": "0x97fd8BEFFf8FcE854A2B84204336F3481DE3eA3e", "name": "LyraPositionHandlerL2", "compiler": "0.8.9", "balance": "0.009935584618570395 Ether", "txcount": 7, "settings": "", "date": "10/13/2022"}
+{"address": "0x12e41119F6cE219c49E1256A4C0f4ff4ed532b66", "name": "PublicLock", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/15/2022"}
+{"address": "0xb87eeb80c6bc83dcf19499e61d4dafe3fea26c3f", "name": "Unlock", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/15/2022"}
+{"address": "0xc0FA2864749409e95bf76969Fbe7E3bD73c077Ca", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "10/15/2022"}
