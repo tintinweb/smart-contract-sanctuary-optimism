@@ -1,0 +1,1487 @@
+/**
+ *Submitted for verification at Optimistic.Etherscan.io on 2022-10-13
+*/
+
+// SPDX-License-Identifier: Unlicensed
+pragma solidity 0.8.16;
+
+interface AggregatorV3Interface {
+  function decimals() external view returns (uint8);
+
+  function description() external view returns (string memory);
+
+  function version() external view returns (uint256);
+
+  function getRoundData(uint80 _roundId)
+    external
+    view
+    returns (
+      uint80 roundId,
+      int256 answer,
+      uint256 startedAt,
+      uint256 updatedAt,
+      uint80 answeredInRound
+    );
+
+  function latestRoundData()
+    external
+    view
+    returns (
+      uint80 roundId,
+      int256 answer,
+      uint256 startedAt,
+      uint256 updatedAt,
+      uint80 answeredInRound
+    );
+}
+
+/// @notice Arithmetic library with operations for fixed-point numbers.
+/// @author Solmate (https://github.com/Rari-Capital/solmate/blob/main/src/utils/FixedPointMathLib.sol)
+library FixedPointMathLib {
+    /*//////////////////////////////////////////////////////////////
+                    SIMPLIFIED FIXED POINT OPERATIONS
+    //////////////////////////////////////////////////////////////*/
+
+    uint256 internal constant WAD = 1e18; // The scalar of ETH and most ERC20s.
+
+    function mulWadDown(uint256 x, uint256 y) internal pure returns (uint256) {
+        return mulDivDown(x, y, WAD); // Equivalent to (x * y) / WAD rounded down.
+    }
+
+    function mulWadUp(uint256 x, uint256 y) internal pure returns (uint256) {
+        return mulDivUp(x, y, WAD); // Equivalent to (x * y) / WAD rounded up.
+    }
+
+    function divWadDown(uint256 x, uint256 y) internal pure returns (uint256) {
+        return mulDivDown(x, WAD, y); // Equivalent to (x * WAD) / y rounded down.
+    }
+
+    function divWadUp(uint256 x, uint256 y) internal pure returns (uint256) {
+        return mulDivUp(x, WAD, y); // Equivalent to (x * WAD) / y rounded up.
+    }
+
+    function powWad(int256 x, int256 y) internal pure returns (int256) {
+        // Equivalent to x to the power of y because x ** y = (e ** ln(x)) ** y = e ** (ln(x) * y)
+        return expWad((lnWad(x) * y) / int256(WAD)); // Using ln(x) means x must be greater than 0.
+    }
+
+    function expWad(int256 x) internal pure returns (int256 r) {
+        unchecked {
+            // When the result is < 0.5 we return zero. This happens when
+            // x <= floor(log(0.5e18) * 1e18) ~ -42e18
+            if (x <= -42139678854452767551) return 0;
+
+            // When the result is > (2**255 - 1) / 1e18 we can not represent it as an
+            // int. This happens when x >= floor(log((2**255 - 1) / 1e18) * 1e18) ~ 135.
+            if (x >= 135305999368893231589) revert("EXP_OVERFLOW");
+
+            // x is now in the range (-42, 136) * 1e18. Convert to (-42, 136) * 2**96
+            // for more intermediate precision and a binary basis. This base conversion
+            // is a multiplication by 1e18 / 2**96 = 5**18 / 2**78.
+            x = (x << 78) / 5**18;
+
+            // Reduce range of x to (-½ ln 2, ½ ln 2) * 2**96 by factoring out powers
+            // of two such that exp(x) = exp(x') * 2**k, where k is an integer.
+            // Solving this gives k = round(x / log(2)) and x' = x - k * log(2).
+            int256 k = ((x << 96) / 54916777467707473351141471128 + 2**95) >> 96;
+            x = x - k * 54916777467707473351141471128;
+
+            // k is in the range [-61, 195].
+
+            // Evaluate using a (6, 7)-term rational approximation.
+            // p is made monic, we'll multiply by a scale factor later.
+            int256 y = x + 1346386616545796478920950773328;
+            y = ((y * x) >> 96) + 57155421227552351082224309758442;
+            int256 p = y + x - 94201549194550492254356042504812;
+            p = ((p * y) >> 96) + 28719021644029726153956944680412240;
+            p = p * x + (4385272521454847904659076985693276 << 96);
+
+            // We leave p in 2**192 basis so we don't need to scale it back up for the division.
+            int256 q = x - 2855989394907223263936484059900;
+            q = ((q * x) >> 96) + 50020603652535783019961831881945;
+            q = ((q * x) >> 96) - 533845033583426703283633433725380;
+            q = ((q * x) >> 96) + 3604857256930695427073651918091429;
+            q = ((q * x) >> 96) - 14423608567350463180887372962807573;
+            q = ((q * x) >> 96) + 26449188498355588339934803723976023;
+
+            assembly {
+                // Div in assembly because solidity adds a zero check despite the unchecked.
+                // The q polynomial won't have zeros in the domain as all its roots are complex.
+                // No scaling is necessary because p is already 2**96 too large.
+                r := sdiv(p, q)
+            }
+
+            // r should be in the range (0.09, 0.25) * 2**96.
+
+            // We now need to multiply r by:
+            // * the scale factor s = ~6.031367120.
+            // * the 2**k factor from the range reduction.
+            // * the 1e18 / 2**96 factor for base conversion.
+            // We do this all at once, with an intermediate result in 2**213
+            // basis, so the final right shift is always by a positive amount.
+            r = int256((uint256(r) * 3822833074963236453042738258902158003155416615667) >> uint256(195 - k));
+        }
+    }
+
+    function lnWad(int256 x) internal pure returns (int256 r) {
+        unchecked {
+            require(x > 0, "UNDEFINED");
+
+            // We want to convert x from 10**18 fixed point to 2**96 fixed point.
+            // We do this by multiplying by 2**96 / 10**18. But since
+            // ln(x * C) = ln(x) + ln(C), we can simply do nothing here
+            // and add ln(2**96 / 10**18) at the end.
+
+            // Reduce range of x to (1, 2) * 2**96
+            // ln(2^k * x) = k * ln(2) + ln(x)
+            int256 k = int256(log2(uint256(x))) - 96;
+            x <<= uint256(159 - k);
+            x = int256(uint256(x) >> 159);
+
+            // Evaluate using a (8, 8)-term rational approximation.
+            // p is made monic, we will multiply by a scale factor later.
+            int256 p = x + 3273285459638523848632254066296;
+            p = ((p * x) >> 96) + 24828157081833163892658089445524;
+            p = ((p * x) >> 96) + 43456485725739037958740375743393;
+            p = ((p * x) >> 96) - 11111509109440967052023855526967;
+            p = ((p * x) >> 96) - 45023709667254063763336534515857;
+            p = ((p * x) >> 96) - 14706773417378608786704636184526;
+            p = p * x - (795164235651350426258249787498 << 96);
+
+            // We leave p in 2**192 basis so we don't need to scale it back up for the division.
+            // q is monic by convention.
+            int256 q = x + 5573035233440673466300451813936;
+            q = ((q * x) >> 96) + 71694874799317883764090561454958;
+            q = ((q * x) >> 96) + 283447036172924575727196451306956;
+            q = ((q * x) >> 96) + 401686690394027663651624208769553;
+            q = ((q * x) >> 96) + 204048457590392012362485061816622;
+            q = ((q * x) >> 96) + 31853899698501571402653359427138;
+            q = ((q * x) >> 96) + 909429971244387300277376558375;
+            assembly {
+                // Div in assembly because solidity adds a zero check despite the unchecked.
+                // The q polynomial is known not to have zeros in the domain.
+                // No scaling required because p is already 2**96 too large.
+                r := sdiv(p, q)
+            }
+
+            // r is in the range (0, 0.125) * 2**96
+
+            // Finalization, we need to:
+            // * multiply by the scale factor s = 5.549…
+            // * add ln(2**96 / 10**18)
+            // * add k * ln(2)
+            // * multiply by 10**18 / 2**96 = 5**18 >> 78
+
+            // mul s * 5e18 * 2**96, base is now 5**18 * 2**192
+            r *= 1677202110996718588342820967067443963516166;
+            // add ln(2) * k * 5e18 * 2**192
+            r += 16597577552685614221487285958193947469193820559219878177908093499208371 * k;
+            // add ln(2**96 / 10**18) * 5e18 * 2**192
+            r += 600920179829731861736702779321621459595472258049074101567377883020018308;
+            // base conversion: mul 2**18 / 2**192
+            r >>= 174;
+        }
+    }
+
+    /*//////////////////////////////////////////////////////////////
+                    LOW LEVEL FIXED POINT OPERATIONS
+    //////////////////////////////////////////////////////////////*/
+
+    function mulDivDown(
+        uint256 x,
+        uint256 y,
+        uint256 denominator
+    ) internal pure returns (uint256 z) {
+        assembly {
+            // Store x * y in z for now.
+            z := mul(x, y)
+
+            // Equivalent to require(denominator != 0 && (x == 0 || (x * y) / x == y))
+            if iszero(and(iszero(iszero(denominator)), or(iszero(x), eq(div(z, x), y)))) {
+                revert(0, 0)
+            }
+
+            // Divide z by the denominator.
+            z := div(z, denominator)
+        }
+    }
+
+    function mulDivUp(
+        uint256 x,
+        uint256 y,
+        uint256 denominator
+    ) internal pure returns (uint256 z) {
+        assembly {
+            // Store x * y in z for now.
+            z := mul(x, y)
+
+            // Equivalent to require(denominator != 0 && (x == 0 || (x * y) / x == y))
+            if iszero(and(iszero(iszero(denominator)), or(iszero(x), eq(div(z, x), y)))) {
+                revert(0, 0)
+            }
+
+            // First, divide z - 1 by the denominator and add 1.
+            // We allow z - 1 to underflow if z is 0, because we multiply the
+            // end result by 0 if z is zero, ensuring we return 0 if z is zero.
+            z := mul(iszero(iszero(z)), add(div(sub(z, 1), denominator), 1))
+        }
+    }
+
+    function rpow(
+        uint256 x,
+        uint256 n,
+        uint256 scalar
+    ) internal pure returns (uint256 z) {
+        assembly {
+            switch x
+            case 0 {
+                switch n
+                case 0 {
+                    // 0 ** 0 = 1
+                    z := scalar
+                }
+                default {
+                    // 0 ** n = 0
+                    z := 0
+                }
+            }
+            default {
+                switch mod(n, 2)
+                case 0 {
+                    // If n is even, store scalar in z for now.
+                    z := scalar
+                }
+                default {
+                    // If n is odd, store x in z for now.
+                    z := x
+                }
+
+                // Shifting right by 1 is like dividing by 2.
+                let half := shr(1, scalar)
+
+                for {
+                    // Shift n right by 1 before looping to halve it.
+                    n := shr(1, n)
+                } n {
+                    // Shift n right by 1 each iteration to halve it.
+                    n := shr(1, n)
+                } {
+                    // Revert immediately if x ** 2 would overflow.
+                    // Equivalent to iszero(eq(div(xx, x), x)) here.
+                    if shr(128, x) {
+                        revert(0, 0)
+                    }
+
+                    // Store x squared.
+                    let xx := mul(x, x)
+
+                    // Round to the nearest number.
+                    let xxRound := add(xx, half)
+
+                    // Revert if xx + half overflowed.
+                    if lt(xxRound, xx) {
+                        revert(0, 0)
+                    }
+
+                    // Set x to scaled xxRound.
+                    x := div(xxRound, scalar)
+
+                    // If n is even:
+                    if mod(n, 2) {
+                        // Compute z * x.
+                        let zx := mul(z, x)
+
+                        // If z * x overflowed:
+                        if iszero(eq(div(zx, x), z)) {
+                            // Revert if x is non-zero.
+                            if iszero(iszero(x)) {
+                                revert(0, 0)
+                            }
+                        }
+
+                        // Round to the nearest number.
+                        let zxRound := add(zx, half)
+
+                        // Revert if zx + half overflowed.
+                        if lt(zxRound, zx) {
+                            revert(0, 0)
+                        }
+
+                        // Return properly scaled zxRound.
+                        z := div(zxRound, scalar)
+                    }
+                }
+            }
+        }
+    }
+
+    /*//////////////////////////////////////////////////////////////
+                        GENERAL NUMBER UTILITIES
+    //////////////////////////////////////////////////////////////*/
+
+    function sqrt(uint256 x) internal pure returns (uint256 z) {
+        assembly {
+            let y := x // We start y at x, which will help us make our initial estimate.
+
+            z := 181 // The "correct" value is 1, but this saves a multiplication later.
+
+            // This segment is to get a reasonable initial estimate for the Babylonian method. With a bad
+            // start, the correct # of bits increases ~linearly each iteration instead of ~quadratically.
+
+            // We check y >= 2^(k + 8) but shift right by k bits
+            // each branch to ensure that if x >= 256, then y >= 256.
+            if iszero(lt(y, 0x10000000000000000000000000000000000)) {
+                y := shr(128, y)
+                z := shl(64, z)
+            }
+            if iszero(lt(y, 0x1000000000000000000)) {
+                y := shr(64, y)
+                z := shl(32, z)
+            }
+            if iszero(lt(y, 0x10000000000)) {
+                y := shr(32, y)
+                z := shl(16, z)
+            }
+            if iszero(lt(y, 0x1000000)) {
+                y := shr(16, y)
+                z := shl(8, z)
+            }
+
+            // Goal was to get z*z*y within a small factor of x. More iterations could
+            // get y in a tighter range. Currently, we will have y in [256, 256*2^16).
+            // We ensured y >= 256 so that the relative difference between y and y+1 is small.
+            // That's not possible if x < 256 but we can just verify those cases exhaustively.
+
+            // Now, z*z*y <= x < z*z*(y+1), and y <= 2^(16+8), and either y >= 256, or x < 256.
+            // Correctness can be checked exhaustively for x < 256, so we assume y >= 256.
+            // Then z*sqrt(y) is within sqrt(257)/sqrt(256) of sqrt(x), or about 20bps.
+
+            // For s in the range [1/256, 256], the estimate f(s) = (181/1024) * (s+1) is in the range
+            // (1/2.84 * sqrt(s), 2.84 * sqrt(s)), with largest error when s = 1 and when s = 256 or 1/256.
+
+            // Since y is in [256, 256*2^16), let a = y/65536, so that a is in [1/256, 256). Then we can estimate
+            // sqrt(y) using sqrt(65536) * 181/1024 * (a + 1) = 181/4 * (y + 65536)/65536 = 181 * (y + 65536)/2^18.
+
+            // There is no overflow risk here since y < 2^136 after the first branch above.
+            z := shr(18, mul(z, add(y, 65536))) // A mul() is saved from starting z at 181.
+
+            // Given the worst case multiplicative error of 2.84 above, 7 iterations should be enough.
+            z := shr(1, add(z, div(x, z)))
+            z := shr(1, add(z, div(x, z)))
+            z := shr(1, add(z, div(x, z)))
+            z := shr(1, add(z, div(x, z)))
+            z := shr(1, add(z, div(x, z)))
+            z := shr(1, add(z, div(x, z)))
+            z := shr(1, add(z, div(x, z)))
+
+            // If x+1 is a perfect square, the Babylonian method cycles between
+            // floor(sqrt(x)) and ceil(sqrt(x)). This statement ensures we return floor.
+            // See: https://en.wikipedia.org/wiki/Integer_square_root#Using_only_integer_division
+            // Since the ceil is rare, we save gas on the assignment and repeat division in the rare case.
+            // If you don't care whether the floor or ceil square root is returned, you can remove this statement.
+            z := sub(z, lt(div(x, z), z))
+        }
+    }
+
+    function log2(uint256 x) internal pure returns (uint256 r) {
+        require(x > 0, "UNDEFINED");
+
+        assembly {
+            r := shl(7, lt(0xffffffffffffffffffffffffffffffff, x))
+            r := or(r, shl(6, lt(0xffffffffffffffff, shr(r, x))))
+            r := or(r, shl(5, lt(0xffffffff, shr(r, x))))
+            r := or(r, shl(4, lt(0xffff, shr(r, x))))
+            r := or(r, shl(3, lt(0xff, shr(r, x))))
+            r := or(r, shl(2, lt(0xf, shr(r, x))))
+            r := or(r, shl(1, lt(0x3, shr(r, x))))
+            r := or(r, lt(0x1, shr(r, x)))
+        }
+    }
+
+    function unsafeMod(uint256 x, uint256 y) internal pure returns (uint256 z) {
+        assembly {
+            // z will equal 0 if y is 0, unlike in Solidity where it will revert.
+            z := mod(x, y)
+        }
+    }
+
+    function unsafeDiv(uint256 x, uint256 y) internal pure returns (uint256 z) {
+        assembly {
+            // z will equal 0 if y is 0, unlike in Solidity where it will revert.
+            z := div(x, y)
+        }
+    }
+
+    /// @dev Will return 0 instead of reverting if y is zero.
+    function unsafeDivUp(uint256 x, uint256 y) internal pure returns (uint256 z) {
+        assembly {
+            // Add 1 to x * y if x % y > 0.
+            z := add(gt(mod(x, y), 0), div(x, y))
+        }
+    }
+}
+
+/**
+ * @dev Interface that all cost models must conform to.
+ */
+interface ICostModel {
+  /// @notice Returns the cost of purchasing protection as a percentage of the amount being purchased, as a wad.
+  /// For example, if you are purchasing $200 of protection and this method returns 1e17, then the cost of
+  /// the purchase is 200 * 1e17 / 1e18 = $20.
+  /// @param utilization Current utilization of the market.
+  /// @param newUtilization Utilization ratio of the market after purchasing protection.
+  function costFactor(uint256 utilization, uint256 newUtilization) external view returns (uint256);
+
+  /// @notice Gives the return value in assets of returning protection, as a percentage of
+  /// the supplier fee pool, as a wad. For example, if the supplier fee pool currently has $100
+  /// and this method returns 1e17, then you will get $100 * 1e17 / 1e18 = $10 in assets back.
+  /// @param utilization Current utilization of the market.
+  /// @param newUtilization Utilization ratio of the market after cancelling protection.
+  function refundFactor(uint256 utilization, uint256 newUtilization) external view returns (uint256);
+}
+
+/**
+ * @dev Interface that all decay models must conform to.
+ */
+interface IDecayModel {
+  /// @notice Returns current decay rate of PToken value, as percent per second, where the percent is a wad.
+  /// @param utilization Current utilization of the market.
+  function decayRate(uint256 utilization) external view returns (uint256);
+}
+
+/**
+ * @dev Interface that all drip models must conform to.
+ */
+interface IDripModel {
+  /// @notice Returns the percentage of the fee pool that should be dripped to suppliers, per second, as a wad.
+  /// @dev The returned value is not equivalent to the annual yield earned by suppliers. Annual yield can be
+  /// computed as supplierFeePool * dripRate * secondsPerYear / totalAssets.
+  /// @param utilization Current utilization of the set.
+  function dripRate(uint256 utilization) external view returns (uint256);
+}
+
+/**
+ * @dev Structs used to define parameters in sets and markets.
+ * @dev A "zoc" is a unit with 4 decimal places. All numbers in these config structs are in zocs, i.e. a
+ * value of 900 translates to 900/10,000 = 0.09, or 9%.
+ */
+
+/// @notice  Set-level configuration.
+struct SetConfig {
+  uint256 leverageFactor; // The set's leverage factor.
+  uint256 depositFee; // Fee applied on each deposit and mint.
+  IDecayModel decayModel; // Contract defining the decay rate for PTokens in this set.
+  IDripModel dripModel; // Contract defining the rate at which funds are dripped to suppliers for their yield.
+}
+
+/// @notice Market-level configuration.
+struct MarketInfo {
+  address trigger; // Address of the trigger contract for this market.
+  ICostModel costModel; // Contract defining the cost model for this market.
+  uint16 weight; // Weight of this market. Sum of weights across all markets must sum to 100% (1e4, 1 zoc).
+  uint16 purchaseFee; // Fee applied on each purchase.
+}
+
+/// @notice PTokens and are not eligible to claim protection until maturity. It takes `purchaseDelay` seconds for a PToken
+/// to mature, but time during an InactivePeriod is not counted towards maturity. Similarly, there is a delay
+/// between requesting a withdrawal and completing that withdrawal, and inactive periods do not count towards that
+/// withdrawal delay.
+struct InactivePeriod {
+  uint64 startTime; // Timestamp that this inactive period began.
+  uint64 cumulativeDuration; // Cumulative inactive duration of all prior inactive periods and this inactive period at the point when this inactive period ended.
+}
+
+/**
+ * @dev Contains the enum used to define valid Cozy states.
+ * @dev All states except TRIGGERED are valid for sets, and all states except PAUSED are valid for markets/triggers.
+ */
+interface ICState {
+  /// @notice The set of all Cozy states.
+  enum CState {
+    ACTIVE,
+    FROZEN,
+    PAUSED,
+    TRIGGERED
+  }
+}
+
+/**
+ * @dev Interface for ERC20 tokens.
+ */
+interface IERC20 {
+  /// @dev Emitted when the allowance of a `spender` for an `owner` is updated, where `amount` is the new allowance.
+  event Approval(address indexed owner, address indexed spender, uint256 value);
+  /// @dev Emitted when `amount` tokens are moved from `from` to `to`.
+  event Transfer(address indexed from, address indexed to, uint256 value);
+
+  /// @notice Returns the remaining number of tokens that `spender` will be allowed to spend on behalf of `holder`.
+  function allowance(address owner, address spender) external view returns (uint256);
+  /// @notice Sets `_amount` as the allowance of `_spender` over the caller's tokens.
+  function approve(address spender, uint256 amount) external returns (bool);
+  /// @notice Returns the amount of tokens owned by `account`.
+  function balanceOf(address account) external view returns (uint256);
+  /// @notice Returns the decimal places of the token.
+  function decimals() external view returns (uint8);
+  /// @notice Sets `_value` as the allowance of `_spender` over `_owner`s tokens, given a signed approval from the owner.
+  function permit(address owner, address spender, uint256 value, uint256 deadline, uint8 v, bytes32 r, bytes32 s) external;
+  /// @notice Returns the name of the token.
+  function name() external view returns (string memory);
+  /// @notice Returns the symbol of the token.
+  function symbol() external view returns (string memory);
+  /// @notice Returns the amount of tokens in existence.
+  function totalSupply() external view returns (uint256);
+  /// @notice Moves `_amount` tokens from the caller's account to `_to`.
+  function transfer(address to, uint256 amount) external returns (bool);
+  /// @notice Moves `_amount` tokens from `_from` to `_to` using the allowance mechanism. `_amount` is then deducted from the caller's allowance.
+  function transferFrom(address from, address to, uint256 amount) external returns (bool);
+}
+
+/**
+ * @dev Interface for LFT tokens.
+ */
+interface ILFT is IERC20 {
+  /// @notice Data saved off on each mint.
+  struct MintMetadata {
+    uint128 amount; // Amount of tokens minted.
+    uint64 time; // Timestamp of the mint.
+    uint64 delay; // Delay until these tokens mature and become fungible.
+  }
+
+  /// @notice Mapping from user address to all of their mints.
+  function mints(address, uint256) view external returns (uint128 amount, uint64 time, uint64 delay);
+
+  /// @notice Returns the array of metadata for all tokens minted to `_user`.
+  function getMints(address _user) view external returns (MintMetadata[] memory);
+
+  /// @notice Returns the quantity of matured tokens held by the given `_user`.
+  /// @dev A user's `balanceOfMatured` is computed by starting with `balanceOf[_user]` then subtracting the sum of
+  /// all `amounts` from the  user's `mints` array that are not yet matured. How to determine when a given mint
+  /// is matured is left to the implementer. It can be simple such as maturing when `block.timestamp >= time + delay`,
+  /// or something more complex.
+  function balanceOfMatured(address _user) view external returns (uint256);
+
+  /// @notice Moves `_amount` tokens from the caller's account to `_to`. Tokens must be matured to transfer them.
+  function transfer(address _to, uint256 _amount) external returns (bool);
+
+  /// @notice Moves `_amount` tokens from `_from` to `_to`. Tokens must be matured to transfer them.
+  function transferFrom(address _from, address _to, uint256 _amount) external returns (bool);
+}
+
+/**
+ * @notice All protection markets live within a set.
+ */
+interface ISet is ILFT {
+  /// @dev Emitted when a user cancels protection. This is a market-level event.
+  event Cancellation(
+    address caller,
+    address indexed receiver,
+    address indexed owner,
+    uint256 protection,
+    uint256 ptokens,
+    address indexed trigger,
+    uint256 refund
+  );
+
+  /// @dev Emitted when a user claims their protection payout when a market is
+  /// triggered. This is a market-level event
+  event Claim(
+    address caller,
+    address indexed receiver,
+    address indexed owner,
+    uint256 protection,
+    uint256 ptokens,
+    address indexed trigger
+  );
+
+  /// @dev Emitted when a user deposits assets or mints shares. This is a
+  /// set-level event.
+  event Deposit(
+    address indexed caller,
+    address indexed owner,
+    uint256 assets,
+    uint256 shares
+  );
+
+  /// @dev Emitted when a user purchases protection from a market. This is a
+  /// market-level event.
+  event Purchase(
+    address indexed caller,
+    address indexed owner,
+    uint256 protection,
+    uint256 ptokens,
+    address indexed trigger,
+    uint256 cost
+  );
+
+  /// @dev Emitted when a user withdraws assets or redeems shares. This is a
+  /// set-level event.
+  event Withdraw(
+    address caller,
+    address indexed receiver,
+    address indexed owner,
+    uint256 assets,
+    uint256 shares,
+    uint256 indexed withdrawalId
+  );
+
+  /// @dev Emitted when a user queues a withdrawal or redeem to be completed
+  /// later. This is a set-level event.
+  event WithdrawalPending(
+    address caller,
+    address indexed receiver,
+    address indexed owner,
+    uint256 assets,
+    uint256 shares,
+    uint256 indexed withdrawalId
+  );
+
+  struct PendingWithdrawal {
+    uint128 shares; // Shares burned to queue the withdrawal.
+    uint128 assets; // Amount of assets that will be paid out upon completion of the withdrawal.
+    address owner; // Owner of the shares.
+    uint64 queueTime; // Timestamp at which the withdrawal was requested.
+    address receiver; // Address the assets will be sent to.
+    uint64 delay; // Protocol withdrawal delay at the time of request.
+  }
+
+  /// @notice Devalues all outstanding protection by applying unaccrued decay to the specified market.
+  function accrueDecay(address _trigger) external;
+
+  /// @notice Returns the amount of assets for the Cozy backstop.
+  function accruedCozyBackstopFees() view external returns (uint128);
+
+  /// @notice Returns the amount of assets for generic Cozy reserves.
+  function accruedCozyReserveFees() view external returns (uint128);
+
+  /// @notice Returns the amount of assets accrued to the set owner.
+  function accruedSetOwnerFees() view external returns (uint128);
+
+  /// @notice Returns the amount of outstanding protection that is currently active for the specified market.
+  function activeProtection(address _trigger) view external returns (uint256);
+
+  /// @notice Returns the underlying asset used by this set.
+  function asset() view external returns (address);
+
+  /// @notice Returns the internal asset balance - equivalent to `asset.balanceOf(address(set))` if no one transfers tokens directly to the contract.
+  function assetBalance() view external returns (uint128);
+
+  /// @notice Returns the amount of assets pending withdrawal. These assets are unavailable for new protection purchases but
+  /// are available to payout protection in the event of a market becoming triggered.
+  function assetsPendingWithdrawal() view external returns (uint128);
+
+  /// @notice Returns the balance of matured tokens held by `_user`.
+  function balanceOfMatured(address _user) view external returns (uint256 _balance);
+
+  /// @notice Cancel `_protection` amount of protection for the specified market, and send the refund amount to `_receiver`.
+  function cancel(address _trigger, uint256 _protection, address _receiver, address _owner) external returns (uint256 _refund, uint256 _ptokens);
+
+  /// @notice Claims protection payout after the market for `_trigger` is triggered. Pays out the specified amount of
+  /// `_protection` held by `_owner` by sending it to `_receiver`.
+  function claim(address _trigger, uint256 _protection, address _receiver, address _owner) external returns (uint256 _ptokens);
+
+  /// @notice Transfers accrued reserve and backstop fees to the `_owner` address and `_backstop` address, respectively.
+  function claimCozyFees(address _owner, address _backstop) external;
+
+  /// @notice Transfers accrued set owner fees to `_receiver`.
+  function claimSetFees(address _receiver) external;
+
+  /// @notice Completes the withdraw request for the specified ID, sending the assets to the stored `_receiver` address.
+  function completeRedeem(uint256 _redemptionId) external;
+
+  /// @notice Completes the withdraw request for the specified ID, and sends assets to the new `_receiver` instead of
+  /// the stored receiver.
+  function completeRedeem(uint256 _redemptionId, address _receiver) external;
+
+  /// @notice Completes the withdraw request for the specified ID, sending the assets to the stored `_receiver` address.
+  function completeWithdraw(uint256 _withdrawalId) external;
+
+  /// @notice Completes the withdraw request for the specified ID, and sends assets to the new `_receiver` instead of
+  /// the stored receiver.
+  function completeWithdraw(uint256 _withdrawalId, address _receiver) external;
+
+  /// @notice The amount of `_assets` that the Set would exchange for the amount of `_shares` provided, in an ideal
+  /// scenario where all the conditions are met.
+  function convertToAssets(uint256 shares) view external returns (uint256);
+
+  /// @notice The amount of PTokens that the Vault would exchange for the amount of protection, in an ideal scenario
+  /// where all the conditions are met.
+  function convertToPTokens(address _trigger, uint256 _protection) view external returns (uint256);
+
+  /// @notice The amount of protection that the Vault would exchange for the amount of PTokens, in an ideal scenario
+  /// where all the conditions are met.
+  function convertToProtection(address _trigger, uint256 _ptokens) view external returns (uint256);
+
+  /// @notice The amount of `_shares` that the Set would exchange for the amount of `_assets` provided, in an ideal
+  /// scenario where all the conditions are met.
+  function convertToShares(uint256 assets) view external returns (uint256);
+
+  /// @notice Returns the cost factor when purchasing the specified amount of `_protection` in the given market.
+  function costFactor(address _trigger, uint256 _protection) view external returns (uint256 _costFactor);
+
+  /// @notice Returns the current drip rate for the set.
+  function currentDripRate() view external returns (uint256);
+
+  /// @notice Returns the active protection, decay rate, and last decay time. The response is encoded into a word.
+  function dataApd(address) view external returns (bytes32);
+
+  /// @notice Returns the state and PToken address for a market, and the state for the set. The response is encoded into a word.
+  function dataSp(address) view external returns (bytes32);
+
+  /// @notice Returns the address of the set's decay model. The decay model governs how fast outstanding protection loses it's value.
+  function decayModel() view external returns (address);
+
+  /// @notice Supply protection by minting `_shares` shares to `_receiver` by depositing exactly `_assets` amount of
+  /// underlying tokens.
+  function deposit(uint256 _assets, address _receiver) external returns (uint256 _shares);
+
+  /// @notice Returns the fee charged by the Set owner on deposits.
+  function depositFee() view external returns (uint256);
+
+  /// @notice Returns the market's reserve fee, backstop fee, and set owner fee applied on deposit.
+  function depositFees() view external returns (uint256 _reserveFee, uint256 _backstopFee, uint256 _setOwnerFee);
+
+  /// @notice Drip accrued fees to suppliers.
+  function drip() external;
+
+  /// @notice Returns the address of the set's drip model. The drip model governs the interest rate earned by depositors.
+  function dripModel() view external returns (address);
+
+  /// @notice Returns the array of metadata for all tokens minted to `_user`.
+  function getMints(address _user) view external returns (MintMetadata[] memory);
+
+  /// @notice Returns true if `_who` is a valid market in the `_set`, false otherwise.
+  function isMarket(address _who) view external returns (bool);
+
+  /// @notice Returns the drip rate used during the most recent `drip()`.
+  function lastDripRate() view external returns (uint96);
+
+  /// @notice Returns the timestamp of the most recent `drip()`.
+  function lastDripTime() view external returns (uint32);
+
+  /// @notice Returns the exchange rate of shares:assets when the most recent trigger occurred, or 0 if no market is triggered.
+  /// This exchange rate is used for any pending withdrawals that were queued before the trigger occurred to calculate
+  /// the new amount of assets to be received when the withdrawal is completed.
+  function lastTriggeredExchangeRate() view external returns (uint192);
+
+  /// @notice Returns the pending withdrawal count when the most recently triggered market became triggered, or 0 if none.
+  /// Any pending withdrawals with IDs less than this need to have their amount of assets updated to reflect the exchange
+  /// rate at the time when the most recently triggered market became triggered.
+  function lastTriggeredPendingWithdrawalCount() view external returns (uint64);
+
+  /// @notice Returns the leverage factor of the set, as a zoc.
+  function leverageFactor() view external returns (uint256);
+
+  /// @notice Returns the address of the Cozy protocol Manager.
+  function manager() view external returns (address);
+
+  /// @notice Returns the encoded market configuration, i.e. it's cost model, weight, and purchase fee for a market.
+  function marketConfig(address) view external returns (bytes32);
+
+  /// @notice Returns the maximum amount of the underlying asset that can be deposited to supply protection.
+  function maxDeposit(address) view external returns (uint256);
+
+  /// @notice Maximum amount of shares that can be minted to supply protection.
+  function maxMint(address) view external returns (uint256);
+
+  /// @notice Returns the maximum amount of protection that can be sold for the specified market.
+  function maxProtection(address _trigger) view external returns (uint256);
+
+  /// @notice Maximum amount of protection that can be purchased from the specified market.
+  function maxPurchaseAmount(address _trigger) view external returns (uint256 _protection);
+
+  /// @notice Maximum amount of Set shares that can be redeemed from the `_owner` balance in the Set,
+  /// through a redeem call.
+  function maxRedemptionRequest(address _owner) view external returns (uint256);
+
+  /// @notice Maximum amount of the underlying asset that can be withdrawn from the `_owner` balance in the Set,
+  /// through a withdraw call.
+  function maxWithdrawalRequest(address _owner) view external returns (uint256);
+
+  /// @notice Supply protection by minting exactly `_shares` shares to `_receiver` by depositing `_assets` amount
+  /// of underlying tokens.
+  function mint(uint256 _shares, address _receiver) external returns (uint256 _assets);
+
+  /// @notice Mapping from user address to all of their mints.
+  function mints(address, uint256) view external returns (uint128 amount, uint64 time, uint64 delay);
+
+  /// @notice Returns the amount of decay that will accrue next time `accrueDecay()` is called for the market.
+  function nextDecayAmount(address _trigger) view external returns (uint256 _accruedDecay);
+
+  /// @notice Returns the amount to be dripped on the next `drip()` call.
+  function nextDripAmount() view external returns (uint256);
+
+  /// @notice Returns the number of frozen markets in the set.
+  function numFrozenMarkets() view external returns (uint256);
+
+  /// @notice Returns the number of markets in this Set, including triggered markets.
+  function numMarkets() view external returns (uint256);
+
+  /// @notice Returns the number of triggered markets in the set.
+  function numTriggeredMarkets() view external returns (uint256);
+
+  /// @notice Pauses the set.
+  function pause() external;
+
+  /// @notice Claims protection payout after the market for `_trigger` is triggered. Burns the specified number of
+  /// `ptokens` held by `_owner` and sends the payout to `_receiver`.
+  function payout(address _trigger, uint256 _ptokens, address _receiver, address _owner) external returns (uint256 _protection);
+
+  /// @notice Returns the total number of withdrawals that have been queued, including pending withdrawals that have been completed.
+  function pendingWithdrawalCount() view external returns (uint64);
+
+  /// @notice Returns all withdrawal data for the specified withdrawal ID.
+  function pendingWithdrawalData(uint256 _withdrawalId) view external returns (uint256 _remainingWithdrawalDelay, PendingWithdrawal memory _pendingWithdrawal);
+
+  /// @notice Maps a withdrawal ID to information about the pending withdrawal.
+  function pendingWithdrawals(uint256) view external returns (uint128 shares, uint128 assets, address owner, uint64 queueTime, address receiver, uint64 delay);
+
+  /// @notice Allows an on-chain or off-chain user to simulate the effects of their cancellation (i.e. view the refund
+  /// amount, number of PTokens burned, and associated fees collected by the protocol) at the current block, given
+  /// current on-chain conditions.
+  function previewCancellation(address _trigger, uint256 _protection) view external returns (uint256 _refund, uint256 _ptokens, uint256 _reserveFeeAssets, uint256 _backstopFeeAssets);
+
+  /// @notice Returns the utilization ratio of the specified market after canceling `_assets` of protection.
+  function previewCancellationUtilization(address _trigger, uint256 _assets) view external returns (uint256);
+
+  /// @notice Allows an on-chain or off-chain user to simulate the effects of their claim (i.e. view the quantity of
+  /// PTokens burned) at the current block, given current on-chain conditions.
+  function previewClaim(address _trigger, uint256 _protection) view external returns (uint256 _ptokens);
+
+  /// @notice Allows an on-chain or off-chain user to simulate the effects of their deposit (i.e. view the number of
+  /// shares received) at the current block, given current on-chain conditions.
+  function previewDeposit(uint256 _assets) view external returns (uint256 _shares);
+
+  /// @notice Allows an on-chain or off-chain user to simulate the effects of their deposit (i.e. view the number of
+  /// shares received along with associated fees) at the current block, given current on-chain conditions.
+  function previewDepositData(uint256 _assets) view external returns (uint256 _userShares, uint256 _reserveFeeAssets, uint256 _backstopFeeAssets, uint256 _setOwnerFeeAssets);
+
+  /// @notice Allows an on-chain or off-chain user to simulate the effects of their mint (i.e. view the number of
+  /// assets transferred) at the current block, given current on-chain conditions.
+  function previewMint(uint256 _shares) view external returns (uint256 _assets);
+
+  /// @notice Allows an on-chain or off-chain user to simulate the effects of their mint (i.e. view the number of
+  /// assets transferred along with associated fees) at the current block, given current on-chain conditions.
+  function previewMintData(uint256 _shares) view external returns (uint256 _assets, uint256 _reserveFeeAssets, uint256 _backstopFeeAssets, uint256 _setOwnerFeeAssets);
+
+  /// @notice Allows an on-chain or off-chain user to simulate the effects of their payout (i.e. view the amount of
+  /// assets that would be received for an amount of PTokens) at the current block, given current on-chain conditions.
+  function previewPayout(address _trigger, uint256 _ptokens) view external returns (uint256 _protection);
+
+  /// @notice Allows an on-chain or off-chain user to simulate the effects of their purchase (i.e. view the total cost,
+  /// inclusive of fees, and the number of PTokens received) at the current block, given current on-chain conditions.
+  function previewPurchase(address _trigger, uint256 _protection) view external returns (uint256 _totalCost, uint256 _ptokens);
+
+  /// @notice Allows an on-chain or off-chain user to comprehensively simulate the effects of their purchase at the
+  /// current block, given current on-chain conditions. This is similar to `previewPurchase` but additionally returns
+  /// the cost before fees, as well as the fee breakdown.
+  function previewPurchaseData(address _trigger, uint256 _protection) view external returns (uint256 _totalCost, uint256 _ptokens, uint256 _cost, uint256 _reserveFeeAssets, uint256 _backstopFeeAssets, uint256 _setOwnerFeeAssets);
+
+  /// @notice Returns the utilization ratio of the specified market after purchasing `_assets` of protection.
+  function previewPurchaseUtilization(address _trigger, uint256 _assets) view external returns (uint256);
+
+  /// @notice Allows an on-chain or off-chain user to simulate the effects of their redemption (i.e. view the number
+  /// of assets received) at the current block, given current on-chain conditions.
+  function previewRedeem(uint256 shares) view external returns (uint256);
+
+  /// @notice Allows an on-chain or off-chain user to simulate the effects of their sale (i.e. view the refund amount,
+  /// protection sold, and fees accrued by the protocol) at the current block, given current on-chain conditions.
+  function previewSale(address _trigger, uint256 _ptokens) view external returns (uint256 _refund, uint256 _protection, uint256 _reserveFeeAssets, uint256 _backstopFeeAssets);
+
+  /// @notice Allows an on-chain or off-chain user to simulate the effects of their withdrawal (i.e. view the number of
+  /// shares burned) at the current block, given current on-chain conditions.
+  function previewWithdraw(uint256 assets) view external returns (uint256);
+
+  /// @notice Return the PToken address for the given market.
+  function ptoken(address _who) view external returns (address _ptoken);
+
+  /// @notice Returns the address of the Cozy protocol PTokenFactory.
+  function ptokenFactory() view external returns (address);
+
+  /// @notice Purchase `_protection` amount of protection for the specified market, and send the PTokens to `_receiver`.
+  function purchase(address _trigger, uint256 _protection, address _receiver) external returns (uint256 _totalCost, uint256 _ptokens);
+
+  /// @notice Returns the market's reserve fee, backstop fee, and set owner fee applied on purchase.
+  function purchaseFees(address _trigger) view external returns (uint256 _reserveFee, uint256 _backstopFee, uint256 _setOwnerFee);
+
+  /// @notice Burns exactly `_shares` from owner and queues `_assets` amount of underlying tokens to be sent to
+  /// `_receiver` after the `manager.withdrawDelay()` has elapsed.
+  function redeem(uint256 _shares, address _receiver, address _owner) external returns (uint256 _assets);
+
+  /// @notice Returns the refund factor when canceling the specified amount of `_protection` in the given market.
+  function refundFactor(address _trigger, uint256 _protection) view external returns (uint256 _refundFactor);
+
+  /// @notice Returns the amount of protection currently available to purchase for the specified market.
+  function remainingProtection(address _trigger) view external returns (uint256);
+
+  /// @notice Sell `_ptokens` amount of ptokens for the specified market, and send the refund amount to `_receiver`.
+  function sell(address _trigger, uint256 _ptokens, address _receiver, address _owner) external returns (uint256 _refund, uint256 _protection);
+
+  /// @notice Returns the shortfall (i.e. the amount of unbacked active protection) in a market, or zero if the market
+  /// is fully backed.
+  function shortfall(address _trigger) view external returns (uint256);
+
+  /// @notice Returns the state of the market or set. Pass a market address to read that market's state, or the set's
+  /// address to read the set's state.
+  function state(address _who) view external returns (ICState.CState _state);
+
+  /// @notice Returns the set's total amount of fees available to drip to suppliers, and each market's contribution to that total amount.
+  /// When protection is purchased, the supplier fee pools for the set and the market that protection is purchased from
+  /// gets incremented by the protection cost (after fees). They get decremented when fees are dripped to suppliers.
+  function supplierFeePool(address) view external returns (uint256);
+
+  /// @notice Syncs the internal accounting balance with the true balance.
+  function sync() external;
+
+  /// @notice Returns the total amount of assets that is available to back protection.
+  function totalAssets() view external returns (uint256 _protectableAssets);
+
+  /// @notice Array of trigger addresses used for markets in the set.
+  function triggers(uint256) view external returns (address);
+
+  /// @notice Unpauses the set and transitions to the provided `_state`.
+  function unpause(ICState.CState _state) external;
+
+  /// @notice Execute queued updates to setConfig and marketConfig. This should only be called by the Manager.
+  function updateConfigs(uint256 _leverageFactor, uint256 _depositFee, address _decayModel, address _dripModel, MarketInfo[] memory _marketInfos) external;
+
+  /// @notice Updates the state of the a market in the set.
+  function updateMarketState(address _trigger, uint8 _newState) external;
+
+  /// @notice Updates the set's state to `_state.
+  function updateSetState(ICState.CState _state) external;
+
+  /// @notice Returns the current utilization ratio of the specified market, as a wad.
+  function utilization(address _trigger) view external returns (uint256);
+
+  /// @notice Returns the current utilization ratio of the set, as a wad.
+  function utilization() view external returns (uint256);
+
+  /// @notice Burns `_shares` from owner and queues exactly `_assets` amount of underlying tokens to be sent to
+  /// `_receiver` after the `manager.withdrawDelay()` has elapsed.
+  function withdraw(uint256 _assets, address _receiver, address _owner) external returns (uint256 _shares);
+
+  /// Additional functions from the ABI.
+  function DOMAIN_SEPARATOR() view external returns (bytes32);
+  function VERSION() view external returns (uint256);
+  function allowance(address, address) view external returns (uint256);
+  function approve(address spender, uint256 amount) external returns (bool);
+  function balanceOf(address) view external returns (uint256);
+  function decimals() view external returns (uint8);
+  function name() view external returns (string memory);
+  function nonces(address) view external returns (uint256);
+  function permit(address owner, address spender, uint256 value, uint256 deadline, uint8 v, bytes32 r, bytes32 s) external;
+  function symbol() view external returns (string memory);
+  function totalSupply() view external returns (uint256);
+  function transfer(address _to, uint256 _amount) external returns (bool);
+  function transferFrom(address _from, address _to, uint256 _amount) external returns (bool);
+}
+
+/**
+ * @notice The Manager is in charge of the full Cozy protocol. Configuration parameters are defined here, it serves
+ * as the entry point for all privileged operations, and exposes the `createSet` method used to create new sets.
+ */
+interface IManager is ICState {
+  /// @dev Emitted when a new set is given permission to pull funds from the backstop if it has a shortfall after a trigger.
+  event BackstopApprovalStatusUpdated(address indexed set, bool status);
+
+  /// @dev Emitted when the Cozy configuration delays are updated, and when a set is created.
+  event ConfigParamsUpdated(uint256 configUpdateDelay, uint256 configUpdateGracePeriod);
+
+  /// @dev Emitted when a Set owner's queued set and market configuration updates are applied, and when a set is created.
+  event ConfigUpdatesFinalized(address indexed set, SetConfig setConfig, MarketInfo[] marketInfos);
+
+  /// @dev Emitted when a Set owner queues new set and/or market configurations.
+  event ConfigUpdatesQueued(address indexed set, SetConfig setConfig, MarketInfo[] marketInfos, uint256 updateTime, uint256 updateDeadline);
+
+  /// @dev Emitted when accrued Cozy reserve fees and backstop fees are swept from a Set to the Cozy owner (for reserves) and backstop.
+  event CozyFeesClaimed(address indexed set);
+
+  /// @dev Emitted when the delays affecting user actions are initialized or updated by the Cozy owner.
+  event DelaysUpdated(uint256 minDepositDuration, uint256 withdrawDelay, uint256 purchaseDelay);
+
+  /// @dev Emitted when the deposit cap for an asset is updated by the Cozy owner.
+  event DepositCapUpdated(IERC20 indexed asset, uint256 depositCap);
+
+  /// @dev Emitted when the Cozy protocol fees are updated by the Cozy owner.
+  /// Changes to fees for the Set owner are emitted in ConfigUpdatesQueued and ConfigUpdatesFinalized.
+  event FeesUpdated(Fees fees);
+
+  /// @dev Emitted when a market, defined by it's trigger address, changes state.
+  event MarketStateUpdated(address indexed set, address indexed trigger, CState indexed state);
+
+  /// @dev Emitted when the owner address is updated.
+  event OwnershipTransferred(address indexed previousOwner, address indexed newOwner);
+
+  /// @dev Emitted when the pauser address is updated.
+  event PauserUpdated(address indexed newPauser);
+
+  /// @dev Emitted when the owner of a set is updated.
+  event SetOwnerUpdated(address indexed set, address indexed owner);
+
+  /// @dev Emitted when the Set owner claims their portion of fees.
+  event SetFeesClaimed(address indexed set, address _receiver);
+
+  /// @dev Emitted when the Set's pauser is updated.
+  event SetPauserUpdated(address indexed set, address indexed pauser);
+
+  /// @dev Emitted when the Set's state is updated.
+  event SetStateUpdated(address indexed set, CState indexed state);
+
+  /// @notice Used to update backstop approvals.
+  struct BackstopApproval {
+    ISet set;
+    bool status;
+  }
+
+  /// @notice All delays that can be set by the Cozy owner.
+  struct Delays {
+    uint256 configUpdateDelay; // Duration between when a set/market configuration updates are queued and when they can be executed.
+    uint256 configUpdateGracePeriod; // Defines how long the owner has to execute a configuration change, once it can be executed.
+    uint256 minDepositDuration; // The minimum duration before a withdrawal can be initiated after a deposit.
+    uint256 withdrawDelay; // If not paused, suppliers must queue a withdrawal and wait this long before completing the withdrawal.
+    uint256 purchaseDelay; // Protection does not mature (i.e. it cannot claim funds from a trigger) until this delay elapses after purchase.
+  }
+
+  /// @notice All fees that can be set by the Cozy owner.
+  struct Fees {
+    uint16 depositFeeReserves;  // Fee charged on deposit and min, allocated to the protocol reserves, denoted in zoc.
+    uint16 depositFeeBackstop; // Fee charged on deposit and min, allocated to the protocol backstop, denoted in zoc.
+    uint16 purchaseFeeReserves; // Fee charged on purchase, allocated to the protocol reserves, denoted in zoc.
+    uint16 purchaseFeeBackstop; // Fee charged on purchase, allocated to the protocol backstop, denoted in zoc.
+    uint16 cancellationFeeReserves; // Fee charged on cancellation, allocated to the protocol reserves, denoted in zoc.
+    uint16 cancellationFeeBackstop; // Fee charged on cancellation, allocated to the protocol backstop, denoted in zoc.
+  }
+
+  /// @notice A market or set is considered inactive when it's FROZEN or PAUSED.
+  struct InactivityData {
+    uint64 inactiveTransitionTime; // The timestamp the set/market transitioned from active to inactive, if currently inactive. 0 otherwise.
+    InactivePeriod[] periods; // Array of all inactive periods for a set or market.
+  }
+
+  /// @notice Set related data.
+  struct SetData {
+    // When a set is created, this is updated to true.
+    bool exists;
+     // If true, this set can use funds from the backstop.
+    bool approved;
+    // Earliest timestamp at which finalizeUpdateConfigs can be called to apply config updates queued by updateConfigs.
+    uint64 configUpdateTime;
+    // Maps from set address to the latest timestamp after configUpdateTime at which finalizeUpdateConfigs can be
+    // called to apply config updates queued by updateConfigs. After this timestamp, the queued config updates
+    // expire and can no longer be applied.
+    uint64 configUpdateDeadline;
+  }
+
+  /// @notice Max fee for deposit and purchase.
+  function MAX_FEE() view external returns (uint256);
+
+  /// @notice Returns the address of the Cozy protocol Backstop.
+  function backstop() view external returns (address);
+
+  /// @notice Returns the fees applied on cancellations that go to Cozy protocol reserves and backstop.
+  function cancellationFees() view external returns (uint256 _reserveFee, uint256 _backstopFee);
+
+  /// @notice For all specified `_sets`, transfers accrued reserve and backstop fees to the owner address and
+  /// backstop address, respectively.
+  function claimCozyFees(ISet[] memory _sets) external;
+
+  /// @notice Callable by the owner of `_set` and sends accrued fees to `_receiver`.
+  function claimSetFees(ISet _set, address _receiver) external;
+
+  /// @notice Configuration updates are queued, then can be applied after this delay elapses.
+  function configUpdateDelay() view external returns (uint32);
+
+  /// @notice Once `configUpdateDelay` elapses, configuration updates must be applied before the grace period elapses.
+  function configUpdateGracePeriod() view external returns (uint32);
+
+  /// @notice Deploys a new set with the provided parameters.
+  function createSet(address _owner, address _pauser, address _asset, SetConfig memory _setConfig, MarketInfo[] memory _marketInfos, bytes32 _salt) external returns (ISet _set);
+
+  /// @notice Returns the fees applied on deposits that go to Cozy protocol reserves and backstop.
+  function depositFees() view external returns (uint256 _reserveFee, uint256 _backstopFee);
+
+  /// @notice Returns protocol fees that can be applied on deposit/mint, purchase, and cancellation.
+  function fees() view external returns (uint16 depositFeeReserves, uint16 depositFeeBackstop, uint16 purchaseFeeReserves, uint16 purchaseFeeBackstop, uint16 cancellationFeeReserves, uint16 cancellationFeeBackstop);
+
+  /// @notice Execute queued updates to set config and market configs.
+  function finalizeUpdateConfigs(ISet _set, SetConfig memory _setConfig, MarketInfo[] memory _marketInfos) external;
+
+  /// @notice Returns the amount of delay time that has accrued since a timestamp.
+  function getDelayTimeAccrued(uint256 _startTime, uint256 _currentInactiveDuration, InactivePeriod[] memory _inactivePeriods) view external returns (uint256);
+
+  /// @notice Returns the maximum amount of assets that can be deposited into a set that uses `_asset`.
+  function getDepositCap(address _asset) view external returns (uint256);
+
+  /// @notice Returns the stored inactivity data for the specified `_set` and `_trigger`.
+  function getMarketInactivityData(ISet _set, address _trigger) view external returns (InactivityData memory);
+
+  /// @notice Returns the amount of time that accrued towards the withdrawal delay for the `_set`, given the
+  /// `_startTime` and the `_setState`.
+  function getWithdrawDelayTimeAccrued(ISet _set, uint256 _startTime, uint8 _setState) view external returns (uint256 _activeTimeElapsed);
+
+  /// @notice Performs a binary search to return the cumulative inactive duration before a `_timestamp` based on
+  /// the given `_inactivePeriods` that occurred.
+  function inactiveDurationBeforeTimestampLookup(uint256 _timestamp, InactivePeriod[] memory _inactivePeriods) pure external returns (uint256);
+
+  /// @notice Returns true if there is at least one FROZEN market in the `_set`, false otherwise.
+  function isAnyMarketFrozen(ISet _set) view external returns (bool);
+
+  /// @notice Returns true if the specified `_set` is approved for the backstop, false otherwise.
+  function isApprovedForBackstop(ISet _set) view external returns (bool);
+
+  /// @notice Returns true if `_who` is the local owner for the specified `_set`, false otherwise.
+  function isLocalSetOwner(ISet _set, address _who) view external returns (bool);
+
+  /// @notice Returns true if `_who` is a valid market in the `_set`, false otherwise.
+  function isMarket(ISet _set, address _who) view external returns (bool);
+
+  /// @notice Returns true if `_who` is the Cozy owner or the local owner for the specified `_set`, false otherwise.
+  function isOwner(ISet _set, address _who) view external returns (bool);
+
+  /// @notice Returns true if `_who` is the Cozy owner/pauser or the local owner/pauser for the specified `_set`,
+  /// false otherwise.
+  function isOwnerOrPauser(ISet _set, address _who) view external returns (bool);
+
+  /// @notice Returns true if `_who` is the Cozy pauser or the local pauser for the specified `_set`, false otherwise.
+  function isPauser(ISet _set, address _who) view external returns (bool);
+
+  /// @notice Returns true if the provided `_setConfig` and `_marketInfos` pairing is generically valid, false otherwise.
+  function isValidConfiguration(SetConfig memory _setConfig, MarketInfo[] memory _marketInfos) pure external returns (bool);
+
+  /// @notice Check if a state transition is valid for a market in a set.
+  function isValidMarketStateTransition(ISet _set, address _who, uint8 _from, uint8 _to) view external returns (bool);
+
+  /// @notice Returns true if the state transition from `_from` to `_to` is valid for the given `_set` when called
+  /// by `_who`, false otherwise.
+  function isValidSetStateTransition(ISet _set, address _who, uint8 _from, uint8 _to) view external returns (bool);
+
+  /// @notice Returns true if the provided `_setConfig` and `_marketInfos` pairing is valid for the `_set`,
+  /// false otherwise.
+  function isValidUpdate(ISet _set, SetConfig memory _setConfig, MarketInfo[] memory _marketInfos) view external returns (bool);
+
+  /// @notice Maps from set address to trigger address to metadata about previous inactive periods for markets.
+  function marketInactivityData(address, address) view external returns (uint64 inactiveTransitionTime);
+
+  /// @notice Minimum duration that funds must be supplied for before initiating a withdraw.
+  function minDepositDuration() view external returns (uint32);
+
+  /// @notice Returns the Manager contract owner address.
+  function owner() view external returns (address);
+
+  /// @notice Pauses the set.
+  function pause(ISet _set) external;
+
+  /// @notice Returns the manager Contract pauser address.
+  function pauser() view external returns (address);
+
+  /// @notice Returns the address of the Cozy protocol PTokenFactory.
+  function ptokenFactory() view external returns (address);
+
+  /// @notice Duration that must elapse before purchased protection becomes active.
+  function purchaseDelay() view external returns (uint32);
+
+  /// @notice Returns the fees applied on purchases that go to Cozy protocol reserves and backstop.
+  function purchaseFees() view external returns (uint256 _reserveFee, uint256 _backstopFee);
+
+  /// @notice Maps from set address to a hash representing queued `SetConfig` and `MarketInfo[]` updates. This hash
+  /// is used to prove that the `SetConfig` and `MarketInfo[]` params used when applying config updates are identical
+  /// to the queued updates.
+  function queuedConfigUpdateHash(ISet _set) view external returns (bytes32);
+
+  /// @notice Returns the Cozy protocol SetFactory.
+  function setFactory() view external returns (address);
+
+  /// @notice Returns metadata about previous inactive periods for sets.
+  function setInactivityData(ISet _set) view external returns (uint64 inactiveTransitionTime);
+
+  /// @notice Returns the owner address for the given set.
+  function setOwner(ISet _set) view external returns (address);
+
+  /// @notice Returns the pauser address for the given set.
+  function setPauser(ISet _set) view external returns (address);
+
+  /// @notice For the specified set, returns whether it's a valid Cozy set, if it's approve to use the backstop,
+  /// as well as timestamps for any configuration updates that are queued.
+  function sets(ISet _set) view external returns (bool exists, bool approved, uint64 configUpdateTime, uint64 configUpdateDeadline);
+
+  /// @notice Unpauses the set.
+  function unpause(ISet _set) external;
+
+  /// @notice Update params related to config updates.
+  function updateConfigParams(uint256 _configUpdateDelay, uint256 _configUpdateGracePeriod) external;
+
+  /// @notice Signal an update to the set config and market configs. Existing queued updates are overwritten.
+  function updateConfigs(ISet _set, SetConfig memory _setConfig, MarketInfo[] memory _marketInfos) external;
+
+  /// @notice Called by a trigger when it's state changes to `_newMarketState` to execute the corresponding state
+  /// change in the market for the given `_set`.
+  function updateMarketState(ISet _set, CState _newMarketState) external;
+
+  /// @notice Updates the owner of `_set` to `_owner`.
+  function updateSetOwner(ISet _set, address _owner) external;
+
+  /// @notice Updates the pauser of `_set` to `_pauser`.
+  function updateSetPauser(ISet _set, address _pauser) external;
+
+  /// @notice Returns true if the provided `_fees` are valid, false otherwise.
+  function validateFees(Fees memory _fees) pure external returns (bool);
+
+  /// @notice Duration that must elapse before completing a withdrawal after initiating it.
+  function withdrawDelay() view external returns (uint32);
+
+  function VERSION() view external returns (uint256);
+  function updateDepositCap(address _asset, uint256 _newDepositCap) external;
+  function updateFees(Fees memory _fees) external;
+  function updateOwner(address _newOwner) external;
+  function updatePauser(address _newPauser) external;
+  function updateUserDelays(uint256 _minDepositDuration, uint256 _withdrawDelay, uint256 _purchaseDelay) external;
+}
+
+/**
+ * @dev The minimal functions a trigger must implement to work with the Cozy protocol.
+ */
+interface ITrigger is ICState {
+  /// @dev Emitted when a new set is added to the trigger's list of sets.
+  event SetAdded(ISet set);
+
+  /// @dev Emitted when a trigger's state is updated.
+  event TriggerStateUpdated(CState indexed state);
+
+  /// @notice The current trigger state. This should never return PAUSED.
+  function state() external returns(CState);
+
+  /// @notice Called by the Manager to add a newly created set to the trigger's list of sets.
+  function addSet(ISet set) external returns (bool);
+
+  /// @notice Returns true if the trigger has been acknowledged by the entity responsible for transitioning trigger state.
+  function acknowledged() external returns (bool);
+}
+
+/**
+ * @dev Additional functions that are recommended to have in a trigger, but are not required.
+ */
+interface IBaseTrigger is ITrigger {
+  /// @notice Returns the set address at the specified index in the trigger's list of sets.
+  function sets(uint256 index) external returns(ISet set);
+
+  /// @notice Returns all sets in the trigger's list of sets.
+  function getSets() external returns(ISet[] memory);
+
+  /// @notice Returns the number of Sets that use this trigger in a market.
+  function getSetsLength() external returns(uint256 setsLength);
+
+  /// @notice Returns the address of the trigger's manager.
+  function manager() external returns(IManager managerAddress);
+
+  /// @notice The maximum amount of sets that can be added to this trigger.
+  function MAX_SET_LENGTH() external returns(uint256 maxSetLength);
+}
+
+/**
+ * @dev Core trigger interface and implementation. All triggers should inherit from this to ensure they conform
+ * to the required trigger interface.
+ */
+abstract contract BaseTrigger is ICState, IBaseTrigger {
+  /// @notice Current trigger state.
+  CState public state;
+
+  /// @notice The Sets that use this trigger in a market.
+  /// @dev Use this function to retrieve a specific Set.
+  ISet[] public sets;
+
+  /// @notice Prevent DOS attacks by limiting the number of sets.
+  uint256 public constant MAX_SET_LENGTH = 50;
+
+  /// @notice The manager of the Cozy protocol.
+  IManager public immutable manager;
+
+  /// @dev Thrown when a state update results in an invalid state transition.
+  error InvalidStateTransition();
+
+  /// @dev Thrown when trying to add a set to the `sets` array when it's length is already at `MAX_SET_LENGTH`.
+  error SetLimitReached();
+
+  /// @dev Thrown when trying to add a set to the `sets` array when the trigger has not been acknowledged.
+  error Unacknowledged();
+
+  /// @dev Thrown when the caller is not authorized to perform the action.
+  error Unauthorized();
+
+  /// @param _manager The manager of the Cozy protocol.
+  constructor(IManager _manager) {
+    manager = _manager;
+  }
+
+  /// @notice Returns true if the trigger has been acknowledged by the entity responsible for transitioning trigger state.
+  /// @dev This must be implemented by contracts that inherit this contract. For manual triggers, after the trigger is deployed
+  /// this should initially return false, and instead return true once the entity responsible for transitioning trigger state
+  /// acknowledges the trigger. For programmatic triggers, this should always return true.
+  function acknowledged() public virtual returns (bool);
+
+  /// @notice The Sets that use this trigger in a market.
+  /// @dev Use this function to retrieve all Sets.
+  function getSets() public view returns(ISet[] memory) {
+    return sets;
+  }
+
+  /// @notice The number of Sets that use this trigger in a market.
+  function getSetsLength() public view returns(uint256) {
+    return sets.length;
+  }
+
+  /// @dev Call this method to update Set addresses after deploy. Returns false if the trigger has not been acknowledged.
+  function addSet(ISet _set) external returns (bool) {
+    if (msg.sender != address(manager)) revert Unauthorized();
+    if (!acknowledged()) revert Unacknowledged();
+    (bool _exists,,,) = manager.sets(_set);
+    if (!_exists) revert Unauthorized();
+
+    uint256 setLength = sets.length;
+    if (setLength >= MAX_SET_LENGTH) revert SetLimitReached();
+    for (uint256 i = 0; i < setLength; i = uncheckedIncrement(i)) {
+      if (sets[i] == _set) return true;
+    }
+    sets.push(_set);
+    emit SetAdded(_set);
+    return true;
+  }
+
+  /// @dev Child contracts should use this function to handle Trigger state transitions.
+  function _updateTriggerState(CState _newState) internal returns (CState) {
+    if (!_isValidTriggerStateTransition(state, _newState)) revert InvalidStateTransition();
+    state = _newState;
+    uint256 setLength = sets.length;
+    for (uint256 i = 0; i < setLength; i = uncheckedIncrement(i)) {
+      manager.updateMarketState(sets[i], _newState);
+    }
+    emit TriggerStateUpdated(_newState);
+    return _newState;
+  }
+
+  /// @dev Reimplement this function if different state transitions are needed.
+  function _isValidTriggerStateTransition(CState _oldState, CState _newState) internal virtual returns(bool) {
+    // | From / To | ACTIVE      | FROZEN      | PAUSED   | TRIGGERED |
+    // | --------- | ----------- | ----------- | -------- | --------- |
+    // | ACTIVE    | -           | true        | false    | true      |
+    // | FROZEN    | true        | -           | false    | true      |
+    // | PAUSED    | false       | false       | -        | false     | <-- PAUSED is a set-level state, triggers cannot be paused
+    // | TRIGGERED | false       | false       | false    | -         | <-- TRIGGERED is a terminal state
+
+    if (_oldState == CState.TRIGGERED) return false;
+    if (_oldState == _newState) return true; // If oldState == newState, return true since the Manager will convert that into a no-op.
+    if (_oldState == CState.ACTIVE && _newState == CState.FROZEN) return true;
+    if (_oldState == CState.FROZEN && _newState == CState.ACTIVE) return true;
+    if (_oldState == CState.ACTIVE && _newState == CState.TRIGGERED) return true;
+    if (_oldState == CState.FROZEN && _newState == CState.TRIGGERED) return true;
+    return false;
+  }
+
+  /// @dev Unchecked increment of the provided value. Realistically it's impossible to overflow a
+  /// uint256 so this is always safe.
+  function uncheckedIncrement(uint256 i) internal pure returns (uint256) {
+    unchecked { return i + 1; }
+  }
+}
+
+/**
+ * @notice A trigger contract that takes two addresses: a truth oracle and a tracking oracle.
+ * This trigger ensures the two oracles always stay within the given price tolerance; the delta
+ * in prices can be equal to but not greater than the price tolerance.
+ */
+contract ChainlinkTrigger is BaseTrigger {
+  using FixedPointMathLib for uint256;
+
+  uint256 internal constant ZOC = 1e4;
+
+  /// @notice The canonical oracle, assumed to be correct.
+  AggregatorV3Interface public immutable truthOracle;
+
+  /// @notice The oracle we expect to diverge.
+  AggregatorV3Interface public immutable trackingOracle;
+
+  /// @notice The maximum percent delta between oracle prices that is allowed, expressed as a zoc.
+  /// For example, a 0.2e4 priceTolerance would mean the trackingOracle price is
+  /// allowed to deviate from the truthOracle price by up to +/- 20%, but no more.
+  /// Note that if the truthOracle returns a price of 0, we treat the priceTolerance
+  /// as having been exceeded, no matter what price the trackingOracle returns.
+  uint256 public immutable priceTolerance;
+
+  /// @notice The maximum amount of time we allow to elapse before the truth oracle's price is deemed stale.
+  uint256 public immutable truthFrequencyTolerance;
+
+  /// @notice The maximum amount of time we allow to elapse before the tracking oracle's price is deemed stale.
+  uint256 public immutable trackingFrequencyTolerance;
+
+  /// @dev Thrown when the `oracle`s price is negative.
+  error InvalidPrice();
+
+  /// @dev Thrown when the `oracle`s price timestamp is greater than the block's timestamp.
+  error InvalidTimestamp();
+
+  /// @dev Thrown when the `oracle`s last update is more than `frequencyTolerance` seconds ago.
+  error StaleOraclePrice();
+
+  /// @param _manager Address of the Cozy protocol manager.
+  /// @param _truthOracle The canonical oracle, assumed to be correct.
+  /// @param _trackingOracle The oracle we expect to diverge.
+  /// @param _priceTolerance The maximum percent delta between oracle prices that is allowed, as a wad.
+  /// @param _truthFrequencyTolerance The maximum amount of time we allow to elapse before the truth oracle's price is deemed stale.
+  /// @param _trackingFrequencyTolerance The maximum amount of time we allow to elapse before the tracking oracle's price is deemed stale.
+  constructor(
+    IManager _manager,
+    AggregatorV3Interface _truthOracle,
+    AggregatorV3Interface _trackingOracle,
+    uint256 _priceTolerance,
+    uint256 _truthFrequencyTolerance,
+    uint256 _trackingFrequencyTolerance
+  ) BaseTrigger(_manager) {
+    truthOracle = _truthOracle;
+    trackingOracle = _trackingOracle;
+    priceTolerance = _priceTolerance;
+    truthFrequencyTolerance = _truthFrequencyTolerance;
+    trackingFrequencyTolerance = _trackingFrequencyTolerance;
+    runProgrammaticCheck();
+  }
+
+  /// @notice Compares the oracle's price to the reference oracle and toggles the trigger if required.
+  /// @dev This method executes the `programmaticCheck()` and makes the
+  /// required state changes both in the trigger and the sets.
+  function runProgrammaticCheck() public returns (CState) {
+    // Rather than revert if not active, we simply return the state and exit.
+    // Both behaviors are acceptable, but returning is friendlier to the caller
+    // as they don't need to handle a revert and can simply parse the
+    // transaction's logs to know if the call resulted in a state change.
+    if (state != CState.ACTIVE) return state;
+    if (programmaticCheck()) return _updateTriggerState(CState.TRIGGERED);
+    return state;
+  }
+
+  /// @notice Returns true if the trigger has been acknowledged by the entity responsible for transitioning trigger state.
+  /// @notice Chainlink triggers are programmatic, so this always returns true.
+  function acknowledged() public pure override returns (bool) {
+    return true;
+  }
+
+  /// @dev Executes logic to programmatically determine if the trigger should be toggled.
+  function programmaticCheck() internal view returns (bool) {
+    uint256 _truePrice = _oraclePrice(truthOracle, truthFrequencyTolerance);
+    uint256 _trackingPrice = _oraclePrice(trackingOracle, trackingFrequencyTolerance);
+
+    uint256 _priceDelta = _truePrice > _trackingPrice ? _truePrice - _trackingPrice : _trackingPrice - _truePrice;
+
+    // We round up when calculating the delta percentage to accommodate for precision loss to
+    // ensure that the state becomes triggered when the delta is greater than the price tolerance.
+    // When the delta is less than or exactly equal to the price tolerance, the resulting rounded
+    // up value will not be greater than the price tolerance, as expected.
+    return _truePrice > 0 ? _priceDelta.mulDivUp(ZOC, _truePrice) > priceTolerance : true;
+  }
+
+  /// @dev Returns the current price of the specified `_oracle`.
+  function _oraclePrice(AggregatorV3Interface _oracle, uint256 _frequencyTolerance) internal view returns (uint256 _price) {
+    (,int256 _priceInt,, uint256 _updatedAt,) = _oracle.latestRoundData();
+    if (_updatedAt > block.timestamp) revert InvalidTimestamp();
+    if (block.timestamp - _updatedAt > _frequencyTolerance) revert StaleOraclePrice();
+    if (_priceInt < 0) revert InvalidPrice();
+    _price = uint256(_priceInt);
+  }
+}
