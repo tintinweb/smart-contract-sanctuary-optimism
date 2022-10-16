@@ -5913,3 +5913,9 @@
 {"address": "0x55Ab8408250a8aa7fcC08356ea0C5EaD49D15D04", "name": "SgBridge", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/15/2022"}
 {"address": "0x81be8c9706C05250f6B6DcDB66Bb59B013E9aB69", "name": "UniSwapperV3", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/15/2022"}
 {"address": "0xefed8cab7ee6b6759521f835dc99d68d8f01c89e", "name": "OutwaveEvent", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/15/2022"}
+{"address": "0x7E08735690028cdF3D81e7165493F1C34065AbA2", "name": "YearnPartnerTracker", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "10/16/2022"}
+{"address": "0x7952642af59bbd3cf7e41ca75e13306a2b35f9d7", "name": "NFTCLUB", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 14, "settings": "-", "date": "10/16/2022"}
+{"address": "0x14961f3C39ba578433F16432509325cAc4B7Cc08", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 7, "settings": "-", "date": "10/16/2022"}
+{"address": "0x8eF7cF9443b1245F3380DE5B496d4BAFd8B3a76C", "name": "MEOC", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/16/2022"}
+{"address": "0x4d918b9b7bb32eca3b16317566174afe089e8feb", "name": "MEOB", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/16/2022"}
+{"address": "0xa0760c3d3e65994696784459014d116c5e50cef5", "name": "MEOA", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/16/2022"}
