@@ -5910,3 +5910,6 @@
 {"address": "0x12e41119F6cE219c49E1256A4C0f4ff4ed532b66", "name": "PublicLock", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/15/2022"}
 {"address": "0xb87eeb80c6bc83dcf19499e61d4dafe3fea26c3f", "name": "Unlock", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/15/2022"}
 {"address": "0xc0FA2864749409e95bf76969Fbe7E3bD73c077Ca", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "10/15/2022"}
+{"address": "0x55Ab8408250a8aa7fcC08356ea0C5EaD49D15D04", "name": "SgBridge", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/15/2022"}
+{"address": "0x81be8c9706C05250f6B6DcDB66Bb59B013E9aB69", "name": "UniSwapperV3", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/15/2022"}
+{"address": "0xefed8cab7ee6b6759521f835dc99d68d8f01c89e", "name": "OutwaveEvent", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/15/2022"}
