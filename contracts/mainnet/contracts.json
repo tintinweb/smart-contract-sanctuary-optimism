@@ -5946,3 +5946,10 @@
 {"address": "0xc0d2a83b3cbf5c239974d8439263b93d70ca328d", "name": "FeePoolUpgradeable", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/17/2022"}
 {"address": "0x3c970c7855b3f27d61bca6ef3af1d314ce98c57d", "name": "BridgeUpgradeable", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/17/2022"}
 {"address": "0xf27f7d61a97fc6b760019c474c6a6b6743b15867", "name": "TokenBridgeRegistryUpgradeable", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/17/2022"}
+{"address": "0x5aD19dA481D28EAc59A26Fb0Da1106Aac8C7295b", "name": "Test", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "10/17/2022"}
+{"address": "0xd281c4e19dc1f646bae1f3105aa43395a98550b3", "name": "StakingRewards", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/17/2022"}
+{"address": "0xaFB71004636fCAf6fb15959A7dD19db4779c3237", "name": "RewardDeriver", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/17/2022"}
+{"address": "0x3Dadc74B465034276bE0Fa55240e1a67d7e3a266", "name": "CampaignTracker", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/17/2022"}
+{"address": "0x995609b569cc333a8f579F36312cc5f348F35233", "name": "LPTokenProcessorV1", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "10/17/2022"}
+{"address": "0x16bCb92Bc7C48BbAe6eac63B8310bD35fE98601c", "name": "PaymentModuleV1", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/17/2022"}
+{"address": "0x1b3e11e78d082ef0aca690d0b918aebb216e20e5", "name": "OxFox", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "10/17/2022"}
