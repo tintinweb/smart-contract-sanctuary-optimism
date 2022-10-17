@@ -5925,3 +5925,9 @@
 {"address": "0xfc94e981219af4eb00190b2d6b84a128b76ae814", "name": "PdCoin", "compiler": "0.4.24", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "10/16/2022"}
 {"address": "0x5fBeE24D4c5789B408C27542cF0a6190C1379f60", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "10/16/2022"}
 {"address": "0xe5B29C443cE3fbD1De6887C0180639DFDCAAE410", "name": "OppaMeeting1", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "10/16/2022"}
+{"address": "0x4B8C0bf79B180e29105CA5353d8b78B633bF08e1", "name": "GamBots3DNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/17/2022"}
+{"address": "0x36b34e10295cCE69B652eEB5a8046041074515Da", "name": "PublicLock", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/17/2022"}
+{"address": "0x1ad9c8b2ef624af01d548f74beab2dfaccaa0b00", "name": "OutwaveEvent", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/17/2022"}
+{"address": "0x7aF864BB0914c322bd964247aC6670C1a49f454C", "name": "PrimatesOpNftContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "10/17/2022"}
+{"address": "0x8A3233fFdFaEcFe5882ec73905cB8B800B0E5d82", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 222, "settings": "-", "date": "10/17/2022"}
+{"address": "0x9E3B7cf2596F418DFf7168e377878eCb9FcA67de", "name": "BalanceV1", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/17/2022"}
