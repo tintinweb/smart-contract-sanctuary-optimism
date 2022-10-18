@@ -5953,3 +5953,6 @@
 {"address": "0x995609b569cc333a8f579F36312cc5f348F35233", "name": "LPTokenProcessorV1", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "10/17/2022"}
 {"address": "0x16bCb92Bc7C48BbAe6eac63B8310bD35fE98601c", "name": "PaymentModuleV1", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/17/2022"}
 {"address": "0x1b3e11e78d082ef0aca690d0b918aebb216e20e5", "name": "OxFox", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "10/17/2022"}
+{"address": "0x4870cfb6c7ef36156e4f18a6a4bf8dab0ce6de8d", "name": "SettlementTokenManager", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/18/2022"}
+{"address": "0xE73bB5252f821bde9C23e37a5F0c9E96fA0EE510", "name": "PoolManagerLogic", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/18/2022"}
+{"address": "0x8c35B8F6BD40Ef9dB06D460BAAF255b92D9c7d7d", "name": "PoolLogic", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/18/2022"}
