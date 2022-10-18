@@ -5992,3 +5992,6 @@
 {"address": "0xf5ba8db6fea7af820de35c8d0c294e17dbc1b9d2", "name": "DiamondLoupeFacet", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/18/2022"}
 {"address": "0xf7993a8df974ad022647e63402d6315137c58abf", "name": "DiamondCutFacet", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/18/2022"}
 {"address": "0xcE2f7F728F5425816C1F4cC570Bc26f51969e684", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 7, "settings": "-", "date": "10/18/2022"}
+{"address": "0x1fcFf1c7911dc209bdFc1648E5cDdB320f08AC08", "name": "MarginAccountFactory", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/18/2022"}
+{"address": "0x8954C7b1417E3De398c7F33520EbAe142929Ba2A", "name": "MarginBaseSettings", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/18/2022"}
+{"address": "0x95d6a95becfd98a7032ed0c7d950ff6e0fa8d697", "name": "StakingRewards", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/18/2022"}
