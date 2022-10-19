@@ -6029,3 +6029,9 @@
 {"address": "0x3D8A79Ed1E21e6295A24Dc4Fe5462e8473666259", "name": "NestedFactory", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
 {"address": "0x5f5c02875a8e9b5a26fbd09040abcfdeb2aa6711", "name": "OpPayload", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
 {"address": "0x46bA778e5223F882b54C4CefF3A4b83186Ccec9F", "name": "RangoCBridge", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0x8e7e06642fB6e2151a2acF1bcBFC9cA906686387", "name": "ControllerAaveStrat", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "10/19/2022"}
+{"address": "0xFDA44F9aF0583A0af438D567A1B8A0A1eb91c59a", "name": "Controller", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/19/2022"}
+{"address": "0xF859e6241c9F0961ffb9eC32100CC33131050b80", "name": "Controller", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/19/2022"}
+{"address": "0x064AA994e3D69c9d5531BcA7502E2F35df09EB25", "name": "YearnWrapper", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/19/2022"}
+{"address": "0xB97183D2e5FA8954dcf7fbf16FC065d343278593", "name": "YearnWrapper", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/19/2022"}
+{"address": "0x8b5fA2400A892ef959c0f810AAa385Ff5d767aB3", "name": "YearnWrapper", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/19/2022"}
