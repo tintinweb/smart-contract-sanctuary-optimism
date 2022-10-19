@@ -6001,3 +6001,17 @@
 {"address": "0xda74DB17023750D02b83BE2559a4EaA013B65C54", "name": "Pool", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/19/2022"}
 {"address": "0x70eB5780642B6AAEd36F40f0AC9390E8c3873c1d", "name": "EasySwapperGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
 {"address": "0xf42Ac62b0B86c6f419695fb885A15cfc28d3cb92", "name": "PoolFactory", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/18/2022"}
+{"address": "0x8cde835ceb0ae8aaf40bede1108ffb0598864132", "name": "OptiDomains", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0xc0a62ddcd284020dc883c642a3ed5d2a1770eb91", "name": "LimitOrderProtocolProxy", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "10/19/2022"}
+{"address": "0x0738bD8c4d2fDd4f6e9d6F8Ec60187a43F70d8b1", "name": "RangoV1", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0xEa34fF51108204D8Ebd84d7401d52f07851a44d0", "name": "MintToken", "compiler": "0.5.0", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0x7D6af7E223DbB8CCb27E54C2F1544f13f0a7BBdb", "name": "StableCoin", "compiler": "0.4.26", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0x393c91A862A1Acb90fdB1E06294f6713D4d41CBf", "name": "ERC20VotesToken", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0x3D04d648D3EEcb75B09b584EF3aC048E75F43332", "name": "ERC20PermitToken", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0x1405e91D02c4576C9eFCE238a094AFcBbF04b470", "name": "FlashMintToken", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0xF7011D44a6f4FA622dd6d7060B97ffEDb465E532", "name": "FullFunctionToken", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0x786A8deD1BF5a6099C0CAd10b40CcA522B07c17C", "name": "ERC20PausableToken", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0x7Fc9264f391eC204e136fD942FC76F323fec8bba", "name": "ERC20Mintable", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0xd6c7D55E142F8a337818Ac64Ad70D92a5F6C291a", "name": "ERC20BurnableToken", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0x684e5c04c03b6680cf86bd9f5e7beab27022e92f", "name": "ERC20Fix", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0x23a58349510C3E1aD1d9Cdd195C76E27D435CBdd", "name": "EasySwapperGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
