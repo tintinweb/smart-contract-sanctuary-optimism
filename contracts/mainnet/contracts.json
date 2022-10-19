@@ -6015,3 +6015,17 @@
 {"address": "0xd6c7D55E142F8a337818Ac64Ad70D92a5F6C291a", "name": "ERC20BurnableToken", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
 {"address": "0x684e5c04c03b6680cf86bd9f5e7beab27022e92f", "name": "ERC20Fix", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
 {"address": "0x23a58349510C3E1aD1d9Cdd195C76E27D435CBdd", "name": "EasySwapperGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0x0919Ad1E211400fec2770152Ee5add722475Dc24", "name": "YearnWrapper", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0x0e45f0ef7446d7879bF5b878f971614529BAbfB5", "name": "YearnWrapper", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0x8612704049460f7a999fE06D6d11830A4baF6cEC", "name": "SportsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0x0DCf29473e91cb698Dd2d9043094C0048318Ac74", "name": "AggregationRouter", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0xc23cB800Af56C0B9c9fDb706A48798FaE2a0C505", "name": "LinearTrueDistributor", "compiler": "0.6.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0xa3EE210B91b9a8656b0c24acBbC2f6fD837014Bf", "name": "ClipperExchangeInterface", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0x80Ae4Cf36564AC107744946265A331b7b3321828", "name": "SportsAMMUtils", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0x788DA390eB37c26ee6aDf0Ac05b77c47cb7c361d", "name": "BlacklistAndTimeFilter", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0x1bbbf37a055059089d9438566fc5f100e9f08eb6", "name": "DistributorFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0x335d3c3802Ea2bBa9DB4968317dc8BC2D3139F4f", "name": "SportPositionalMarketMastercopy", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0xabbfAc523537082f1C55097acfeE8C07c8958885", "name": "SportPositionalMarketManager", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0x3D8A79Ed1E21e6295A24Dc4Fe5462e8473666259", "name": "NestedFactory", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0x5f5c02875a8e9b5a26fbd09040abcfdeb2aa6711", "name": "OpPayload", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0x46bA778e5223F882b54C4CefF3A4b83186Ccec9F", "name": "RangoCBridge", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
