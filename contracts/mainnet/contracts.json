@@ -5995,3 +5995,9 @@
 {"address": "0x1fcFf1c7911dc209bdFc1648E5cDdB320f08AC08", "name": "MarginAccountFactory", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/18/2022"}
 {"address": "0x8954C7b1417E3De398c7F33520EbAe142929Ba2A", "name": "MarginBaseSettings", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/18/2022"}
 {"address": "0x95d6a95becfd98a7032ed0c7d950ff6e0fa8d697", "name": "StakingRewards", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/18/2022"}
+{"address": "0xA3Cf07aA268C6C7899f1C633Cd1662fd940c190c", "name": "UniqueCoffeeNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/19/2022"}
+{"address": "0x6EAE941D74B4541965a46c5caEE0f52217Eeb913", "name": "CurvePortalOut", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0x86Bb63148d17d445Ed5398ef26Aa05Bf76dD5b59", "name": "TokenBridge", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "10/19/2022"}
+{"address": "0xda74DB17023750D02b83BE2559a4EaA013B65C54", "name": "Pool", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "10/19/2022"}
+{"address": "0x70eB5780642B6AAEd36F40f0AC9390E8c3873c1d", "name": "EasySwapperGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0xf42Ac62b0B86c6f419695fb885A15cfc28d3cb92", "name": "PoolFactory", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/18/2022"}
