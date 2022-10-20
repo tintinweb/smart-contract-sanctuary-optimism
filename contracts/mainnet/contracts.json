@@ -6035,3 +6035,4 @@
 {"address": "0x064AA994e3D69c9d5531BcA7502E2F35df09EB25", "name": "YearnWrapper", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/19/2022"}
 {"address": "0xB97183D2e5FA8954dcf7fbf16FC065d343278593", "name": "YearnWrapper", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/19/2022"}
 {"address": "0x8b5fA2400A892ef959c0f810AAa385Ff5d767aB3", "name": "YearnWrapper", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/19/2022"}
+{"address": "0x63e95c6766E2B7859095A0552A63492d946B0063", "name": "PoolManagerLogic", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/20/2022"}
