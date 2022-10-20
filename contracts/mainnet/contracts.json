@@ -6036,3 +6036,8 @@
 {"address": "0xB97183D2e5FA8954dcf7fbf16FC065d343278593", "name": "YearnWrapper", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/19/2022"}
 {"address": "0x8b5fA2400A892ef959c0f810AAa385Ff5d767aB3", "name": "YearnWrapper", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/19/2022"}
 {"address": "0x63e95c6766E2B7859095A0552A63492d946B0063", "name": "PoolManagerLogic", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/20/2022"}
+{"address": "0x59F1b11B23C6eBCC1056038E493Be59D91db258d", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "10/20/2022"}
+{"address": "0xCe6Ad02e15809aB2932743cb839f2060085Ca532", "name": "ApeGangNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/20/2022"}
+{"address": "0x2e09e05b53e991b04212f22ba6098db49f14c96c", "name": "PolynomialEarnResolver", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "10/20/2022"}
+{"address": "0x5ed4FACd1D925716CaFd5a7b02bB4a8D7dd55Cc0", "name": "ApeGangNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "10/20/2022"}
+{"address": "0x46679Ba8ce6473a9E0867c52b5A50ff97579740E", "name": "BaseFeeDummy", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/20/2022"}
