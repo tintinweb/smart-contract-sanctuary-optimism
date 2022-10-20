@@ -6051,3 +6051,10 @@
 {"address": "0xC5aB03962938Fa544D16F4667ED76788894fFca4", "name": "DummyFeeCollector", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/20/2022"}
 {"address": "0x55caF484FFA6Ea17C71c41Fe5d155F94F0F7D906", "name": "PriceOraclePlaceholder", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/20/2022"}
 {"address": "0xcEF1E22Ec807e5bbA3CB45122ad46C51E27BEe61", "name": "Web3SAFEPrimary", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/20/2022"}
+{"address": "0x197f4d712d0544e6ae1417867e1f066fc54dcff8", "name": "MoxieToken", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "10/20/2022"}
+{"address": "0x99Eaad674E8c74C26FbFc7C4bB6bFf3458c880E6", "name": "Migration_AspidiskeOptimism", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/20/2022"}
+{"address": "0x0c2ED9B23BAF9C5f486e175D406728d3bE46d2A6", "name": "RewardEscrowV2Storage", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/20/2022"}
+{"address": "0x61C7BC9b335e083c30C8a81b93575c361cdE93E2", "name": "Liquidator", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/20/2022"}
+{"address": "0x6330D5F08f51057F36F46d6751eCDc0c65Ef7E9e", "name": "ImportableRewardEscrowV2", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/20/2022"}
+{"address": "0xF149ABD352f4AB50ca3c161f4F5d0c85AeFA8A9d", "name": "MintableSynthetix", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/20/2022"}
+{"address": "0x12120AcBE7d6402104b68a2e86C071Fcdd1034Fe", "name": "Issuer", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/20/2022"}
