@@ -6062,3 +6062,9 @@
 {"address": "0x613982643F4C97Dddf9aAF4cB2E8a02fF99C92BA", "name": "StakedCLRToken", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/21/2022"}
 {"address": "0x4027B4e4cC1E4004BDf50B91F4377375b0658CD4", "name": "LMTerminal", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/21/2022"}
 {"address": "0x9C49633535806bEB2f26b0B0491dD3553536cB23", "name": "NonRewardPool", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/21/2022"}
+{"address": "0xa484E256d614CDEB221f3e7445A7A955662eb404", "name": "RangedMarketsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/21/2022"}
+{"address": "0x032666197A5d9329e717800FC90E8C951bA12290", "name": "SubscriptionDePay", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/21/2022"}
+{"address": "0x3C21ca8BC1737B6095F564211FD69d7934fb5239", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "10/21/2022"}
+{"address": "0x96Ca5955F25648FB44C5D772BAdB4313000C66Fe", "name": "SubscriptionData", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "10/21/2022"}
+{"address": "0xb162f01c5bda7a68292410aaa059e7ce28d77c82", "name": "PolynomialZap", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "10/21/2022"}
+{"address": "0x1d9c2247aD09a4c54779eE8B5384F338f218d292", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 5, "settings": "-", "date": "10/21/2022"}
