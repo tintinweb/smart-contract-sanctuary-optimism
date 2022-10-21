@@ -6058,3 +6058,7 @@
 {"address": "0x6330D5F08f51057F36F46d6751eCDc0c65Ef7E9e", "name": "ImportableRewardEscrowV2", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/20/2022"}
 {"address": "0xF149ABD352f4AB50ca3c161f4F5d0c85AeFA8A9d", "name": "MintableSynthetix", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/20/2022"}
 {"address": "0x12120AcBE7d6402104b68a2e86C071Fcdd1034Fe", "name": "Issuer", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/20/2022"}
+{"address": "0x06Bbd082Ff7b063a8f467A0f7E3D78Bb002f4337", "name": "NonRewardPoolDeployer", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/21/2022"}
+{"address": "0x613982643F4C97Dddf9aAF4cB2E8a02fF99C92BA", "name": "StakedCLRToken", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/21/2022"}
+{"address": "0x4027B4e4cC1E4004BDf50B91F4377375b0658CD4", "name": "LMTerminal", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/21/2022"}
+{"address": "0x9C49633535806bEB2f26b0B0491dD3553536cB23", "name": "NonRewardPool", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/21/2022"}
