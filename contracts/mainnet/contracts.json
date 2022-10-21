@@ -6106,3 +6106,8 @@
 {"address": "0xC06010d6E36D493E983A978D640179DcEea20CAc", "name": "DefiiFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/21/2022"}
 {"address": "0xe850eF920613f6fd4aF3B842aDa6495EC9350743", "name": "SonneOptimismUsdt", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/21/2022"}
 {"address": "0xC3Ca36afec26b3Ef62332a01f9b383E4abDF0585", "name": "BridgeUpgradeable", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/21/2022"}
+{"address": "0x9d274F053eD5c2aFf203F337EDA8169d7F29Ab86", "name": "MarketAid", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/21/2022"}
+{"address": "0x1b991d143eeeb8830ea91ba0c11ceea745fb9372", "name": "Multicall", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "10/21/2022"}
+{"address": "0xAFAd6E114CfbC8a19e91B8d7d04DA740a7698595", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/21/2022"}
+{"address": "0x06e704dcad815747c57c6f0b48d457c95c4afce8", "name": "MoxieSwapRouter02", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "10/21/2022"}
+{"address": "0x9d405cd7496fb1d64bd629c618c508d4a29ca6b2", "name": "MoxieSwapFactory", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/21/2022"}
