@@ -6116,3 +6116,5 @@
 {"address": "0x8e43bf1910ad1461eee0daca10547c7e6d9d2f36", "name": "MarginAccountFactory", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/21/2022"}
 {"address": "0x0Ba1195D53465057d137cf3C62e702c1a518BaC6", "name": "GenericSwapFacet", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/22/2022"}
 {"address": "0x0F4aedfB8DA8aF176DefF282DA86EBbe3A0EA19e", "name": "StargateFacet", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/22/2022"}
+{"address": "0x10b87D256eC671C4db695C2C0bbB57b363cFb470", "name": "opx", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/22/2022"}
+{"address": "0x1261d6d14abf82486b5c5ba1e9622c475601b689", "name": "Greeter", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/22/2022"}
