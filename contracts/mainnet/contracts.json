@@ -6111,3 +6111,6 @@
 {"address": "0xAFAd6E114CfbC8a19e91B8d7d04DA740a7698595", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/21/2022"}
 {"address": "0x06e704dcad815747c57c6f0b48d457c95c4afce8", "name": "MoxieSwapRouter02", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "10/21/2022"}
 {"address": "0x9d405cd7496fb1d64bd629c618c508d4a29ca6b2", "name": "MoxieSwapFactory", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/21/2022"}
+{"address": "0xBd4a34C0a11A9F117FE05C4f400C6bA558795636", "name": "ReelFinanceAuthority", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/22/2022"}
+{"address": "0x98E51D3893171882E0af0C5C9B88BD17591Bc6F6", "name": "MarketAid", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/21/2022"}
+{"address": "0x8e43bf1910ad1461eee0daca10547c7e6d9d2f36", "name": "MarginAccountFactory", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/21/2022"}
