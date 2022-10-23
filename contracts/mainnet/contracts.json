@@ -6118,3 +6118,4 @@
 {"address": "0x0F4aedfB8DA8aF176DefF282DA86EBbe3A0EA19e", "name": "StargateFacet", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/22/2022"}
 {"address": "0x10b87D256eC671C4db695C2C0bbB57b363cFb470", "name": "opx", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/22/2022"}
 {"address": "0x1261d6d14abf82486b5c5ba1e9622c475601b689", "name": "Greeter", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/22/2022"}
+{"address": "0x3417e54a51924c225330f8770514ad5560b9098d", "name": "REDKoin", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/23/2022"}
