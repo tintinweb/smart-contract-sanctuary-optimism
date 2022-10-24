@@ -6126,3 +6126,5 @@
 {"address": "0xe17Bc4dE8E5d437BdDa8E8c4874bF928127D441D", "name": "LayerZeroPostman", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/23/2022"}
 {"address": "0xfE95cFE963a1eFc77eA3a2c6701acfbeC8EA0D31", "name": "SgBridge", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/23/2022"}
 {"address": "0x8b7Af56E9aBa6d8b96409A6285BFf1Dde86792C9", "name": "PoolCrossChain", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "10/23/2022"}
+{"address": "0xff20372C23C9462704f50bE915083F32Df69605e", "name": "Exchange", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/24/2022"}
+{"address": "0x5613C761EE927C9eB69964F69f9bf65637cbF95B", "name": "SgBridge", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/23/2022"}
