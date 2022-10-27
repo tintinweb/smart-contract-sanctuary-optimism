@@ -6260,3 +6260,4 @@
 {"address": "0xb80d90DA1231C84DD1327CcaFD9b750e03a0264E", "name": "UniswapV2Router02", "compiler": "0.6.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/27/2022"}
 {"address": "0xe2f42f04e4cddc660c53215e8b72740e3cc564a5", "name": "Badges", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/27/2022"}
 {"address": "0x7251CE9C84aFC96c20CA1b89F8e5fF8EE593dB8f", "name": "NonTransferrableNFTs", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/27/2022"}
+{"address": "0xb3A97684Eb67182BAa7994b226e6315196D8b364", "name": "Manager", "compiler": "0.8.4", "balance": "0.0028 Ether", "txcount": 4, "settings": "", "date": "10/27/2022"}
