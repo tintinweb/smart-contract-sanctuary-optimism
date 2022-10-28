@@ -6261,3 +6261,8 @@
 {"address": "0xe2f42f04e4cddc660c53215e8b72740e3cc564a5", "name": "Badges", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/27/2022"}
 {"address": "0x7251CE9C84aFC96c20CA1b89F8e5fF8EE593dB8f", "name": "NonTransferrableNFTs", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/27/2022"}
 {"address": "0xb3A97684Eb67182BAa7994b226e6315196D8b364", "name": "Manager", "compiler": "0.8.4", "balance": "0.0028 Ether", "txcount": 4, "settings": "", "date": "10/27/2022"}
+{"address": "0x5a104a4049eea065db035698f73e19657b46a7cb", "name": "AlturaLootboxFactoryV2", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/28/2022"}
+{"address": "0xbE241aD410DbAe9027A7DB722693EEc94B31cDF8", "name": "AlturaLootboxV2", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/28/2022"}
+{"address": "0x5331a590CC19670750741539EC49C665465399dF", "name": "AlturaNFTV2", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/28/2022"}
+{"address": "0x98e4592c9353a114de40c0c6e0454fbec2a84e25", "name": "AlturaNFTFactoryV2", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/28/2022"}
+{"address": "0x26644a3d9f743175efad36f8aedcff0e5e893b5b", "name": "Minter", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/27/2022"}
