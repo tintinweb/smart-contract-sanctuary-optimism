@@ -6266,3 +6266,14 @@
 {"address": "0x5331a590CC19670750741539EC49C665465399dF", "name": "AlturaNFTV2", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/28/2022"}
 {"address": "0x98e4592c9353a114de40c0c6e0454fbec2a84e25", "name": "AlturaNFTFactoryV2", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/28/2022"}
 {"address": "0x26644a3d9f743175efad36f8aedcff0e5e893b5b", "name": "Minter", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/27/2022"}
+{"address": "0xcCB20AA0413ea73C50142F1CFf461b07f5ae5e48", "name": "FeeCollector", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/28/2022"}
+{"address": "0xefcea4baf9d018b3c2a629a3b28fa29df24bb30f", "name": "StrategyHopSnxOptimism", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/28/2022"}
+{"address": "0x4ef90593fe2b0e1858231a949b9ccc0103a6cbe6", "name": "StrategyHopUsdcOptimism", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/28/2022"}
+{"address": "0x668d30c30ffb182964516f549528e06633b48295", "name": "PickleJar", "compiler": "0.6.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/28/2022"}
+{"address": "0x5be52adf0c54598f0fa6f433b398492748ecd588", "name": "StrategyHopEthOptimism", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/28/2022"}
+{"address": "0xe7ec5389cd1f9a064b37813a6f46c57b41025000", "name": "PolynomialEarnResolver", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "10/28/2022"}
+{"address": "0xE1d1c35f8c60001096964A0260b88F6B1c606b68", "name": "AaveV3TrailingQuotePriceTrigger", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/28/2022"}
+{"address": "0x8fE4A3417ab2b5BE89dDFE81DD0bdE776e60949A", "name": "MagicSaddle", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/28/2022"}
+{"address": "0xf2488C41B37B3C990Ec09c0bc1f92460ad875309", "name": "AaveV3QuotePriceTrigger", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/28/2022"}
+{"address": "0x95424fe17d0f5096dd19c996b2f6932edd2e62a4", "name": "Flootes", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 14, "settings": "", "date": "10/28/2022"}
+{"address": "0xc8f56f09eB10E9507EC0FFC7847264c79B434865", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "10/28/2022"}
