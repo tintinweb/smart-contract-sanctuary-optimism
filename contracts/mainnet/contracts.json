@@ -6279,3 +6279,17 @@
 {"address": "0xc8f56f09eB10E9507EC0FFC7847264c79B434865", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "10/28/2022"}
 {"address": "0xaB061f7905CE2005357A796644Bc0953B05103D1", "name": "DestinyToken", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/28/2022"}
 {"address": "0x86E5Be03BAfB585E3e8295fcA717728BB7465898", "name": "StargateFacet", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/28/2022"}
+{"address": "0xf0603aa8317fabcc5a0811b1b0cae9744d891d55", "name": "AaveV3Strategy", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/28/2022"}
+{"address": "0x958d2c34b28c809215962443982009830c3dcb65", "name": "AaveV3Strategy", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/28/2022"}
+{"address": "0x238050b550fb6a7830e5dc3e421e2c2b92ea27de", "name": "AaveV3Strategy", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/28/2022"}
+{"address": "0x0a2ee6f68359f30cc98e4c6ae54c1ffda645af09", "name": "AaveV3Strategy", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/28/2022"}
+{"address": "0x9ad4cf2a2e6111f63edad2e05971e40791ba41f7", "name": "AaveV3Strategy", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/28/2022"}
+{"address": "0xbf28dd7c3b863eae035ebf535b1b214070e8ddbf", "name": "AaveV3Strategy", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/28/2022"}
+{"address": "0xF5b2C7Eca32b6728fe37090Bc757c6E9b8fA891C", "name": "FraxswapPair", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/28/2022"}
+{"address": "0x1696a141379f8b7c5DDD24d6Dd0eB6e30Af94C54", "name": "FraxswapRouter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "10/28/2022"}
+{"address": "0xbe15B91944aD8407FACbcC127795AcDdD1E2B609", "name": "FraxswapFactory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/28/2022"}
+{"address": "0x19e2fd5a6cbb1b7b8c364306631BC68bE548FA33", "name": "Badges", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/28/2022"}
+{"address": "0xD99D13347340fB82F60A24C6A40A0F367643A719", "name": "SpecDataHolder", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/28/2022"}
+{"address": "0xdb4E2A9FA01E83ea73c6Ed2C81bB1fB9665067B4", "name": "Raft", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/28/2022"}
+{"address": "0xc15e718281c385b0a8c0343d7b1e0af6a08a9b1e", "name": "Badges", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/28/2022"}
+{"address": "0xba98017090903e19812064c77275a99dc3306613", "name": "Raft", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/28/2022"}
