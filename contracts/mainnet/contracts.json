@@ -6307,3 +6307,5 @@
 {"address": "0xFf10D8F3068Ac1901556c308835F2D147D7Be580", "name": "Referral", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/29/2022"}
 {"address": "0xBA3C4Ce3e1353BC2adDD3426c1600E03c66531d8", "name": "Archimedes", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "10/29/2022"}
 {"address": "0x8CaE2B70EbE571A96523D0c12315972e034b3576", "name": "Archimedes", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/29/2022"}
+{"address": "0x23ec43e2b8f9ae21d895eea5a1a9c444fe301044", "name": "FPValidator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/29/2022"}
+{"address": "0x31e74e2ecf0c6ffccb1f6a335b4e51f0a861b1d2", "name": "Storage", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "10/29/2022"}
