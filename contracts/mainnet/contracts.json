@@ -6293,3 +6293,8 @@
 {"address": "0xdb4E2A9FA01E83ea73c6Ed2C81bB1fB9665067B4", "name": "Raft", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/28/2022"}
 {"address": "0xc15e718281c385b0a8c0343d7b1e0af6a08a9b1e", "name": "Badges", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/28/2022"}
 {"address": "0xba98017090903e19812064c77275a99dc3306613", "name": "Raft", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/28/2022"}
+{"address": "0xd6d8193eCC630C6C3C5a7cBcdc1624b6851B7C1E", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 106, "settings": "-", "date": "10/29/2022"}
+{"address": "0x188b71C9d27cDeE01B9b0dfF5C1aff62E8D6F434", "name": "Operator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 22, "settings": "", "date": "10/29/2022"}
+{"address": "0x67891d8211b7f60a00d13d3f147974cafbed82a0", "name": "donemore", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "10/29/2022"}
+{"address": "0xdfda65f6e6562d8797a7a571f1b7e1029b9447ff", "name": "ZombieToken", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/29/2022"}
+{"address": "0xda017e44daa6dca7b691157cf012b1d0a2d31f90", "name": "ChiefElon", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/29/2022"}
