@@ -6298,3 +6298,12 @@
 {"address": "0x67891d8211b7f60a00d13d3f147974cafbed82a0", "name": "donemore", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "10/29/2022"}
 {"address": "0xdfda65f6e6562d8797a7a571f1b7e1029b9447ff", "name": "ZombieToken", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/29/2022"}
 {"address": "0xda017e44daa6dca7b691157cf012b1d0a2d31f90", "name": "ChiefElon", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/29/2022"}
+{"address": "0xD1863ac97525cA10d871326f46145174d8Bd868B", "name": "UtopiaLabs", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "10/29/2022"}
+{"address": "0x3Af60c18c5c4F57dae157e0418D5d1c5A2f4fa91", "name": "BeefyVaultV6", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "10/29/2022"}
+{"address": "0x491E09Eb736c0c4CD85DF694A22D1C0dec8c4C25", "name": "StrategyCompoundV2Solidly", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "10/29/2022"}
+{"address": "0xC0179fF2cb00eB09BEA3664766285C61A3958B81", "name": "ControllerMetaCurveStrat", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 12, "settings": "", "date": "10/29/2022"}
+{"address": "0x721eD802C4bd7E10fB93B71162C8a7437c93B6C5", "name": "Controller", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/29/2022"}
+{"address": "0x9f94cB0a13f125144052eAE76b56ff915A3DAb4a", "name": "veVeloTools", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/29/2022"}
+{"address": "0xFf10D8F3068Ac1901556c308835F2D147D7Be580", "name": "Referral", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/29/2022"}
+{"address": "0xBA3C4Ce3e1353BC2adDD3426c1600E03c66531d8", "name": "Archimedes", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "10/29/2022"}
+{"address": "0x8CaE2B70EbE571A96523D0c12315972e034b3576", "name": "Archimedes", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/29/2022"}
