@@ -6314,3 +6314,15 @@
 {"address": "0x626B5cD3E3C181532705149E6739EC3DE8C8d3b1", "name": "MachinelearningUrban", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/30/2022"}
 {"address": "0xe12ABe042519676c1dcB28d425CC37C939Dfe2E4", "name": "Abeautifulblondbride", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/30/2022"}
 {"address": "0x39c8E4B591fb63f0B6fcf3b43a2AE45Fd4Fbc3d8", "name": "ChugSplashManagerProxy", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/29/2022"}
+{"address": "0x2f819bE1852FfbE073E657BdC28f8b85876dC0ED", "name": "GnosisSafe", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 0, "settings": "-", "date": "10/30/2022"}
+{"address": "0xDD042645D005BcC85803cfBa025e164F5e9f8D68", "name": "GnosisSafeL2", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 0, "settings": "-", "date": "10/30/2022"}
+{"address": "0xede7A460c5A4C2dE7c192041e2b848fFB4CBF013", "name": "MultiSendCallOnly", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 0, "settings": "-", "date": "10/30/2022"}
+{"address": "0xd338bCDcf0F602777bdC8e2C217dE4f81cfEb1C3", "name": "MultiSend", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 0, "settings": "-", "date": "10/30/2022"}
+{"address": "0x3453160aF9bb2bCaB2Ebc4Cc70609aA0577127BC", "name": "CreateCall", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 0, "settings": "-", "date": "10/30/2022"}
+{"address": "0xA91c9024930605B3fC4c5a3A516092501B7139B5", "name": "CompatibilityFallbackHandler", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 0, "settings": "-", "date": "10/30/2022"}
+{"address": "0xE9076647227de11Abaf348E22B58F15F0cA95f0d", "name": "DefaultCallbackHandler", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 0, "settings": "-", "date": "10/30/2022"}
+{"address": "0xcf1f4d926DcC870E0012268A25de3f1e95A222B7", "name": "GnosisSafeProxyFactory", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 0, "settings": "-", "date": "10/30/2022"}
+{"address": "0x7C57161FDf714b6e90fC8200b5B2E0DfFE042F1C", "name": "SimulateTxAccessor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 0, "settings": "-", "date": "10/30/2022"}
+{"address": "0x90218C6d5AE753ff4c9fd5F6bEAad7BBBd2303E4", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "10/30/2022"}
+{"address": "0x0b0840b6ac1b44b420520f796ed0273dc5f31c4e", "name": "ZZFLaunch", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/30/2022"}
+{"address": "0xA7730C8fF9cAe55274AD3c11f61B50486edF69c4", "name": "PanicHalloweenBucketNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/30/2022"}
