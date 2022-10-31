@@ -6326,3 +6326,9 @@
 {"address": "0x90218C6d5AE753ff4c9fd5F6bEAad7BBBd2303E4", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "10/30/2022"}
 {"address": "0x0b0840b6ac1b44b420520f796ed0273dc5f31c4e", "name": "ZZFLaunch", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/30/2022"}
 {"address": "0xA7730C8fF9cAe55274AD3c11f61B50486edF69c4", "name": "PanicHalloweenBucketNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/30/2022"}
+{"address": "0x62B88b705EEEBE0692fE573EecC55669481125eD", "name": "AcuityRPC", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/31/2022"}
+{"address": "0x7d96b4c8c8d02f383bcd3609dc0cee9b58c8ba2d", "name": "AcuityAtomicSwapERC20", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/31/2022"}
+{"address": "0x2506df51625c05e3c67aa48c3d4d7e1d8831f9db", "name": "AcuityAtomicSwap", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/31/2022"}
+{"address": "0xa1e721bbac783d2c8de29d189a7658efee76a78c", "name": "AcuityAccount", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/31/2022"}
+{"address": "0xbeef240F4BAce27f051eE19F141dc71a84C8Fc42", "name": "MinimalForwarder", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "-", "date": "10/30/2022"}
+{"address": "0x4897b8e00160e963cbe1099369c43356b087cb77", "name": "abc", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/30/2022"}
