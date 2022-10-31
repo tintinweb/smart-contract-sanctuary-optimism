@@ -6332,3 +6332,9 @@
 {"address": "0xa1e721bbac783d2c8de29d189a7658efee76a78c", "name": "AcuityAccount", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/31/2022"}
 {"address": "0xbeef240F4BAce27f051eE19F141dc71a84C8Fc42", "name": "MinimalForwarder", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "-", "date": "10/30/2022"}
 {"address": "0x4897b8e00160e963cbe1099369c43356b087cb77", "name": "abc", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/30/2022"}
+{"address": "0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5", "name": "DarkCryptoNFT", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/31/2022"}
+{"address": "0x5759d1ae824a825ef20f68846418c9d4b0e13875", "name": "BullsAndBears", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "10/31/2022"}
+{"address": "0xfE7EE6610c60e68d0e2caE1220bDa2390fe100ed", "name": "MikkiPastelNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/31/2022"}
+{"address": "0x4948D873df4ee2aA8e035CE195a113D15d80B3C1", "name": "HiSCoolNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/31/2022"}
+{"address": "0x710084EdF09d8dE4C3769B3090406f84D96B937D", "name": "MobilePhonewithhands", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/31/2022"}
+{"address": "0xf6C5d7DA1654d9BbDe0D25A5fd6776B37a2aD881", "name": "IncentiveEventsReward", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/31/2022"}
