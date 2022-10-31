@@ -6338,3 +6338,14 @@
 {"address": "0x4948D873df4ee2aA8e035CE195a113D15d80B3C1", "name": "HiSCoolNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/31/2022"}
 {"address": "0x710084EdF09d8dE4C3769B3090406f84D96B937D", "name": "MobilePhonewithhands", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/31/2022"}
 {"address": "0xf6C5d7DA1654d9BbDe0D25A5fd6776B37a2aD881", "name": "IncentiveEventsReward", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/31/2022"}
+{"address": "0xCd05B020E43D4d32839096aa3faa3970eb09A4Ff", "name": "StrategyArrakisDaiUsdc", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/31/2022"}
+{"address": "0x5b4f6F099D5178209e032644B1184bFe906de836", "name": "StrategyReaperSonneDaiDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/31/2022"}
+{"address": "0xe29bf84bc2ac8f9e2239ecefc1039bed898d98b9", "name": "AWOptimismCityPathfinder", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/31/2022"}
+{"address": "0xE4D6B73f6C45E759679852B80c4888a93727Cc1D", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3260, "settings": "-", "date": "10/31/2022"}
+{"address": "0xa3c7572fcab84f75ab20276f07fa24939b3c71e9", "name": "AWOptimismCityPathfinder", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "10/31/2022"}
+{"address": "0x611fab7a4957e469593e862583883b05b9ed8975", "name": "small", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "10/31/2022"}
+{"address": "0xBc70b9E7BDf750b5aA598b56967e80Bb6DE79964", "name": "Priestwithpurpletunic", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "10/31/2022"}
+{"address": "0xfCBE47b22457363988c9f5C06AC71571874F8194", "name": "SnxResolver", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "10/31/2022"}
+{"address": "0x45572a41F33e95ce0980e382654A6a9e42Aa5610", "name": "MasterChef", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "10/31/2022"}
+{"address": "0x18efc1f2a42335a84edf4b51e553046a1f5d9ed1", "name": "FOMMES", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 5, "settings": "-", "date": "10/31/2022"}
+{"address": "0x0A2775A5439e044653f12379ae26f38cD39418A0", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 7, "settings": "-", "date": "10/31/2022"}
