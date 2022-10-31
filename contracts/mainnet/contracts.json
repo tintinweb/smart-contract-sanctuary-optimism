@@ -6349,3 +6349,7 @@
 {"address": "0x45572a41F33e95ce0980e382654A6a9e42Aa5610", "name": "MasterChef", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "10/31/2022"}
 {"address": "0x18efc1f2a42335a84edf4b51e553046a1f5d9ed1", "name": "FOMMES", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 5, "settings": "-", "date": "10/31/2022"}
 {"address": "0x0A2775A5439e044653f12379ae26f38cD39418A0", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 7, "settings": "-", "date": "10/31/2022"}
+{"address": "0x8BdEb4b51B8f71f01e657A1A39fAA10d34F49834", "name": "VendingMachine", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/31/2022"}
+{"address": "0xD355c29BB622bd4f58dba495Dc8921985986EFBE", "name": "Router02", "compiler": "0.6.6", "balance": "0 Ether", "txcount": 37, "settings": "", "date": "10/31/2022"}
+{"address": "0x752d46fbf69000451fb9b4afeebbc9803dcaea14", "name": "ARRA", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 7, "settings": "-", "date": "10/31/2022"}
+{"address": "0x9B5eeC7c4E848892C16A5E76f43E8a943c7a9880", "name": "StrategyArrakisUsdcDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/31/2022"}
