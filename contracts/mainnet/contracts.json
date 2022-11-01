@@ -6376,3 +6376,14 @@
 {"address": "0xd6be31243599b2e5bc650109cf8bb81ea8d6c150", "name": "AWOptimismCityPathfinder", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/1/2022"}
 {"address": "0xdAdca933e5a82eCFDEbAAa1ca880c165ED1389B9", "name": "Summoning", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/1/2022"}
 {"address": "0x7ecaf983B5f670fF42f85C624957889A466F5eC4", "name": "Xolotl", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/1/2022"}
+{"address": "0xd8e5899e00B809d72D42D65A1F1724D8a3dBf4C2", "name": "UMATrigger", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "11/1/2022"}
+{"address": "0x0B01c510498ef9040D14b588AA6bd66615594382", "name": "UMATrigger", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "11/1/2022"}
+{"address": "0xcD3cDB56367Eb68B8A3a83F87DA34e8272f8C250", "name": "UMATrigger", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "11/1/2022"}
+{"address": "0x9370cE1f28E196C50c0580471fc5C527400bD6C4", "name": "UMATrigger", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "11/1/2022"}
+{"address": "0xf6Df9BA47E57e9C68F1987AA0DF570A506A83B9c", "name": "UMATrigger", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "11/1/2022"}
+{"address": "0x7d3d9532103d26fa4c411fe54e12e2f5b77c00f8", "name": "UMATrigger", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "11/1/2022"}
+{"address": "0x0d561132Cc30b5483b214F8dDdf583b49D8aCC09", "name": "Rewards", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/1/2022"}
+{"address": "0x8515c4f57170e04737e6323f83fe1c7826deff61", "name": "Wallet", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "11/1/2022"}
+{"address": "0xFcE1aFf7B9590eF204116660a960192625E7544D", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1391, "settings": "-", "date": "11/1/2022"}
+{"address": "0x051E84221b36DC2074F8916E25e3d37B32a0C383", "name": "Rewards", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/1/2022"}
+{"address": "0x02397da9C3f5aB6452bf3fc44F824bb1419f56aF", "name": "Pool", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/1/2022"}
