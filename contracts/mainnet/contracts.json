@@ -6355,3 +6355,13 @@
 {"address": "0x9B5eeC7c4E848892C16A5E76f43E8a943c7a9880", "name": "StrategyArrakisUsdcDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/31/2022"}
 {"address": "0xd5fFA74ffd064BF75Bc6EcC2a619A9e25b37Df55", "name": "dogfilmingacat", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/1/2022"}
 {"address": "0xf269be546ECF382478f08d4C91D66173E125cbf9", "name": "OneClicks", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 17, "settings": "", "date": "11/1/2022"}
+{"address": "0x42191cDF2839B60B44234FAEf34d7d1CC238F257", "name": "aidragonpainting", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/1/2022"}
+{"address": "0x42526d468F2850772fb2ce9E6328c6870E13e302", "name": "Axoswap", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/1/2022"}
+{"address": "0x2b3050E1B9c592869143f04c2a6962aAb4B95FbE", "name": "OpenAutoMarket", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/1/2022"}
+{"address": "0xeB4c074DAf45800Aea4573Ce19DFaC8CF2EC8Bf9", "name": "TherundownConsumer", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/1/2022"}
+{"address": "0x5E03Acd53d5D3A834278014D91F0AFD36f8147Ce", "name": "OpenNFTsV4", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/1/2022"}
+{"address": "0xD53e7aa446e4615DEC602c1D0d024425256f631a", "name": "OpenNFTsResolver", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/1/2022"}
+{"address": "0x57BDf6E59C2652D349f7022beB8D1B7458CA09EB", "name": "OpenNFTsFactoryV3", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "11/1/2022"}
+{"address": "0xfa44e688bD672b46dcF70CFD467cE10139d3d8DF", "name": "Bafkrey", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/1/2022"}
+{"address": "0xe4271c66783e7eeb6578b711d12e8b12ddd5ceaf", "name": "PolynomialEarnResolver", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/1/2022"}
+{"address": "0x58243D24d070A7a5aA3Bb4E160F0df75807986bf", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 191, "settings": "-", "date": "11/1/2022"}
