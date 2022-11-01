@@ -6365,3 +6365,14 @@
 {"address": "0xfa44e688bD672b46dcF70CFD467cE10139d3d8DF", "name": "Bafkrey", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/1/2022"}
 {"address": "0xe4271c66783e7eeb6578b711d12e8b12ddd5ceaf", "name": "PolynomialEarnResolver", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/1/2022"}
 {"address": "0x58243D24d070A7a5aA3Bb4E160F0df75807986bf", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 191, "settings": "-", "date": "11/1/2022"}
+{"address": "0x3f8d557fd1e9043d4577af6a230579e4ac1c4cc7", "name": "Vyper_contract", "compiler": "vyper:0.3.3", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/1/2022"}
+{"address": "0xdec38855266f39cd3549e45d5d32232752d05185", "name": "CalculationsYearnVaults", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/1/2022"}
+{"address": "0xbf4a735f123a9666574ff32158ce2f7b7027de9a", "name": "BaseFeeOracle", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/1/2022"}
+{"address": "0x97fC891a24819F0516D9FdeB035cAfEf6Cf0E7ad", "name": "Web3SAFEPrimary", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/1/2022"}
+{"address": "0x962E44996a3f94A92d5388Ce0d9Cb2b189dc0241", "name": "HyperLPool", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/1/2022"}
+{"address": "0x953585eADA251f737171633A186E0e3130B49cEe", "name": "HyperLPRouter", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/1/2022"}
+{"address": "0xb54C3942211C16b63C9d95036CF2acffA667ABA7", "name": "HyperLPFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/1/2022"}
+{"address": "0x3AE3B506a39FFC1aA3964F6DC888891Ea10671ED", "name": "EIP173Proxy", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/1/2022"}
+{"address": "0xd6be31243599b2e5bc650109cf8bb81ea8d6c150", "name": "AWOptimismCityPathfinder", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/1/2022"}
+{"address": "0xdAdca933e5a82eCFDEbAAa1ca880c165ED1389B9", "name": "Summoning", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/1/2022"}
+{"address": "0x7ecaf983B5f670fF42f85C624957889A466F5eC4", "name": "Xolotl", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/1/2022"}
