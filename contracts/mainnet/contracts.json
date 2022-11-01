@@ -6353,3 +6353,5 @@
 {"address": "0xD355c29BB622bd4f58dba495Dc8921985986EFBE", "name": "Router02", "compiler": "0.6.6", "balance": "0 Ether", "txcount": 37, "settings": "", "date": "10/31/2022"}
 {"address": "0x752d46fbf69000451fb9b4afeebbc9803dcaea14", "name": "ARRA", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 7, "settings": "-", "date": "10/31/2022"}
 {"address": "0x9B5eeC7c4E848892C16A5E76f43E8a943c7a9880", "name": "StrategyArrakisUsdcDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "10/31/2022"}
+{"address": "0xd5fFA74ffd064BF75Bc6EcC2a619A9e25b37Df55", "name": "dogfilmingacat", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/1/2022"}
+{"address": "0xf269be546ECF382478f08d4C91D66173E125cbf9", "name": "OneClicks", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 17, "settings": "", "date": "11/1/2022"}
