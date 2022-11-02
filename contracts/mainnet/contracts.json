@@ -6417,3 +6417,4 @@
 {"address": "0xa9a904b5567b5affb6bb334bea2f90f700eb221a", "name": "YearnGelatoOps", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "11/2/2022"}
 {"address": "0x502DD58Bc958a8Ad0092421c3771df8ae84D5855", "name": "PioneerNFT", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/2/2022"}
 {"address": "0xcdB4bB51801A1F399d4402c61bC098a72c382E65", "name": "GMX", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "11/2/2022"}
+{"address": "0x5a72C065DFE67D1C4e2951Fff292b8714a98CF68", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/2/2022"}
