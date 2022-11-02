@@ -6389,3 +6389,14 @@
 {"address": "0x02397da9C3f5aB6452bf3fc44F824bb1419f56aF", "name": "Pool", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/1/2022"}
 {"address": "0x38325f901a698aF88D855f061d0FEA70825856c5", "name": "AvaultRouter_OPTIMISM", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/2/2022"}
 {"address": "0x843e4f0a469d41e39799550bd9db1dee2cbf166a", "name": "Butoglyphs", "compiler": "0.4.26", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/1/2022"}
+{"address": "0x70DBE28504fd2a35A6c00b779c66327660c6be82", "name": "GMX", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/2/2022"}
+{"address": "0x4F0D02Da533c549DadFD78AdD2EbdB0368902919", "name": "catwithhighheels", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/2/2022"}
+{"address": "0x05848f640d0a77ebf5b5ddc6ea10c66ebf1357bf", "name": "CutieCatsClub", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "11/2/2022"}
+{"address": "0x99c192d657d3827a8bde853aecda24cd41d53eb9", "name": "AVaultForAave", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "11/2/2022"}
+{"address": "0x603B5383d1F701C120D4A8E24F2DAccEF30b80b4", "name": "AVaultForAave", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "11/2/2022"}
+{"address": "0x1dd5C789d931A871cE0e7866cc38b82bB81C194A", "name": "YearnPortalIn", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/2/2022"}
+{"address": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202", "name": "UOExecutorL2", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/2/2022"}
+{"address": "0xBCe212EA0474F464488e963E793010205175f123", "name": "AVaultForAaveFactory", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/2/2022"}
+{"address": "0x003301ae7cbf6663262dd280fb29135ab745c732", "name": "MultichainRouter", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 18, "settings": "", "date": "11/2/2022"}
+{"address": "0x22b73bc2231f759b0a311ecffd8cfd2a99d89bce", "name": "PolynomialEarnResolver", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/2/2022"}
+{"address": "0x9c944b82ab5b2882e7ce4b6805b43f50889e8fb9", "name": "MultichainPortal", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/2/2022"}
