@@ -6387,3 +6387,5 @@
 {"address": "0xFcE1aFf7B9590eF204116660a960192625E7544D", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1391, "settings": "-", "date": "11/1/2022"}
 {"address": "0x051E84221b36DC2074F8916E25e3d37B32a0C383", "name": "Rewards", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/1/2022"}
 {"address": "0x02397da9C3f5aB6452bf3fc44F824bb1419f56aF", "name": "Pool", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/1/2022"}
+{"address": "0x38325f901a698aF88D855f061d0FEA70825856c5", "name": "AvaultRouter_OPTIMISM", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/2/2022"}
+{"address": "0x843e4f0a469d41e39799550bd9db1dee2cbf166a", "name": "Butoglyphs", "compiler": "0.4.26", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/1/2022"}
