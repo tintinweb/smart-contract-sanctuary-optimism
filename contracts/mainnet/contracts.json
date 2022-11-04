@@ -6534,3 +6534,10 @@
 {"address": "0xDE1a6200459623047ecC57e46dedcE8558c2cd3d", "name": "Destiny", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "11/3/2022"}
 {"address": "0x7Caf731Ec5312B903BA1F52886Dbdf46dF6C5256", "name": "Rewards", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/3/2022"}
 {"address": "0xdAF50d877161E45D0de71b9A7BC4C87F0aCaf1f7", "name": "Rewards", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/3/2022"}
+{"address": "0xbbB9083e9eA239dB69932B6454cF694A276E4B32", "name": "Web3SAFEPrimary", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/4/2022"}
+{"address": "0xe24f78354a7d250cb087589f6db8de8bc95ed085", "name": "CyberPunkNFT", "compiler": "0.8.17", "balance": "0.001 Ether", "txcount": 5, "settings": "-", "date": "11/4/2022"}
+{"address": "0x29c74FeFB4CEBdAdD5E9e153917aE769E597e3F7", "name": "Aggregate", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/4/2022"}
+{"address": "0xb1a3d1ee5537550c4adde8dc422ef0edd07974fe", "name": "MultiSender", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "11/4/2022"}
+{"address": "0x9127cd22f83DB1dE10E48c4b4683e97969178476", "name": "RewardRouterV2", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 11, "settings": "", "date": "11/4/2022"}
+{"address": "0x1111111254EEB25477B68fb85Ed929f73A960582", "name": "AggregationRouterV5", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/4/2022"}
+{"address": "0x7902B9aC56Ad10D71683324B938a591E012ed4DD", "name": "FeeCalculator", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/4/2022"}
