@@ -6526,3 +6526,11 @@
 {"address": "0xd75fBf84d9162d6b52BaFB298aaFd1c715f6BA0a", "name": "Ownership", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/3/2022"}
 {"address": "0x12dB37fDe089928Cd7931Db45E24991a53Af0411", "name": "ControllerMetaCurveStrat", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 12, "settings": "", "date": "11/3/2022"}
 {"address": "0x40E3E2F0A5dE81fDeCa5206371F1474f361b728d", "name": "Controller", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/3/2022"}
+{"address": "0xb2ea489c802d20f32a6fd3781bdd3f93200478ff", "name": "ZZGenesisNFT", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/4/2022"}
+{"address": "0xb8d711E6330607647d699E21dB92a1B7CB754049", "name": "PolynomialEarnResolver", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/4/2022"}
+{"address": "0xeb0E82a7b092c58C416578CbCA4ed4c94555FdA9", "name": "PriceFeedTimelock", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/4/2022"}
+{"address": "0x794BC23E04aA3D3d7403e60e177a76DC5198e344", "name": "ArrakisLiquidityGaugeV4ContractGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/4/2022"}
+{"address": "0x0b186669138879F50eaD3eBF703f00F7F1A45b58", "name": "TripleSlopeRateModel", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/4/2022"}
+{"address": "0xDE1a6200459623047ecC57e46dedcE8558c2cd3d", "name": "Destiny", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "11/3/2022"}
+{"address": "0x7Caf731Ec5312B903BA1F52886Dbdf46dF6C5256", "name": "Rewards", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/3/2022"}
+{"address": "0xdAF50d877161E45D0de71b9A7BC4C87F0aCaf1f7", "name": "Rewards", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/3/2022"}
