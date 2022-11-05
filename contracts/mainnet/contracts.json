@@ -6593,3 +6593,6 @@
 {"address": "0x1F90796C5e6B1ACB3111E185dB3fB28859145234", "name": "Transportandinnovation", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/5/2022"}
 {"address": "0x74483F74915361e7b46fA8E2D028E0Cd15AFcc76", "name": "blackandredsymbiote", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "11/5/2022"}
 {"address": "0x8335Bec78bEf926764B5603b94295293D19473Cb", "name": "StargatePortalIn", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/5/2022"}
+{"address": "0x3116A146dc16ea2d0926c430d07D2A185043236b", "name": "StrategyHopSolidlyUniV3", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "11/5/2022"}
+{"address": "0xd0BF9106C29037eE7B322aad2DdE2364E43F37CE", "name": "StrategyHopSolidlyUniV3", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/5/2022"}
+{"address": "0xfB9b6D7642f3549e04f11770Bd2811F494e78f48", "name": "StrategyHopSolidly", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "11/5/2022"}
