@@ -6569,3 +6569,9 @@
 {"address": "0xD222297173C67f4967FFa61efE860047D6460780", "name": "YearnGelatoOps", "compiler": "0.8.15", "balance": "0.3 Ether", "txcount": 3, "settings": "", "date": "11/4/2022"}
 {"address": "0x71a84DBE1ea79D70E8e61505267B703eD0C0cc57", "name": "BullsAndBears", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/4/2022"}
 {"address": "0x0b5F4C33cF812412050Fe756419Ca06114518247", "name": "Pool", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/4/2022"}
+{"address": "0x4FEFFB33d18d7E2B9AaB65f51e5480607bb6Ee52", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 8, "settings": "-", "date": "11/5/2022"}
+{"address": "0x863692DbBc8E4C012bBa2a45D8BE5EEC61b1ee8A", "name": "Hydraeatingadragon", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/5/2022"}
+{"address": "0x18cFa9cfe58821A69E3A36F561019ed4225C4698", "name": "Oracle", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/4/2022"}
+{"address": "0xC2616752305dE27730d54842d11acd9cDE8ade4F", "name": "Web3CardStorage", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/4/2022"}
+{"address": "0x9ca8E7A94aa1B5Ed55eb7C9C7606Aee52f83B6bc", "name": "Web3Card", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 23, "settings": "", "date": "11/4/2022"}
+{"address": "0x83Ac679331Abeb33dadB1d4023E0b006d2C371Ca", "name": "Web3Card", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "11/4/2022"}
