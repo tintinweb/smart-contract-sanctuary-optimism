@@ -6611,3 +6611,10 @@
 {"address": "0x5Eca1457EF6531c6A0A4a9a4054789aCAe303dB6", "name": "AddressesProvider", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/6/2022"}
 {"address": "0x735679E4b2eFc7Ed3Fb2401029581dDB14Df43F7", "name": "frontProposal", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "11/6/2022"}
 {"address": "0xaeE16BF93128149d0769997E64aA17f52Edb2460", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 37, "settings": "-", "date": "11/6/2022"}
+{"address": "0xfFD46C3a76a434f5eFB0B914eda90C5B04C2268C", "name": "AaveV3Strategy", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/6/2022"}
+{"address": "0xc02bCBF343331D53E42a8F8F24BB676FaC8a1E50", "name": "ExchangeLogicUniswapV3", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/6/2022"}
+{"address": "0xa796a85f0cdf472c07e6bdff8f97079a84abff6e", "name": "BuyMeACoffee", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 4, "settings": "-", "date": "11/6/2022"}
+{"address": "0x76b5CeFf236FFCD1E6405CB03Dbaac78C4E2D7E4", "name": "SmartWalletImplementation", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/6/2022"}
+{"address": "0x3421330Ab2Ea48027f06b2271E58792743766440", "name": "EventFactory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/6/2022"}
+{"address": "0x8cdd305fe5FEB76c8c613E8ca1288424786C650d", "name": "PoolManager", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/6/2022"}
+{"address": "0x535a126362B9C2b984Ea03B8a89cEA44516f9813", "name": "AMMPriceStrategyV2", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/6/2022"}
