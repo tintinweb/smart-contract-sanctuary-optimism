@@ -6596,3 +6596,7 @@
 {"address": "0x3116A146dc16ea2d0926c430d07D2A185043236b", "name": "StrategyHopSolidlyUniV3", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "11/5/2022"}
 {"address": "0xd0BF9106C29037eE7B322aad2DdE2364E43F37CE", "name": "StrategyHopSolidlyUniV3", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/5/2022"}
 {"address": "0xfB9b6D7642f3549e04f11770Bd2811F494e78f48", "name": "StrategyHopSolidly", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "11/5/2022"}
+{"address": "0x371e17a572d3ef741afdcb7fe5e0cd5088139f1c", "name": "xETH", "compiler": "0.8.11", "balance": "0.0007 Ether", "txcount": 5, "settings": "", "date": "11/6/2022"}
+{"address": "0x5167E12139Ee4b2F6590F3C95E56B29d408a9048", "name": "UOExecutorL2", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/6/2022"}
+{"address": "0x8fcbe72710185dd34a8bBBA1Cc05eB2628945FEC", "name": "UOExecutorL2", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/6/2022"}
+{"address": "0xF50D1cAF40E1dE56198F262ACA4A3745De0A88dC", "name": "APIKeyManager", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/5/2022"}
