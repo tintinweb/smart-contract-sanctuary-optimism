@@ -6600,3 +6600,14 @@
 {"address": "0x5167E12139Ee4b2F6590F3C95E56B29d408a9048", "name": "UOExecutorL2", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/6/2022"}
 {"address": "0x8fcbe72710185dd34a8bBBA1Cc05eB2628945FEC", "name": "UOExecutorL2", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/6/2022"}
 {"address": "0xF50D1cAF40E1dE56198F262ACA4A3745De0A88dC", "name": "APIKeyManager", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/5/2022"}
+{"address": "0x8c3b2d5B63AB65B761EEBA9E759b94F518241985", "name": "COPYMINTALLES", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/6/2022"}
+{"address": "0xeE6f91667763856EF9A9a63a70E641d397768172", "name": "FileUpload", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "11/6/2022"}
+{"address": "0xE24f9D529cf71075e0A33c45A8a66AD99a11ddE2", "name": "UOExecutorL2", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/6/2022"}
+{"address": "0xBF794a6cCeeE54c943606827CE86853562Fd8643", "name": "PublicRegistry", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/6/2022"}
+{"address": "0xb2f53DDa7F07157f05F485F1E8719b252A925242", "name": "UOExecutorL2", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/6/2022"}
+{"address": "0x16c26133E747374bbD594f214ccD2F2E252aabf9", "name": "UOExecutorL2", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/6/2022"}
+{"address": "0x417DD5176CCc76E6e22Eb2E49f7c16364E39297f", "name": "CoverFiGoerli", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/6/2022"}
+{"address": "0x9af2cb98a6B3d3a5Cf47A93900ad49c39a008113", "name": "UOExecutorL2", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/6/2022"}
+{"address": "0x5Eca1457EF6531c6A0A4a9a4054789aCAe303dB6", "name": "AddressesProvider", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/6/2022"}
+{"address": "0x735679E4b2eFc7Ed3Fb2401029581dDB14Df43F7", "name": "frontProposal", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "11/6/2022"}
+{"address": "0xaeE16BF93128149d0769997E64aA17f52Edb2460", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 37, "settings": "-", "date": "11/6/2022"}
