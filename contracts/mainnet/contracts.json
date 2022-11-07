@@ -6632,3 +6632,9 @@
 {"address": "0xDaCd8E7B3363fe43D9214Cc196b058a0fFB2BC2B", "name": "NFTEasyDropV2", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/7/2022"}
 {"address": "0x91fa2e506e35363dB675397CdcAd4c2A321345b3", "name": "OpSynthSwap", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/7/2022"}
 {"address": "0xB89AadF84f118D59D5770e6FEe9cF1b55244Ea8B", "name": "UOExecutorL2", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/7/2022"}
+{"address": "0x64BcA3673c8990B11225E9f49E6da554180690fc", "name": "EUpgrade", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "11/7/2022"}
+{"address": "0x8DE8895ddD702d9a216E640966A98e08c9228f24", "name": "RigoblockPoolProxyFactory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/7/2022"}
+{"address": "0xeb0c08Ad44af89BcBB5Ed6dD28caD452311B8516", "name": "RigoblockV3Pool", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "11/7/2022"}
+{"address": "0x06767e8090bA5c4Eca89ED00C3A719909D503ED6", "name": "PoolRegistry", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "11/7/2022"}
+{"address": "0xe35129A1E0BdB913CF6Fd8332E9d3533b5F41472", "name": "Authority", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 36, "settings": "", "date": "11/7/2022"}
+{"address": "0xC61030609AA87223C9Acae126AfBe36303dc67aF", "name": "FeeCalculator", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/7/2022"}
