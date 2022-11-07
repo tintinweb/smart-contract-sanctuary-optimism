@@ -6618,3 +6618,7 @@
 {"address": "0x3421330Ab2Ea48027f06b2271E58792743766440", "name": "EventFactory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/6/2022"}
 {"address": "0x8cdd305fe5FEB76c8c613E8ca1288424786C650d", "name": "PoolManager", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/6/2022"}
 {"address": "0x535a126362B9C2b984Ea03B8a89cEA44516f9813", "name": "AMMPriceStrategyV2", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/6/2022"}
+{"address": "0x6ec6084E09F5afB8DCB4e45C2e36F2cA0BbCdf7d", "name": "UOExecutorL2", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/7/2022"}
+{"address": "0xE2dfcb86C99599DAFC12028F67b8456f99c9de4c", "name": "ATokensAndRatesHelper", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/6/2022"}
+{"address": "0x37133A8dCA96400c249102E59B11e25b0F663Ee0", "name": "StableAndVariableTokensHelper", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/6/2022"}
+{"address": "0xE9cD84fC03bcA38bc53157258d5090064E217b09", "name": "OneClicks", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 35, "settings": "", "date": "11/6/2022"}
