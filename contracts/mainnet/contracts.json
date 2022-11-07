@@ -6622,3 +6622,13 @@
 {"address": "0xE2dfcb86C99599DAFC12028F67b8456f99c9de4c", "name": "ATokensAndRatesHelper", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/6/2022"}
 {"address": "0x37133A8dCA96400c249102E59B11e25b0F663Ee0", "name": "StableAndVariableTokensHelper", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/6/2022"}
 {"address": "0xE9cD84fC03bcA38bc53157258d5090064E217b09", "name": "OneClicks", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 35, "settings": "", "date": "11/6/2022"}
+{"address": "0xf10424c47f3105757D3155879d5060B50F82a8E8", "name": "SportsAMMUtils", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/7/2022"}
+{"address": "0x3656bA0DC94ECc18d32843b9229769317a248131", "name": "ProxyAdmin", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/7/2022"}
+{"address": "0x4f12aA8397302d55cb29286B4a6C6aFdb541B147", "name": "AnyCallTranslator", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/7/2022"}
+{"address": "0x450441d90715c79870f48105c2ea445110E2F509", "name": "ChildOracle", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/7/2022"}
+{"address": "0x31a68C551dB6BaaA0F4ee96443706C7B663bFe5d", "name": "TransparentUpgradeableProxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/7/2022"}
+{"address": "0x08F8611b996bf2F0FD7523B54e69BFb92Dd43a81", "name": "PermissionlessSwap", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/7/2022"}
+{"address": "0x5224e52878ab1C6076402E5c98F018D109131351", "name": "PermissionlessMetaSwap", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/7/2022"}
+{"address": "0xDaCd8E7B3363fe43D9214Cc196b058a0fFB2BC2B", "name": "NFTEasyDropV2", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/7/2022"}
+{"address": "0x91fa2e506e35363dB675397CdcAd4c2A321345b3", "name": "OpSynthSwap", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/7/2022"}
+{"address": "0xB89AadF84f118D59D5770e6FEe9cF1b55244Ea8B", "name": "UOExecutorL2", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/7/2022"}
