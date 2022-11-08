@@ -6699,3 +6699,4 @@
 {"address": "0x308B336DAA88848c2A809f517284b47c8f7c24e0", "name": "testMe", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/8/2022"}
 {"address": "0x0EC7097685A502331ca75a440166F9ECDC659d49", "name": "OPB", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/8/2022"}
 {"address": "0x49799190aD4ef8299e0D078Eef07Bdb4309F7186", "name": "DCNTMetadataRenderer", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/8/2022"}
+{"address": "0x12e6749C4320d6f9F583646374F2763cB87C0bB0", "name": "ChefProxy", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/8/2022"}
