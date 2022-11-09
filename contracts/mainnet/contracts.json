@@ -6704,3 +6704,13 @@
 {"address": "0x292055A9b947646D49006eb051640717b84725E5", "name": "DropCollection", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/8/2022"}
 {"address": "0x1C48A55C8eCE8057E734d0516114f96A61DCf487", "name": "DropCollection", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/8/2022"}
 {"address": "0x590c2Fc9928CdfC98869C47a69015C4b908A5c49", "name": "TokenCollection", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/8/2022"}
+{"address": "0x1ed64F1d2373E261CD76E8e22842E2085812B07e", "name": "ve", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/9/2022"}
+{"address": "0x6f4edFBA0D871e00808ccc8B597d9D3cF462Cf24", "name": "Voter", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/9/2022"}
+{"address": "0x2fbeEca8D594D2642562ca2c31D6199b96a90CC9", "name": "VeOpxRoom", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/9/2022"}
+{"address": "0xB70d9359ba2006417c2C5f21948d82462E51Fc16", "name": "Cashier", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "11/9/2022"}
+{"address": "0x2202B20ef7769A9bAbB446be91F9Cb38d0b13A12", "name": "VelodromeTWAPAggregator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/9/2022"}
+{"address": "0xF00BaBe708694ac1ADe6e89f97b4449A4fb0aFc8", "name": "VelodromeTWAPAggregator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/9/2022"}
+{"address": "0x529e961C85b066DD6C563EBB6e65d659C172441E", "name": "VelodromeTWAPAggregator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/9/2022"}
+{"address": "0xF0DA0ed7ddf6D0eD9F2982BD1f2aaFcC66e0C4f7", "name": "VelodromeTWAPAggregator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/9/2022"}
+{"address": "0xdD0aDed975b1A687b1900eEd6071eC6e7eccBe28", "name": "VelodromeTWAPAggregator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/9/2022"}
+{"address": "0xa3344E41A3f191aC5F125A55330f1b52B68E4b1b", "name": "VelodromeTWAPAggregator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/9/2022"}
