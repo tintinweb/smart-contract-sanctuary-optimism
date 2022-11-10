@@ -6751,3 +6751,4 @@
 {"address": "0x357E825e16e01629D84E54Ce313B94b46Ca0fF7C", "name": "MarginBase", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "11/9/2022"}
 {"address": "0x3b1c06cef2d719a699759c5db45f5ea05bab721b", "name": "DeltaNeutralPerp", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/9/2022"}
 {"address": "0x0fc9b5f4aeAF77D4aAB26e0a3DD27710415dB839", "name": "MarketAid", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/9/2022"}
+{"address": "0x5f3F12b5c5B3a02BCf640C0FE28A87E31614Ac2E", "name": "DhedgeEasySwapper", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/10/2022"}
