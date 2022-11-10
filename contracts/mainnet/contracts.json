@@ -6752,3 +6752,10 @@
 {"address": "0x3b1c06cef2d719a699759c5db45f5ea05bab721b", "name": "DeltaNeutralPerp", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/9/2022"}
 {"address": "0x0fc9b5f4aeAF77D4aAB26e0a3DD27710415dB839", "name": "MarketAid", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/9/2022"}
 {"address": "0x5f3F12b5c5B3a02BCf640C0FE28A87E31614Ac2E", "name": "DhedgeEasySwapper", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/10/2022"}
+{"address": "0x4b50Cc59f8a59036C6B63924B60eaEf09530590d", "name": "TherundownConsumerWrapper", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 21, "settings": "", "date": "11/10/2022"}
+{"address": "0x88FAA35A9f4f4fbcfDED8d4A42048C20628D6884", "name": "SportsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/10/2022"}
+{"address": "0x6b56A36f6DAC65ec427A95ebA6fF62b16f4791ba", "name": "TherundownConsumer", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/10/2022"}
+{"address": "0x0d1098469D651161cc8211e2973aFD5ad1cFb7A9", "name": "AmmVault", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/10/2022"}
+{"address": "0x15983B0AdB819b284baa05011f8A6A23402b0E77", "name": "SportVault", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/10/2022"}
+{"address": "0x827ac1B47e1B0fF773e9476527261f6dC0E840D5", "name": "ParlayMarketsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/10/2022"}
+{"address": "0x6C3Fbbd517C4A52d2D5f45D51967E3825af77fa9", "name": "DeltaNeutralPerp", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/10/2022"}
