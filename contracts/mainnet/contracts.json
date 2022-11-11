@@ -6760,3 +6760,8 @@
 {"address": "0x827ac1B47e1B0fF773e9476527261f6dC0E840D5", "name": "ParlayMarketsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/10/2022"}
 {"address": "0x6C3Fbbd517C4A52d2D5f45D51967E3825af77fa9", "name": "DeltaNeutralPerp", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/10/2022"}
 {"address": "0xF26Ce9749f29E61c25d0333bCE2301CB2DFd3a22", "name": "StreamRebounder", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/10/2022"}
+{"address": "0xe135Ef65C2B2213C3fD56d0Bd6500A2cA147aC10", "name": "DropERC1155", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/10/2022"}
+{"address": "0x902Dd246e66d8C3CE652375a723F2a52b43b9AAE", "name": "DropERC20", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/10/2022"}
+{"address": "0xFBd7D24d80ee005671E731a7287DEB6073264dD1", "name": "DropERC721", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/10/2022"}
+{"address": "0x8a4cd3549e548bbEEb38C16E041FFf040a5acabD", "name": "SignatureDrop", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/10/2022"}
+{"address": "0x91F4C95369B7D6224BcD16317d5De12257Dd0da9", "name": "MarketAid", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/10/2022"}
