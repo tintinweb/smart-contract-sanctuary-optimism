@@ -6774,3 +6774,7 @@
 {"address": "0x17598eA9ee2f1E35cE9C323E247fb4FF501e25eC", "name": "Settlement", "compiler": "0.7.0", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/11/2022"}
 {"address": "0xbd5f93feb1ba172DcbF04A5c3146cC43930C523B", "name": "Settlement", "compiler": "0.7.0", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/11/2022"}
 {"address": "0xb1c9ac57594e9b1ec0f3787d9f6744ef4cb0a024", "name": "ComposableStablePool", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "11/11/2022"}
+{"address": "0xdc47eDc036daaE45D3F019CCfD443Bf72fBD981c", "name": "InboxValidatorManager", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 95, "settings": "", "date": "11/11/2022"}
+{"address": "0xCDaebcc592DA5c982B05E95039FF5f3467420223", "name": "UpgradeBeaconProxy", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/11/2022"}
+{"address": "0xc5D6aCaafBCcEC6D7fD7d92F4509befce641c563", "name": "UpgradeBeaconProxy", "compiler": "0.8.13", "balance": "0.000084667500002366 Ether", "txcount": 1, "settings": "", "date": "11/11/2022"}
+{"address": "0x6119B76720CcfeB3D256EC1b91218EEfFD6756E1", "name": "UpgradeBeacon", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/11/2022"}
