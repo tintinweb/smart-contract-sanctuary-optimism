@@ -6765,3 +6765,4 @@
 {"address": "0xFBd7D24d80ee005671E731a7287DEB6073264dD1", "name": "DropERC721", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/10/2022"}
 {"address": "0x8a4cd3549e548bbEEb38C16E041FFf040a5acabD", "name": "SignatureDrop", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/10/2022"}
 {"address": "0x91F4C95369B7D6224BcD16317d5De12257Dd0da9", "name": "MarketAid", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/10/2022"}
+{"address": "0x805337bC5195f2BfEa531665eDa46516fa493949", "name": "Invoker", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "11/11/2022"}
