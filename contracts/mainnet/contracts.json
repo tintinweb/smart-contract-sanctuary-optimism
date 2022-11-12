@@ -6782,3 +6782,4 @@
 {"address": "0xf06dc9b42680f310436dda06f14d8b4265556738", "name": "DAM0", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/12/2022"}
 {"address": "0x3C12C2cdF8Ca6BEA9754958689c7826470Ce3B3f", "name": "ECDSA_min", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/12/2022"}
 {"address": "0x2b556398deefb6c269effc5bd3de0f2edaa8b118", "name": "Forward", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/11/2022"}
+{"address": "0x9Cbd3f9916aC449e95876dFd670b2bF343EfDdB7", "name": "Crydeal", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/12/2022"}
