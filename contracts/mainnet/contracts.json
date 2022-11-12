@@ -6778,3 +6778,7 @@
 {"address": "0xCDaebcc592DA5c982B05E95039FF5f3467420223", "name": "UpgradeBeaconProxy", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/11/2022"}
 {"address": "0xc5D6aCaafBCcEC6D7fD7d92F4509befce641c563", "name": "UpgradeBeaconProxy", "compiler": "0.8.13", "balance": "0.000084667500002366 Ether", "txcount": 1, "settings": "", "date": "11/11/2022"}
 {"address": "0x6119B76720CcfeB3D256EC1b91218EEfFD6756E1", "name": "UpgradeBeacon", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/11/2022"}
+{"address": "0xb28a5830e69a1c3341a8a23b379d538cd808aafa", "name": "DAM_Escrow", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/12/2022"}
+{"address": "0xf06dc9b42680f310436dda06f14d8b4265556738", "name": "DAM0", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/12/2022"}
+{"address": "0x3C12C2cdF8Ca6BEA9754958689c7826470Ce3B3f", "name": "ECDSA_min", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/12/2022"}
+{"address": "0x2b556398deefb6c269effc5bd3de0f2edaa8b118", "name": "Forward", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/11/2022"}
