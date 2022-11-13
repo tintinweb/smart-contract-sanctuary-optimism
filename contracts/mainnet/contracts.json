@@ -6789,3 +6789,4 @@
 {"address": "0x28c4A1Fa47EEE9226F8dE7D6AF0a41C62Ca98267", "name": "Vyper_contract", "compiler": "vyper:0.3.7", "balance": "0 Ether", "txcount": 0, "settings": "-", "date": "11/13/2022"}
 {"address": "0x8e1e5001c7b8920196c7e3edf2bcf47b2b6153ff", "name": "Vyper_contract", "compiler": "vyper:0.3.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/13/2022"}
 {"address": "0x17BAe0E202f6A22f2631B037C0660A88990d6023", "name": "VxPremiaProxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/13/2022"}
+{"address": "0x2A3566DD93407F2542A6cdf421e5E444c00CAbd0", "name": "VxPremia", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/13/2022"}
