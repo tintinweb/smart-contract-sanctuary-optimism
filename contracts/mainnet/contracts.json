@@ -6848,3 +6848,6 @@
 {"address": "0xf4f8746Bad0C350E702585C6A1f602961D5741bF", "name": "PoolBase", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/15/2022"}
 {"address": "0xF8ADcf659201aD12B71eC049B20cf85D5e8CdbEb", "name": "DCNT4907A", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/15/2022"}
 {"address": "0xeDc368077c56D0fdcd9860d5C937f871C4C01219", "name": "DCNT721A", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/15/2022"}
+{"address": "0x63530632e8fE40aCf8f1f4324f7645256263b64f", "name": "SicleRouter02", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/15/2022"}
+{"address": "0xEe673452BD981966d4799c865a96e0b92A8d0E45", "name": "SicleFactory", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/15/2022"}
+{"address": "0x6cBDD436210E19621EFAa15dB5c730038166B2f3", "name": "BridgeImplementation", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/15/2022"}
