@@ -6825,3 +6825,7 @@
 {"address": "0x71BB67179Dc6378cCA27F5e4140Af4e0a70Af6f2", "name": "Referral", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/14/2022"}
 {"address": "0x45C8d1c92F99B61dE2125035365dA6016cFC34Be", "name": "PiOracle", "compiler": "0.6.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/14/2022"}
 {"address": "0x36caC20dd805d128c1a6Dd16eeA845C574b5A17C", "name": "AuthorizerAdaptorEntrypoint", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/14/2022"}
+{"address": "0xfB1d1AF9D849cE7FA506AE30857E5Fb850e9a1F9", "name": "AmmVault", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/15/2022"}
+{"address": "0xF307EFbc0DcDD1FB9C97E73A51Bc7bD642eFdd34", "name": "SportVault", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/15/2022"}
+{"address": "0x38180Dd6D01f6774D8060E3aB8d06475125abb56", "name": "PremiaVoteProxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/14/2022"}
+{"address": "0xb6F767453B41D71112A910d3B3f7e35d7FF7231f", "name": "PremiaMining", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/14/2022"}
