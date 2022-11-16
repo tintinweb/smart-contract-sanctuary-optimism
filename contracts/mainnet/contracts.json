@@ -6863,3 +6863,10 @@
 {"address": "0x042dbfddc7d27e36363c0e085a6cbd514d470d17", "name": "TokenTransferProxy", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "11/16/2022"}
 {"address": "0x6f82a3c19dc0f8d745b72aa263d8b37a1ff18946", "name": "MetaAggregationRouterV2", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/16/2022"}
 {"address": "0x726860F3CDB791098800787ECacAc99B5204ad36", "name": "LayerZeroUA", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/16/2022"}
+{"address": "0x9310f89a8d910d33c2a4d9a73a441be3705a63f2", "name": "MerkleDistributor", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/16/2022"}
+{"address": "0x40e20121f46237ae5d6822fd75847cedd17c449f", "name": "MarketAid", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/16/2022"}
+{"address": "0x1b1Da1817b4a637cF81bcebd3357E3cA59ee5bdE", "name": "MarketAidFactory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/16/2022"}
+{"address": "0xD2B03E365FFB1e7be484915f86aC4103a3Ad0dD0", "name": "MarketAid", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/16/2022"}
+{"address": "0xe9c95e87D2728AC8d122dA483926C1f4360F44A0", "name": "MarketAidFactory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/16/2022"}
+{"address": "0xdb30a4a9f692c41006e4b62b358c44b6c96b3a15", "name": "Badges", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/16/2022"}
+{"address": "0x06AEEe7A39d1AB39fe42b81cCa329Fdbe7f41a4F", "name": "TherundownConsumerVerifier", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/16/2022"}
