@@ -6852,3 +6852,14 @@
 {"address": "0xEe673452BD981966d4799c865a96e0b92A8d0E45", "name": "SicleFactory", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/15/2022"}
 {"address": "0x6cBDD436210E19621EFAa15dB5c730038166B2f3", "name": "BridgeImplementation", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/15/2022"}
 {"address": "0x5Af7a354C9C35B58b4278aB0e1E934fab01b26Ab", "name": "VxPremia", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/15/2022"}
+{"address": "0xbf9096F489b9a7486DfD19F65cC1DFdB8E6c8B7F", "name": "MarketFactory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/16/2022"}
+{"address": "0x86027f965539279Cc3Ac752CA5940B6caC6ebc99", "name": "OperatorScripts", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/16/2022"}
+{"address": "0x2b037456B95D37fb302ad361C2C0F50697AC37C9", "name": "StrategyCurveLPUniV3Router", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "11/16/2022"}
+{"address": "0x5c7e98C7bCDe9dd02508F7dB9507841cd32D6299", "name": "OneClicks", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 11, "settings": "", "date": "11/16/2022"}
+{"address": "0x2BdfBd329984Cf0DC9027734681A16f542cF3bB4", "name": "StrategyCurveLPUniV3Router", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/16/2022"}
+{"address": "0xED8877f8536781d2FC40C1E0054cbeB8fD960Ee4", "name": "ExecutionNode", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/16/2022"}
+{"address": "0x226F6f89205be84F92Ca565c5759d1Ec2AEB787A", "name": "RewardDistribution", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "11/16/2022"}
+{"address": "0x52B82fb107f293D0712D82B639127a9807C55458", "name": "LayerZeroUA", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/16/2022"}
+{"address": "0x042dbfddc7d27e36363c0e085a6cbd514d470d17", "name": "TokenTransferProxy", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "11/16/2022"}
+{"address": "0x6f82a3c19dc0f8d745b72aa263d8b37a1ff18946", "name": "MetaAggregationRouterV2", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/16/2022"}
+{"address": "0x726860F3CDB791098800787ECacAc99B5204ad36", "name": "LayerZeroUA", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/16/2022"}
