@@ -6870,3 +6870,6 @@
 {"address": "0xe9c95e87D2728AC8d122dA483926C1f4360F44A0", "name": "MarketAidFactory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/16/2022"}
 {"address": "0xdb30a4a9f692c41006e4b62b358c44b6c96b3a15", "name": "Badges", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/16/2022"}
 {"address": "0x06AEEe7A39d1AB39fe42b81cCa329Fdbe7f41a4F", "name": "TherundownConsumerVerifier", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/16/2022"}
+{"address": "0x8605c9f58a64fd60eb01ccaa99a1f7524bc37286", "name": "ShareValueHelper", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/17/2022"}
+{"address": "0x000000000022d473030f116ddee9f6b43ac78ba3", "name": "Permit2", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/17/2022"}
+{"address": "0x293deD6B7D8D37bFE1e66Aadbdec9f87FEDbd37F", "name": "PermissionlessDeployer", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/17/2022"}
