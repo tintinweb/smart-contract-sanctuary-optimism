@@ -6873,3 +6873,15 @@
 {"address": "0x8605c9f58a64fd60eb01ccaa99a1f7524bc37286", "name": "ShareValueHelper", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/17/2022"}
 {"address": "0x000000000022d473030f116ddee9f6b43ac78ba3", "name": "Permit2", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/17/2022"}
 {"address": "0x293deD6B7D8D37bFE1e66Aadbdec9f87FEDbd37F", "name": "PermissionlessDeployer", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/17/2022"}
+{"address": "0x44f5f792accbe04ce91b8df184561a2f64fab129", "name": "returnMeSomething", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/17/2022"}
+{"address": "0xC3d5c128a3e5bF60C6Fb87A4B644B6a2D8093f55", "name": "StrategyCommonSolidlyGaugeLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/17/2022"}
+{"address": "0x5E9ab86e99CaeE6df6578E0fBBD4A915a4A294BC", "name": "AngleBorrowHelpers", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/17/2022"}
+{"address": "0x047b43fd2fc1faae2cfc6750a811773897a10532", "name": "Record_eth", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/17/2022"}
+{"address": "0xe2bf8e353f2c6853995b2cf125cfb4e125b710ed", "name": "Record", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/17/2022"}
+{"address": "0x0a0d884d53f8bf02d9a595a5868c2e1101f17a80", "name": "Receiver", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/17/2022"}
+{"address": "0xfa5de8c86966a6514ec44220160e855c5b0f07f3", "name": "Executor", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/17/2022"}
+{"address": "0xA6D3769faC465FC0415e7E9F16dcdC96B83C240B", "name": "BeefyVaultV7Factory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "11/17/2022"}
+{"address": "0x2f0865133ce3ddb78953fd3b4f6505ef3adb2107", "name": "BeefyVaultV7", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/17/2022"}
+{"address": "0x6A9f37831e78253C0c3608A1e76cFc981aaccfA9", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 977, "settings": "-", "date": "11/17/2022"}
+{"address": "0x57D8f155628AD921845Cb6D8cEB7f4A59878CA33", "name": "HelloWorld", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/17/2022"}
+{"address": "0xf74c347f3B0BbA9000c1882Ff91139376F0d8cBc", "name": "ThalesAMM", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/17/2022"}
