@@ -6885,3 +6885,11 @@
 {"address": "0x6A9f37831e78253C0c3608A1e76cFc981aaccfA9", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 977, "settings": "-", "date": "11/17/2022"}
 {"address": "0x57D8f155628AD921845Cb6D8cEB7f4A59878CA33", "name": "HelloWorld", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/17/2022"}
 {"address": "0xf74c347f3B0BbA9000c1882Ff91139376F0d8cBc", "name": "ThalesAMM", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/17/2022"}
+{"address": "0x6077987e8e06c062094c33177Eb12c4A65f90B65", "name": "StakingRewards", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/17/2022"}
+{"address": "0xfccf1af487be1a1bb663a61334ae0c4c93bbce21", "name": "UniversalRouter", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/17/2022"}
+{"address": "0x7166e00abfaab56ca83b0025a9157febb01d31b3", "name": "UniversalRouter", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/17/2022"}
+{"address": "0x2297aEbD383787A160DD0d9F71508148769342E3", "name": "BTCbOFT", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 27, "settings": "", "date": "11/17/2022"}
+{"address": "0x1f9ca631ae0c4890f99b38634c969b7e4f8719f0", "name": "NFT", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 36, "settings": "", "date": "11/17/2022"}
+{"address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85", "name": "FiatTokenProxy", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 27, "settings": "", "date": "11/17/2022"}
+{"address": "0xbd17DEee53a58B48548117a11a2E7bbF2D0d6Fa7", "name": "FiatTokenV2_1", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/17/2022"}
+{"address": "0x70429F78C2d7d1dE6f89bE421bcE64Ba876c325b", "name": "MasterMinter", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "11/17/2022"}
