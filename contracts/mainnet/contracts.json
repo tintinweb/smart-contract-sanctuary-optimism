@@ -6928,3 +6928,7 @@
 {"address": "0x5d5457b543416c5cb770d3c4352d6a561b969977", "name": "xUSDL", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/18/2022"}
 {"address": "0xc53D10086CAD61823a4ffE084a72B44B57fcc48F", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 173, "settings": "-", "date": "11/18/2022"}
 {"address": "0x7118a12776cC81ef89854cF148987bCbF079E0F0", "name": "WondrousXRaffle", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/18/2022"}
+{"address": "0x3a05928f309B097dFAD20545c80f33A6bc183E96", "name": "xLemmaSynth", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/18/2022"}
+{"address": "0x007676fAB2C97d2F3E7D1273753A1C47FE9723ee", "name": "xUSDL", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/18/2022"}
+{"address": "0xD8A0D357171beBC63CeA559c4e9CD182c1bf25ef", "name": "VxPremia", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/18/2022"}
+{"address": "0x91bf08e72091dc0c5bdb17f5a02f4b57155315b9", "name": "OptimismWave", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "11/18/2022"}
