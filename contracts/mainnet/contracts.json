@@ -6916,3 +6916,15 @@
 {"address": "0x34dd41b1d9d6afd0093cdf4b67173e8e5c2d9c7a", "name": "TargetAMB", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/18/2022"}
 {"address": "0x8A68849c8a61225964d2caE170fDD19eC46bf246", "name": "WooAccessManager", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "11/18/2022"}
 {"address": "0x7cE0721a36cBC1110DdfADF144Ca668491b8eBe8", "name": "DestinyTemple", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/18/2022"}
+{"address": "0xc7722271281Aa6D5D027fC9B21989BE99424834f", "name": "MasterChef", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/18/2022"}
+{"address": "0xE8f20fD90161de1d5B4cF7e2B5D92932CA06D5f4", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "11/18/2022"}
+{"address": "0x88917b44BB9BA44D6553Bd5bC6594E7B783EBbFc", "name": "MetanautsContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 23, "settings": "", "date": "11/18/2022"}
+{"address": "0x2429660e18E242722D55410582f1fAe3FD9E384d", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 12, "settings": "-", "date": "11/18/2022"}
+{"address": "0xEdC2504d3fFC722F639187923fCE31E5b92652C9", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "11/18/2022"}
+{"address": "0xb49c6E0035DDb64279c5307674D4C60511f0E403", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "11/18/2022"}
+{"address": "0x8F8126C13bBa042084BAa81890ef17Bb61b4Da27", "name": "StrategyStargateSolidly", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/18/2022"}
+{"address": "0xb37CD85871E003Ab24E8553F3Eda386a083F48C9", "name": "StrategyStargateSolidly", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/18/2022"}
+{"address": "0x28207a64bb9de68eb4cba3334f3888bcceeb59ff", "name": "xLemmaSynth", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/18/2022"}
+{"address": "0x5d5457b543416c5cb770d3c4352d6a561b969977", "name": "xUSDL", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/18/2022"}
+{"address": "0xc53D10086CAD61823a4ffE084a72B44B57fcc48F", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 173, "settings": "-", "date": "11/18/2022"}
+{"address": "0x7118a12776cC81ef89854cF148987bCbF079E0F0", "name": "WondrousXRaffle", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/18/2022"}
