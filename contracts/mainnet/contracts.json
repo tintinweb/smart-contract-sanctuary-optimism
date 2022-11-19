@@ -6946,3 +6946,5 @@
 {"address": "0x0901a30c4c1eD092560EB84A8439d60A67A9bbfE", "name": "StrandsFirst100", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "11/19/2022"}
 {"address": "0x03943c3ef00d92e130185cebc0bcc435def2cc94", "name": "FMTLOL", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "11/18/2022"}
 {"address": "0x46BE56Bc9355Bb630833b4dC8299893E8D780AC3", "name": "OEStandardSecurityToken", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 15, "settings": "", "date": "11/18/2022"}
+{"address": "0x22429888aa982026b7e5e7e7c237e0047dff5e02", "name": "UselessCoin", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "11/19/2022"}
+{"address": "0xef5f0c5d39ad78b5fd3bdb0e55704c399ee4f04a", "name": "PolynomialZap", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/19/2022"}
