@@ -6948,3 +6948,15 @@
 {"address": "0x46BE56Bc9355Bb630833b4dC8299893E8D780AC3", "name": "OEStandardSecurityToken", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 15, "settings": "", "date": "11/18/2022"}
 {"address": "0x22429888aa982026b7e5e7e7c237e0047dff5e02", "name": "UselessCoin", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "11/19/2022"}
 {"address": "0xef5f0c5d39ad78b5fd3bdb0e55704c399ee4f04a", "name": "PolynomialZap", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/19/2022"}
+{"address": "0x0Ce0880016987a65cCa5591EAe345252b73bd067", "name": "publicCalls", "compiler": "0.6.0", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/19/2022"}
+{"address": "0x12302fE9c02ff50939BaAaaf415fc226C078613C", "name": "ProxyFactory", "compiler": "0.5.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "11/19/2022"}
+{"address": "0x0614424f670fAc7d3E36f82303e57AbC27C99A40", "name": "SwapperWithCompensationSolidly", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "11/19/2022"}
+{"address": "0xDEfe4d2a749673B32FeA293d0aE94cd152eE3eCd", "name": "ControllerSolidlyLPStrat", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "11/19/2022"}
+{"address": "0xFaE2B9E29F02da0010c84C5aEf295B40F0831c67", "name": "Controller", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/19/2022"}
+{"address": "0xFa4274E3C42E4072605963A9bd6bCa0d3c506d5F", "name": "MergeParty", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "11/19/2022"}
+{"address": "0xab586a06B98DF0a86DCd4E1A0294a404c6284725", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "11/19/2022"}
+{"address": "0x77263Ac8e34F462FF09b711d38AEc99E5A67F9CC", "name": "SequencerHandlerUpgradeable", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/19/2022"}
+{"address": "0x6C12C88A82a54953C22E201b89Ba92f173B1c8d8", "name": "ERC20HandlerUpgradeable", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/19/2022"}
+{"address": "0xafc0C2ac31b30440c507f3F74Bdfc4c9Ef470297", "name": "BridgeUpgradeable", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/19/2022"}
+{"address": "0x1740076f13d406691df9b355408d587c4fb85d47", "name": "DestinyMultiSigWallet", "compiler": "0.8.17", "balance": "0.011111111111111111 Ether", "txcount": 2, "settings": "", "date": "11/19/2022"}
+{"address": "0xbAf1ABf6C6c92ef0d5A0699BE249AA56E1Aa0BB2", "name": "frostbitedragon", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "11/19/2022"}
