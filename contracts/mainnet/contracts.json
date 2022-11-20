@@ -6960,3 +6960,6 @@
 {"address": "0xafc0C2ac31b30440c507f3F74Bdfc4c9Ef470297", "name": "BridgeUpgradeable", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/19/2022"}
 {"address": "0x1740076f13d406691df9b355408d587c4fb85d47", "name": "DestinyMultiSigWallet", "compiler": "0.8.17", "balance": "0.011111111111111111 Ether", "txcount": 2, "settings": "", "date": "11/19/2022"}
 {"address": "0xbAf1ABf6C6c92ef0d5A0699BE249AA56E1Aa0BB2", "name": "frostbitedragon", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "11/19/2022"}
+{"address": "0x46F4784Fd91A2C806BF35E34416b48ca96087015", "name": "Coralreef", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/20/2022"}
+{"address": "0x5da95bbda95ad9c715195e98a974b2425337c468", "name": "Blackcat", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 6, "settings": "-", "date": "11/20/2022"}
+{"address": "0xf050d366106ecbf7a8770258bc33a5cdb2051590", "name": "PolFifaClub", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "11/20/2022"}
