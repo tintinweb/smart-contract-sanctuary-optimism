@@ -6967,3 +6967,4 @@
 {"address": "0x4622e28FF3E6d7ecF8B3C4240a8b0E06f52e70AF", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 11, "settings": "-", "date": "11/20/2022"}
 {"address": "0xf7b50f7dd8b37e7791f697151db4d3eca6e50adf", "name": "GladiaxyItemsV1", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/20/2022"}
 {"address": "0xb5a1771af1a1bb12e7204e7e8e78dfa1c99bf570", "name": "KingdomCash", "compiler": "0.8.4", "balance": "0.00728 Ether", "txcount": 5, "settings": "", "date": "11/20/2022"}
+{"address": "0x03E22FE8A5cFe409B2982cc8B94e85d0A389563D", "name": "MasterChef", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/20/2022"}
