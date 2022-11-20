@@ -6963,3 +6963,7 @@
 {"address": "0x46F4784Fd91A2C806BF35E34416b48ca96087015", "name": "Coralreef", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/20/2022"}
 {"address": "0x5da95bbda95ad9c715195e98a974b2425337c468", "name": "Blackcat", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 6, "settings": "-", "date": "11/20/2022"}
 {"address": "0xf050d366106ecbf7a8770258bc33a5cdb2051590", "name": "PolFifaClub", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "11/20/2022"}
+{"address": "0x9d9df7264db9a5b66bbd34ae8c3c6d9b4f759082", "name": "Blackcat", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "11/20/2022"}
+{"address": "0x4622e28FF3E6d7ecF8B3C4240a8b0E06f52e70AF", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 11, "settings": "-", "date": "11/20/2022"}
+{"address": "0xf7b50f7dd8b37e7791f697151db4d3eca6e50adf", "name": "GladiaxyItemsV1", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/20/2022"}
+{"address": "0xb5a1771af1a1bb12e7204e7e8e78dfa1c99bf570", "name": "KingdomCash", "compiler": "0.8.4", "balance": "0.00728 Ether", "txcount": 5, "settings": "", "date": "11/20/2022"}
