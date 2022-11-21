@@ -6971,3 +6971,12 @@
 {"address": "0x2fC8fafD0a1D2F9db76dB5f366E5c62f58A368e6", "name": "BequestWillV1", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/21/2022"}
 {"address": "0x536565bf53bbc9b91f3ee4fd80f542779bcadd4c", "name": "LightClient", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 15, "settings": "", "date": "11/21/2022"}
 {"address": "0xFf841Ce01c71Ea0304c38015d193A95a6A29967c", "name": "ONFTGateway", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "11/20/2022"}
+{"address": "0xc81136B1f99b4bA4F6c0BddC56AB8D5EFb9E908f", "name": "svgUtils", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/21/2022"}
+{"address": "0x728f6e35C3ECE2fD121A0cEB54AeB71774316c2E", "name": "svg", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/21/2022"}
+{"address": "0x2046ca6C575B7f6ef4dC09401Bc0C8b340D85F75", "name": "Web3CardStorage", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/21/2022"}
+{"address": "0xF50F2235b46EA1846d74fA204Af97EA468c030E1", "name": "Web3CardDesign", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/21/2022"}
+{"address": "0x7a12fa1fE8F735b3687105DCD627d797eE3cFba8", "name": "Web3CardActivator", "compiler": "0.8.15", "balance": "0.05 Ether", "txcount": 14, "settings": "", "date": "11/21/2022"}
+{"address": "0xA55F3afD9De3B33e3484F176B08145e7d0d2A643", "name": "Web3Card", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/21/2022"}
+{"address": "0xaccb62a37189eaa4326fa16ff6d3bb6e2e04412c", "name": "TargetAMB", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/21/2022"}
+{"address": "0xcdadadae3a7aa54f42fa53fe7946ffdec3c4a08f", "name": "Counter", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x80da4a96a5f04529dc90278b318af25f20292b0f", "name": "TargetAMB", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 14, "settings": "", "date": "11/21/2022"}
