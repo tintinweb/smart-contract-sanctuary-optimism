@@ -6980,3 +6980,11 @@
 {"address": "0xaccb62a37189eaa4326fa16ff6d3bb6e2e04412c", "name": "TargetAMB", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/21/2022"}
 {"address": "0xcdadadae3a7aa54f42fa53fe7946ffdec3c4a08f", "name": "Counter", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/21/2022"}
 {"address": "0x80da4a96a5f04529dc90278b318af25f20292b0f", "name": "TargetAMB", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 14, "settings": "", "date": "11/21/2022"}
+{"address": "0xb0b9696a7b0f2e508c8027cb1f6be664e5afb25b", "name": "Receiver", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/21/2022"}
+{"address": "0xfe72ee1975316cac41213ad68f0fbcced35aac35", "name": "GladiaxyItemsV1a", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/21/2022"}
+{"address": "0x3Bd81E9C0Eefa37254D59a64175F931046bB4612", "name": "Web3SAFEPrimary", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x93b192fB45937A2774bD66B861A2694902D1d465", "name": "SportsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x3751774Fc967973D69Cdd020eb15a1cac23E3650", "name": "SportsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x83f5fbfd1a0ed0e25c64a22c5a1d22eb4da30ead", "name": "xUSDL", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x39126a983ed0b4a849a5f20bd47ff9582ced9475", "name": "xLemmaSynth", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x7c3F725291010669EF77a404f7D83e10a480E0E0", "name": "SportsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/21/2022"}
