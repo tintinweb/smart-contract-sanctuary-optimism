@@ -6988,3 +6988,7 @@
 {"address": "0x83f5fbfd1a0ed0e25c64a22c5a1d22eb4da30ead", "name": "xUSDL", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/21/2022"}
 {"address": "0x39126a983ed0b4a849a5f20bd47ff9582ced9475", "name": "xLemmaSynth", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/21/2022"}
 {"address": "0x7c3F725291010669EF77a404f7D83e10a480E0E0", "name": "SportsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x8394D02B11CeF7577489db7492D5CC74862a94f9", "name": "ConstAddressDeployer", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/22/2022"}
+{"address": "0x5eaa5326f9c6d2B2148A9D3eCB93644A1358D1da", "name": "MerkleDrop", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/22/2022"}
+{"address": "0x06d218F8a62325325981B235000CB4618e403b6a", "name": "OFDropCollection", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x8b0FD871B60Def160dDcecc9864dBe96c2023242", "name": "OFDropCollection", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/21/2022"}
