@@ -7043,3 +7043,4 @@
 {"address": "0xAAd6706f421D764C5F3673eeB598fc37C65B4536", "name": "SimpleCounter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/22/2022"}
 {"address": "0x26a7018E78a03d9a874F4082B6fcFc4Eb4449690", "name": "CounterRelayContext", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/22/2022"}
 {"address": "0xb641E1b843954540BbB8AeE220552a5EE200BDA7", "name": "CounterFeeCollector", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/22/2022"}
+{"address": "0x26743984e3357eFC59f2fd6C1aFDC310335a61c9", "name": "PoolRecoveryHelper", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/22/2022"}
