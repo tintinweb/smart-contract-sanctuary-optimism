@@ -6992,3 +6992,29 @@
 {"address": "0x5eaa5326f9c6d2B2148A9D3eCB93644A1358D1da", "name": "MerkleDrop", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/22/2022"}
 {"address": "0x06d218F8a62325325981B235000CB4618e403b6a", "name": "OFDropCollection", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/21/2022"}
 {"address": "0x8b0FD871B60Def160dDcecc9864dBe96c2023242", "name": "OFDropCollection", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x19287b85b215c043974860361f8559a3ce1c3543", "name": "Mutagen", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 57, "settings": "", "date": "11/22/2022"}
+{"address": "0x3810c00f081fca95f7535a7801a43283aab42108", "name": "BatchTransferGasFee", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "11/22/2022"}
+{"address": "0x780F4D9cCa855830334deE6b38364Ab69FCd3047", "name": "OptiNautsContract", "compiler": "0.8.9", "balance": "0.1225 Ether", "txcount": 138, "settings": "", "date": "11/22/2022"}
+{"address": "0x7432a3a1545b2764367da16a207a16475d4221bd", "name": "Claim", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 19, "settings": "", "date": "11/22/2022"}
+{"address": "0x3Bcf4185443A339517aD4e580067f178d1B68E1D", "name": "DiamondLoupeFacet", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "11/22/2022"}
+{"address": "0xfFe0821f1f088B16E6760EDb5d537eB2551A3a0B", "name": "WatcherManager", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/22/2022"}
+{"address": "0xA93C4a6e19BeE415cAb341D19046c799a80A1496", "name": "UpgradeBeaconController", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/22/2022"}
+{"address": "0x082452013Ad4Ac4AAD2E5a430C2Ac70DE1660767", "name": "TokenFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/22/2022"}
+{"address": "0x67528e1e4394225c322919a87d9E8d6C688A783f", "name": "SwapUtilsExternal", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/22/2022"}
+{"address": "0x59c8E733703A4071A885d7a0437e9965744652e5", "name": "SwapAdminFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/22/2022"}
+{"address": "0x16Fe443425332425d9EE0901cc94a8CBb3f420ae", "name": "StableSwapFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/22/2022"}
+{"address": "0xCb2C936C039ff47D2903C959e85f3Da5fe767629", "name": "RoutersFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/22/2022"}
+{"address": "0x172F55db1ec560Ea877FEC0B4AfE9a780E5FD52A", "name": "RelayerProxy", "compiler": "0.8.17", "balance": "0.4 Ether", "txcount": 7, "settings": "", "date": "11/22/2022"}
+{"address": "0xc4c4183F662aB50E26De32834387D0210dD34a86", "name": "RelayerFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/22/2022"}
+{"address": "0x1bCb5E8066c781A58028b39ca99d1046f53aC6A6", "name": "ProposedOwnableFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/22/2022"}
+{"address": "0x59d908Fbbbe670388EB1BD5CAf30Af47cEcB25b8", "name": "OptimismSpokeConnector", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "11/22/2022"}
+{"address": "0x6acbF8d58f785541438e979305A59636E729Df9c", "name": "UpgradeBeaconProxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/22/2022"}
+{"address": "0xFfA5E2dF76b9cc453609DE4c1dA551926110a4AF", "name": "UpgradeBeacon", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/22/2022"}
+{"address": "0x681F0A7E7BD478690e08d5e43BC6d003E522777c", "name": "MerkleTreeManager", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/22/2022"}
+{"address": "0x60dcBC3BB9EAc7264A2D279f790969CcDE61F4CF", "name": "LPToken", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/22/2022"}
+{"address": "0xFFaf90C7C439d3978F29b43E9723897e7CA16b75", "name": "InboxFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/22/2022"}
+{"address": "0x8213D328D6078569D83B3875577235E9E29DBEc0", "name": "DiamondInit", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/22/2022"}
+{"address": "0x440c7514A296E0952557Ad89beeCB77904d84997", "name": "DiamondCutFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/22/2022"}
+{"address": "0x17aB9B14AC7659390B3994f9e67Bf833e60Ec1BD", "name": "ConnextDiamond", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "11/22/2022"}
+{"address": "0xfAAb63D764bDa61Ed6171526D5cE8cF52cDbE1d4", "name": "BridgeFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/22/2022"}
+{"address": "0x8C406F5aA2a614615c965de2899C04fEda40ED01", "name": "StrandsFirst100", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "11/22/2022"}
