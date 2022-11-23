@@ -7060,3 +7060,8 @@
 {"address": "0x1b16b25dbdc8ae5775290101332a5e7379eecf9f", "name": "BoardSystem", "compiler": "0.8.17", "balance": "0.048348962750772295 Ether", "txcount": 24, "settings": "", "date": "11/23/2022"}
 {"address": "0x3f21D1ca2b1dd0744E8984F811d3DC251d2ff48D", "name": "FillQuoteTransformer", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "11/22/2022"}
 {"address": "0x2BEF57fFDe3098Eeed9fa4F9166a81d7377533dc", "name": "OptimismBridgeAdapter", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/22/2022"}
+{"address": "0xd8E3638a217bE73aB0Af47eD66E23822B908A774", "name": "FundController", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x96Ea5E0255daFe9825210F1375826FA4f0de1e8c", "name": "StakingRakis6", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x655e2FE03fe19327239b5294a556965192386a7b", "name": "WooCrossChainRouter", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 14, "settings": "", "date": "11/23/2022"}
+{"address": "0x1D5ECd37D95E16E80f49Da8E4821A5CeC556CC2b", "name": "OppaBearClaimReward", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/23/2022"}
+{"address": "0x7e05363e225c1c8096b1cd233b59457104b84908", "name": "StrategyExecutor", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/23/2022"}
