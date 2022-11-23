@@ -7077,3 +7077,10 @@
 {"address": "0xfbdcce3991f2c238cfa6e618d42757bfcc1437df", "name": "PengTogether", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/23/2022"}
 {"address": "0x5c864828fa7396f357050bd369fc4b990921dcaf", "name": "Vault_seth", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/23/2022"}
 {"address": "0x68db398f6a80a0a96eba79e9300e87cb9c682f8c", "name": "PengTogether", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x0bBA31EAf82C649C0B9579F5F44374C74F4605Ea", "name": "AirdropERC1155Claimable", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0xEbc1977d1aC2fe1F6DAaF584E2957F7c436fcdEF", "name": "AirdropERC20Claimable", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x664244560eBa21Bf82d7150C791bE1AbcD5B4cd7", "name": "AirdropERC721Claimable", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x1F83fa6bCa0DE79bb4b3149390686A45BeD56378", "name": "AirdropERC1155", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x42D3048b595B6e1c28a588d70366CcC2AA4dB47b", "name": "AirdropERC20", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0xa2A4CEc0ec6B39299FCF36c9a6F4Bb21A15e5AbE", "name": "AirdropERC721", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x0EBA9b4844B9381b84376C2D98d3E8E1963F63d4", "name": "AaveV3ERC4626Reinvest", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/23/2022"}
