@@ -7044,3 +7044,19 @@
 {"address": "0x26a7018E78a03d9a874F4082B6fcFc4Eb4449690", "name": "CounterRelayContext", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/22/2022"}
 {"address": "0xb641E1b843954540BbB8AeE220552a5EE200BDA7", "name": "CounterFeeCollector", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/22/2022"}
 {"address": "0x26743984e3357eFC59f2fd6C1aFDC310335a61c9", "name": "PoolRecoveryHelper", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/22/2022"}
+{"address": "0xecB98467e199442629a4735189C3A5117E1B8f40", "name": "DHedgePoolAggregator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0xb56c5752F83c7427E17128F39a157Cb3d51d7156", "name": "UniV3TWAPAggregator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x8bee5db2315df7868295c531b36baa53439cf528", "name": "SolidlyStrategyLens", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x640605cb9366c98b6d324d8cb04f98b363b76521", "name": "SolidlyStrategyLens", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x46f5F7eEDE3221f544601Ba2490220Eee619Af47", "name": "XSwapper", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0xe8681a8c8d8e24b65526c2f94fd5ef9d3ec18726", "name": "SolidlyStrategyLens", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x57CB66784008c16892A4782d91aeEfDE8Ba0d373", "name": "AaveLinearPoolRebalancer", "compiler": "0.7.1", "balance": "-", "txcount": 0, "settings": "", "date": "11/23/2022"}
+{"address": "0x2EF26d97B5870600BE341561298938c2e5df84f0", "name": "AaveLinearPool", "compiler": "0.7.1", "balance": "-", "txcount": 0, "settings": "", "date": "11/23/2022"}
+{"address": "0x79d0011892fe558FC5a4ec7D4Ca5db59069f460f", "name": "MockStaticAToken", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x59D59eDc3546e740aDB102e1B9593692C96d69c8", "name": "MockAaveLendingPool", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0xbfD9769b061E57e478690299011A028194D66e3C", "name": "AaveLinearPoolFactory", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/23/2022"}
+{"address": "0xd69e75c1c2a0f2838a6bba8bdff9d08c8f137cd9", "name": "StrategyExecutor", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x59be9fcb06cc9c8bee44b9861131d4614fb11bda", "name": "SolidlyStrategyLens", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x1b16b25dbdc8ae5775290101332a5e7379eecf9f", "name": "BoardSystem", "compiler": "0.8.17", "balance": "0.048348962750772295 Ether", "txcount": 24, "settings": "", "date": "11/23/2022"}
+{"address": "0x3f21D1ca2b1dd0744E8984F811d3DC251d2ff48D", "name": "FillQuoteTransformer", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "11/22/2022"}
+{"address": "0x2BEF57fFDe3098Eeed9fa4F9166a81d7377533dc", "name": "OptimismBridgeAdapter", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/22/2022"}
