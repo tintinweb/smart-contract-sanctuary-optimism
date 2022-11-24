@@ -7096,3 +7096,9 @@
 {"address": "0x6dDBcF8886B7741D9AE60B9e9950F9F56543Ae54", "name": "AaveLinearPool", "compiler": "0.7.1", "balance": "-", "txcount": 0, "settings": "", "date": "11/23/2022"}
 {"address": "0x5D5629FC838f5eA67d14264b7316FFD4294b0998", "name": "MockStaticAToken", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/23/2022"}
 {"address": "0x9Bf6468Facac0F71C7ecA8D71a5Fb5f65bdAb319", "name": "AaveLinearPoolFactory", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/23/2022"}
+{"address": "0x1e368780363ddadfeC3b5382C397183778dAB63C", "name": "ParlayVerifier", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/24/2022"}
+{"address": "0xEfF08D0C3b9f3C880a6588334FA1E97dDfEa5A16", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 6, "settings": "-", "date": "11/24/2022"}
+{"address": "0xc53f28c40de7fdd184ebecc94de2d3db5e3234eb", "name": "SimpleVaultMigrator", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/24/2022"}
+{"address": "0x7bb0a8506c763f24e3B5B6CbeAE7E56E5787D754", "name": "SportsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/24/2022"}
+{"address": "0xfA4Eb2B83345c80B22BA6F15DE2e474E3C03E6AC", "name": "ThalesAMM", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/24/2022"}
+{"address": "0xeB76221aEBAf063F16Df72cD29BEd12D6dE6C731", "name": "CBridgeProtocolV2", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/24/2022"}
