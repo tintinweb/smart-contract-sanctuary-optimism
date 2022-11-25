@@ -7133,3 +7133,13 @@
 {"address": "0xEeC6025fc35AF612f6028Bb454f875085dB8Ed8D", "name": "StrategyAave", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "11/25/2022"}
 {"address": "0xaE290A17745789D785D38B60A43A18cE68050772", "name": "WOOFiVaultV2", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/25/2022"}
 {"address": "0x7e1996945eA8866DE873179DC1677E93A4380107", "name": "WOOFiVaultV2", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 15, "settings": "", "date": "11/25/2022"}
+{"address": "0xf626853103A6B3D678a2016e05222DbA9879c10a", "name": "Straylight", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/25/2022"}
+{"address": "0xb955c66FF031cEA247ff22bE1fDBeAE23977d9d7", "name": "Minting", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/25/2022"}
+{"address": "0xAc71DAc8146B8EA7B95f3332936975a972164e00", "name": "OneClicks", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 12, "settings": "", "date": "11/25/2022"}
+{"address": "0xd93540E33D7F7c2035495F18027dFCc23045bB15", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 65, "settings": "-", "date": "11/25/2022"}
+{"address": "0xC3dCEf82A8C38C20DA9feb8bB1d03E9c9D842da3", "name": "AnteLlamaPayTest", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/25/2022"}
+{"address": "0x018a620eb4d7a42296909b2cdd60540cb684db35", "name": "DAILYNFT", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "-", "date": "11/25/2022"}
+{"address": "0x9aDEcfc95E1322E87a92D6E107E33B7dE750d90F", "name": "StrategyUsdPlusDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/25/2022"}
+{"address": "0x2c12F1D0404080F65c5352b55De3CacB3FF9c360", "name": "StrategyAaveDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/25/2022"}
+{"address": "0x658286Fc9605F6FF4d0311d0B58670e26eCB27e1", "name": "TransparentUpgradeableProxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/25/2022"}
+{"address": "0x2aC724460d3Dc68881A5B136F368219F5eD2c1Cc", "name": "AngleRouterOptimism", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/25/2022"}
