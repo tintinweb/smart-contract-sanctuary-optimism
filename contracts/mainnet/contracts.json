@@ -7109,3 +7109,10 @@
 {"address": "0xA31160c08b80c283Adc7A4C7052A95D8F2fd4f8A", "name": "PiOracleSolidly", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/24/2022"}
 {"address": "0xFC48E39fed51F2937c8CE7eE95eD9181c2790ab1", "name": "VaultManagerLiquidationBoost", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/24/2022"}
 {"address": "0xce52080da47f51a606Ed674faf8B09B6720f32d7", "name": "Destiny", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/24/2022"}
+{"address": "0x7eF704cD084774e339fA005fB2C4a19408806D0A", "name": "OpxPrediction", "compiler": "0.8.7", "balance": "0.001047189231906807 Ether", "txcount": 20, "settings": "", "date": "11/25/2022"}
+{"address": "0x99170Be3D4afcCFde5AC48a2F1Eab28dd38E514f", "name": "OpSynthSwap", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "11/25/2022"}
+{"address": "0x8e17Ed9f91DDab1f2D7C2075ABF7C293D3a28CD3", "name": "Disperse", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/25/2022"}
+{"address": "0xc60d9Ca3Ffddff603e3D38289F06Df9056506B3A", "name": "OpSynthSwap", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "11/25/2022"}
+{"address": "0x5686747cd9f8E01165A93C39941F00BA39fbc54E", "name": "LyraOptionMarketWrapperAssetGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/25/2022"}
+{"address": "0xf508311867efdc50cf36b06ec95e0eedb2212599", "name": "GnosisSafeProxy", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/25/2022"}
+{"address": "0xBEFa33261Ce1dF58F47e274165Cf85D504336421", "name": "DhedgeOptionMarketWrapperForLyra", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/25/2022"}
