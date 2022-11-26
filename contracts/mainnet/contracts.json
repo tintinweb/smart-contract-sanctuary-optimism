@@ -7147,3 +7147,6 @@
 {"address": "0xF8c91e6697126e595098733C1693ba36889Ed355", "name": "StrandsVault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "11/25/2022"}
 {"address": "0xeD57E811fE1B01B5E7D9c71c5B746862c00d6BC6", "name": "DeltaShortStrategy", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "11/25/2022"}
 {"address": "0x3a9a48BcE5763b0cf044774C760e29576d5Df5e9", "name": "StrandsLyraVault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "11/25/2022"}
+{"address": "0xa916f02542feb6dbd105b317dcc43e330b87305a", "name": "Counter", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "", "date": "11/26/2022"}
+{"address": "0x0874eda6c40cae81ce7306f11e144fbd17524c7d", "name": "TargetAMB", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "", "date": "11/26/2022"}
+{"address": "0x0f90aeb635a17619fe88fad89ade83a94019f1a4", "name": "LightClientMock", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "", "date": "11/26/2022"}
