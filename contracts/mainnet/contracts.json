@@ -7143,3 +7143,7 @@
 {"address": "0x2c12F1D0404080F65c5352b55De3CacB3FF9c360", "name": "StrategyAaveDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/25/2022"}
 {"address": "0x658286Fc9605F6FF4d0311d0B58670e26eCB27e1", "name": "TransparentUpgradeableProxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/25/2022"}
 {"address": "0x2aC724460d3Dc68881A5B136F368219F5eD2c1Cc", "name": "AngleRouterOptimism", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/25/2022"}
+{"address": "0xcb11fE1f5C664E53DaE5374B61240208EDaF8fcf", "name": "LongGammaStrategy", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "11/25/2022"}
+{"address": "0xF8c91e6697126e595098733C1693ba36889Ed355", "name": "StrandsVault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "11/25/2022"}
+{"address": "0xeD57E811fE1B01B5E7D9c71c5B746862c00d6BC6", "name": "DeltaShortStrategy", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "11/25/2022"}
+{"address": "0x3a9a48BcE5763b0cf044774C760e29576d5Df5e9", "name": "StrandsLyraVault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "11/25/2022"}
