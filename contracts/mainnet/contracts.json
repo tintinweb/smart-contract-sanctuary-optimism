@@ -7150,3 +7150,9 @@
 {"address": "0xa916f02542feb6dbd105b317dcc43e330b87305a", "name": "Counter", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "", "date": "11/26/2022"}
 {"address": "0x0874eda6c40cae81ce7306f11e144fbd17524c7d", "name": "TargetAMB", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "", "date": "11/26/2022"}
 {"address": "0x0f90aeb635a17619fe88fad89ade83a94019f1a4", "name": "LightClientMock", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "", "date": "11/26/2022"}
+{"address": "0xc7dab220734cbb90b570d0faf3dce023c46abf43", "name": "PengHelperOp", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/26/2022"}
+{"address": "0x20875d43a3ce8679dfbfd584a1ff18a0e9b5661d", "name": "PengHelperOp", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/26/2022"}
+{"address": "0xF767DB17601EA3e011546Dec8c04ff38FaDDB222", "name": "Optimium", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 7, "settings": "-", "date": "11/26/2022"}
+{"address": "0x85b0b1aF13aCa01b7b5eDbE5BFbBeC2e130D2227", "name": "Dollar", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 4, "settings": "-", "date": "11/26/2022"}
+{"address": "0xf6114a12b77f671E5a7D8ec87b2F04fF222fec15", "name": "Pool", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/26/2022"}
+{"address": "0x1d42e1a789cd34f9b4b3d5ffbe5a95848c42503c", "name": "Oracle", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/26/2022"}
