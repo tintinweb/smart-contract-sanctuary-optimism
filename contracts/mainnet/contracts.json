@@ -7157,3 +7157,8 @@
 {"address": "0xf6114a12b77f671E5a7D8ec87b2F04fF222fec15", "name": "Pool", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/26/2022"}
 {"address": "0x1d42e1a789cd34f9b4b3d5ffbe5a95848c42503c", "name": "Oracle", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/26/2022"}
 {"address": "0xBF3688AB0daE0Fb08Fc66FE723B8d8b17933240c", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 6, "settings": "-", "date": "11/27/2022"}
+{"address": "0x23497122921Cb5eC5820537A5258d09981b715a1", "name": "SimpleSeller", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/27/2022"}
+{"address": "0xCA6759a88Ee3498aD2354261DCf8A0eEe7Aee797", "name": "Referrals", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/27/2022"}
+{"address": "0x0c628a0c6e8D10447ED794448E4F8a316A24DE3B", "name": "OptionsVaultFactory", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "11/27/2022"}
+{"address": "0x5B9485942012eb4aC8eDe3E51D11551E71F0eF16", "name": "OptionsVaultERC20", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/27/2022"}
+{"address": "0xDF171B622CEF319fbe31358A817e85bE3642e990", "name": "OptionsERC721", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/27/2022"}
