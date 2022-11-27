@@ -7162,3 +7162,11 @@
 {"address": "0x0c628a0c6e8D10447ED794448E4F8a316A24DE3B", "name": "OptionsVaultFactory", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "11/27/2022"}
 {"address": "0x5B9485942012eb4aC8eDe3E51D11551E71F0eF16", "name": "OptionsVaultERC20", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/27/2022"}
 {"address": "0xDF171B622CEF319fbe31358A817e85bE3642e990", "name": "OptionsERC721", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/27/2022"}
+{"address": "0x925Ef88660E810b7360972909499D0f709E8F4e3", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 189, "settings": "-", "date": "11/27/2022"}
+{"address": "0xBb298b0390A19FEbD577763109a418162Faf7566", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 90, "settings": "-", "date": "11/27/2022"}
+{"address": "0xe428B59628099B9F8F1ca0764B59bE9776b18C57", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 248, "settings": "-", "date": "11/27/2022"}
+{"address": "0x2198c3f490145579A677a3F68910a7750f7532b8", "name": "Oracle", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/27/2022"}
+{"address": "0x0505e62f54b458875d8dbd9a3c6e26ec5841a33a", "name": "Pool", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/27/2022"}
+{"address": "0x8caBD56f19b9B3d7746311e64cE75E5942971026", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 139, "settings": "-", "date": "11/27/2022"}
+{"address": "0x38d17df03976eb00a203AE742768EA2842FD75e4", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 151, "settings": "-", "date": "11/27/2022"}
+{"address": "0x98240dE5Fb8A2E1aEbF7621E904E9793Be377960", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 200, "settings": "-", "date": "11/27/2022"}
