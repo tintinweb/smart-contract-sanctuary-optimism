@@ -7170,3 +7170,8 @@
 {"address": "0x8caBD56f19b9B3d7746311e64cE75E5942971026", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 139, "settings": "-", "date": "11/27/2022"}
 {"address": "0x38d17df03976eb00a203AE742768EA2842FD75e4", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 151, "settings": "-", "date": "11/27/2022"}
 {"address": "0x98240dE5Fb8A2E1aEbF7621E904E9793Be377960", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 200, "settings": "-", "date": "11/27/2022"}
+{"address": "0x3da986d48b454b65a00a36e44947a7c2ba23c8a5", "name": "unknown", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/27/2022"}
+{"address": "0x0860b40A91A780B0fE332003449ae7EC960848ef", "name": "DeltaShortStrategy", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "11/27/2022"}
+{"address": "0x12C0EbA076393fF10721e9095a6629437b60cb25", "name": "StrandsLyraVault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "11/27/2022"}
+{"address": "0x736718EBCCC1ca39149f17027535CA791f0d72e2", "name": "LongGammaStrategy", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "11/27/2022"}
+{"address": "0x590A0741cAbE12Fd89E76c4557b2A9Bfd93455ad", "name": "StrandsVault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "11/27/2022"}
