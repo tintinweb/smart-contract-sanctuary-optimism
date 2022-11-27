@@ -7156,3 +7156,4 @@
 {"address": "0x85b0b1aF13aCa01b7b5eDbE5BFbBeC2e130D2227", "name": "Dollar", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 4, "settings": "-", "date": "11/26/2022"}
 {"address": "0xf6114a12b77f671E5a7D8ec87b2F04fF222fec15", "name": "Pool", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/26/2022"}
 {"address": "0x1d42e1a789cd34f9b4b3d5ffbe5a95848c42503c", "name": "Oracle", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/26/2022"}
+{"address": "0xBF3688AB0daE0Fb08Fc66FE723B8d8b17933240c", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 6, "settings": "-", "date": "11/27/2022"}
