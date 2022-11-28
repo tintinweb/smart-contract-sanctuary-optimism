@@ -7201,3 +7201,9 @@
 {"address": "0x5b75dbE8DBF00C7a6Fb1a124899aA4D8E4eB03E2", "name": "GSWForwarder", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/27/2022"}
 {"address": "0x1a6435dc3CFe9d840B70deBC34Dd77F6540E8c65", "name": "GaslessSmartWallet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "-", "date": "11/27/2022"}
 {"address": "0xE6bd13Df85D4f8902354C7E4EEd404904Dc3bB0F", "name": "GSWFactory", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "-", "date": "11/27/2022"}
+{"address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6", "name": "CurveProxyXChain", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0x7498A9286aCfaE0e6ED57c99f8c3B167ccce0938", "name": "SgBridge", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0x48E2982016eCab46c8C2cE64fdb909931713E22f", "name": "SportsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0xD517215990CBf485e7a3F0158102e4868DB61cdB", "name": "ThalesAMM", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0x555d9bcA6a6993fDA91694B753b64c21fe09c647", "name": "SequencerHandlerUpgradeable", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0x91ae00aac6ee0d7853c8f92710b641f68cd945df", "name": "CommonRegistryXChain", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/28/2022"}
