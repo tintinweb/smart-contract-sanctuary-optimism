@@ -7224,3 +7224,5 @@
 {"address": "0x250F13cD414842607a4Ba95FbfB0DA093DAfb33A", "name": "DataReceiver", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/28/2022"}
 {"address": "0x0209a9bAc6E96C47890573Fc2C20E485f198Da9D", "name": "OracleFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/28/2022"}
 {"address": "0xd67021d775fD9cF7C265554086Cbf6CCf2b37091", "name": "ConnextReceiverAdapter", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0x0C30f4f78f07effc258328ebAEbAb008ACA76E60", "name": "BunnybunyContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
+{"address": "0x92e1fc4ae999315f17ddab195f816bf3262aca4b", "name": "UnsupportedProtocol", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/28/2022"}
