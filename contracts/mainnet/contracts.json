@@ -7230,3 +7230,12 @@
 {"address": "0xA058798CD293f5AcB4E7757B08c960a79f527699", "name": "WooFeeManager", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
 {"address": "0x7B53aeDf58D2Ed087A3DD690201245A61DE3c66C", "name": "WooVaultManager", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
 {"address": "0xc53646abf7fb626f644c8b7cfe42df8a0508eaa7", "name": "returnMeSomething", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/29/2022"}
+{"address": "0x19c08f59c4d75407652a6a970078e79d117d0fd7", "name": "DegenBoxERC20VaultWrapper", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
+{"address": "0x5D7Bf1dD3eFc9639ca3D44e45ddA988142d0dCf0", "name": "stableQiVault", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "11/29/2022"}
+{"address": "0x2BDCF5E0Aa88583D5a8C5d7993FD790eB26D58F9", "name": "shareOracle", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
+{"address": "0xEc744346b11D8759890EE43143cdd0b9a8929709", "name": "PerformanceTokens", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
+{"address": "0x2c285d3382c314dF37a4437B07D3B38D3362CB71", "name": "CondorPrivateSale", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/29/2022"}
+{"address": "0x560da69ef841e1272c65ef9eba538870f8c0c484", "name": "UniversalRouter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
+{"address": "0xb555edf5dcf85f42ceef1f3630a52a108e55a654", "name": "UniversalRouter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
+{"address": "0x311Ac52b2274CCFF31d7DF875160e11Fc9070564", "name": "Interaction", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
+{"address": "0x203f261B35EB012F60ef99A3fB6131A25eA8f176", "name": "QHFeeder", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
