@@ -7226,3 +7226,7 @@
 {"address": "0xd67021d775fD9cF7C265554086Cbf6CCf2b37091", "name": "ConnextReceiverAdapter", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/28/2022"}
 {"address": "0x0C30f4f78f07effc258328ebAEbAb008ACA76E60", "name": "BunnybunyContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
 {"address": "0x92e1fc4ae999315f17ddab195f816bf3262aca4b", "name": "UnsupportedProtocol", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0x47807145FBe757F33b51B17df992d6d72113987C", "name": "SpritzPayV2", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
+{"address": "0xA058798CD293f5AcB4E7757B08c960a79f527699", "name": "WooFeeManager", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
+{"address": "0x7B53aeDf58D2Ed087A3DD690201245A61DE3c66C", "name": "WooVaultManager", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
+{"address": "0xc53646abf7fb626f644c8b7cfe42df8a0508eaa7", "name": "returnMeSomething", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/29/2022"}
