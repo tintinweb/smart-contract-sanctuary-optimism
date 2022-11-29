@@ -7239,3 +7239,13 @@
 {"address": "0xb555edf5dcf85f42ceef1f3630a52a108e55a654", "name": "UniversalRouter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
 {"address": "0x311Ac52b2274CCFF31d7DF875160e11Fc9070564", "name": "Interaction", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
 {"address": "0x203f261B35EB012F60ef99A3fB6131A25eA8f176", "name": "QHFeeder", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
+{"address": "0x96bd71583ff83754b0d09cc13e6c2f4ebe96b513", "name": "UMATrigger", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "11/29/2022"}
+{"address": "0xc4ce593c8e6f915addd532f67b08680152eb1432", "name": "UMATrigger", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "11/29/2022"}
+{"address": "0x82875e9aa70e18f2ec60ee0922d56da4c2377048", "name": "UMATrigger", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "11/29/2022"}
+{"address": "0x8c256e173cb0b57d24860a3cbf581dbe34976e9c", "name": "UMATrigger", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "11/29/2022"}
+{"address": "0xe64a0252a205e33a14bdd372d271f9a4679722f2", "name": "UMATrigger", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "11/29/2022"}
+{"address": "0xcb83d8745087f65114ce636e30cde5ea33b75a2a", "name": "UMATrigger", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "11/29/2022"}
+{"address": "0x1a703497baeb2e46522e0012b4c1219a32243e7a", "name": "ChainlinkTrigger", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "11/29/2022"}
+{"address": "0x8909d7ce5f69cc18ce53dba948bb4c6d206f0f71", "name": "UMATriggerFactory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "11/29/2022"}
+{"address": "0xb4f2ec11b8926dbc0f0ea52a1381105bda283cb2", "name": "ChainlinkTriggerFactory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/29/2022"}
+{"address": "0x25EE1f56DecDE038Ecf76a4601AA14777F4aE40B", "name": "VelodromeTWAP", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "11/29/2022"}
