@@ -7270,3 +7270,8 @@
 {"address": "0x2F2dD99235Cb728fc79Af575f1325Eaa270f0C99", "name": "BKSwap", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/30/2022"}
 {"address": "0x9aFD2948F573DD8684347924eBcE1847D50621eD", "name": "BKRegistry", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/30/2022"}
 {"address": "0xE4DA6f981a78b8b9edEfE4D7a955C04bA7e67D8D", "name": "BKFees", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/30/2022"}
+{"address": "0x020Aa9fA4AEC2af6e0AD2Ebb32D8101B10c1180a", "name": "QHTrade", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "11/30/2022"}
+{"address": "0x373b347bc87998b151A5E9B6bB6ca692b766648a", "name": "ComposableStablePool", "compiler": "0.7.1", "balance": "-", "txcount": 0, "settings": "", "date": "11/30/2022"}
+{"address": "0x85a80afee867aDf27B50BdB7b76DA70f1E853062", "name": "ComposableStablePoolFactory", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/30/2022"}
+{"address": "0x58C9e3B0EC4C37732Ff269B605cda0Ee3d256b0e", "name": "StakingPool", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 14, "settings": "", "date": "11/30/2022"}
+{"address": "0xcf38cbb5bf9a00699675584a0c4c4ce017ccafd9", "name": "VAYC", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "11/30/2022"}
