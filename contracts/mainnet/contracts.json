@@ -7259,3 +7259,14 @@
 {"address": "0x2d147b9d63eca5950d63ca942d5db96f5e90682b", "name": "VeloProvider", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
 {"address": "0x0c4d4b3ae0bedd3c61de051d65f8a3f6d4617c9a", "name": "TransparentUpgradeableProxy", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "11/29/2022"}
 {"address": "0x8658e33949373049469d19a8808a3e88a7c96dc0", "name": "SmartYield", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
+{"address": "0xEA143996DdFaF5f2318eEa25D311B5e6Bc8D912E", "name": "ABRelay", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/30/2022"}
+{"address": "0x6B24A6F34ab96267Fef9F8AC9fe6CC104C228127", "name": "ABRegistry", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/30/2022"}
+{"address": "0x3AdE2429316B77f2Ea182F4D7014832fD61e1354", "name": "ABStream", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/30/2022"}
+{"address": "0x1a9C8b7f8695ABD9A930Ea49A498ce1B7A590D25", "name": "ABToken", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "11/30/2022"}
+{"address": "0xDE4F5406675a3ad513528f93a8f17c98cE98451F", "name": "ThalesAMM", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/30/2022"}
+{"address": "0x48779210f3851232c6b8b79e6400c918699a44d9", "name": "SgBridge", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/30/2022"}
+{"address": "0x77b9D028Ed2D2106Ca7E0a336332F43557257571", "name": "AggregationFeature", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "11/30/2022"}
+{"address": "0xD1ca1F4dBB645710f5D5a9917AA984a47524f49A", "name": "BKSwapRouter", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/30/2022"}
+{"address": "0x2F2dD99235Cb728fc79Af575f1325Eaa270f0C99", "name": "BKSwap", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/30/2022"}
+{"address": "0x9aFD2948F573DD8684347924eBcE1847D50621eD", "name": "BKRegistry", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/30/2022"}
+{"address": "0xE4DA6f981a78b8b9edEfE4D7a955C04bA7e67D8D", "name": "BKFees", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/30/2022"}
