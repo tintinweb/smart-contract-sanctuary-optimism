@@ -7249,3 +7249,13 @@
 {"address": "0x8909d7ce5f69cc18ce53dba948bb4c6d206f0f71", "name": "UMATriggerFactory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "11/29/2022"}
 {"address": "0xb4f2ec11b8926dbc0f0ea52a1381105bda283cb2", "name": "ChainlinkTriggerFactory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/29/2022"}
 {"address": "0x25EE1f56DecDE038Ecf76a4601AA14777F4aE40B", "name": "VelodromeTWAP", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "11/29/2022"}
+{"address": "0xd1a891e6eccb7471ebd6bc352f57150d4365db21", "name": "AnyswapV6ERC20", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/30/2022"}
+{"address": "0x8f4491ED76bE9680ec801CBc070fA12067B5071a", "name": "LyraOptionMarketWrapperAssetGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/30/2022"}
+{"address": "0x86a6556899A2C9CC1BB5353367fcF11d0a243C95", "name": "ZKEdition", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
+{"address": "0x6bcE8135F21bEbF9AA24B00Fde283c63bbab2Db4", "name": "DCNTVaultNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
+{"address": "0xD15141B6694BB5768ab80A0099B19Ef229e838bA", "name": "DCNT4907A", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
+{"address": "0xbF17BA651510A696338044355eeEf1a3ad5dFdf2", "name": "DCNT721A", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
+{"address": "0x2D84Fb9fa136828f30Af793Fe902138b586Db9E9", "name": "DCNTSDK", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
+{"address": "0x2d147b9d63eca5950d63ca942d5db96f5e90682b", "name": "VeloProvider", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
+{"address": "0x0c4d4b3ae0bedd3c61de051d65f8a3f6d4617c9a", "name": "TransparentUpgradeableProxy", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "11/29/2022"}
+{"address": "0x8658e33949373049469d19a8808a3e88a7c96dc0", "name": "SmartYield", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/29/2022"}
