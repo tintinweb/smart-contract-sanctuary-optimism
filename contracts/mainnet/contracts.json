@@ -7275,3 +7275,9 @@
 {"address": "0x85a80afee867aDf27B50BdB7b76DA70f1E853062", "name": "ComposableStablePoolFactory", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/30/2022"}
 {"address": "0x58C9e3B0EC4C37732Ff269B605cda0Ee3d256b0e", "name": "StakingPool", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 14, "settings": "", "date": "11/30/2022"}
 {"address": "0xcf38cbb5bf9a00699675584a0c4c4ce017ccafd9", "name": "VAYC", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "11/30/2022"}
+{"address": "0xbB078Aa0394a8B9285703970187545f446927DEe", "name": "Interaction", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/30/2022"}
+{"address": "0x0a40903cd1cc788169fb152ae0d7884749888a69", "name": "Greeter", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/30/2022"}
+{"address": "0x51e3406ae49cec80607f97ca900fe932090dcf88", "name": "Roth", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "-", "date": "11/30/2022"}
+{"address": "0x29638b13a7Dec951F3979706A8b696044F6D58C1", "name": "DcSwapperV3", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/30/2022"}
+{"address": "0xb781fcac4b8ef06891f9bad7db9c178b1ce67967", "name": "Fraxferry", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 19, "settings": "", "date": "11/30/2022"}
+{"address": "0x86690b9dbb979850ae4622347af81232baa3c967", "name": "MerkleDistributor", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 41, "settings": "", "date": "11/30/2022"}
