@@ -7297,3 +7297,13 @@
 {"address": "0x471B9c0E102EE7e73333e8f54Dd64f146C76449E", "name": "EthUSDCProxy", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/1/2022"}
 {"address": "0x50E85B9B7CF2849Bc7908A93fFf7291a23810F63", "name": "EthDAIProxy", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/1/2022"}
 {"address": "0x0a167DC9daF2C7c2eC8e3A73C5ff6985414B96F0", "name": "Disperse", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x1CFE42F0a4ff79CCbC131E6EBDFab01D376D00c3", "name": "LoanOpenings", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x0DAE2558B8438c5089112F730aa319a2727E9912", "name": "VolumeTracker", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0xeCb076B674d585521087B3162A4F2bc76534Ac54", "name": "LiquidationHelper", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x49743dA77Ff019424E2e153A0712eD87fFDB74Eb", "name": "TickMathV1", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x03e6f0c671a1a55b06d68b0009f9b23169502b41", "name": "PengHelperOp", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0xB4aa1De9b87cb65C31dC9711FcB400C20008E14E", "name": "StrategyGammaUsdcDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x32b57Ecf47ce8534b0cfD450Fd78A1BC1140d8b1", "name": "StrategyUsdPlusDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x0baee5700179d87fabad13022447bd4e160374dd", "name": "Receiver", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/1/2022"}
+{"address": "0xdd1305150d27aecc60c066630105db419977e367", "name": "Executor", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/1/2022"}
+{"address": "0xbe6d7B85788D56bA35669F8c7727B578594157d2", "name": "StrategyUsdPlusDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
