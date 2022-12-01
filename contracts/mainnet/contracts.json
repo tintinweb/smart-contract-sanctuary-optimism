@@ -7307,3 +7307,11 @@
 {"address": "0x0baee5700179d87fabad13022447bd4e160374dd", "name": "Receiver", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/1/2022"}
 {"address": "0xdd1305150d27aecc60c066630105db419977e367", "name": "Executor", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/1/2022"}
 {"address": "0xbe6d7B85788D56bA35669F8c7727B578594157d2", "name": "StrategyUsdPlusDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x8C085F8f5a5650D282BAce3A134dC22a67Cf411B", "name": "LoanTokenLogicWeth", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0xd2B48A5534Ca5b1Fd182A87645055f414e45eDd1", "name": "LoanTokenLogicStandard", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0xd076bEc0c440780D63A9Ad5B1C3BBB890196Edec", "name": "HelperImpl", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x4A3A06D264e6F3B67e0BAae96F2457d3C4e3Fadd", "name": "SwapsExternal", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x7FcB75eaB54D5cEA49cC026Ae7A36ec8F56d7616", "name": "LoanMaintenance", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x174AFF1bE8da9710A1eC59c1c1b73c9bF6c60b8e", "name": "LoanClosings", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0xf7Eb8B08C8860d494D8d8FB6529C46Df599987BB", "name": "ProtocolSettings", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x831dFCa1fB4C35bB68F4B5D94Ce81a2072E2dFEe", "name": "LoanSettings", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
