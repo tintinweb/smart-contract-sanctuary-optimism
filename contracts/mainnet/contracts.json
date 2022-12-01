@@ -7291,3 +7291,9 @@
 {"address": "0x4F7b031B08FA58D68F5DFf9487dd8643E28ab08C", "name": "Migration_AlpheccaOptimism", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/30/2022"}
 {"address": "0xB589Af3f2e3377A9a57da74bE1b6598926479505", "name": "Liquidator", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/30/2022"}
 {"address": "0x49B35BE7D96888C02F342552aB218d859599aCeb", "name": "MintableSynthetix", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/30/2022"}
+{"address": "0x3cF63891928B8CeebB81C95426600a18cd59C03f", "name": "BatchConversionPayments", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "12/1/2022"}
+{"address": "0xb56E657a52a87DACbf80d500FAcC4478c7865aD5", "name": "ExecutionNode", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x0B33730dF3F17427844F1B136B294D445315dBF2", "name": "EthUSDTProxy", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/1/2022"}
+{"address": "0x471B9c0E102EE7e73333e8f54Dd64f146C76449E", "name": "EthUSDCProxy", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/1/2022"}
+{"address": "0x50E85B9B7CF2849Bc7908A93fFf7291a23810F63", "name": "EthDAIProxy", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/1/2022"}
+{"address": "0x0a167DC9daF2C7c2eC8e3A73C5ff6985414B96F0", "name": "Disperse", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
