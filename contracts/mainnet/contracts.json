@@ -7281,3 +7281,13 @@
 {"address": "0x29638b13a7Dec951F3979706A8b696044F6D58C1", "name": "DcSwapperV3", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/30/2022"}
 {"address": "0xb781fcac4b8ef06891f9bad7db9c178b1ce67967", "name": "Fraxferry", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 19, "settings": "", "date": "11/30/2022"}
 {"address": "0x86690b9dbb979850ae4622347af81232baa3c967", "name": "MerkleDistributor", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 41, "settings": "", "date": "11/30/2022"}
+{"address": "0x3189C962470c2C3763D639305B21BcFeb1D26e19", "name": "PoseidonT3", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x75A199882FcF49B3727D787Ed5d4A166D08f92ec", "name": "UniswapV3AssetGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x3aa752a86D430800b0CFD64E4a619CB70e150f58", "name": "UniswapV3NonfungiblePositionGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x8c3ffd1630bedde24d06b1931b54d45bace0e226", "name": "SNXFlashLoanTool", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0xacf03851fccd8e41a24a33662dfdabacecca8504", "name": "Counter", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "", "date": "12/1/2022"}
+{"address": "0x3557bb6c9389dfd3e6952328d967fcf166c7aeff", "name": "TargetAMB", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x54bcdfde79168451985fed4f8c74e2148fb75239", "name": "LightClientMock", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "12/1/2022"}
+{"address": "0x4F7b031B08FA58D68F5DFf9487dd8643E28ab08C", "name": "Migration_AlpheccaOptimism", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "11/30/2022"}
+{"address": "0xB589Af3f2e3377A9a57da74bE1b6598926479505", "name": "Liquidator", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/30/2022"}
+{"address": "0x49B35BE7D96888C02F342552aB218d859599aCeb", "name": "MintableSynthetix", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "11/30/2022"}
