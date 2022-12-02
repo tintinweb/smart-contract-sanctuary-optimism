@@ -7315,3 +7315,6 @@
 {"address": "0x174AFF1bE8da9710A1eC59c1c1b73c9bF6c60b8e", "name": "LoanClosings", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
 {"address": "0xf7Eb8B08C8860d494D8d8FB6529C46Df599987BB", "name": "ProtocolSettings", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
 {"address": "0x831dFCa1fB4C35bB68F4B5D94Ce81a2072E2dFEe", "name": "LoanSettings", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0xd8dc759fa65064de7722cdbb227444b09e8b93b9", "name": "LightClient", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "", "date": "12/2/2022"}
+{"address": "0xCb631e63877E10926C71C8cA03B78498a755270B", "name": "Riemann", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x9ec4e2532ada25a99c35c01fc3b6c45a3027a134", "name": "Withdraw", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "", "date": "12/1/2022"}
