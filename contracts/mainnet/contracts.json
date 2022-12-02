@@ -7318,3 +7318,18 @@
 {"address": "0xd8dc759fa65064de7722cdbb227444b09e8b93b9", "name": "LightClient", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "", "date": "12/2/2022"}
 {"address": "0xCb631e63877E10926C71C8cA03B78498a755270B", "name": "Riemann", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/2/2022"}
 {"address": "0x9ec4e2532ada25a99c35c01fc3b6c45a3027a134", "name": "Withdraw", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "", "date": "12/1/2022"}
+{"address": "0xdd948B9606Ac6dbaFC2791A01315af7A73fdA3Ae", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/2/2022"}
+{"address": "0x4ce34E11A2220FC92ec3D0b6db4658dACbB7c6dD", "name": "ExecutionNode", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x1b2fb67d5e30a458e320401388e1e20dcc5c707a", "name": "SNXFlashLoanTool", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/2/2022"}
+{"address": "0xB3f5f2741F605ad6B8B8E9B72eB065127f1f552A", "name": "FundController", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x505ac728645d2ef84380961F72bAea500b3efa3f", "name": "StrategyHomora", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "12/2/2022"}
+{"address": "0xa8452E2d63B29783ED2E5ca0d8D4Fe0cC2161D5B", "name": "WOOFiVaultV2", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 13, "settings": "", "date": "12/2/2022"}
+{"address": "0xEaF37B119ef9966E1F0e9677fa4f5f2344B9FFca", "name": "VeOpxRoom", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x0323d0Af5a7e95429bCc944185264741aFa59C65", "name": "PioneerStaking", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x2a1DA94AFd3BE55e9Ca4697d1013D1c557Eefff1", "name": "StakedGlp", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x6Fe35c5D47EAB607b81B7b70C7885801aD870fb6", "name": "StakedGlp", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0xC14736619ACe78F966eEa449E033893523f637eA", "name": "Voter", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x84778d47F4ffa1D4E643638D30Ffef73Aa7fF03C", "name": "FundController", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x010ae09c226f0bd12bb42a3e923a2554717d4a50", "name": "Withdraw", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "", "date": "12/2/2022"}
+{"address": "0xbe4e9d658cc364ff667d4e8d2271dd0a9b549fae", "name": "Counter", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "", "date": "12/2/2022"}
+{"address": "0xef604f14b99a37bf88f239c85a8826aeb2d9d699", "name": "TargetAMB", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "", "date": "12/2/2022"}
