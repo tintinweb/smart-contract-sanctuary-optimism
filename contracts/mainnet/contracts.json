@@ -7345,3 +7345,7 @@
 {"address": "0x5dbFdf62D11B3a73fae81e701A5812fd7DAaa1e7", "name": "Xocolatl", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/3/2022"}
 {"address": "0xB187C2823A5134A47f39b3Ea1E24d6c6ab7AFa61", "name": "StrategyAlphaHomora", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/2/2022"}
 {"address": "0x0c1197DEf832C2988ABEeFbc67aDCB98bfA823f2", "name": "StrategyAlphaHomora", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/3/2022"}
+{"address": "0x0eCdF3ac29E5f3F8c6Cc68b2d7a49978E20531F0", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 5, "settings": "-", "date": "12/3/2022"}
+{"address": "0xF923cd849Cbcfb2c087c24C45D7a64a133C24c5e", "name": "PandaUtils", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/3/2022"}
+{"address": "0x5F1F8CC5023a0ec2f53A73afA8829d3680CD719C", "name": "Router02", "compiler": "0.6.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/3/2022"}
+{"address": "0x5658DC089838d77e899fF5308aFe0c248b6FEa48", "name": "CDeployer", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/3/2022"}
