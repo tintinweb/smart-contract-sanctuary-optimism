@@ -7341,3 +7341,6 @@
 {"address": "0x23dAA824689DE503CD6aF73a79506F36D5fA96D5", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/2/2022"}
 {"address": "0x1dD015563f21E981666b9D13040Cf1Fb37855a5f", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "12/2/2022"}
 {"address": "0x131c34B303c1823A8F8A137FEA47138235937c75", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 21, "settings": "", "date": "12/2/2022"}
+{"address": "0xC3777Caa30c78FE5c699e0e8CCd6F3F5f50895F2", "name": "StrategyAlphaHomora", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/3/2022"}
+{"address": "0x5dbFdf62D11B3a73fae81e701A5812fd7DAaa1e7", "name": "Xocolatl", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/3/2022"}
+{"address": "0xB187C2823A5134A47f39b3Ea1E24d6c6ab7AFa61", "name": "StrategyAlphaHomora", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/2/2022"}
