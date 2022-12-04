@@ -7349,3 +7349,4 @@
 {"address": "0xF923cd849Cbcfb2c087c24C45D7a64a133C24c5e", "name": "PandaUtils", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/3/2022"}
 {"address": "0x5F1F8CC5023a0ec2f53A73afA8829d3680CD719C", "name": "Router02", "compiler": "0.6.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/3/2022"}
 {"address": "0x5658DC089838d77e899fF5308aFe0c248b6FEa48", "name": "CDeployer", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/3/2022"}
+{"address": "0xae477db6f4bdf49bf48221691ec4cb7bdd1be0b7", "name": "SettleBoardAutomator", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/3/2022"}
