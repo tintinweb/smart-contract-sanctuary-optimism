@@ -7350,3 +7350,4 @@
 {"address": "0x5F1F8CC5023a0ec2f53A73afA8829d3680CD719C", "name": "Router02", "compiler": "0.6.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/3/2022"}
 {"address": "0x5658DC089838d77e899fF5308aFe0c248b6FEa48", "name": "CDeployer", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/3/2022"}
 {"address": "0xae477db6f4bdf49bf48221691ec4cb7bdd1be0b7", "name": "SettleBoardAutomator", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/3/2022"}
+{"address": "0x5fd7dAFD94585F9c046a6b9f795c39220602fe9e", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/4/2022"}
