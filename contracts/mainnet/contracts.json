@@ -7354,3 +7354,12 @@
 {"address": "0x6a063c12aD67B7Ec793ad3E86E6a16177F01C12D", "name": "AdminUpgradeabilityProxy", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/5/2022"}
 {"address": "0xCF6467E1e517471689b46644265947a5c4aD5797", "name": "VaultFarm", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/5/2022"}
 {"address": "0xa5218a1458B3510DA217E85712eD87A4bf2e11F1", "name": "ProxyAdmin", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0x329b76B74d60bA115b2B135F2Cdea48c265CB642", "name": "SpritzPayV2", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0x75c8b866aC237a689BDbc1557e9DC0Bd90200ED4", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/5/2022"}
+{"address": "0xDE3554Ad8A0f4BdfE116E047aaAEaD6559eEfB89", "name": "Ops", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0x52677d053fE817C40556ed1f4178aAC360619115", "name": "TaskTreasuryUpgradable", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0xa620799451Fab255A16550776c08Bc461C8F0aBE", "name": "EIP173ProxyWithCustomReceive", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/5/2022"}
+{"address": "0xd9b3D37A52B84818F6d0a54f58cD7B7AB0A95A1c", "name": "TaskTreasuryL2", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/5/2022"}
+{"address": "0x5E7a751D6005641Cd246931a00c5D005679fdBcE", "name": "BooLinearPoolFactory", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0x6e26dCAAD72e4BA544910846Fcebd5F08B0e5b76", "name": "TarotLinearPoolFactory", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0x9E9c58B4E5478e65EFc81b7b65408834F63d9dc7", "name": "YearnLinearPoolFactory", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/5/2022"}
