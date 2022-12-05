@@ -7369,3 +7369,5 @@
 {"address": "0x0Ee00fFea69E96AC954Fd6f7ae6E5Daf5A31E7Fe", "name": "Controller", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/5/2022"}
 {"address": "0x47a075e999F8E1811De8a90132aa8788f6FAA08F", "name": "Archimedes", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/5/2022"}
 {"address": "0xBeC2319D2F025de374CD09A9EaaD5e6C9130F5Ea", "name": "Booom721", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0x062aC428A0fc55A8435499bf11a9255031Ba2d90", "name": "StrategyOLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 15, "settings": "", "date": "12/5/2022"}
+{"address": "0xc1dc974b226582eb351f4b03488ee3eab4cbd92a", "name": "Badges", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/5/2022"}
