@@ -7363,3 +7363,9 @@
 {"address": "0x5E7a751D6005641Cd246931a00c5D005679fdBcE", "name": "BooLinearPoolFactory", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/5/2022"}
 {"address": "0x6e26dCAAD72e4BA544910846Fcebd5F08B0e5b76", "name": "TarotLinearPoolFactory", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/5/2022"}
 {"address": "0x9E9c58B4E5478e65EFc81b7b65408834F63d9dc7", "name": "YearnLinearPoolFactory", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0xE13d33d1dd9C099613BE6923210dA71E1E64AdfF", "name": "StrategyOLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "12/5/2022"}
+{"address": "0xc5F2a855a6a14B7197fDA56D3Dc0843EB972A724", "name": "ControllerMetaCurveStrat", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 12, "settings": "", "date": "12/5/2022"}
+{"address": "0x6bB9Ccf9A059d6702C4468e28704B674efadd60e", "name": "Controller", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "12/5/2022"}
+{"address": "0x0Ee00fFea69E96AC954Fd6f7ae6E5Daf5A31E7Fe", "name": "Controller", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0x47a075e999F8E1811De8a90132aa8788f6FAA08F", "name": "Archimedes", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/5/2022"}
+{"address": "0xBeC2319D2F025de374CD09A9EaaD5e6C9130F5Ea", "name": "Booom721", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/5/2022"}
