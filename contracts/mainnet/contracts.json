@@ -7351,3 +7351,6 @@
 {"address": "0x5658DC089838d77e899fF5308aFe0c248b6FEa48", "name": "CDeployer", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/3/2022"}
 {"address": "0xae477db6f4bdf49bf48221691ec4cb7bdd1be0b7", "name": "SettleBoardAutomator", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/3/2022"}
 {"address": "0x5fd7dAFD94585F9c046a6b9f795c39220602fe9e", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/4/2022"}
+{"address": "0x6a063c12aD67B7Ec793ad3E86E6a16177F01C12D", "name": "AdminUpgradeabilityProxy", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/5/2022"}
+{"address": "0xCF6467E1e517471689b46644265947a5c4aD5797", "name": "VaultFarm", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0xa5218a1458B3510DA217E85712eD87A4bf2e11F1", "name": "ProxyAdmin", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/5/2022"}
