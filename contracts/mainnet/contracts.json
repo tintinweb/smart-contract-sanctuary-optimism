@@ -7371,3 +7371,12 @@
 {"address": "0xBeC2319D2F025de374CD09A9EaaD5e6C9130F5Ea", "name": "Booom721", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/5/2022"}
 {"address": "0x062aC428A0fc55A8435499bf11a9255031Ba2d90", "name": "StrategyOLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 15, "settings": "", "date": "12/5/2022"}
 {"address": "0xc1dc974b226582eb351f4b03488ee3eab4cbd92a", "name": "Badges", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0x46A7213343e68809D04cd1c88E7Fd1DD606cd86a", "name": "StrategyHomora", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "12/6/2022"}
+{"address": "0x81ab3492BACFfF639dDE60763Ccf9E348117075d", "name": "StrategyHomora", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "12/6/2022"}
+{"address": "0x77AE10Dd2E7Fc7b2819602D483765D705E9B8DDA", "name": "PoolMinter", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 13, "settings": "", "date": "12/5/2022"}
+{"address": "0x7e01B39214080559e495294116dECA84afa8E716", "name": "PoolMetadata", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/5/2022"}
+{"address": "0x6724c95Af33e396d85D2Fc93609C60D23490878B", "name": "FlexiPunkTLD", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0x58099109D41D85F67c78c1DFa23Ae339605F4d82", "name": "FlexiPunkTLDFactory", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/5/2022"}
+{"address": "0x6e58a098add16e083261803340863d215FF7D352", "name": "FlexiPunkMetadata", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0x89BFa5E5dD6272D88865757e27cae7ee98892FbD", "name": "DefiiFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0x1E68c60DdAC9836552f95bC5681f578cCC420Dbf", "name": "UniswapV3OptimismUsdcUsdt", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/5/2022"}
