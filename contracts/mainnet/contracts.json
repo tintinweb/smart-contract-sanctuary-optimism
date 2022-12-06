@@ -7380,3 +7380,6 @@
 {"address": "0x6e58a098add16e083261803340863d215FF7D352", "name": "FlexiPunkMetadata", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/5/2022"}
 {"address": "0x89BFa5E5dD6272D88865757e27cae7ee98892FbD", "name": "DefiiFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/5/2022"}
 {"address": "0x1E68c60DdAC9836552f95bC5681f578cCC420Dbf", "name": "UniswapV3OptimismUsdcUsdt", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/5/2022"}
+{"address": "0x9802cBf6480FE2a0c69740Bc8008739DfF1E7CEF", "name": "ZKPass", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "12/6/2022"}
+{"address": "0x491580BF00c6a0a2D807D542a194d91232702080", "name": "RecurringSwapV1", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "12/6/2022"}
+{"address": "0x01A6f15b030ED349dc5395239C7d37Bb91121c84", "name": "MasterChefWoo", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 17, "settings": "", "date": "12/6/2022"}
