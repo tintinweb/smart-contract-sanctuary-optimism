@@ -7383,3 +7383,16 @@
 {"address": "0x9802cBf6480FE2a0c69740Bc8008739DfF1E7CEF", "name": "ZKPass", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "12/6/2022"}
 {"address": "0x491580BF00c6a0a2D807D542a194d91232702080", "name": "RecurringSwapV1", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "12/6/2022"}
 {"address": "0x01A6f15b030ED349dc5395239C7d37Bb91121c84", "name": "MasterChefWoo", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 17, "settings": "", "date": "12/6/2022"}
+{"address": "0x9abf798f5314bfd793a9e57a654bed35af4a1d60", "name": "AaveParaswapFeeClaimer", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/6/2022"}
+{"address": "0x85236cC90e15708e4F002eCA05b3b1B83be184B3", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/6/2022"}
+{"address": "0x723a9d120ed2cd90ac550d779375f6178bfd86e3", "name": "RewardsController", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/6/2022"}
+{"address": "0xd98ff6F1fB204c31D0C69fA016CE14071103bBD2", "name": "SwitchEvent", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/6/2022"}
+{"address": "0x31dbb50cb3D8C7114728EF4660aB4197da77f584", "name": "CallDataExecutor", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/6/2022"}
+{"address": "0x24001C84a8aca6F24D86B389F2d8095Aa19d7Dd6", "name": "PriceTracker", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/6/2022"}
+{"address": "0x025801923B2940b7b84D81722B00267C379d6a38", "name": "ABStream", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/6/2022"}
+{"address": "0x167832BAF36D1AC0aF9e8d8aD329Fa418BeD5cD9", "name": "ABToken", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/6/2022"}
+{"address": "0x651C79B730118A2E9A4A5115551Cd12F9FFf69ec", "name": "OpSynthSwap", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "12/6/2022"}
+{"address": "0xA65a1EcC1e881f35f8ec9F9723ecb3278ccCDBE4", "name": "OpSynthSwap", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "12/6/2022"}
+{"address": "0x8528d5a340bef2e50844cdabdfa21bc6b57c3982", "name": "SafeboxFactory", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/6/2022"}
+{"address": "0x8e6ee42575cD6E3680D29cbEAe5032C33d668032", "name": "SeaportModule", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/6/2022"}
+{"address": "0xC0F489a34672d5B960A19279d99D77E94221D0C9", "name": "ReservoirV6_0_0", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/6/2022"}
