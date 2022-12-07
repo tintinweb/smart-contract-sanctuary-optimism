@@ -7434,3 +7434,13 @@
 {"address": "0x0E6414797BD98E01df71793f857d802070487012", "name": "Keep3rHelperSidechain", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/7/2022"}
 {"address": "0x01cF2e942E713aEB4EAe02d73FE060AD0c8d3897", "name": "Keep3rEscrow", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/7/2022"}
 {"address": "0xd420d6c8aa81c087829a64ce59936b7c1176a81a", "name": "Vyper_contract", "compiler": "vyper:0.3.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0x4fcdebab04f0e7f64e992861fd948df2753b0a56", "name": "BeefyZapOneInch", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0x8a69309bb573030effeb36787651121c25646d58", "name": "BeefyReceiver", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0xc057ef640a24a7acb02938666aa9bad9b00046c9", "name": "EXPerienceNFT", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0x2b6ceb58b910e21f36ce0d0cebbf308fa237fe6d", "name": "EXPerienceRenderer", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0x537AF717cD649aE3307FcFD9c078e817df8B646C", "name": "ZKEdition", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0xBa489B949294b3BE8F0413FF2a734a823845A2DC", "name": "DCNT4907A", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0x7f6c3D5c5524b6B48607Ef617F3c311FFd6D0588", "name": "DCNT721A", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0x3a50cf8122B89dc8785770Cf8A8c07d5C0627c72", "name": "DCNTSDK", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0xcd218526380baa54a9aef470ceac6703f089d949", "name": "StargateCurveReceiver", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/7/2022"}
+{"address": "0x03480366701bac978fab9db10a0cced8146f6d49", "name": "StargateCurveReceiver", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/7/2022"}
