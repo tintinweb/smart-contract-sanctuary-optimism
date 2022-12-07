@@ -7417,3 +7417,8 @@
 {"address": "0x8eD07f6f9A47C6a336f8288386be7b8ec55DbB0A", "name": "Switch", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/6/2022"}
 {"address": "0xCE46E61379C9e7Bd24071644aB6B8e19433Ad457", "name": "SwitchHyphen", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/6/2022"}
 {"address": "0x5844f597E2824Ec53e59c3EbE5Ae7E54769cB965", "name": "SwitchHop", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/6/2022"}
+{"address": "0xA67b62902B6270C2c2CC363Fa2a0982eCa525614", "name": "Interaction", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0xA3e37D5dB260dAf07d311150fd46Dc9CFc1a86a2", "name": "FundController", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0xbec8e19a4e85fb3a4e2105b10ec4c170300ecd6b", "name": "UtoolsMultiSenderProxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0x9812968F702b4870800508980e39CE7fe74A5De1", "name": "VaultAggregator", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0xc0f8C29e3a9A7650a3F642e467d70087819926d6", "name": "MasterChefReward", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "12/7/2022"}
