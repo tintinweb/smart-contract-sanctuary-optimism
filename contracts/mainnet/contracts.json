@@ -7473,3 +7473,12 @@
 {"address": "0x1a9fda6626097E9DEd33204E485dEf332F2B665b", "name": "StrategyCommonSolidlyGaugeLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "12/8/2022"}
 {"address": "0x1e21bc42faf802a0f115dc998e2f0d522adb1f68", "name": "BalanceScanner", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/8/2022"}
 {"address": "0xb78b9B42bC43BC14040ACb18E79AB35c47eab487", "name": "OneClicks", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 35, "settings": "", "date": "12/8/2022"}
+{"address": "0x691b41805f7ef2d7de6165bc42295b035a31600d", "name": "AaveV3OptCapsPayload", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x206232aE5d6564CBf5a65530ca737673bf5E45c4", "name": "HyperLPRouter", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/8/2022"}
+{"address": "0x0dCF6C307B38586DEebEd0F72C8d1531CAF34B74", "name": "HyperLPRouter", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/8/2022"}
+{"address": "0xa5b4ba9e8f90737A3BB206f5bcEc170A0A2FD329", "name": "HyperLPRouter", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/8/2022"}
+{"address": "0x65A1C0bE1151aEAcddc698e5dAcC4ed3c566744F", "name": "DhedgeEasySwapper", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0xD90Ebd5E551d7451FA289b033755e74588230063", "name": "ParaswapWrapper", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x6765a69c47b3c675329317aCb415DD90fE368014", "name": "RewardRouterV2", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 875, "settings": "", "date": "12/8/2022"}
+{"address": "0x3D42A6B7cD504cA2283Bc8F37fea859a11Ca89fb", "name": "SicleRouter02", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x2F0C7C98462651BB2102F6Cd05acDAd333E031b0", "name": "SicleFactory", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/8/2022"}
