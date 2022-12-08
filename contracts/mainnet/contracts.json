@@ -7455,3 +7455,19 @@
 {"address": "0x6f0BC558ed0aafc36EaafA8F67A63D7126565666", "name": "FundFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/7/2022"}
 {"address": "0x3007DB59A437f3F0a64b4fE26c8caf20E9Cb6f43", "name": "BridgeToken", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/7/2022"}
 {"address": "0xf746ec527adf5720c94b33748b6e313535e082a7", "name": "CLOUD", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 14, "settings": "-", "date": "12/7/2022"}
+{"address": "0x5f4d15d761528c57a5c30c43c1dab26fc5452731", "name": "RewardsController", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/8/2022"}
+{"address": "0xC8aE2A55bC4Bf3280a38C76077A43D4D4a086272", "name": "CoingeckoOracle", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x9B8a68e7877b20628869240eA9028e725eb08c1b", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x76E6Cf607b2e7dE9b9806e57DAc1C1a0B458418D", "name": "FundController", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x0b0Af37fb336d6184F0D207B003FB8bfAD34050B", "name": "FundController", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x5Ebe7ee72ab56f82194e61D95d5A0a32CdF722E1", "name": "Vyper_contract", "compiler": "vyper:0.3.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x78120C1cA337007323dE2226D677E7Fcf42d6EE7", "name": "SurplusBeneficiary", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/8/2022"}
+{"address": "0x27869dA85a4325A1a3408E344dC272F1ab5Be8d1", "name": "FundController", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x9AE49cE0AbB473D5D2bB96f366EfEf6177fC7594", "name": "FundController", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x1d864edca89b99580c46cec4091103d7fb85adcf", "name": "ThreeStepQiZappah", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0xb0aed7923f7fbeaf5bb2caa4a049a51d638be2c9", "name": "QiZappah", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x6164A4f3bbD87A0a11cC5F14278B8ab260217599", "name": "CollateralManager", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/8/2022"}
+{"address": "0x099b59d7ac07B765E3de0Ee16Dfce846a0bAa61b", "name": "InsuranceFund", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/8/2022"}
+{"address": "0xcf10d17baD67Ce190a94f08Fdd7B4E51540Fd860", "name": "Vault", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/8/2022"}
+{"address": "0x5ED5eb2bdC4F8c30b19F69b3dd9BD1D239de48Fd", "name": "ClearingHouse", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/8/2022"}
+{"address": "0x1a9fda6626097E9DEd33204E485dEf332F2B665b", "name": "StrategyCommonSolidlyGaugeLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "12/8/2022"}
