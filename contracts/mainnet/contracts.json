@@ -7444,3 +7444,14 @@
 {"address": "0x3a50cf8122B89dc8785770Cf8A8c07d5C0627c72", "name": "DCNTSDK", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/7/2022"}
 {"address": "0xcd218526380baa54a9aef470ceac6703f089d949", "name": "StargateCurveReceiver", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/7/2022"}
 {"address": "0x03480366701bac978fab9db10a0cced8146f6d49", "name": "StargateCurveReceiver", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0xD858783942f23D9ca023D872664e5047c326ee45", "name": "BeefyReceiver", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0xcA96C4f198d343E251b1a01F3EBA061ef3DA73C1", "name": "MockStaticAToken", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x56017074321ce77E2F88F2233830f5b29d4cf595", "name": "MockAaveLendingPool", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x56374fC9fc7b71C5eb1BAbc3D7561364a02AE54b", "name": "AaveLinearPoolRebalancer", "compiler": "0.7.1", "balance": "-", "txcount": 0, "settings": "", "date": "12/8/2022"}
+{"address": "0x5936497ffE0dBA0eF272D6301D65c0122862971A", "name": "AaveLinearPool", "compiler": "0.7.1", "balance": "-", "txcount": 0, "settings": "", "date": "12/8/2022"}
+{"address": "0xAd3CC7852382C09fdCE54784292c6aB7fb9Df917", "name": "AaveLinearPoolFactory", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/8/2022"}
+{"address": "0x5547b626e8AC5bAb0B6160546A3eA4215A879012", "name": "QHFeeder", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0x4F8f29C39E6BFFc3010Cc7adf82A946c477f3d5d", "name": "Interaction", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0x6f0BC558ed0aafc36EaafA8F67A63D7126565666", "name": "FundFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0x3007DB59A437f3F0a64b4fE26c8caf20E9Cb6f43", "name": "BridgeToken", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/7/2022"}
+{"address": "0xf746ec527adf5720c94b33748b6e313535e082a7", "name": "CLOUD", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 14, "settings": "-", "date": "12/7/2022"}
