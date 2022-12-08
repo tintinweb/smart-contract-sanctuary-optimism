@@ -7471,3 +7471,5 @@
 {"address": "0xcf10d17baD67Ce190a94f08Fdd7B4E51540Fd860", "name": "Vault", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/8/2022"}
 {"address": "0x5ED5eb2bdC4F8c30b19F69b3dd9BD1D239de48Fd", "name": "ClearingHouse", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/8/2022"}
 {"address": "0x1a9fda6626097E9DEd33204E485dEf332F2B665b", "name": "StrategyCommonSolidlyGaugeLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "12/8/2022"}
+{"address": "0x1e21bc42faf802a0f115dc998e2f0d522adb1f68", "name": "BalanceScanner", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/8/2022"}
+{"address": "0xb78b9B42bC43BC14040ACb18E79AB35c47eab487", "name": "OneClicks", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 35, "settings": "", "date": "12/8/2022"}
