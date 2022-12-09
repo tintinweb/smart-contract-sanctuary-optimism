@@ -7486,3 +7486,14 @@
 {"address": "0x89D8b3460d28aeD322A74F00C4Ba7a27F8A54AA0", "name": "QHFeeder", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/8/2022"}
 {"address": "0xEF44D8e4eAb1ACB4922B983253B5B50386E8668E", "name": "ReveelMainV2", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/8/2022"}
 {"address": "0x81d5b18d28368636c7d3C7565025203E9dBfA00b", "name": "RevenuePathV2", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x9eA1C30A61f33c82762DF9bce404B19735302B88", "name": "StargateIpml", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0x7168f84bbe811b50649bf05A59757cb7f9623CCf", "name": "PoolTogetherPortalIn", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0x69663Eb604C7d534e9149fa855D89d9104E75363", "name": "MintSwapCanonicalToken", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/9/2022"}
+{"address": "0xd3262d349c8B160eFe487366f0F04DDdEbE4d561", "name": "SequencerHandlerUpgradeable", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0xfd951e71A8Ec5C03AD6139d35F800374Ba500fA8", "name": "MintSwapCanonicalToken", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/9/2022"}
+{"address": "0x253BE9F0e2A8749dF6aC7466D096B264788745e0", "name": "MintSwapCanonicalToken", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/9/2022"}
+{"address": "0x50Ec9b92b3bD46969B1AE5E10543Ca6fB49Fba4f", "name": "MintSwapCanonicalToken", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/9/2022"}
+{"address": "0x1bba8683E28078306db88743a387EB34Fb5f34Ed", "name": "MintSwapCanonicalToken", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/9/2022"}
+{"address": "0xff86404162BF14Fe50CEdcF82A56941DC5F48c77", "name": "MintSwapCanonicalToken", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/9/2022"}
+{"address": "0xE80e0B928F8f3024dfeFa56E7608bC3bAF389881", "name": "MintSwapCanonicalToken", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/9/2022"}
+{"address": "0x0509474f102b5cd3f1f09e1E91feb25938eF0f17", "name": "MintSwapCanonicalToken", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/9/2022"}
