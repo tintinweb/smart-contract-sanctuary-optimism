@@ -7482,3 +7482,7 @@
 {"address": "0x6765a69c47b3c675329317aCb415DD90fE368014", "name": "RewardRouterV2", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 875, "settings": "", "date": "12/8/2022"}
 {"address": "0x3D42A6B7cD504cA2283Bc8F37fea859a11Ca89fb", "name": "SicleRouter02", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/8/2022"}
 {"address": "0x2F0C7C98462651BB2102F6Cd05acDAd333E031b0", "name": "SicleFactory", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/8/2022"}
+{"address": "0x4cb46032e2790d8ca10be6d0001e8c6362a76ada", "name": "MockAddrMapper", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0x89D8b3460d28aeD322A74F00C4Ba7a27F8A54AA0", "name": "QHFeeder", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0xEF44D8e4eAb1ACB4922B983253B5B50386E8668E", "name": "ReveelMainV2", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x81d5b18d28368636c7d3C7565025203E9dBfA00b", "name": "RevenuePathV2", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/8/2022"}
