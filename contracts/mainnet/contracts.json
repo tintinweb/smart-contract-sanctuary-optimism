@@ -7497,3 +7497,11 @@
 {"address": "0xff86404162BF14Fe50CEdcF82A56941DC5F48c77", "name": "MintSwapCanonicalToken", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/9/2022"}
 {"address": "0xE80e0B928F8f3024dfeFa56E7608bC3bAF389881", "name": "MintSwapCanonicalToken", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/9/2022"}
 {"address": "0x0509474f102b5cd3f1f09e1E91feb25938eF0f17", "name": "MintSwapCanonicalToken", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/9/2022"}
+{"address": "0x2e2Cc6eFCf8B6193A32a92B33747C081FE44bf1d", "name": "BeefyOPX", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0x6BBFf53cC5c422Ec01BCF00Ddd81b68E7994e110", "name": "BeefyRewardPool", "compiler": "0.5.5", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/9/2022"}
+{"address": "0x8f6A97a42AB597107f1F996079643c8f25Fc50de", "name": "BeefyOPX", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0x03a5fEA242ac9064e23C542b6b6020ab0E647400", "name": "BeefyOPX", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0x4744399057960732aee6e9bfde1dbc66c4dae9ed", "name": "Badges", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0x1d3aAC239538e6F1831C8708803e61A9EA299Eec", "name": "V2CompatibilityRouter", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/9/2022"}
+{"address": "0x430c6372713f94eb598b0a0df97626f3936b54ba", "name": "ASP", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/9/2022"}
+{"address": "0x1ed9de7B024aD5cE8e5Efab8b7B4720e22F0cF50", "name": "PoolTogetherPortalOut", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/9/2022"}
