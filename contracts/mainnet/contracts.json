@@ -7527,3 +7527,6 @@
 {"address": "0x28bc3F4C21504c4686f88238cF424c353e3E628E", "name": "CaskDCAManager", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/10/2022"}
 {"address": "0x40036f94054CE5b42fc85D6c84cf94d98f68561A", "name": "CaskDCA", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/10/2022"}
 {"address": "0x118d4f68a0c0ab9468a3ef50d19c0055e6c73bc9", "name": "KaliDAOrelayer", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/10/2022"}
+{"address": "0x814EC45b15C0CcBA13aF3F132602CBBACBcD3130", "name": "CollectionsRepository", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/10/2022"}
+{"address": "0x3EaEC4B4fA0cFa49481BcD23bB154A1465f3C73f", "name": "CollectionFactory", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/10/2022"}
+{"address": "0x0030e8142364eA1165d6872D2D4fd87a7a9Eb2Bc", "name": "TokenFactory", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "12/10/2022"}
