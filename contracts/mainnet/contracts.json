@@ -7505,3 +7505,13 @@
 {"address": "0x1d3aAC239538e6F1831C8708803e61A9EA299Eec", "name": "V2CompatibilityRouter", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/9/2022"}
 {"address": "0x430c6372713f94eb598b0a0df97626f3936b54ba", "name": "ASP", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/9/2022"}
 {"address": "0x1ed9de7B024aD5cE8e5Efab8b7B4720e22F0cF50", "name": "PoolTogetherPortalOut", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0xf0a092eb2e407a44e2c4bd654454fe597a185d42", "name": "ERC1967Proxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/10/2022"}
+{"address": "0x86d7583d48083e301e3d3cde9df5ad9b33671c22", "name": "Swype", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/10/2022"}
+{"address": "0x779633a2f85e31a1584d9d4c1ed827180cd404d9", "name": "ERC1967Proxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "12/10/2022"}
+{"address": "0x3047740230eb12ab020a2285885951522b3c46a9", "name": "Swype", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/10/2022"}
+{"address": "0xBDF04fcB4447Db243F06194bdfce3224c32E5C3F", "name": "CollectionsRepository", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/10/2022"}
+{"address": "0xC9D5Dc2753038429A04FB9cacd75C9880543D9b4", "name": "OEStandardSecurityToken", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0xb30b11422d255f845dcef70ecd22db87a7595c14", "name": "UMATriggerFactory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0x22d0e5a7675e710caaa0abe3b7013a35ef940bc0", "name": "ChainlinkTriggerFactory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0x323818ba51C7ff001cC1DAAFb6143a9AB7f292A9", "name": "BeefyOPX", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0x5d10cb7163f107c3f236b40d7c51f50898cdf72b", "name": "GenericIronBank", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/9/2022"}
