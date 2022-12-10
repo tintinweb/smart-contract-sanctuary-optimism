@@ -7515,3 +7515,7 @@
 {"address": "0x22d0e5a7675e710caaa0abe3b7013a35ef940bc0", "name": "ChainlinkTriggerFactory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/9/2022"}
 {"address": "0x323818ba51C7ff001cC1DAAFb6143a9AB7f292A9", "name": "BeefyOPX", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/9/2022"}
 {"address": "0x5d10cb7163f107c3f236b40d7c51f50898cdf72b", "name": "GenericIronBank", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0xA25056C67d5211617e4e5088d454b0eaB45E4b84", "name": "CollectionsRepository", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/10/2022"}
+{"address": "0xF5696dE2efC5fAE5c860ff52Ecf9DEaa02edaEd2", "name": "CollectionFactory", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "12/10/2022"}
+{"address": "0x85197bC6A4753829889Cf31193639f2429a80A46", "name": "AnyswapImplL2", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/10/2022"}
+{"address": "0xA62eC7F77e98cd710d63861930A00161085554Ae", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "12/10/2022"}
