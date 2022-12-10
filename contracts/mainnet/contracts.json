@@ -7519,3 +7519,11 @@
 {"address": "0xF5696dE2efC5fAE5c860ff52Ecf9DEaa02edaEd2", "name": "CollectionFactory", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "12/10/2022"}
 {"address": "0x85197bC6A4753829889Cf31193639f2429a80A46", "name": "AnyswapImplL2", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/10/2022"}
 {"address": "0xA62eC7F77e98cd710d63861930A00161085554Ae", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "12/10/2022"}
+{"address": "0xfA07af9E5835D720b3798a37f716749252F94D71", "name": "CaskSubscriptions", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/10/2022"}
+{"address": "0x4A6f232552E0fd76787006Bb688bFBCB931cc3d0", "name": "CaskSubscriptionPlans", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/10/2022"}
+{"address": "0x781a5958954a10066feB7B3E94D22D9F8c163e8b", "name": "CaskSubscriptionManager", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/10/2022"}
+{"address": "0x28418B0AB2C00142a865971dcC6a4b1154DaD19E", "name": "CaskP2PManager", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/10/2022"}
+{"address": "0xf26DAaBed3eCA8696471aB24eF0226444DF50F46", "name": "CaskP2P", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/10/2022"}
+{"address": "0x28bc3F4C21504c4686f88238cF424c353e3E628E", "name": "CaskDCAManager", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/10/2022"}
+{"address": "0x40036f94054CE5b42fc85D6c84cf94d98f68561A", "name": "CaskDCA", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/10/2022"}
+{"address": "0x118d4f68a0c0ab9468a3ef50d19c0055e6c73bc9", "name": "KaliDAOrelayer", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/10/2022"}
