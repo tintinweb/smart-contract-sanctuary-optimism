@@ -7530,3 +7530,8 @@
 {"address": "0x814EC45b15C0CcBA13aF3F132602CBBACBcD3130", "name": "CollectionsRepository", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/10/2022"}
 {"address": "0x3EaEC4B4fA0cFa49481BcD23bB154A1465f3C73f", "name": "CollectionFactory", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/10/2022"}
 {"address": "0x0030e8142364eA1165d6872D2D4fd87a7a9Eb2Bc", "name": "TokenFactory", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "12/10/2022"}
+{"address": "0x1E7CFcdc3d833Bf7298d8D98DD20aFcDCDFC904a", "name": "ChaorenNFT", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/11/2022"}
+{"address": "0x6333d7501c897d153598f01d8fe0b5b587e43e49", "name": "StealthKeyRegistry", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/11/2022"}
+{"address": "0x8f07f26f9bc82174d30d21260b87dccfae9a3276", "name": "SPayment", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/11/2022"}
+{"address": "0x46295192eE61542e3C54ef33bFE3E5A11b848B41", "name": "OmniERC721", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "12/11/2022"}
+{"address": "0x499c4a70c3968ff9ebda11ca5377a504df6993a3", "name": "KaliDAOrelayer", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/10/2022"}
