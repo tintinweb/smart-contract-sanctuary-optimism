@@ -7639,3 +7639,15 @@
 {"address": "0xf0Faf495905506f156b6cC2d8810CF3073E04870", "name": "AlchemixHarvester", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "12/14/2022"}
 {"address": "0x266c8f8cdA4360506b8D32Dc5C4102350a069aCD", "name": "fTokenOC", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/14/2022"}
 {"address": "0x716fcc67dca500a91b4a28c9255262c398d8f971", "name": "DODOFeeRouteProxy", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0x36A93fD5971BD3bf26561ce5E855AAD91362B738", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "12/14/2022"}
+{"address": "0x91fb92d0c69F0EbBab584F9Fc38177F79711b705", "name": "CLPCurve", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "12/14/2022"}
+{"address": "0xEE03281dc9F441D0F01CBed26592Aa1041Cb3E27", "name": "LongGammaStrategy", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "12/14/2022"}
+{"address": "0x520C0Ec4943E3f303Bb1421F2035805C4aBd5fBE", "name": "OpFactory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0xE2C6022A18933F9741f351b48dFE9D0AEB436028", "name": "Cbridge", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0x251573b60b2976fA263bAB01D687594eF92B0291", "name": "OpFactory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/14/2022"}
+{"address": "0xf0963664c4348C6b8B877A81E7dd727d55FdbD40", "name": "Stargate", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0x87CC0d40801f47CacF6dEC2f080741eA52FA93fb", "name": "StrandsVault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "12/14/2022"}
+{"address": "0xeEc72BDedF148036D2356ce8242C1627Ecaa5f4b", "name": "DeltaShortStrategy", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "12/14/2022"}
+{"address": "0x83b5Da20319D011144eA9E34205bBC734ABFf1C8", "name": "StrandsLyraVault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "12/14/2022"}
+{"address": "0xd9c39329ad477cf7e9611b0676d481daf006b182", "name": "SpecDataHolder", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0x86196e610ace45257456c648fa1cdc146ce6516f", "name": "Multicall", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/14/2022"}
