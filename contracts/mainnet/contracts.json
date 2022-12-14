@@ -7630,3 +7630,7 @@
 {"address": "0x4e21EcDDCFf1E8C0bee0E7C0Cddcf83b277f1766", "name": "NFTDistributor", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/13/2022"}
 {"address": "0x78061326B02D5328B60f261dB8415B0D98472bd4", "name": "NFTDistributor", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/13/2022"}
 {"address": "0xB6d04C1bE42756907cF0392EA21B01CDA8A9B795", "name": "OppaBearEvolutionGen1Pool", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/13/2022"}
+{"address": "0xE77f03F5007Df49005CAf2a2f1D872c51aE51fD1", "name": "BeefyLinearPoolFactory", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0x22D710931F01c1681Ca1570Ff016eD42EB7b7c2a", "name": "Vyper_contract", "compiler": "vyper:0.3.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0x0fc6c37755603dfdeaa63a227ca78850f31d8478", "name": "BeneficiarySuperApp", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/13/2022"}
+{"address": "0x03ee7f7Be8934f03c265cE7823Fcc2f9e541A3Fc", "name": "HyperLPRouter", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/13/2022"}
