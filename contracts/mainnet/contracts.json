@@ -7651,3 +7651,8 @@
 {"address": "0x83b5Da20319D011144eA9E34205bBC734ABFf1C8", "name": "StrandsLyraVault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "12/14/2022"}
 {"address": "0xd9c39329ad477cf7e9611b0676d481daf006b182", "name": "SpecDataHolder", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/14/2022"}
 {"address": "0x86196e610ace45257456c648fa1cdc146ce6516f", "name": "Multicall", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0xF4bFb93AF747d5A987c4B269879F64768C10D7Ec", "name": "Optimist", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "12/14/2022"}
+{"address": "0x1BEb19F1685ddF2F774884902119Fa2FA5d8f509", "name": "AttestationStation", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "12/14/2022"}
+{"address": "0xaacA165FD5abb6564098e8595BC836470f19e209", "name": "OptimismAdapter01", "compiler": "0.7.5", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0x3983c50ff4cd25b43a335d63839b1e36c7930d41", "name": "BeefyZapOneInch", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 19, "settings": "", "date": "12/14/2022"}
+{"address": "0x189fbeccff6245ccda0cd8b03d55104cf36b095e", "name": "Xmas23", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 113, "settings": "", "date": "12/14/2022"}
