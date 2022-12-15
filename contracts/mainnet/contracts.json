@@ -7674,3 +7674,11 @@
 {"address": "0x5f5187478205770337fcbef314c201b2286e2b2d", "name": "DhedgeEasySwapper", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/15/2022"}
 {"address": "0x8eb2c0a8400f683f8527c790e1e56b35e55072d7", "name": "BasicToken", "compiler": "0.4.18", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "12/15/2022"}
 {"address": "0xf9331827875f59442Fdb66D02b378a2caD22c0BB", "name": "QHFeeder", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0xD870A73a32d0b8C34CcF1E6098E9A26977CB605b", "name": "FlipsideAttestation", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0xeaD44C29d90E33E849E9C621d81ab48Fb70cb9bE", "name": "StrategyEtsUsdcDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0x1a3e5557039763425b00a2e1b0eb767b01d64756", "name": "BeefyLaunchpool", "compiler": "0.5.5", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "12/15/2022"}
+{"address": "0x61B1Ca28B8eCcdE2D9b91DEd22981FDaaE17F6eC", "name": "Interaction", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0xa98CA663cbeeb5758886E76D7e26F2Ca369e5753", "name": "HedgeExchanger", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0x9EB26Cf262c3B3958EDa273304576af312a5983e", "name": "RebaseToken", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0x18e37a53cac94fFb4a3aA8544Fb4B6C2Bf055019", "name": "CrossChainAdapter", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0xdAd9f0aE49F8E769D45d8639e5F11CA1bCa23487", "name": "SendTokens", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/15/2022"}
