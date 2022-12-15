@@ -7682,3 +7682,5 @@
 {"address": "0x9EB26Cf262c3B3958EDa273304576af312a5983e", "name": "RebaseToken", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/15/2022"}
 {"address": "0x18e37a53cac94fFb4a3aA8544Fb4B6C2Bf055019", "name": "CrossChainAdapter", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/15/2022"}
 {"address": "0xdAd9f0aE49F8E769D45d8639e5F11CA1bCa23487", "name": "SendTokens", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0x5392e06aC979e370fD45d25d0b5424cd8CA56529", "name": "DCNTStaking", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0x480798fac621add14113ecc82638305c260ceaf1", "name": "PerformanceTokens", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/15/2022"}
