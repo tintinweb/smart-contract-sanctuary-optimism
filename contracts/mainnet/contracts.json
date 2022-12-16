@@ -7684,3 +7684,15 @@
 {"address": "0xdAd9f0aE49F8E769D45d8639e5F11CA1bCa23487", "name": "SendTokens", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/15/2022"}
 {"address": "0x5392e06aC979e370fD45d25d0b5424cd8CA56529", "name": "DCNTStaking", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/15/2022"}
 {"address": "0x480798fac621add14113ecc82638305c260ceaf1", "name": "PerformanceTokens", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/15/2022"}
+{"address": "0xc2736666DE3154C7db1d630fDf30BfF3D4cA4dc0", "name": "DhedgeStakingV2", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/16/2022"}
+{"address": "0xc295fAA7B3cB6c70A9D52eC07eD7fE2B656d823e", "name": "DhedgeStakingV2", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/16/2022"}
+{"address": "0xF781891Ec2F2465e1E3d92328f3745559EcabfC7", "name": "DhedgeStakingV2NFTJson", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/16/2022"}
+{"address": "0x7ac81dacf0f5f4c17fe14c174dcb372d46830244", "name": "PermissionlessCrewmember", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0x0bf0813ec9170356c51c1bad52c3fe146d1ccc48", "name": "TargetAMB", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "", "date": "12/15/2022"}
+{"address": "0x5aB303a1027D46F44aA2e801696F1F0E87f91981", "name": "BeefyOPX", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0x873d63274da701ca18a7287e2d57a4d23793c797", "name": "LightClient", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0x889C69745b5dE03eb167e18B1E0F33d92E024a2E", "name": "StrategyAlphaHomora", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0x91Bd6f598549360004d0A4d436bF4c67730850f8", "name": "AdrastiaUniswapV3PA", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "12/15/2022"}
+{"address": "0x65368B6f03cDb1D4295Be2804DA66edA634C2541", "name": "AdrastiaTwapOracle", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "12/15/2022"}
+{"address": "0x6eE3b0daeF79522784d8e63Ebb62f10F8008EB3b", "name": "AdrastiaUniswapV3LA", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "12/15/2022"}
+{"address": "0x0fe2E4130e564C4e0B9F7652d7773018869b7AdC", "name": "AdrastiaAggregatedTwapOracle", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/15/2022"}
