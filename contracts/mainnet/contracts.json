@@ -7696,3 +7696,4 @@
 {"address": "0x65368B6f03cDb1D4295Be2804DA66edA634C2541", "name": "AdrastiaTwapOracle", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "12/15/2022"}
 {"address": "0x6eE3b0daeF79522784d8e63Ebb62f10F8008EB3b", "name": "AdrastiaUniswapV3LA", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "12/15/2022"}
 {"address": "0x0fe2E4130e564C4e0B9F7652d7773018869b7AdC", "name": "AdrastiaAggregatedTwapOracle", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0xE0245d079295246e570894ec6014713ED276efF3", "name": "DexForwarderOptimism", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/16/2022"}
