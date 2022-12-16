@@ -7697,3 +7697,12 @@
 {"address": "0x6eE3b0daeF79522784d8e63Ebb62f10F8008EB3b", "name": "AdrastiaUniswapV3LA", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "12/15/2022"}
 {"address": "0x0fe2E4130e564C4e0B9F7652d7773018869b7AdC", "name": "AdrastiaAggregatedTwapOracle", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/15/2022"}
 {"address": "0xE0245d079295246e570894ec6014713ED276efF3", "name": "DexForwarderOptimism", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/16/2022"}
+{"address": "0x41df4284a34e752386d2067cb086c1591461d1c0", "name": "HSendBatchTokens", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/16/2022"}
+{"address": "0x7A64e60e8AeC6492e1D2a6D4e63E2d9ee9e0dd63", "name": "GaslessSmartWallet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/16/2022"}
+{"address": "0x3142E8847391a59106dB8C4A5AD770e4CFda729d", "name": "GSWForwarderProxy", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/16/2022"}
+{"address": "0x47770fD0B127986a5A0Fab22dB3081785838A4Cc", "name": "GSWForwarder", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/16/2022"}
+{"address": "0x6289aB2DE48047Cd77831789D75c76395C29cC60", "name": "GSWFactoryProxy", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/16/2022"}
+{"address": "0x9e5aAEA7B5375B950bE9F20554cCf9535031a32c", "name": "GSWFactory", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/16/2022"}
+{"address": "0x32BaB916c8376B72A28589626774520F8A2C86a2", "name": "GSWVersionsRegistryProxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "12/16/2022"}
+{"address": "0x291E80892cdaaC2933842c725f6604649dbC500D", "name": "GSWVersionsRegistry", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "-", "date": "12/16/2022"}
+{"address": "0xaf63154733A6ea0183F8F9DB699493AE017F766d", "name": "SwitchAcross", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/16/2022"}
