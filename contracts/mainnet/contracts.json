@@ -7706,3 +7706,9 @@
 {"address": "0x32BaB916c8376B72A28589626774520F8A2C86a2", "name": "GSWVersionsRegistryProxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "12/16/2022"}
 {"address": "0x291E80892cdaaC2933842c725f6604649dbC500D", "name": "GSWVersionsRegistry", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "-", "date": "12/16/2022"}
 {"address": "0xaf63154733A6ea0183F8F9DB699493AE017F766d", "name": "SwitchAcross", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/16/2022"}
+{"address": "0x9aAfa4b0260CE3e1Ff18BD6CF930782c414F7C37", "name": "AaveV3ERC4626Reinvest", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/17/2022"}
+{"address": "0xc6a8EA07A8eFab27bAa4a03956105e078053C467", "name": "AaveV3ERC4626ReinvestFactory", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "12/17/2022"}
+{"address": "0x27f775176983a8619310408e09B6F06F149EDc33", "name": "BeersCans", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/17/2022"}
+{"address": "0x74864E42b406a6A3a3c9133f448624305b6e75be", "name": "DestinyTempleMultiSigWallet", "compiler": "0.8.17", "balance": "0.000000000000009912 Ether", "txcount": 10, "settings": "", "date": "12/17/2022"}
+{"address": "0xF2Ee0B18347FF62752a9aFa383df46bCd8d5490E", "name": "DestinyTempleMultiSigWallet", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "12/17/2022"}
+{"address": "0x7644bb43d51869f08149389ed217029529554c5e", "name": "KAZERRZZZRAG", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "12/17/2022"}
