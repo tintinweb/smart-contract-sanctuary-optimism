@@ -7712,3 +7712,8 @@
 {"address": "0x74864E42b406a6A3a3c9133f448624305b6e75be", "name": "DestinyTempleMultiSigWallet", "compiler": "0.8.17", "balance": "0.000000000000009912 Ether", "txcount": 10, "settings": "", "date": "12/17/2022"}
 {"address": "0xF2Ee0B18347FF62752a9aFa383df46bCd8d5490E", "name": "DestinyTempleMultiSigWallet", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "12/17/2022"}
 {"address": "0x7644bb43d51869f08149389ed217029529554c5e", "name": "KAZERRZZZRAG", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "12/17/2022"}
+{"address": "0x5Eee8bFbF4045429242E64F241df3556e2C9900d", "name": "FundFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/18/2022"}
+{"address": "0x5422C94505646C7532Fbc7860dB78Bfc15D77443", "name": "Interaction", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/18/2022"}
+{"address": "0x2604083365a10FE0C71c2E266a376B03F294FcAB", "name": "QHFeeder", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/18/2022"}
+{"address": "0x579E9809C0E06711A815698ebCd38b210621760a", "name": "Sedn", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/18/2022"}
+{"address": "0x8DC32778b81f7C2A537647CCf7fac2F8BC713f9C", "name": "MinimalForwarder", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/18/2022"}
