@@ -7718,3 +7718,9 @@
 {"address": "0x579E9809C0E06711A815698ebCd38b210621760a", "name": "Sedn", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/18/2022"}
 {"address": "0x8DC32778b81f7C2A537647CCf7fac2F8BC713f9C", "name": "MinimalForwarder", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/18/2022"}
 {"address": "0x00960e708d86cdba8f9c8e4856f4afd73d06351a", "name": "UniV3Rebalancer", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0xf94020D6EF0ec28eC3C23635A9034F3181518B71", "name": "QHToken", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0x1030a54366713d3a8Fe2acB13A4CfD5e904EaaFF", "name": "DeBridgesProxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/19/2022"}
+{"address": "0xcc3e76145ad1455Cbe1957398BE829063216BFBE", "name": "FeePoolUpgradeable", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0x715Cc6C0d591CA3FA8EA6e4Cb445adA0DC79069A", "name": "KyberFairLaunchV2", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "12/19/2022"}
+{"address": "0xCb4a2C608768a9Fbc2c7754d69a22B5800391448", "name": "ImmutableCreate2Factory", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0x41a638b3e373c3038952e7773ab9c55029309b6e", "name": "PIXELARTTT", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/19/2022"}
