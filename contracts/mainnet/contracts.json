@@ -7724,3 +7724,20 @@
 {"address": "0x715Cc6C0d591CA3FA8EA6e4Cb445adA0DC79069A", "name": "KyberFairLaunchV2", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "12/19/2022"}
 {"address": "0xCb4a2C608768a9Fbc2c7754d69a22B5800391448", "name": "ImmutableCreate2Factory", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/19/2022"}
 {"address": "0x41a638b3e373c3038952e7773ab9c55029309b6e", "name": "PIXELARTTT", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/19/2022"}
+{"address": "0xca04fa115dc3c65bdfb131642c4b13be8d483390", "name": "NFT", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/19/2022"}
+{"address": "0xcff74b88a276e5d00a44fe95b95b2a84b67349ef", "name": "StickmanSplit", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0x7A821aC6b4bFE8Dfd582b8F110559814c8166C0b", "name": "GSWProxy", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/19/2022"}
+{"address": "0xE52A6bb1Ef848508Bf3033A30A7E39ADE60e4C88", "name": "GaslessSmartWallet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/19/2022"}
+{"address": "0x52f30c01795e84e5c12fa29345f1274d517FB865", "name": "GSWForwarderProxy", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/19/2022"}
+{"address": "0x0bF2678EC399E1BD84a3717dA1d037985457BEb8", "name": "GSWForwarder", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/19/2022"}
+{"address": "0x22D6262937D81ec6CDb2b3D0A00b2CB410F41D3B", "name": "GSWFactoryProxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0xea3A6Bc9CF3B7E86EC2FD5f4a521DED6A9365aa4", "name": "GSWFactory", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/19/2022"}
+{"address": "0x1a17100BD53d7c8d712C49EC2c429A601BbEa365", "name": "GSWVersionsRegistryProxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/19/2022"}
+{"address": "0x06459Ba1b788adFFBf4D2927dbF35383E75C8164", "name": "GSWVersionsRegistry", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "-", "date": "12/19/2022"}
+{"address": "0x203bD71E313B9e6BFC8206bF79ad51b0ECd3AeDb", "name": "OptimismSandboxV1", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/19/2022"}
+{"address": "0x34EF28368797BdD10E17eAbc2a72cBa1A43D283d", "name": "GSWAdmin", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/19/2022"}
+{"address": "0xff8a28ABC89F6788A1786C8455A0beED6E08a1FD", "name": "CrossChainAdapter", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0x19d4448784c8c189b7479Ea96a8497B6E5e793f5", "name": "StoreV3", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0x66d340EB9D3dCe0f78e813E2F991B7CE54a1a28c", "name": "ParaSwapRepayAdapter", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "12/19/2022"}
+{"address": "0xBC2Ff189e0349Ca73D9b78c172FC2B40025abE2a", "name": "ParaSwapLiquiditySwapAdapter", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "12/19/2022"}
+{"address": "0x2808E10705b58b11d05C447f5b2F93836A3B9997", "name": "CrossChainAdapter", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/19/2022"}
