@@ -7741,3 +7741,11 @@
 {"address": "0x66d340EB9D3dCe0f78e813E2F991B7CE54a1a28c", "name": "ParaSwapRepayAdapter", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "12/19/2022"}
 {"address": "0xBC2Ff189e0349Ca73D9b78c172FC2B40025abE2a", "name": "ParaSwapLiquiditySwapAdapter", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "12/19/2022"}
 {"address": "0x2808E10705b58b11d05C447f5b2F93836A3B9997", "name": "CrossChainAdapter", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0x215DD0dA8e3Ae217880D9dc5Cf8eDe04d84Ef240", "name": "OppaBearEvolutionGen1Pool", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "12/20/2022"}
+{"address": "0xaE8d00e43adB49d14Fa07C93b27cdB3Ee94C4675", "name": "StargateFeeLibraryV05", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 17, "settings": "", "date": "12/20/2022"}
+{"address": "0xfabF3031cCB57a65f936881412adE8D4B138C0e5", "name": "BaseToken", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/20/2022"}
+{"address": "0x7e51ad847cdf8729efc97cfa6e8afa4d658cb85b", "name": "fBombV2Bridges", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/20/2022"}
+{"address": "0xA2C9546C2868cf3E5525E33457da4Abf74B15049", "name": "PassageRegistry2", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0x93549B66b68cD91805f8Ce62711144a1bcb0702A", "name": "ClaimList", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0x4bFA830AeD1fb2b1ca4A7B8e92B995cCb2A92A4e", "name": "PricedMint", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0xc7851fc9b6A212d896B17D435d2656A8d9C38642", "name": "Passport2", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/19/2022"}
