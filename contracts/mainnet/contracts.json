@@ -7794,3 +7794,4 @@
 {"address": "0x5f55de21bd34058e0d4f6a78fb1f1f024b85656e", "name": "UMATrigger", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "12/20/2022"}
 {"address": "0x2C554d61B11392FE391058589843089c6e752a16", "name": "BeefyWrapper", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/20/2022"}
 {"address": "0x7e80648EB2071E26937F9D42A513ccf4815fc702", "name": "ForwarderEOAOnly", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/20/2022"}
+{"address": "0x2e7691a1d8f9dd340531a99bfb7dd1e7e4c91130", "name": "Land", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/21/2022"}
