@@ -7783,3 +7783,14 @@
 {"address": "0x9A31867e88CA71ffDBddF812eE046c567a7F6803", "name": "L2Replica", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/20/2022"}
 {"address": "0xD4328b9446a5aC84d53Bbe50De118e4F6E19B0C8", "name": "L2ReplicaFactory", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/20/2022"}
 {"address": "0x79dee4f059e9e1c3fE2b7d26ab0b9454871B64C5", "name": "ReaperVaultv1_4", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/20/2022"}
+{"address": "0xd5dc951d64A0f81B31B851ac62944C6EAc55e0ae", "name": "DhedgeEasySwapper", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/21/2022"}
+{"address": "0x6DE2a40897a0aE21AFf9b1D0d7688bA7D56785eE", "name": "StargateLpStakingContractGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/21/2022"}
+{"address": "0x37776D08A5121a9CEC7C7E4c433Fe9344EB84C49", "name": "StargateRouterContractGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/21/2022"}
+{"address": "0x18921F28c08DBf4f09a18191904fE4689A337463", "name": "StargateLPAssetGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/21/2022"}
+{"address": "0x19a5ec09ee74f64573ac53f48a48616ce943c047", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "0 Ether", "txcount": 17, "settings": "", "date": "12/21/2022"}
+{"address": "0x442BC791338d137d4cc2496DeA78C8292F17C48F", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/20/2022"}
+{"address": "0xf40c3ef015b699cc70088c35efa2cc96af5f8554", "name": "UMATrigger", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "12/20/2022"}
+{"address": "0xb031a530a776ce7019bbc00d0a377f262a46a2f7", "name": "UMATrigger", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "12/20/2022"}
+{"address": "0x5f55de21bd34058e0d4f6a78fb1f1f024b85656e", "name": "UMATrigger", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "12/20/2022"}
+{"address": "0x2C554d61B11392FE391058589843089c6e752a16", "name": "BeefyWrapper", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/20/2022"}
+{"address": "0x7e80648EB2071E26937F9D42A513ccf4815fc702", "name": "ForwarderEOAOnly", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/20/2022"}
