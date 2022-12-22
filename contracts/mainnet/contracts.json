@@ -7879,3 +7879,9 @@
 {"address": "0x431f6E577A431D9EE87a535fDE2dB830E352e33c", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "12/21/2022"}
 {"address": "0xF4619a2c779537cE77362FEeBbE7D4F64a323065", "name": "SavePakistan", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/21/2022"}
 {"address": "0x845936b9749d85d8b2e830bf165ac8506767edfd", "name": "UMATrigger", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "12/21/2022"}
+{"address": "0x1d5207c35f82ef87332c05c3816e4aa34ab8052e", "name": "FillManager", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 12, "settings": "", "date": "12/22/2022"}
+{"address": "0x109962e788AAD540BE3e35A7C14460707B07f037", "name": "ProxyAdmin", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/22/2022"}
+{"address": "0x0b3c3dcf4c9db39b810f306e55cd14aed5c19c0b", "name": "RequestManager", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "12/22/2022"}
+{"address": "0xeb4ae6812406228b57bbace0b55a124e0e7aaafd", "name": "CelerWrapper", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/22/2022"}
+{"address": "0x485F834b27c17427bde6B441b7506E90B401E2A5", "name": "Sedn", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/22/2022"}
+{"address": "0x2250A71a30ed1dE92037383dA49Df30DeeBaF3Af", "name": "MetapassUSD", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/22/2022"}
