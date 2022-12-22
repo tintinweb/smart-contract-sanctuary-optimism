@@ -7889,3 +7889,6 @@
 {"address": "0x75c31cc1a815802336aa3bd3f7caca896afc7630", "name": "Vyper_contract", "compiler": "vyper:0.3.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "12/22/2022"}
 {"address": "0xc9b94bee2b7f4b2ce785538fc0b0d28ce28919cb", "name": "Vyper_contract", "compiler": "vyper:0.3.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "12/22/2022"}
 {"address": "0xf273c166586EDBe0Fad945d24080BAc5624d74d7", "name": "OptimismL2Messenger", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/22/2022"}
+{"address": "0x91c0ba7667821cD3364F98494665360a83fAdDd0", "name": "Badges", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/22/2022"}
+{"address": "0x2a593c9dd08aE58Df82DFdeb67BF7bA666A233e0", "name": "StrategyBeOpx", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/22/2022"}
+{"address": "0x96f990d1aAF83B09a4BA3D22cAab0377a058C84f", "name": "BeefyRewardPool", "compiler": "0.5.5", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "12/22/2022"}
