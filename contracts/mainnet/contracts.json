@@ -7885,3 +7885,7 @@
 {"address": "0xeb4ae6812406228b57bbace0b55a124e0e7aaafd", "name": "CelerWrapper", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/22/2022"}
 {"address": "0x485F834b27c17427bde6B441b7506E90B401E2A5", "name": "Sedn", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/22/2022"}
 {"address": "0x2250A71a30ed1dE92037383dA49Df30DeeBaF3Af", "name": "MetapassUSD", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/22/2022"}
+{"address": "0xFfD8d62a91564c6DD3D38812764Bf815Ce99e03a", "name": "Claim", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/22/2022"}
+{"address": "0x75c31cc1a815802336aa3bd3f7caca896afc7630", "name": "Vyper_contract", "compiler": "vyper:0.3.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "12/22/2022"}
+{"address": "0xc9b94bee2b7f4b2ce785538fc0b0d28ce28919cb", "name": "Vyper_contract", "compiler": "vyper:0.3.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "12/22/2022"}
+{"address": "0xf273c166586EDBe0Fad945d24080BAc5624d74d7", "name": "OptimismL2Messenger", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/22/2022"}
