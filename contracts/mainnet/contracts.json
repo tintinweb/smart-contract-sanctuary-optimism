@@ -7863,3 +7863,19 @@
 {"address": "0xC79265161eE0766802c576Cc0154B03CF2Cb72FF", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "12/21/2022"}
 {"address": "0x8AE9C8B616da8DFB3c50e946b20F22aA0fB87d85", "name": "ExchangeOperatorAddresses", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/21/2022"}
 {"address": "0x4EDEa8A84C695Ab6fcc0a46c1e3A988d34954931", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "12/21/2022"}
+{"address": "0xee1E02609a480BDC9D9651C200D90222b6691f03", "name": "HighTableVault", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "12/22/2022"}
+{"address": "0x6B0B101Ca45C0A0Add3cA1Bd0a491156E56Ab498", "name": "ERC20HandlerUpgradeable", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/22/2022"}
+{"address": "0x0e7a2926c9db696857f4ec4756125c52cf0d9bb6", "name": "LINKSKULL", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 4, "settings": "-", "date": "12/22/2022"}
+{"address": "0x03fDA24f00020c7b1713290Ac114692C1DB217e1", "name": "BridgeUpgradeable", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/22/2022"}
+{"address": "0x1680Fe3450bD737c80e202003A9f0091c389dB53", "name": "FeeManagerUpgradeable", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/22/2022"}
+{"address": "0x3dcd159891f279474cc44c013654834c934f95c8", "name": "Vault", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "12/22/2022"}
+{"address": "0x38E043138F3Ab137807Ee5226F3447E83200f455", "name": "VaultFactory", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "12/22/2022"}
+{"address": "0xF5712d4E3Ee07fc74F7597B7999962661178789a", "name": "TeahouseStrategy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/22/2022"}
+{"address": "0x573f1fbde18ab2926a5e3fb80467ae50cf91d3f6", "name": "ReaperLinearPoolRebalancer", "compiler": "0.7.1", "balance": "-", "txcount": 0, "settings": "", "date": "12/22/2022"}
+{"address": "0x62eC8b26C08Ffe504F22390A65e6E3c1e45E9877", "name": "ReaperLinearPool", "compiler": "0.7.1", "balance": "-", "txcount": 0, "settings": "", "date": "12/22/2022"}
+{"address": "0xb96C5bAda4Bf6A70E71795a3197BA94751DAE2DB", "name": "ReaperLinearPool", "compiler": "0.7.1", "balance": "-", "txcount": 0, "settings": "", "date": "12/22/2022"}
+{"address": "0xEdcfaF390906a8f91fb35B7bAC23f3111dBaEe1C", "name": "ReaperLinearPool", "compiler": "0.7.1", "balance": "-", "txcount": 0, "settings": "", "date": "12/22/2022"}
+{"address": "0x07d74F2111e335B96FeB0eDbbb2916B7f04474db", "name": "Badges", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/21/2022"}
+{"address": "0x431f6E577A431D9EE87a535fDE2dB830E352e33c", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "12/21/2022"}
+{"address": "0xF4619a2c779537cE77362FEeBbE7D4F64a323065", "name": "SavePakistan", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/21/2022"}
+{"address": "0x845936b9749d85d8b2e830bf165ac8506767edfd", "name": "UMATrigger", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "12/21/2022"}
