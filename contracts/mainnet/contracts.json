@@ -7908,3 +7908,7 @@
 {"address": "0x653c6AdFB4A0865B78FEc02fedeb5D02D8fD83eb", "name": "ThalesAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/22/2022"}
 {"address": "0x617B280152CeCA4e7b5b6D0831DfCe38E45dc10d", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "12/22/2022"}
 {"address": "0x52A09B8a5609BCcf288AB5de523036163F37C836", "name": "Admin", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/22/2022"}
+{"address": "0x3572e1addb07f0CA7CD7351Dc097d53D03743E5e", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "-", "date": "12/23/2022"}
+{"address": "0x821863a25743EaA271Fa5E70D9e4632650848Eb6", "name": "StrategyBeethovenxSonne", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/23/2022"}
+{"address": "0xB537A1fAf540D32C1068ff2A880D6669E2865462", "name": "ChainHopWrapper", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/23/2022"}
+{"address": "0xe236d136ad9f6db125e9ba95edc1d1a19423ff0f", "name": "RequestManager", "compiler": "0.8.13", "balance": "0.023000000000000001 Ether", "txcount": 6385, "settings": "", "date": "12/23/2022"}
