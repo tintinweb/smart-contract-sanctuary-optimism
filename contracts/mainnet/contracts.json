@@ -7917,3 +7917,10 @@
 {"address": "0x488e1a80133870cb71ee2b08f926ce329d56b084", "name": "Deployer", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "12/23/2022"}
 {"address": "0x9a05c7f41c7170a91c2f4352ff42d995902a35d9", "name": "NFT", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "12/23/2022"}
 {"address": "0x0d1E22515B1059B120AC84a776A588a3029c36d4", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "12/23/2022"}
+{"address": "0xB33839E05CE9Fc53236Ae325324A27612F4d110D", "name": "WethUnwrapper", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/24/2022"}
+{"address": "0xf06b067e7748678c2c388aa4a9596b868b106d7b", "name": "MockAggregatorV2V3", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "12/24/2022"}
+{"address": "0xd20fa95d82c29e0d92b9567279e01b146b6f6ca6", "name": "AxOracle", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/24/2022"}
+{"address": "0xbedb1c88cb2b259c86d144b7cd740bdb1339dc2a", "name": "Manageable", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/24/2022"}
+{"address": "0x130c6b10d74a1999720137366906d6ef722c696c", "name": "LimitOrders", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/24/2022"}
+{"address": "0xe062877802ccd52ec9c2dc25cb7e12de4c68ad04", "name": "LimitCore", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/24/2022"}
+{"address": "0x58f0787ee83df19bfbe6061aaf8bd1e92010780c", "name": "SimpleWallet", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/24/2022"}
