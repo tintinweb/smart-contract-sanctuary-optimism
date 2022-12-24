@@ -7912,3 +7912,8 @@
 {"address": "0x821863a25743EaA271Fa5E70D9e4632650848Eb6", "name": "StrategyBeethovenxSonne", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/23/2022"}
 {"address": "0xB537A1fAf540D32C1068ff2A880D6669E2865462", "name": "ChainHopWrapper", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/23/2022"}
 {"address": "0xe236d136ad9f6db125e9ba95edc1d1a19423ff0f", "name": "RequestManager", "compiler": "0.8.13", "balance": "0.023000000000000001 Ether", "txcount": 6385, "settings": "", "date": "12/23/2022"}
+{"address": "0x5bebc7ef1f9e55624fe038d36a0c53749194fc4e", "name": "UnofficialFeedRegistry", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/24/2022"}
+{"address": "0xf6c81de886AA4f9F44eE1627165663092e6DF072", "name": "L2Replica", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/23/2022"}
+{"address": "0x488e1a80133870cb71ee2b08f926ce329d56b084", "name": "Deployer", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "12/23/2022"}
+{"address": "0x9a05c7f41c7170a91c2f4352ff42d995902a35d9", "name": "NFT", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "12/23/2022"}
+{"address": "0x0d1E22515B1059B120AC84a776A588a3029c36d4", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "12/23/2022"}
