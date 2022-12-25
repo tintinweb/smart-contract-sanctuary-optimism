@@ -7924,3 +7924,4 @@
 {"address": "0x130c6b10d74a1999720137366906d6ef722c696c", "name": "LimitOrders", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/24/2022"}
 {"address": "0xe062877802ccd52ec9c2dc25cb7e12de4c68ad04", "name": "LimitCore", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/24/2022"}
 {"address": "0x58f0787ee83df19bfbe6061aaf8bd1e92010780c", "name": "SimpleWallet", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/24/2022"}
+{"address": "0xdac6E0CD7A535038f5d836155784603FaC1ba23d", "name": "DexForwarderOptimism", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/25/2022"}
