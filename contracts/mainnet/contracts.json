@@ -7960,3 +7960,4 @@
 {"address": "0x69Bc68D618c7012a764821f4581C8CAa6832458F", "name": "LiquidityPoolHop1", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/27/2022"}
 {"address": "0x9A383F154EE344d51381727395A6C9004c6494B6", "name": "TransparentUpgradeableProxy", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/27/2022"}
 {"address": "0xb3568690BfA5ED29dA99ec2F395FF1859cc90b9E", "name": "MuxTimelock", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/27/2022"}
+{"address": "0x2417e8b1f133726aa6146cc9fa5b4b8a0a420e8e", "name": "PassagePresetFactory", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "12/27/2022"}
