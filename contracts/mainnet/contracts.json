@@ -7940,3 +7940,6 @@
 {"address": "0xddC3A2bc1D6252D09A82814269d602D84Ca3E7ae", "name": "StargateReceiver", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/26/2022"}
 {"address": "0x256175DCd8Ed54e5e5A31a8692736B0A64a52234", "name": "HedgeExchanger", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/26/2022"}
 {"address": "0x098d09AAe5e1dD02C5454FCe76aCB4272E629B53", "name": "Interaction", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/26/2022"}
+{"address": "0x7FE0E7F9b8Ad85C0F2dFE8073Ebe5F41D67a7B9e", "name": "GamesOddsObtainer", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/27/2022"}
+{"address": "0x6257756cb3e4a8607b562b8dca0939c1210d203e", "name": "HNY2023", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "-", "date": "12/27/2022"}
+{"address": "0xB70aCf9654fe304CfE24ee2fA9302a987d22c31e", "name": "QuadraticFundingVotingStrategyImplementation", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/27/2022"}
