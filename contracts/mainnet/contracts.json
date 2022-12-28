@@ -7981,3 +7981,4 @@
 {"address": "0x06512E6bAB2712fCa9F4D123C80FCE34de2bC2D7", "name": "PaymentHub", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/28/2022"}
 {"address": "0x6c4028d7Fd82f29cD97A47E7342F02Ca529c5531", "name": "OfferFactory", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/28/2022"}
 {"address": "0x0B69063CfD89b25620f93A81EE9b1E4b20a79049", "name": "SportsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/28/2022"}
+{"address": "0xca8e7b28c60f2c70110d1d5f5d332bd5a5e9dbb4", "name": "StrongTokenEver", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/28/2022"}
