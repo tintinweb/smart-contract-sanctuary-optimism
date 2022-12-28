@@ -7974,3 +7974,10 @@
 {"address": "0xF078AEc9C73dE6477eC8527D7a67eE1DECB2c1B6", "name": "TherundownConsumer", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/28/2022"}
 {"address": "0xb3Fc7dFCf8a93d7f7482d8CAD4ab13A57d221F6a", "name": "TherundownConsumerVerifier", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/28/2022"}
 {"address": "0x17dAE33652DCEafD0F9e1bD27049695d65DaD4C7", "name": "OPTOKEN", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 7, "settings": "-", "date": "12/28/2022"}
+{"address": "0xA2f24cc5eE1Fd06AE3f8708F37BA064F7eEbFa98", "name": "TherundownConsumerVerifier", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/28/2022"}
+{"address": "0xDe9b911A2C3984bA956ae2415A3E938aaC840e13", "name": "Shares", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/28/2022"}
+{"address": "0x0D82b5d3a8420c285c6d353a6BDc30d164bB50f0", "name": "DraggableShares", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/28/2022"}
+{"address": "0xB1335b28d5e9BD5924e93b640C24f106CFb8Aeb3", "name": "Brokerbot", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/28/2022"}
+{"address": "0x06512E6bAB2712fCa9F4D123C80FCE34de2bC2D7", "name": "PaymentHub", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/28/2022"}
+{"address": "0x6c4028d7Fd82f29cD97A47E7342F02Ca529c5531", "name": "OfferFactory", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/28/2022"}
+{"address": "0x0B69063CfD89b25620f93A81EE9b1E4b20a79049", "name": "SportsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/28/2022"}
