@@ -7961,3 +7961,8 @@
 {"address": "0x9A383F154EE344d51381727395A6C9004c6494B6", "name": "TransparentUpgradeableProxy", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/27/2022"}
 {"address": "0xb3568690BfA5ED29dA99ec2F395FF1859cc90b9E", "name": "MuxTimelock", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/27/2022"}
 {"address": "0x2417e8b1f133726aa6146cc9fa5b4b8a0a420e8e", "name": "PassagePresetFactory", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "12/27/2022"}
+{"address": "0x28c12a91e299ba4b1EB8e4965d6B43fE7Aaf4E95", "name": "MultichainPortal", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/28/2022"}
+{"address": "0x8E94Adfd0277088d43D80785F15d6B23cB46FFe9", "name": "CollectionsRepository", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/27/2022"}
+{"address": "0xE373AbeF6f3382Dc96FBa2f4E1c22330bA6F1dbc", "name": "CollectionFactory", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/27/2022"}
+{"address": "0x1217101c5B117327a79FD258821703297bDa08A0", "name": "TokenFactory", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "12/27/2022"}
+{"address": "0x3dCef56325B6C2beC7A059cfE92cdBbE3Df013c7", "name": "OmniseaPointsRepository", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/27/2022"}
