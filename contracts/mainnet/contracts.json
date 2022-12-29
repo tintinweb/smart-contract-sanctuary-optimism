@@ -7984,3 +7984,5 @@
 {"address": "0xca8e7b28c60f2c70110d1d5f5d332bd5a5e9dbb4", "name": "StrongTokenEver", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/28/2022"}
 {"address": "0xb0414d135f1b56de069603b2b103b334da5dd3d0", "name": "MyNft", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/29/2022"}
 {"address": "0xdeaec6b14fb31733e2a0378dcceb33ae5e817381", "name": "Reserve", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/29/2022"}
+{"address": "0xc88Afdd2E364e9B7f17E3E4851b45d5384456e17", "name": "OmniERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/29/2022"}
+{"address": "0xd34f1c0112f3f470e4631c7960854d838c2b7d47", "name": "OpOddogs", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 11, "settings": "-", "date": "12/29/2022"}
