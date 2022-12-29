@@ -7994,3 +7994,7 @@
 {"address": "0x4B906Bc2F724d7fE2B705Edb4FD5Cf3AeE612E57", "name": "SonneOptimismUsdc", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/29/2022"}
 {"address": "0xF5308F9369E801491C6B1a46EF869CBEccD1CD5f", "name": "DefiiFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/29/2022"}
 {"address": "0xA7e966869B2b1F6ab4Af678948d84aC4409dde31", "name": "SonneOptimismDai", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/29/2022"}
+{"address": "0x91083e027112bda4a7d54871e34406f9565905e1", "name": "ShakaCounter", "compiler": "0.4.26", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "12/29/2022"}
+{"address": "0xf31a586f7186932c15e863a1d7a8c1925801b809", "name": "AlohaIsland", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/29/2022"}
+{"address": "0x054a3584601b973f472d98828fae682623f5b4a0", "name": "ReaperStrategySonneBoosted", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/29/2022"}
+{"address": "0xc450f8f521d2d7e94e5f71c54ef7d72dc19f5824", "name": "ReaperVaultv1_4", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "12/29/2022"}
