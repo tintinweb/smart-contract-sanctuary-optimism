@@ -7986,3 +7986,11 @@
 {"address": "0xdeaec6b14fb31733e2a0378dcceb33ae5e817381", "name": "Reserve", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/29/2022"}
 {"address": "0xc88Afdd2E364e9B7f17E3E4851b45d5384456e17", "name": "OmniERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/29/2022"}
 {"address": "0xd34f1c0112f3f470e4631c7960854d838c2b7d47", "name": "OpOddogs", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 11, "settings": "-", "date": "12/29/2022"}
+{"address": "0x929c697C557D2ed4C8c446e60614CFccE0b1d680", "name": "MiniChefV2", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/29/2022"}
+{"address": "0x21c8B25Ac1Adf0B3163C868FB94e1F44586bc4b5", "name": "MiniChefV2", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/29/2022"}
+{"address": "0x658C48c65D21F21C7049Fd8dA92777a09BF65bEA", "name": "DefiiFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/29/2022"}
+{"address": "0xF5A8bEFA5D895eed3dE0aC01dA5990cAb30e9c90", "name": "SonneOptimismUsdt", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/29/2022"}
+{"address": "0xf39A43cE942B0aC611a77900661BBD17969f7F46", "name": "DefiiFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/29/2022"}
+{"address": "0x4B906Bc2F724d7fE2B705Edb4FD5Cf3AeE612E57", "name": "SonneOptimismUsdc", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/29/2022"}
+{"address": "0xF5308F9369E801491C6B1a46EF869CBEccD1CD5f", "name": "DefiiFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/29/2022"}
+{"address": "0xA7e966869B2b1F6ab4Af678948d84aC4409dde31", "name": "SonneOptimismDai", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/29/2022"}
