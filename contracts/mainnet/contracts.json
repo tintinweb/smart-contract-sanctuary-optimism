@@ -8002,3 +8002,14 @@
 {"address": "0x497c03b1cac69c45ebb738732ed56d5951b323c0", "name": "ScheduledTransfersFactory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/30/2022"}
 {"address": "0x1DECD6b97d43e529641E267E099fdE67fc30e77b", "name": "MultichainRouter", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/30/2022"}
 {"address": "0xa927aeb88f739e522f3fdd573fbfd5f4fc7c527f", "name": "ReaperStrategySonne", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/29/2022"}
+{"address": "0x91884c9087F72a7B68E0b868D682B5FF98A34Cf7", "name": "Badges", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x81DA9e485bA8465887d47394FE5894817741f284", "name": "SpecDataHolder", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0xDeA4417198ae07D32A14ec5dF3516050075a589E", "name": "Raft", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0xb1fae939ea3a0da8acf35c8c0ba48059430f4e57", "name": "ReaperLyraShortPut", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "12/30/2022"}
+{"address": "0xE73B9C66487F76E4FB28d4029786575424673dc5", "name": "VaultToken", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/30/2022"}
+{"address": "0xD41469706802dBbcF78e985c50092bbBdE9431Fb", "name": "TherundownConsumerVerifier", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x07BCdA3B25353c05Ac0E476bCb7148D2a3Be3053", "name": "ArbitragerOptimismPair", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0xf3F480A048c874265d7d1B73762366e7D1DfDbDb", "name": "ArbitragerOptimismPair", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x146444d363028C5495F7d57A4c49e641ce8017b6", "name": "ParlayVerifier", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x912F889034DDD593A087C4e59061E549891E4D4e", "name": "ParlayMarketsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x24A88A9A74E68Fa13fAD083c549A03Ea1dB93853", "name": "TherundownConsumerVerifier", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/30/2022"}
