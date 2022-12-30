@@ -8013,3 +8013,15 @@
 {"address": "0x146444d363028C5495F7d57A4c49e641ce8017b6", "name": "ParlayVerifier", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/30/2022"}
 {"address": "0x912F889034DDD593A087C4e59061E549891E4D4e", "name": "ParlayMarketsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/30/2022"}
 {"address": "0x24A88A9A74E68Fa13fAD083c549A03Ea1dB93853", "name": "TherundownConsumerVerifier", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x51a9d974ef7fb3457277ab5deb374fcf11084e89", "name": "Badges", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0xf1becbe67efa1c7551c8f1b14a09d832a886d6ad", "name": "Raft", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0xe14769e77407eba9b744551e24fa5d9809f456ff", "name": "Badges", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0xdbccb77b812b8f076b8708de83aabb770a1276ab", "name": "Badges", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x8103c5b2dda2b96fb06c3d11a358605c6e8c76e9", "name": "Raft", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0xc825d848ad67946ed74f41e92b37c03d75fba530", "name": "Badges", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x92E8294344E330b7B2B40E7D99019f0640835E97", "name": "HyperLPRouter", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x4be85208fda420a393b44402a4147f5b5b6f5a04", "name": "Badges", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x471dc02e7eceb8b5ad31e0f9b498dd7acaf82bb4", "name": "Raft", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x37865298fc4958dc7f2cbefd2a666b564b15ec80", "name": "Badges", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x487019A66ef429b2813632E0F7bd5e41Ca1E4402", "name": "HyperLPFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x1748baee9fae869a2dddbb93b9e69322ad9671cc", "name": "Badges", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "12/30/2022"}
