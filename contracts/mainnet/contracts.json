@@ -8100,3 +8100,11 @@
 {"address": "0xe3A6CD067a1193b903143C36dA00557c9d95C41e", "name": "TimelockController", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/1/2023"}
 {"address": "0xd2140dd473e7089edf40da03fd57983c1fd3c8ae", "name": "Arb", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "12/30/2022"}
 {"address": "0x6A166A3cCdECFCcdBb314Ff914eb13B032300B5c", "name": "MyMessage", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "12/30/2022"}
+{"address": "0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70", "name": "TransparentUpgradeableProxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 283, "settings": "", "date": "1/5/2023"}
+{"address": "0x6989120F7042Df0895dBE856b73A31E4cD0A2Cad", "name": "Mailbox", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/5/2023"}
+{"address": "0xdE86327fBFD04C4eA11dC0F270DA6083534c2582", "name": "TransparentUpgradeableProxy", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/5/2023"}
+{"address": "0x388411DAb2865c9E9F562618D4252AA2808b8bB0", "name": "InterchainGasPaymaster", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/5/2023"}
+{"address": "0xE047cb95FB3b7117989e911c6afb34771183fC35", "name": "ProxyAdmin", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "1/5/2023"}
+{"address": "0xAab1D11E2063Bae5EB01fa946cA8d2FDe3db05D5", "name": "MultisigIsm", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "1/5/2023"}
+{"address": "0x2BebDF87fAf2eA60b89D8cF96d77B91475110CFA", "name": "_1423ERC1155MultiChainMainnetTest", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/5/2023"}
+{"address": "0x31976dc2ea27e75cc5a3687ed594d17127f9b72e", "name": "AaveV3OptCapsPayload", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/5/2023"}
