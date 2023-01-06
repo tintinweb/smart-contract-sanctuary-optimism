@@ -8126,3 +8126,4 @@
 {"address": "0xe5e21ded5F05cE1500aA708FE3C3D79Bb964094B", "name": "ERC4626VaultOP", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/6/2023"}
 {"address": "0x48266cfe58a61a48f2d4ff7b682ac6ffe517edac", "name": "OppTestERC20", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "1/6/2023"}
 {"address": "0x3281a7AD63436c1253f8033B800eb7727Cca226A", "name": "PunkResolverV2", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/6/2023"}
+{"address": "0xcC15EBC5663708F79892F88b66105638803E1624", "name": "AutobotRevenueDistributor", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/6/2023"}
