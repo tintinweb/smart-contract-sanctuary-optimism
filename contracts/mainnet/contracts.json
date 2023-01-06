@@ -8122,3 +8122,5 @@
 {"address": "0x6ceb03795999750e5af7a6e8b44ea46578fc0834", "name": "OptimismGovernorV1", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/6/2023"}
 {"address": "0xD23b1907ACfFe37C6B6B4d78e9445679b9d5b133", "name": "MerkleDrop", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/5/2023"}
 {"address": "0xC17E9347Ce26D7630A98eC4158Bd7200E54bf4Cd", "name": "OpMinter", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/5/2023"}
+{"address": "0xd6c2bb2af98c4b83868a2a4c5d11ab8339a3bb15", "name": "RecycleFactory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/6/2023"}
+{"address": "0xe5e21ded5F05cE1500aA708FE3C3D79Bb964094B", "name": "ERC4626VaultOP", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/6/2023"}
