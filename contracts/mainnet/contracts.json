@@ -8127,3 +8127,7 @@
 {"address": "0x48266cfe58a61a48f2d4ff7b682ac6ffe517edac", "name": "OppTestERC20", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "1/6/2023"}
 {"address": "0x3281a7AD63436c1253f8033B800eb7727Cca226A", "name": "PunkResolverV2", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/6/2023"}
 {"address": "0xcC15EBC5663708F79892F88b66105638803E1624", "name": "AutobotRevenueDistributor", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/6/2023"}
+{"address": "0x5D90fD8763c64Ba4Fd6695Cf8453580D4c3516fd", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 16, "settings": "-", "date": "1/7/2023"}
+{"address": "0x5D5882770B9d731DA49997752c458F6D62Fa1442", "name": "LilPudgysONFT", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/6/2023"}
+{"address": "0x45447Ee1b516764bd9fFc8b69B12ec8Eedf5B360", "name": "LilPudgysONFT", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/6/2023"}
+{"address": "0xcEBA1465EBBbC540a14bF2B4e8406703d783b872", "name": "AutobotRevenueDistributor", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "1/6/2023"}
