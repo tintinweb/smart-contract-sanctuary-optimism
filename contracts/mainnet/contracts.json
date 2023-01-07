@@ -8132,3 +8132,14 @@
 {"address": "0x45447Ee1b516764bd9fFc8b69B12ec8Eedf5B360", "name": "LilPudgysONFT", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/6/2023"}
 {"address": "0xcEBA1465EBBbC540a14bF2B4e8406703d783b872", "name": "AutobotRevenueDistributor", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "1/6/2023"}
 {"address": "0x1e6D106EBcF04622703788F50fA5Ccf1B4f4C5A8", "name": "AlbertToolsV1", "compiler": "0.4.26", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/7/2023"}
+{"address": "0xe3f307a02c51f682342d8af56b4918282584a313", "name": "DefySwapPair", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "1/7/2023"}
+{"address": "0xE5c4B5Cc51ec60140714389D9a81dbE4B527CEC3", "name": "ImpermanentLossProtection", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/7/2023"}
+{"address": "0x344BE5144753FF0230C3E45E7D9d6de3ED278a10", "name": "DefyMaster", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/7/2023"}
+{"address": "0xe111376a1cea5b7642522050aecb794abd642caa", "name": "DefySTUB", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/7/2023"}
+{"address": "0x52932768C0DD283Ae35E576ee8BAb17073B68E09", "name": "BurnVault", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "1/7/2023"}
+{"address": "0xe6d0cEE385992029Cb64C94A2dF6d0331937B2C8", "name": "DefyLocker", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/7/2023"}
+{"address": "0xaffdbeae1ec595cba4c262bdb52a6083aec2e2a6", "name": "DefySwapRouter", "compiler": "0.6.6", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "1/7/2023"}
+{"address": "0xdBE4CC36D0C19858d8cc7c5030593E9922aC680D", "name": "DefySwapFactory", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "1/7/2023"}
+{"address": "0xCd6b29896AfAF49Af23dE99B503809C316306424", "name": "DfyToken", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "1/7/2023"}
+{"address": "0xd8Ae4c9eAe638064067F6137904bde2355a9c6E8", "name": "InterchainQueryRouter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/7/2023"}
+{"address": "0x77CcAe70d79bb88DB2d76835899356181d344a22", "name": "InterchainAccountRouter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/7/2023"}
