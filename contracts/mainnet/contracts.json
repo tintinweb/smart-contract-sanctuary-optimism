@@ -8143,3 +8143,6 @@
 {"address": "0xCd6b29896AfAF49Af23dE99B503809C316306424", "name": "DfyToken", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "1/7/2023"}
 {"address": "0xd8Ae4c9eAe638064067F6137904bde2355a9c6E8", "name": "InterchainQueryRouter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/7/2023"}
 {"address": "0x77CcAe70d79bb88DB2d76835899356181d344a22", "name": "InterchainAccountRouter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/7/2023"}
+{"address": "0x0FF000b8D425199Cf756DB4fD056b550d5A1FdF8", "name": "ChainHopWrapper", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/8/2023"}
+{"address": "0x01b7A2993807D247271621fE0bc2B5047EA289Bf", "name": "L2NftogContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "1/8/2023"}
+{"address": "0x823cb4ae6915714f6f962d62ecf150bc9dd5bc08", "name": "Address", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/7/2023"}
