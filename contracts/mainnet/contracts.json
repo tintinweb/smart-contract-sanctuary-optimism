@@ -8146,3 +8146,7 @@
 {"address": "0x0FF000b8D425199Cf756DB4fD056b550d5A1FdF8", "name": "ChainHopWrapper", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/8/2023"}
 {"address": "0x01b7A2993807D247271621fE0bc2B5047EA289Bf", "name": "L2NftogContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "1/8/2023"}
 {"address": "0x823cb4ae6915714f6f962d62ecf150bc9dd5bc08", "name": "Address", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/7/2023"}
+{"address": "0x274E94f03AC51779D14bD45aF77C0e0e9d97cef9", "name": "Vyper_contract", "compiler": "vyper:0.2.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/8/2023"}
+{"address": "0x6333000289bc27A090b3D51E734C2f13e3edc4fd", "name": "Vyper_contract", "compiler": "vyper:0.2.15", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/8/2023"}
+{"address": "0xbE7CA18470B4AB61741bC2dcad50B1D4052b6b04", "name": "Vyper_contract", "compiler": "vyper:0.2.15", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "1/8/2023"}
+{"address": "0xa9f89108bb45c2805eea20021fe2205ce662fd02", "name": "Vyper_contract", "compiler": "vyper:0.2.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/8/2023"}
