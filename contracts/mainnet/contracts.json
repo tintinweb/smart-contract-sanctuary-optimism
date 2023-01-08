@@ -8152,3 +8152,5 @@
 {"address": "0xa9f89108bb45c2805eea20021fe2205ce662fd02", "name": "Vyper_contract", "compiler": "vyper:0.2.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/8/2023"}
 {"address": "0x174222F62F71c0b2CdC1E2856C5ba644Bf9d8c6F", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "1/8/2023"}
 {"address": "0xC2d11567F0Dc97884027c0281d7e746bf0409528", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "1/8/2023"}
+{"address": "0xa2f4Eb64Ea4B1CAd4317DFFBD18970F912A3311a", "name": "StrandsVault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/8/2023"}
+{"address": "0x0dc902b698ef40728FF9656e283eD1771De77230", "name": "OneClicks", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 12, "settings": "", "date": "1/8/2023"}
