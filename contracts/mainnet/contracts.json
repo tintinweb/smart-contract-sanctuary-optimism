@@ -8186,3 +8186,4 @@
 {"address": "0xaa6cFd8a0ba4fA23f1a24a6Ac72717ba977fa739", "name": "StrategyBeethovenxUsdc", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/9/2023"}
 {"address": "0xBf21CbE292b40347b3691C3187645501fc0E5F97", "name": "StrategyBeethovenxSonne", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/9/2023"}
 {"address": "0x6d2eaEc2f07358E50133002B112e9e9Ca5C8314f", "name": "StrategyAave", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x765b1ee0C4a0aFb4C8f30f4f0d0145E9cf0a11Bf", "name": "OmniCounter", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/9/2023"}
