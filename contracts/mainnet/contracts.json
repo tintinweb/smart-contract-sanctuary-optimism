@@ -8154,3 +8154,6 @@
 {"address": "0xC2d11567F0Dc97884027c0281d7e746bf0409528", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "1/8/2023"}
 {"address": "0xa2f4Eb64Ea4B1CAd4317DFFBD18970F912A3311a", "name": "StrandsVault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/8/2023"}
 {"address": "0x0dc902b698ef40728FF9656e283eD1771De77230", "name": "OneClicks", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 12, "settings": "", "date": "1/8/2023"}
+{"address": "0xA4EFC2d768C9b9b0f97DD91a1555B345f69b39C0", "name": "Fraxferry", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "1/8/2023"}
+{"address": "0x6806411765Af15Bddd26f8f544A34cC40cb9838B", "name": "CrossChainCanonicalV2", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/8/2023"}
+{"address": "0xCe93C489f7EC7eC64036c8f92c2381B64ac9EBFc", "name": "ShortGammaStrategy", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "1/8/2023"}
