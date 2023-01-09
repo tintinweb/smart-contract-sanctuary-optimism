@@ -8157,3 +8157,5 @@
 {"address": "0xA4EFC2d768C9b9b0f97DD91a1555B345f69b39C0", "name": "Fraxferry", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "1/8/2023"}
 {"address": "0x6806411765Af15Bddd26f8f544A34cC40cb9838B", "name": "CrossChainCanonicalV2", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/8/2023"}
 {"address": "0xCe93C489f7EC7eC64036c8f92c2381B64ac9EBFc", "name": "ShortGammaStrategy", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "1/8/2023"}
+{"address": "0x6C2b9b901df1fDeDbDc34A3791F5B6d6Cd9Aa6E0", "name": "StrategyRegistry", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x39b16151d9db69efb7ba4aa85ef81fcffac56e4e", "name": "DfyDistributor", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "1/9/2023"}
