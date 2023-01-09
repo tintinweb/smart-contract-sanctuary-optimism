@@ -8159,3 +8159,30 @@
 {"address": "0xCe93C489f7EC7eC64036c8f92c2381B64ac9EBFc", "name": "ShortGammaStrategy", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "1/8/2023"}
 {"address": "0x6C2b9b901df1fDeDbDc34A3791F5B6d6Cd9Aa6E0", "name": "StrategyRegistry", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/9/2023"}
 {"address": "0x39b16151d9db69efb7ba4aa85ef81fcffac56e4e", "name": "DfyDistributor", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "1/9/2023"}
+{"address": "0x888d478f3a26216b0d79bad47daf39c7018b0888", "name": "SimplePools", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x7453378873A8AA7d3822668d3753fed20c23e585", "name": "VxPremia", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x56eb59504d2db9f038657609523f1f0d39d803aa", "name": "RelayerCBridge", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/9/2023"}
+{"address": "0xc2e9e962db85c1c9444908e432e9c3ee6daf1643", "name": "PeripheryRegistryFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/9/2023"}
+{"address": "0xeFDDa9339a87bE2A6731a4024cE91658b96620cB", "name": "OptimismDevilYachtClubContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "1/9/2023"}
+{"address": "0xab167023bdfd2331e3a2e692b56e0349dfe9c4e5", "name": "LiFiDiamond", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "1/9/2023"}
+{"address": "0x1c57d36688580071f382c85c17fb32eb5321e4ca", "name": "WithdrawFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/9/2023"}
+{"address": "0xbe17e6fa0c580c1c4417002676232bc1a4bb231e", "name": "AccessManagerFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/9/2023"}
+{"address": "0x385cc61b889679a611de73ce218e5c6a69c1d635", "name": "DexManagerFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/9/2023"}
+{"address": "0x1a3b3ab93b691c0f3b61f8ea40e3fe98f8e319c9", "name": "OwnershipFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/9/2023"}
+{"address": "0x096eca0de7375ff5b72319489f7f9a35839c0735", "name": "DiamondLoupeFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/9/2023"}
+{"address": "0x707e71e5a1b55c8d75bfcb1df25aef315b6ed030", "name": "DiamondCutFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/9/2023"}
+{"address": "0x00e3aA03e47c32397a94509E50B0558988C0D04E", "name": "L2NftogContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 61, "settings": "", "date": "1/9/2023"}
+{"address": "0x116340ec5faf43ba1224846362313606150bfbee", "name": "Receiver", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/9/2023"}
+{"address": "0x438d3b2f5e817c0e96a71fe239c3878ba97af051", "name": "Executor", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/9/2023"}
+{"address": "0x5f9a7ce82722e7641d2b8533472181f89f5f6936", "name": "ERC20Proxy", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/9/2023"}
+{"address": "0xd48f25EC821b3ae3E11b53fE1795Abdd2E2d1578", "name": "StrategyRubiconUsdt", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0xFAE5EBFC4a97b17a16c6666966aD2A27b4037211", "name": "StrategyRubiconUsdc", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x695368A1A3b2AcC6b9AC3C84ef8881CaB6b5A58d", "name": "StrategyRubiconDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x8D2126e13D4FB57B4DD1E37CB0E74ac270528298", "name": "StrategyReaperSonneUsdt", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x544c09424Dfc2865c05DeDcaDf5801E09a1F8dCC", "name": "StrategyReaperSonneUsdc", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0xa45df21A497e3e31A7E0fbDE52C10d8158cb13E8", "name": "StrategyReaperSonneDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x028aDfC6E1a569720DCfFc6e36FFc4278627E740", "name": "StrategyEtsUsdcDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x6B3CABb57C12De771022669EF40294d39B4445BB", "name": "StrategyEts", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0xaa6cFd8a0ba4fA23f1a24a6Ac72717ba977fa739", "name": "StrategyBeethovenxUsdc", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0xBf21CbE292b40347b3691C3187645501fc0E5F97", "name": "StrategyBeethovenxSonne", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x6d2eaEc2f07358E50133002B112e9e9Ca5C8314f", "name": "StrategyAave", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/9/2023"}
