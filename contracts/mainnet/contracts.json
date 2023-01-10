@@ -8187,3 +8187,6 @@
 {"address": "0xBf21CbE292b40347b3691C3187645501fc0E5F97", "name": "StrategyBeethovenxSonne", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/9/2023"}
 {"address": "0x6d2eaEc2f07358E50133002B112e9e9Ca5C8314f", "name": "StrategyAave", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/9/2023"}
 {"address": "0x765b1ee0C4a0aFb4C8f30f4f0d0145E9cf0a11Bf", "name": "OmniCounter", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/9/2023"}
+{"address": "0x16b341032fa2c6dfcc00455d5e0ad629ac5804ad", "name": "SnapshotV1", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/10/2023"}
+{"address": "0xE0Be420779cAd6E2bEA1E4F7C02F996D9ED1fCB5", "name": "InterchainAccountRouter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x234b19282985882d6d6fd54dEBa272271f4eb784", "name": "InterchainQueryRouter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/9/2023"}
