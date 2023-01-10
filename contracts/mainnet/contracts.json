@@ -8207,3 +8207,15 @@
 {"address": "0x98bb43d2f36f2bf2059532d1987a2f8d41874cd0", "name": "MultichainFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/10/2023"}
 {"address": "0x2b1bE43b733D2C232276524830D4CCcAaC8CeAb3", "name": "FuturesMarketContractGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
 {"address": "0x11F8536f3a3c7bb16C3aC08FdEBf3A819ABE3105", "name": "FuturesMarketAssetGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x5064c531Af73BeEe8e7B3835dE289965B34CC189", "name": "StrategyBalancerMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x50790c91da8809a3f6156da73070a598441e6e0d", "name": "StrategyBalancerMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x921c324a2ce0c315b1ec4ca1ac6b6e94a8838a7c", "name": "LimitOrderProtocol", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x2ab8add4e367cb2ad9a497155031dad49a2432ed", "name": "StrategyBalancerMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0xb5c6f353aa7ba6eea2f823c7431f3b3e7caa3f24", "name": "StrategyBalancerComposableMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x0e95B0c96BEe6C03Fa8a102D36833E7113333b62", "name": "SmartWallet", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0xE386CA6591Ea022d4D673C2491b63Af17cE175ef", "name": "SecureExecutor", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/10/2023"}
+{"address": "0x54403D59E8856D0Fb4763eD92Aa843F0cac6AA88", "name": "OptimismPayoutListener", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x6914141F3fd75d571fb72917D31B47233Ef850F7", "name": "PeripheralPool", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/10/2023"}
+{"address": "0x583b1906ed580d673a3a93a7eb972fa377dec3e9", "name": "BorrowingVault", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/10/2023"}
+{"address": "0x52b23b09ff03669fbd2203902d83f4c4d2dee0d4", "name": "BorrowingVaultFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/10/2023"}
+{"address": "0x4b62c0369a13b68f75bbbda9fd91ba8270ca4862", "name": "ConnextRouter", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "1/10/2023"}
