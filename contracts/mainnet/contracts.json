@@ -8190,3 +8190,20 @@
 {"address": "0x16b341032fa2c6dfcc00455d5e0ad629ac5804ad", "name": "SnapshotV1", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/10/2023"}
 {"address": "0xE0Be420779cAd6E2bEA1E4F7C02F996D9ED1fCB5", "name": "InterchainAccountRouter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/9/2023"}
 {"address": "0x234b19282985882d6d6fd54dEBa272271f4eb784", "name": "InterchainQueryRouter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x22B3Ccb938d08084942a939C03520EE75C87B004", "name": "N2MERC1155Upgradeable", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x50133f6836CB91237E17177E2985cBDAD51f0cf2", "name": "NFTLibV1", "compiler": "0.4.26", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x1289f70b8a16797cccBfcCA8a845f36324aC9F8B", "name": "RapidityLibV4", "compiler": "0.4.26", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x8D42d317B2bd6B60183461ed41bd00F17C3f3fE8", "name": "Bn128SchnorrVerifier", "compiler": "0.4.26", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x09cDfc56439643d151585B77899d0dC0f982BcD2", "name": "SignatureVerifier", "compiler": "0.4.26", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/10/2023"}
+{"address": "0xBe5187C2A7eb776c1CaEeD2C37E7599fb05000D3", "name": "OracleProxy", "compiler": "0.4.26", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/10/2023"}
+{"address": "0xc21E5553c8dDDf2E4a93E5bEDBaE436d4291F603", "name": "OracleDelegate", "compiler": "0.4.26", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x58E1c54820048ACBa5F83515f6Bce8468ab5a2F0", "name": "StrategyEts", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0xC6Ae1Db6C66d909F7bFEeEb24F9adb8620bf9dbf", "name": "CrossProxy", "compiler": "0.4.26", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "1/10/2023"}
+{"address": "0xc95a4bc5C14CC6a23AF46BA50D3785d5fd55446d", "name": "CrossDelegateV4", "compiler": "0.4.26", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x1eD3538383BBFDB80343B18F85D6c5A5Fb232fb6", "name": "TokenManagerProxy", "compiler": "0.4.26", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "1/10/2023"}
+{"address": "0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437", "name": "TokenManagerDelegateV2", "compiler": "0.4.26", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0xc69F69C6165314B9D658E5345DaDea7956145F02", "name": "StrategyAave", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x08471d9d2099a8cf55f5f1ee77291a3ce9a0b021", "name": "TokenPocketCallbackProxy", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x98bb43d2f36f2bf2059532d1987a2f8d41874cd0", "name": "MultichainFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/10/2023"}
+{"address": "0x2b1bE43b733D2C232276524830D4CCcAaC8CeAb3", "name": "FuturesMarketContractGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x11F8536f3a3c7bb16C3aC08FdEBf3A819ABE3105", "name": "FuturesMarketAssetGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
