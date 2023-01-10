@@ -8219,3 +8219,17 @@
 {"address": "0x583b1906ed580d673a3a93a7eb972fa377dec3e9", "name": "BorrowingVault", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/10/2023"}
 {"address": "0x52b23b09ff03669fbd2203902d83f4c4d2dee0d4", "name": "BorrowingVaultFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/10/2023"}
 {"address": "0x4b62c0369a13b68f75bbbda9fd91ba8270ca4862", "name": "ConnextRouter", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "1/10/2023"}
+{"address": "0x86290f885b56d6e180Ac18b4792766c92A78d08c", "name": "FeeExtractAndDistribute_Optimism", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0xEfC00F2b226130461f6C9E9C5A5e465BF23FFD77", "name": "Proxy_0_8", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189", "name": "OkcashToken", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x0f5333983d4b59aa5fe692fac8475dab924ec7ac", "name": "StrategyBalancerComposableMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "1/10/2023"}
+{"address": "0xcEDb8b8FBEB9B5ff4e8a0e522E2bf9496f21d679", "name": "CaptureTheFlag", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x8cf3BeCF7C540A2BC08Ad094b1B3708f6F689A55", "name": "TestWrappedNativeToken", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0xCC329De35f6a696c893E78588101F253E8eD7a7E", "name": "StakeManager", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x6E4f6878d1188d281F79a8d06e1f52A5cF80b792", "name": "SingleRecipientPaymaster", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "1/10/2023"}
+{"address": "0xfCEE9036EDc85cD5c12A9De6b267c4672Eb4bA1B", "name": "RelayRegistrar", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0xbF06d99FDE1dc4e4C24F4191Fad82F8f5524Ce62", "name": "RelayHub", "compiler": "0.8.7", "balance": "0.01 Ether", "txcount": 3, "settings": "", "date": "1/10/2023"}
+{"address": "0xFD81BeBA349d6a1ffaFb47db59E785c69479ab47", "name": "Penalizer", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0xB2b5841DBeF766d4b521221732F9B618fCf34A87", "name": "Forwarder", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/10/2023"}
+{"address": "0xbd83DdBE37fc91923d59C8c1E0bDe0CccCa332d5", "name": "UiPoolDataProviderV3", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x6F143FE2F7B02424ad3CaD1593D6f36c0Aab69d7", "name": "UiIncentiveDataProviderV3", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
