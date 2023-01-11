@@ -8239,3 +8239,6 @@
 {"address": "0x52C60a2C70aB8c06AEe58f0ccb39bcf0eB919A21", "name": "TWFactory", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/11/2023"}
 {"address": "0x5fd766aD7E861d12D3aBd6428fF19E363BDB8b7b", "name": "TWRegistry", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/11/2023"}
 {"address": "0xC82Cef7e15871A96E528356409A177cD00fc81F1", "name": "Forwarder", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/11/2023"}
+{"address": "0xb670ee3c6394e947b579570148be0fff3409bceb", "name": "PixelArt3", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 5, "settings": "-", "date": "1/11/2023"}
+{"address": "0xcE04CdE2f1eB8177286F41479d753ab8B97322A9", "name": "ProxyReceiver", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "1/11/2023"}
+{"address": "0xf8faf9319e5cddfda173b0a6461f19765aaabf03", "name": "DeployAny", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "1/11/2023"}
