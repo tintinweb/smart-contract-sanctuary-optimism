@@ -8233,3 +8233,9 @@
 {"address": "0xB2b5841DBeF766d4b521221732F9B618fCf34A87", "name": "Forwarder", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/10/2023"}
 {"address": "0xbd83DdBE37fc91923d59C8c1E0bDe0CccCa332d5", "name": "UiPoolDataProviderV3", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
 {"address": "0x6F143FE2F7B02424ad3CaD1593D6f36c0Aab69d7", "name": "UiIncentiveDataProviderV3", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x5d013E9A9eD598C503eCdd6ec52Ed1E91c932288", "name": "OrderBook", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/11/2023"}
+{"address": "0x93617748AE22F31220B47Cd1eA854E38A593BeFA", "name": "PositionManager", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "1/11/2023"}
+{"address": "0xc4eae4A3c6f611be055f26C1e093b77Dea1D6014", "name": "VaultFeeReward", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/11/2023"}
+{"address": "0x52C60a2C70aB8c06AEe58f0ccb39bcf0eB919A21", "name": "TWFactory", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/11/2023"}
+{"address": "0x5fd766aD7E861d12D3aBd6428fF19E363BDB8b7b", "name": "TWRegistry", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/11/2023"}
+{"address": "0xC82Cef7e15871A96E528356409A177cD00fc81F1", "name": "Forwarder", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/11/2023"}
