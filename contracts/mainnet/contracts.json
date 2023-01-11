@@ -8242,3 +8242,14 @@
 {"address": "0xb670ee3c6394e947b579570148be0fff3409bceb", "name": "PixelArt3", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 5, "settings": "-", "date": "1/11/2023"}
 {"address": "0xcE04CdE2f1eB8177286F41479d753ab8B97322A9", "name": "ProxyReceiver", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "1/11/2023"}
 {"address": "0xf8faf9319e5cddfda173b0a6461f19765aaabf03", "name": "DeployAny", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "1/11/2023"}
+{"address": "0x7BaF05F65B44e48188ab8E0Fa4bB93abb1E3f69a", "name": "DiscoERC721", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/11/2023"}
+{"address": "0xB78D25EEf7981aAB305f4694eD7065428e20f3Db", "name": "DelegatableERC721Controller", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "1/11/2023"}
+{"address": "0x61f136E44627e0E8843aFA66325Aa8DF0f0bFcB7", "name": "GalaxyCoder", "compiler": "0.8.16", "balance": "0.0001 Ether", "txcount": 5, "settings": "-", "date": "1/11/2023"}
+{"address": "0x373643b17cd80e37675c8c98ef774efe6ca0b4de", "name": "StablePool", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/11/2023"}
+{"address": "0x3F16F0301b62015B926c3b559b645a5a0e19d8aA", "name": "StablePool", "compiler": "0.7.1", "balance": "-", "txcount": 0, "settings": "", "date": "1/11/2023"}
+{"address": "0x14ba0a21e4917748e7159efcd7c739039542e568", "name": "VeloVoteFarmer", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/11/2023"}
+{"address": "0x6b704813007545Df4f7e2C75ebc804d3A6317549", "name": "StablePool", "compiler": "0.7.1", "balance": "-", "txcount": 0, "settings": "", "date": "1/11/2023"}
+{"address": "0xEF0Bb05F544b8540E538B958257C466dcB7347D0", "name": "ERC20Lookup", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/11/2023"}
+{"address": "0xEf69Ce832B0234f7B47c65586BCad5E779dA226a", "name": "GalaxyCoder", "compiler": "0.8.16", "balance": "0.00005 Ether", "txcount": 3, "settings": "-", "date": "1/11/2023"}
+{"address": "0xbD615A102f00D345F27eeee95b3a52f48e51790b", "name": "GalaxyCoder", "compiler": "0.8.16", "balance": "0.00029 Ether", "txcount": 5, "settings": "-", "date": "1/11/2023"}
+{"address": "0xcee0b4c396d23b443aba589cf664afd473fb25d8", "name": "GalaxyCoder", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 6, "settings": "-", "date": "1/11/2023"}
