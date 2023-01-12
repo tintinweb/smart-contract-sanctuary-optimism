@@ -8308,3 +8308,7 @@
 {"address": "0x27c298ff0e41ccf40b11ca89bcf02e2f0d8f72f7", "name": "GalaxyCoder", "compiler": "0.8.16", "balance": "0.00011 Ether", "txcount": 8, "settings": "-", "date": "1/12/2023"}
 {"address": "0xe8e00b25a4a0aeed2459dacf99c2c6064d3d282f", "name": "GalaxyCoder", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 5, "settings": "-", "date": "1/12/2023"}
 {"address": "0x444a6645d34198bba1220b0f48c5560ed7085526", "name": "GalaxyCoder", "compiler": "0.8.16", "balance": "0.00043 Ether", "txcount": 13, "settings": "-", "date": "1/12/2023"}
+{"address": "0xc0de320586c05eea5c084c80880933ae64a5eea4", "name": "faa89_SAC", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 5, "settings": "-", "date": "1/12/2023"}
+{"address": "0x044d368DdAa239fC1BEc2d1856fb2711aCCAdf53", "name": "vafa_dao", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "1/12/2023"}
+{"address": "0x25CA9527069Fe5F33Ee6e3bf97F8a50B6E70C64c", "name": "AaveFlashLoan", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/12/2023"}
+{"address": "0x47B606cdEDFDcB5192bE3C47ed8767B61966b0bB", "name": "MultiSigWalletV4", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/12/2023"}
