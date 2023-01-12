@@ -8275,3 +8275,4 @@
 {"address": "0xC611709B38ab817f2201D6bb8C64D6DbF76EEe18", "name": "DropERC721", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/12/2023"}
 {"address": "0x2b115B27cD07385BfeC7E1b9483C9520Ec625E65", "name": "TWFee", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/12/2023"}
 {"address": "0x3Eb5E0179FB199bBEd5D6c5695FC967893C6155f", "name": "VelodromeTWAPAggregator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/12/2023"}
+{"address": "0xbc3D10e91D5fE510f6Fa8C8c4e285B9811BC928c", "name": "AirdropERC1155", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/12/2023"}
