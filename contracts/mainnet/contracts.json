@@ -8276,3 +8276,16 @@
 {"address": "0x2b115B27cD07385BfeC7E1b9483C9520Ec625E65", "name": "TWFee", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/12/2023"}
 {"address": "0x3Eb5E0179FB199bBEd5D6c5695FC967893C6155f", "name": "VelodromeTWAPAggregator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/12/2023"}
 {"address": "0xbc3D10e91D5fE510f6Fa8C8c4e285B9811BC928c", "name": "AirdropERC1155", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/12/2023"}
+{"address": "0xaf800d3eb207bafbade540554df8bdce561166f8", "name": "LimitOrderProtocol", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/12/2023"}
+{"address": "0x8cb2d120f0Cbb188599105bC0af84d4A50d82cDA", "name": "GalaxyCoder", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "1/12/2023"}
+{"address": "0x3979421e05224b851e080d28ef31a58f64ab7cec", "name": "GalaxyCoder", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 8, "settings": "-", "date": "1/12/2023"}
+{"address": "0xd4F3FbF35aC89bbD4F890DD315432Ee820A0F559", "name": "GalaxyCoder", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 7, "settings": "-", "date": "1/12/2023"}
+{"address": "0x8b9f04a2c7e52e5777d726a3cc647b29bbbd8933", "name": "GalaxyCoder", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 5, "settings": "-", "date": "1/12/2023"}
+{"address": "0x8281aD858D96765eFB8DCBA2e71CE928Cd82Cbe2", "name": "CoboSafeAclFactory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/12/2023"}
+{"address": "0x1c43FdCb1437b1210cb18C3C1025705dfD3320bD", "name": "ReaperLyraShortCall", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/12/2023"}
+{"address": "0x75c082E8188E55fFf0f110edf3d877d655bB78b2", "name": "VaultToken", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/12/2023"}
+{"address": "0x3Ebb31CB2888e0Acbb81cBE2FeC65AEE24be3BD4", "name": "AVT", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/12/2023"}
+{"address": "0x0183EaFfF53061DfA5E1Ee2a528c30E140ab41CE", "name": "Pack", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/12/2023"}
+{"address": "0x9762ec95fc18FCbAe018d8f99D81FDBDE34019EF", "name": "TWRegistry", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/12/2023"}
+{"address": "0x170F1B2E15262860E65296A213Bff22f2378E189", "name": "BiconomyForwarder", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/12/2023"}
+{"address": "0x29ce93BAD941e89b4661121195275C1132e777FE", "name": "ForwarderEOAOnly", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/12/2023"}
