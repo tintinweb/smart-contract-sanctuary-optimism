@@ -8317,3 +8317,9 @@
 {"address": "0x60a75B5B7DCa50ad7E0a27802Dc0f0e676006679", "name": "CaskDCAManager", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/12/2023"}
 {"address": "0x3e321356724A88fA1737ef589f3e4c269963200b", "name": "CaskChainlinkTopupManager", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/12/2023"}
 {"address": "0xe465A32D2826dc5A42FDc75624a18Ee35A25a131", "name": "CaskChainlinkTopup", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/12/2023"}
+{"address": "0x6253b2b48bc4ff29f22d74c62129b56098b7b713", "name": "IrBankMonitor", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/13/2023"}
+{"address": "0xf6523e5153da250f3f52e9089002b339c7714817", "name": "PixelPalette", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 9, "settings": "-", "date": "1/13/2023"}
+{"address": "0x582cef9446581a07b2321168fff9b37cd5532c94", "name": "MillionCoins", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/13/2023"}
+{"address": "0x6dB0BB8BE0bd510120B46DFbA731FFDC7Bea3ab0", "name": "TransferHelper", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/13/2023"}
+{"address": "0xE2BF24d3400eB9c1498BB2a2363aAa13986C6622", "name": "PerpBuybackPool", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/13/2023"}
+{"address": "0x9dD4eB7Fd0942DC4eB7F4E90f3Af58fB00303101", "name": "IronBankV2", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/13/2023"}
