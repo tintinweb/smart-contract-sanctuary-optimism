@@ -8323,3 +8323,4 @@
 {"address": "0x6dB0BB8BE0bd510120B46DFbA731FFDC7Bea3ab0", "name": "TransferHelper", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/13/2023"}
 {"address": "0xE2BF24d3400eB9c1498BB2a2363aAa13986C6622", "name": "PerpBuybackPool", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/13/2023"}
 {"address": "0x9dD4eB7Fd0942DC4eB7F4E90f3Af58fB00303101", "name": "IronBankV2", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/13/2023"}
+{"address": "0x77ddb68d41b6eadbc9f3b172a9a6b75bdfdc8e00", "name": "MovAI", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/13/2023"}
