@@ -8324,3 +8324,13 @@
 {"address": "0xE2BF24d3400eB9c1498BB2a2363aAa13986C6622", "name": "PerpBuybackPool", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/13/2023"}
 {"address": "0x9dD4eB7Fd0942DC4eB7F4E90f3Af58fB00303101", "name": "IronBankV2", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/13/2023"}
 {"address": "0x77ddb68d41b6eadbc9f3b172a9a6b75bdfdc8e00", "name": "MovAI", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/13/2023"}
+{"address": "0x35ba8c41ceeea24f7c826015844f2b58af3058a6", "name": "MerkleDistributor", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/13/2023"}
+{"address": "0x83Cafaa139ddAfD37a4959569F4D3610A04C509a", "name": "AmaluPriceGate", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/13/2023"}
+{"address": "0x2F59751cBEa9f98FcBC2DCbf7ec0567A813AdE92", "name": "AmaluEligibility", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/13/2023"}
+{"address": "0x447047D2AC13ADD7BbA443f177A576852dD08Eb8", "name": "MerkleIdentity", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "1/13/2023"}
+{"address": "0x47e215784e7eda3258bdef870e4727ec4328ed56", "name": "VoterSBT", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/13/2023"}
+{"address": "0x6a5143b943578C18b9D28e7Acc123BBd7aac3282", "name": "ControllerMetaCurveStrat", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 11, "settings": "", "date": "1/13/2023"}
+{"address": "0xC79E2dA0e1530877D9eF63d8cb59d5B3A7B6B4a9", "name": "Controller", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/13/2023"}
+{"address": "0xabf4df0a08ee892c337758ebb16a15dfe3110bfb", "name": "OptimismSwaps", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/13/2023"}
+{"address": "0xd6ee20bee516920c606c60b8f9c823cd5902634f", "name": "FeeCollector", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/13/2023"}
+{"address": "0xf1F38617F59Eb073E8b0879eCA526762D9F34830", "name": "TherundownConsumer", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/13/2023"}
