@@ -8355,3 +8355,5 @@
 {"address": "0x7115f16c3dB03056F67963CA48e227C3cdE59363", "name": "IMXVault", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/13/2023"}
 {"address": "0x8235E1D9F0477E20Cb76F456CC3B21C9958Db018", "name": "AggregatorVault", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/13/2023"}
 {"address": "0xFf44d03B6CF6A40bD1b6261150f3272243d569c9", "name": "AggregatorVault", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/13/2023"}
+{"address": "0xa4296637a757006Ed1bD10951B59FF50c870e746", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "-", "date": "1/14/2023"}
+{"address": "0xBE490147D04059cec6f1b792d6677d15F87791fd", "name": "tokenLocker", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "1/13/2023"}
