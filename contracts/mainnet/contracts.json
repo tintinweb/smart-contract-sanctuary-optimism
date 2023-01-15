@@ -8362,3 +8362,8 @@
 {"address": "0x03B28E1F1e09128976D2695b897FE2BB87dE3A98", "name": "UniV3Rebalancer", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/14/2023"}
 {"address": "0xffa6eab47ca39a3c6cb59e33167ce429a94142f1", "name": "Storage", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "1/14/2023"}
 {"address": "0xc96ebeef16d502d246c48ab8a7f6596b30c30bc0", "name": "Attacker", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/14/2023"}
+{"address": "0x828d11Cac5175FaC860B13Bb1d1ff97fF15d3a4b", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "1/14/2023"}
+{"address": "0xa8524abc230725DA48E61B677504fb5e8A409e38", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/14/2023"}
+{"address": "0x84b2e8a3c52FCb6AC77B644c9653bACE4d24687a", "name": "GalaxyCoder", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 4, "settings": "-", "date": "1/14/2023"}
+{"address": "0x69de60a655cfe7db4ff932fca2ab1380f3ee42e8", "name": "Icashprosto", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "1/14/2023"}
+{"address": "0x2c0c854830718e0f7152ba9c1d3e9fd971777d6a", "name": "TimedLocker", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "1/14/2023"}
