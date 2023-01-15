@@ -8374,3 +8374,6 @@
 {"address": "0x81d9bF667205662bfa729C790F67D97D54EA391C", "name": "Registry", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "1/15/2023"}
 {"address": "0xdbbf6fcd818620ddf01c5da6fe53e7f30aae8c0b", "name": "Greeting", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/15/2023"}
 {"address": "0xBc589dE855D27d9c4202D012a20b341bD0b474e8", "name": "FungibleOriginationPool", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/15/2023"}
+{"address": "0x77402179F5FA6622Ac2440FC8065694175E8e194", "name": "SwapSC99", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/15/2023"}
+{"address": "0xB9a188F91bEDD36d49BF04E7ff4B6ED34C63e404", "name": "OriginationCore", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/15/2023"}
+{"address": "0xD547C51F11220fFD721d4D262FB7F1CaeF0c1e76", "name": "ForwarderFactory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/15/2023"}
