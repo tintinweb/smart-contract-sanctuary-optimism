@@ -8394,3 +8394,20 @@
 {"address": "0x1e0Bd5c0E3Ab80D66b6225263D6739488A2831Bd", "name": "RewardCollectorOptimism", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/16/2023"}
 {"address": "0xce7969058b374a019a047274acb6487300a4a135", "name": "StargateACLUUPS", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/16/2023"}
 {"address": "0x0474bE53472280f96027b901C0367d2aC7aD539f", "name": "TokenMigrator", "compiler": "0.7.5", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/16/2023"}
+{"address": "0x5932C223186F7856e08A1D7b35ACc2Aa5fC57BfD", "name": "GrgVault", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/16/2023"}
+{"address": "0x28891F41eA506Ba7eA3Be9f2075AB0aa8b81dD29", "name": "ERC20Proxy", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/16/2023"}
+{"address": "0x0F5f9FbFcbA505c20e0Fab02533DebD6C2996595", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/16/2023"}
+{"address": "0x8586719c29A043C8305252de4DFfE94F43245590", "name": "Restake", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/16/2023"}
+{"address": "0xc0a7ce446774f6feaaadf9b68f164d0b992bc795", "name": "OPTIUSER", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 10, "settings": "-", "date": "1/16/2023"}
+{"address": "0x470A4c4A7589Ec355dE56765675a99f50cb95632", "name": "AvoSafe", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "-", "date": "1/16/2023"}
+{"address": "0x77Bd7C5D403BEb227359e9210457dDb3AE305814", "name": "AvoWallet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/16/2023"}
+{"address": "0x375F6B0CD12b34Dc28e34C26853a37012C24dDE5", "name": "AvoForwarderProxy", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/16/2023"}
+{"address": "0xCa7f1727f9fAb34d843969152C3e0459E337e636", "name": "AvoForwarder", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/16/2023"}
+{"address": "0x3AdAE9699029AB2953F607AE1f62372681D35978", "name": "AvoFactoryProxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/16/2023"}
+{"address": "0x01D26c979321E50BB52D1E6a54A256b7235FF9d0", "name": "AvoAdmin", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/16/2023"}
+{"address": "0x4dC02B3036bDECFdC2fe053dA7526F3db1245CC7", "name": "AvoFactory", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/16/2023"}
+{"address": "0xfbF28161ae33f492250aA12117E7a3F4593B7Aa1", "name": "AvoVersionsRegistryProxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "1/16/2023"}
+{"address": "0xa86545243D988283f81749Bd9B5F5C1D20d39243", "name": "AvoVersionsRegistry", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "-", "date": "1/16/2023"}
+{"address": "0xbbf2120f44229674418c41da25ee713aa4464c5f", "name": "Nice2Win", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/16/2023"}
+{"address": "0x83ba3d86237ed198d46ca47088e5c31e8637c079", "name": "Nice2Win", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/16/2023"}
+{"address": "0xa4D6750043a0Bd27eFCF101a774f4651c4E7aD3F", "name": "GalaxyCoder", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "1/16/2023"}
