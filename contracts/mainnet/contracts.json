@@ -8411,3 +8411,12 @@
 {"address": "0xbbf2120f44229674418c41da25ee713aa4464c5f", "name": "Nice2Win", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/16/2023"}
 {"address": "0x83ba3d86237ed198d46ca47088e5c31e8637c079", "name": "Nice2Win", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/16/2023"}
 {"address": "0xa4D6750043a0Bd27eFCF101a774f4651c4E7aD3F", "name": "GalaxyCoder", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "1/16/2023"}
+{"address": "0x82D330590B05c9c632828Fc5169Eb5De907baCff", "name": "Badges", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/16/2023"}
+{"address": "0x2191c7fDb14e36f1A163464B6431747C30Ab09cc", "name": "SingleRecipientPaymaster", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/16/2023"}
+{"address": "0x5cDbF3759B00a51543cD6eed39Afef87121dbC7f", "name": "ControllerDummyStrat", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/16/2023"}
+{"address": "0x056e8299B082D5F1016C846D93E71EadF4137851", "name": "Rewarder", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "1/16/2023"}
+{"address": "0x9e895962AaceE64e42b8fFFa1efF0AcD7F0B6794", "name": "ProofOfPerformance", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/16/2023"}
+{"address": "0xA889E90d4F1BA125Df1B4C1f55c7fff9F4377C03", "name": "InflationL2", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/16/2023"}
+{"address": "0x21B423Ad9488CAD08E06c50a5DB0F65AAa813254", "name": "AStaking", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/16/2023"}
+{"address": "0xB844bDCC64a748fDC8c9Ee74FA4812E4BC28FD70", "name": "StakingProxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/16/2023"}
+{"address": "0x27A2b90f5245aeFE3E6F7CAc12df98Be2737D0fa", "name": "Staking", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/16/2023"}
