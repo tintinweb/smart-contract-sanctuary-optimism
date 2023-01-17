@@ -8441,3 +8441,14 @@
 {"address": "0xe1fD038CBe37475fAAb39C9d676D9dAeAA47DA0C", "name": "DefiEdgeTwapStrategyFactory", "compiler": "0.7.6", "balance": "0.00577 Ether", "txcount": 19, "settings": "", "date": "1/17/2023"}
 {"address": "0x51e59CaF8980D4284707DAa2267EC4CC05F48374", "name": "SeaportModule", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/17/2023"}
 {"address": "0x106a524C49b924a92194F6FE4F3Da81c2d42E607", "name": "DefiEdgeStrategyFactory", "compiler": "0.7.6", "balance": "0.01506 Ether", "txcount": 30, "settings": "", "date": "1/17/2023"}
+{"address": "0xf099FA1Bd92f8AAF4886e8927D7bd3c15bA0BbFd", "name": "Rewarder", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "1/17/2023"}
+{"address": "0xC7846d1bc4d8bcF7c45a7c998b77cE9B3c904365", "name": "MasterChef", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 18, "settings": "", "date": "1/17/2023"}
+{"address": "0xF7E653E09AD398CC465b801C943Ef3cb8b568b85", "name": "Rewarder", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/17/2023"}
+{"address": "0x097264485014bad028890B6E03Ad2dc72BD43BF2", "name": "MasterChef", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/17/2023"}
+{"address": "0x1E1b61Bb80090D77B4a1158b3758259Ccc0b1515", "name": "RangoStargateFacet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "1/17/2023"}
+{"address": "0xA3853BC636673Ba23541c090341B57bC33E8Eb5f", "name": "RangoAccessManagerFacet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "1/17/2023"}
+{"address": "0x24f08D1A110B2105a32d005C37Ba3ED8D15B8Bb9", "name": "OpxChef", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 20, "settings": "", "date": "1/17/2023"}
+{"address": "0xc31B642d4d51DCcF1e4e1BD7Db627Cbd77fd9e53", "name": "RangoDiamond", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "1/17/2023"}
+{"address": "0x5F4AFE5aEe0cA7BCA608e547f2F40a5D8fe7E228", "name": "OwnershipFacet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "1/17/2023"}
+{"address": "0xC67bF11C58437B2647474471AED73e8c34dbA53F", "name": "DiamondLoupeFacet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "1/17/2023"}
+{"address": "0x4cd8098E3EAaDF26e0cDc726e0A63e6576221E57", "name": "DiamondCutFacet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "1/17/2023"}
