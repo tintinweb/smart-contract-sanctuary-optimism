@@ -8433,3 +8433,11 @@
 {"address": "0xf2819d706d94e13945b4898f44798a25451a48f6", "name": "FunAsset", "compiler": "0.8.5", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/17/2023"}
 {"address": "0x03860Eb57734BEeA99a79902B30F7d5d47c7d84B", "name": "UniswapV3AssetGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/17/2023"}
 {"address": "0x260b138b94EB824E66a8dCe5C9d434cC3b79aDbd", "name": "RewardDistribution", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/17/2023"}
+{"address": "0x6e406B69F99fDB0c67667EE82d9Dbf7c02f43482", "name": "StrategyArrakisUsdcDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/17/2023"}
+{"address": "0xaa86c0f5f655eF5888551aBDC7cC92096C9Dc267", "name": "StrategyGammaUsdcDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/17/2023"}
+{"address": "0x6401582306feda63ce8c27c554deccff66aa2622", "name": "PhotoCollage", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "1/17/2023"}
+{"address": "0x534c5d3C2FD4416FD8Aa7fe50a8cC8e54488F957", "name": "GalaxyCoder", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 8, "settings": "-", "date": "1/17/2023"}
+{"address": "0xb95899F0E73539271079B7F2330a358f968EC392", "name": "ClearingHouse", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/17/2023"}
+{"address": "0xe1fD038CBe37475fAAb39C9d676D9dAeAA47DA0C", "name": "DefiEdgeTwapStrategyFactory", "compiler": "0.7.6", "balance": "0.00577 Ether", "txcount": 19, "settings": "", "date": "1/17/2023"}
+{"address": "0x51e59CaF8980D4284707DAa2267EC4CC05F48374", "name": "SeaportModule", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/17/2023"}
+{"address": "0x106a524C49b924a92194F6FE4F3Da81c2d42E607", "name": "DefiEdgeStrategyFactory", "compiler": "0.7.6", "balance": "0.01506 Ether", "txcount": 30, "settings": "", "date": "1/17/2023"}
