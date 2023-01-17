@@ -8426,3 +8426,10 @@
 {"address": "0xE38faf9040c7F09958c638bBDB977083722c5156", "name": "HopBridgeToken", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 24522, "settings": "", "date": "1/17/2023"}
 {"address": "0x533713B04F7214D32Ad7C0A0c2Da590d7444F109", "name": "GalaxyCoder", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 6, "settings": "-", "date": "1/16/2023"}
 {"address": "0xC248D6445369ED303E02D42E5375d55Da75B05c2", "name": "ArrakisV1RouterStaking", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/16/2023"}
+{"address": "0xa30eD2d796b7eD6e19AA5774337034BbcB823247", "name": "SecureExecutor", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/17/2023"}
+{"address": "0x46411004BB0A3539F55e85e07731D6316ADCD576", "name": "SmartWallet", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/17/2023"}
+{"address": "0x043c26c2afae80e1c8aa7d341f6f725f4fa9183b", "name": "FunUpgradeProxy", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 13, "settings": "", "date": "1/17/2023"}
+{"address": "0x0968e00493779730bebe5f2a0392777c16877828", "name": "Pool", "compiler": "0.8.5", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/17/2023"}
+{"address": "0xf2819d706d94e13945b4898f44798a25451a48f6", "name": "FunAsset", "compiler": "0.8.5", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/17/2023"}
+{"address": "0x03860Eb57734BEeA99a79902B30F7d5d47c7d84B", "name": "UniswapV3AssetGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/17/2023"}
+{"address": "0x260b138b94EB824E66a8dCe5C9d434cC3b79aDbd", "name": "RewardDistribution", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/17/2023"}
