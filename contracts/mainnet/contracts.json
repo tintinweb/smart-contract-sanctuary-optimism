@@ -8420,3 +8420,9 @@
 {"address": "0x21B423Ad9488CAD08E06c50a5DB0F65AAa813254", "name": "AStaking", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/16/2023"}
 {"address": "0xB844bDCC64a748fDC8c9Ee74FA4812E4BC28FD70", "name": "StakingProxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/16/2023"}
 {"address": "0x27A2b90f5245aeFE3E6F7CAc12df98Be2737D0fa", "name": "Staking", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/16/2023"}
+{"address": "0x131269d990f7dab63bc63fe60aa5449490f4d27b", "name": "IrBankMonitor", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "1/17/2023"}
+{"address": "0x83db67f92e24ea1a47e700109030fb4ed141c06d", "name": "TimedLockerV2", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/17/2023"}
+{"address": "0x46a1a4cdc611fa6e59ec5cd711e8a0614389cc9f", "name": "IrBankMonitor", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/17/2023"}
+{"address": "0xE38faf9040c7F09958c638bBDB977083722c5156", "name": "HopBridgeToken", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 24522, "settings": "", "date": "1/17/2023"}
+{"address": "0x533713B04F7214D32Ad7C0A0c2Da590d7444F109", "name": "GalaxyCoder", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 6, "settings": "-", "date": "1/16/2023"}
+{"address": "0xC248D6445369ED303E02D42E5375d55Da75B05c2", "name": "ArrakisV1RouterStaking", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/16/2023"}
