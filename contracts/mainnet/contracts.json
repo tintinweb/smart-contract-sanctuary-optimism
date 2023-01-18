@@ -8462,3 +8462,8 @@
 {"address": "0x38396Cb4dAb10062343df51F7325511305663657", "name": "Calamus", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/18/2023"}
 {"address": "0x0Ad1A337536aD14734A3ccBCA8F6FD22e6b7593f", "name": "DataProvider", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/18/2023"}
 {"address": "0xb131A72a4DeD4ffC93589BBabe543820396d6032", "name": "RangoStargateFacet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "1/18/2023"}
+{"address": "0x3c0a405e914337139992625d5100ea141a9c4d11", "name": "Vyper_contract", "compiler": "vyper:0.3.0", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/18/2023"}
+{"address": "0xe5de15a9c9bbedb4f5ec13b131e61245f2983a69", "name": "Vyper_contract", "compiler": "vyper:0.3.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/18/2023"}
+{"address": "0xe35a879e5efb4f1bb7f70dcf3250f2e19f096bd8", "name": "Vyper_contract", "compiler": "vyper:0.3.0", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/18/2023"}
+{"address": "0xFB9660f7172460326E016308C21BC24d4Ed76523", "name": "RouterPatch", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/18/2023"}
+{"address": "0x8B152E98e9dc8b709f58339C1c8593fCdd676be1", "name": "RangoStargateFacet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "1/18/2023"}
