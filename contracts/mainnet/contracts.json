@@ -8458,3 +8458,7 @@
 {"address": "0xbb45A44E2DB39a86723134CB3789a9Ba2aA9e9ba", "name": "UniswapV3AssetGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/18/2023"}
 {"address": "0xAde63D643564AaA8C2A86F2244f43B5eB00ed5e6", "name": "VestingMerkleDistributor", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/18/2023"}
 {"address": "0x1101fd23d5bbb2138ff97fda80744575f849c6c9", "name": "SettleBoardAutomator", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/17/2023"}
+{"address": "0x5bd0efcd87c510b7b0f8feaac010f67c0e8604bb", "name": "WednesdayToken", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/18/2023"}
+{"address": "0x38396Cb4dAb10062343df51F7325511305663657", "name": "Calamus", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/18/2023"}
+{"address": "0x0Ad1A337536aD14734A3ccBCA8F6FD22e6b7593f", "name": "DataProvider", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/18/2023"}
+{"address": "0xb131A72a4DeD4ffC93589BBabe543820396d6032", "name": "RangoStargateFacet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "1/18/2023"}
