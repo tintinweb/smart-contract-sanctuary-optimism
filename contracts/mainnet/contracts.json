@@ -8452,3 +8452,9 @@
 {"address": "0x5F4AFE5aEe0cA7BCA608e547f2F40a5D8fe7E228", "name": "OwnershipFacet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "1/17/2023"}
 {"address": "0xC67bF11C58437B2647474471AED73e8c34dbA53F", "name": "DiamondLoupeFacet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "1/17/2023"}
 {"address": "0x4cd8098E3EAaDF26e0cDc726e0A63e6576221E57", "name": "DiamondCutFacet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "1/17/2023"}
+{"address": "0xb557e7d870c71e736490f73ce1b2c72522de4548", "name": "DRAGON", "compiler": "0.8.7", "balance": "0.001 Ether", "txcount": 2, "settings": "", "date": "1/18/2023"}
+{"address": "0x5561357156d106AEfe5A51b88EE6Ed57C9076344", "name": "UniswapCalculator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/18/2023"}
+{"address": "0x5Eb7c1D471F453a22920f91501A1dA34F46d7B23", "name": "RingStaking", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/18/2023"}
+{"address": "0xbb45A44E2DB39a86723134CB3789a9Ba2aA9e9ba", "name": "UniswapV3AssetGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/18/2023"}
+{"address": "0xAde63D643564AaA8C2A86F2244f43B5eB00ed5e6", "name": "VestingMerkleDistributor", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/18/2023"}
+{"address": "0x1101fd23d5bbb2138ff97fda80744575f849c6c9", "name": "SettleBoardAutomator", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/17/2023"}
