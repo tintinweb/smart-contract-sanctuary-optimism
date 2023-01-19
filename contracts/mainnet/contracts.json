@@ -8488,3 +8488,6 @@
 {"address": "0x000000000000bcbb63c5f383bc510ec7ec636bad", "name": "SafeProxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "1/19/2023"}
 {"address": "0xB3A103e08A9DaDf3cCD06824A65be86B33CDB138", "name": "TherundownConsumer", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/19/2023"}
 {"address": "0xFD3919266a25ed80d4d18f989Bd1f6cFB639077c", "name": "SecureExecutor", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/19/2023"}
+{"address": "0x041C7aF8ff6b675C6309f321649cB96D20D1A847", "name": "GasStation", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0x7B4d6d79DE44Fe034f75BD4525a13aaEFAF4597F", "name": "BeefyZapOneInch", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 17, "settings": "", "date": "1/19/2023"}
+{"address": "0xaacc98EfaFc86211a1b4ecB6824EDBb8a011364D", "name": "KtbUniArbitrageur", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "1/19/2023"}
