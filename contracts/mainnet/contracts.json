@@ -8476,3 +8476,7 @@
 {"address": "0x7aFcb83E45500f8F9d5934e6690a7De3e82Ac3b4", "name": "BeefyZapAggregator", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "1/18/2023"}
 {"address": "0xd7a96c80ef97EdA106aad53802b07B86beEfAa71", "name": "Create3Factory", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/18/2023"}
 {"address": "0x2d9a90B88367360Fb09B0d0d7D0eA0f99d688e5c", "name": "BeefyZapAggregator", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/18/2023"}
+{"address": "0xe106e99472b2dee098e5b8bbcd5d23331f346312", "name": "Token", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "1/19/2023"}
+{"address": "0x8373c68629191EF10f654CE8e32bbfe3c7A1D743", "name": "SmartVaultsFactory", "compiler": "0.8.3", "balance": "-", "txcount": 0, "settings": "", "date": "1/19/2023"}
+{"address": "0xBC6628f3164ff943E49BE07Ff6B4c9c116be4971", "name": "BridgeConnector", "compiler": "0.8.3", "balance": "-", "txcount": 0, "settings": "", "date": "1/19/2023"}
+{"address": "0xEBe080c88F6D65Fd055AaF0EDe7B431eb284450d", "name": "SwapConnector", "compiler": "0.8.3", "balance": "-", "txcount": 0, "settings": "", "date": "1/19/2023"}
