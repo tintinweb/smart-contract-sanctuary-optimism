@@ -8491,3 +8491,13 @@
 {"address": "0x041C7aF8ff6b675C6309f321649cB96D20D1A847", "name": "GasStation", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/19/2023"}
 {"address": "0x7B4d6d79DE44Fe034f75BD4525a13aaEFAF4597F", "name": "BeefyZapOneInch", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 17, "settings": "", "date": "1/19/2023"}
 {"address": "0xaacc98EfaFc86211a1b4ecB6824EDBb8a011364D", "name": "KtbUniArbitrageur", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "1/19/2023"}
+{"address": "0xdcf476Df1165d85477BE841f4907569cf1413745", "name": "MiniChefV2", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 40, "settings": "", "date": "1/19/2023"}
+{"address": "0xC0D6A410Ed141C1369f64aDb061851f28C112aD2", "name": "MiniChefV2", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "1/19/2023"}
+{"address": "0xEDc5eBE9Fe347497703ae595BAEC028a34E315A8", "name": "MiniChefV2", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 13, "settings": "", "date": "1/19/2023"}
+{"address": "0xB17EE17c0B21a11cEea4378eAA235Df86D82Ba18", "name": "MiniChefV2", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "1/19/2023"}
+{"address": "0x3b54188C35074610c3cEA64577b2Cb88Bf77dbe0", "name": "VeloVoteFarmerUsdc", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0xe4317f279d28648d1a4023dac3d9fe3017116d09", "name": "VeloVoteManagerUsdc", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0x907fC37830CB1A0EB8F6cFf42782cc50c44Ff2A3", "name": "RouterPatch", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0x8eF21E9BFE8f40EDDD9BF7828707DA47d5536C4C", "name": "FlashProtocolProxy", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0x081fc004Df1F88E59840eC04fb0ef1E4b0854064", "name": "StrategyGammaUsdcDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0x2c6b3Fe49Fb1f0E2D9b2577f201d98fFfAb12Cc6", "name": "xTokenManager", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/19/2023"}
