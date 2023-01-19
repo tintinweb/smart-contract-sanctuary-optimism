@@ -8480,3 +8480,11 @@
 {"address": "0x8373c68629191EF10f654CE8e32bbfe3c7A1D743", "name": "SmartVaultsFactory", "compiler": "0.8.3", "balance": "-", "txcount": 0, "settings": "", "date": "1/19/2023"}
 {"address": "0xBC6628f3164ff943E49BE07Ff6B4c9c116be4971", "name": "BridgeConnector", "compiler": "0.8.3", "balance": "-", "txcount": 0, "settings": "", "date": "1/19/2023"}
 {"address": "0xEBe080c88F6D65Fd055AaF0EDe7B431eb284450d", "name": "SwapConnector", "compiler": "0.8.3", "balance": "-", "txcount": 0, "settings": "", "date": "1/19/2023"}
+{"address": "0x842e7d311ab31d1d4872bc33cbbbaf2040ccbcf0", "name": "OPTIDRAGONN", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/19/2023"}
+{"address": "0xe2d8482960e14df5fdb3ed848a9e950842c2a0e2", "name": "FUNNYANGLEE", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/19/2023"}
+{"address": "0x1e4e168c59033e6040eefe294c8d0a02aa770246", "name": "DRAGOLDD", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/19/2023"}
+{"address": "0x1dE0277484968d63D5DC78d00aE241cf99823D20", "name": "OptiGods", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0x70d91f4f6Bc5656E7d5C9DE7266d00e998F61c28", "name": "PerpBuybackPool", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/19/2023"}
+{"address": "0x000000000000bcbb63c5f383bc510ec7ec636bad", "name": "SafeProxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "1/19/2023"}
+{"address": "0xB3A103e08A9DaDf3cCD06824A65be86B33CDB138", "name": "TherundownConsumer", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0xFD3919266a25ed80d4d18f989Bd1f6cFB639077c", "name": "SecureExecutor", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/19/2023"}
