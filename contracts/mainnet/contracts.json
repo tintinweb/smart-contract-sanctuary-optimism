@@ -8515,3 +8515,11 @@
 {"address": "0x6808a70a212Cc2cA0838F5703a6C7BD080fA354f", "name": "CrossChainAdapter", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/20/2023"}
 {"address": "0xA382E11AD946ea5b0641C4A41bCc7d95a3f563CB", "name": "ArrakisV1RouterStakingGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/20/2023"}
 {"address": "0x60ad7cd2db34e369af2ecb4edc6a2f94d4557ed1", "name": "PhraseToHex", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/20/2023"}
+{"address": "0x3C17d2c3C136f9e0D63720583CD9a3E003591416", "name": "RouterPatch", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0x3eFa32bB69ED26d4359CEca527d4168E4550857f", "name": "LoopsieDaisy", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/20/2023"}
+{"address": "0x494C6fd20BC9143Ec4519126b858ff39200FBE49", "name": "Multicall", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0x0cd13D6731F9b3f02DC31250b537cC2284800402", "name": "VoterSBT", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0x2062b7caf899cF2eBc9D07ED45D323F6B096383e", "name": "CrossChainAdapter", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0xA44D8739c4d2E2B2e6E03934f059248c9F78ddf5", "name": "RouterPatch", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/20/2023"}
+{"address": "0x5417F117E4A2283623B3b9A07Ec2B2f269d19A75", "name": "SigValidationModule", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 16, "settings": "", "date": "1/20/2023"}
+{"address": "0x1F7361A2041788e4461222Ac3Ad742Bb9eA2330D", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/20/2023"}
