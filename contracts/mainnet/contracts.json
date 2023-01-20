@@ -8511,3 +8511,7 @@
 {"address": "0x411b9c3db6122220D035A93bB63b59ED0B27df90", "name": "Token", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/19/2023"}
 {"address": "0x8ACC13002cbEAA31339b792b8F554842b88da7F1", "name": "DefiEdgeTwapStrategyDeployer", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/19/2023"}
 {"address": "0xb11Bc3c2e43AdB013e99c4A5662cAF6f1384889b", "name": "DefiEdgeStrategyDeployer", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0xBe788FeAe3C004EE759149C55Db2D173407633f2", "name": "UnityChain", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/20/2023"}
+{"address": "0x6808a70a212Cc2cA0838F5703a6C7BD080fA354f", "name": "CrossChainAdapter", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0xA382E11AD946ea5b0641C4A41bCc7d95a3f563CB", "name": "ArrakisV1RouterStakingGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0x60ad7cd2db34e369af2ecb4edc6a2f94d4557ed1", "name": "PhraseToHex", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/20/2023"}
