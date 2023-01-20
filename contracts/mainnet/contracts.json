@@ -8501,3 +8501,13 @@
 {"address": "0x8eF21E9BFE8f40EDDD9BF7828707DA47d5536C4C", "name": "FlashProtocolProxy", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/19/2023"}
 {"address": "0x081fc004Df1F88E59840eC04fb0ef1E4b0854064", "name": "StrategyGammaUsdcDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/19/2023"}
 {"address": "0x2c6b3Fe49Fb1f0E2D9b2577f201d98fFfAb12Cc6", "name": "xTokenManager", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/19/2023"}
+{"address": "0xaf907209BfDF4d7F49De4667784b4bF74f67f000", "name": "Valve1155", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0xF76E739009df2A2068D97bB72932A69635BBD7F3", "name": "Valve721", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0xA6C4Dca896B156234aF2E62Df5374cc1379f0105", "name": "Valve", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0x7110d7a3331d0919808339705642553df9b0b52d", "name": "StakingRewards", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/19/2023"}
+{"address": "0xf3Cb865903F74445E89c0Aacc19FcA3D82032C7d", "name": "EditionStake", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0xa825421C5D8747EB1A0195ce2518ad40CB5d8320", "name": "TokenStake", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0xf58D5d56aEfdF755DBBF6e636B83F39aF2F31977", "name": "NFTStake", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0x411b9c3db6122220D035A93bB63b59ED0B27df90", "name": "Token", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/19/2023"}
+{"address": "0x8ACC13002cbEAA31339b792b8F554842b88da7F1", "name": "DefiEdgeTwapStrategyDeployer", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0xb11Bc3c2e43AdB013e99c4A5662cAF6f1384889b", "name": "DefiEdgeStrategyDeployer", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/19/2023"}
