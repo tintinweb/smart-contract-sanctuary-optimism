@@ -8523,3 +8523,10 @@
 {"address": "0xA44D8739c4d2E2B2e6E03934f059248c9F78ddf5", "name": "RouterPatch", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/20/2023"}
 {"address": "0x5417F117E4A2283623B3b9A07Ec2B2f269d19A75", "name": "SigValidationModule", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 16, "settings": "", "date": "1/20/2023"}
 {"address": "0x1F7361A2041788e4461222Ac3Ad742Bb9eA2330D", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0x611747CC4576aAb44f602a65dF3557150C214493", "name": "LilPudgysONFT", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0x54ac100F7e33f521C2cc3c3D591D518a4E252F9e", "name": "L2HopSwapper", "compiler": "0.8.3", "balance": "-", "txcount": 0, "settings": "", "date": "1/20/2023"}
+{"address": "0x33F78C4bF6DA0De6c4d5410A2d9749000dbc09Eb", "name": "L2HopBridger", "compiler": "0.8.3", "balance": "-", "txcount": 0, "settings": "", "date": "1/20/2023"}
+{"address": "0xDf7D56E526eD37834be0e4D2C8aecE552f54cFea", "name": "Holder", "compiler": "0.8.3", "balance": "-", "txcount": 0, "settings": "", "date": "1/20/2023"}
+{"address": "0xefd429e2FD956558cC58e505f6c73c0986b2F707", "name": "Funder", "compiler": "0.8.3", "balance": "-", "txcount": 0, "settings": "", "date": "1/20/2023"}
+{"address": "0x2Dbc6c6CbA8b13497C35647d0608db968496d0F9", "name": "L2BridgingSmartVaultDeployer", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0xB25CE65105a349c6cbDc26903cda1f83c12Ea84f", "name": "StrategyArrakisUsdcDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/20/2023"}
