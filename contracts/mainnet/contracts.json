@@ -8532,3 +8532,4 @@
 {"address": "0xB25CE65105a349c6cbDc26903cda1f83c12Ea84f", "name": "StrategyArrakisUsdcDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/20/2023"}
 {"address": "0x34EbEc0AE80A2d078DE5489f0f5cAa4d3aaEA355", "name": "PurchaseHook", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/20/2023"}
 {"address": "0xe3aD7242D9a09FB2bDe13ff2C08e94B3f3238701", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/21/2023"}
+{"address": "0x9190697Ec28c3954bC61Ee21aB0E7ebD52545119", "name": "exchangeShareOracle", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/21/2023"}
