@@ -8530,3 +8530,4 @@
 {"address": "0xefd429e2FD956558cC58e505f6c73c0986b2F707", "name": "Funder", "compiler": "0.8.3", "balance": "-", "txcount": 0, "settings": "", "date": "1/20/2023"}
 {"address": "0x2Dbc6c6CbA8b13497C35647d0608db968496d0F9", "name": "L2BridgingSmartVaultDeployer", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/20/2023"}
 {"address": "0xB25CE65105a349c6cbDc26903cda1f83c12Ea84f", "name": "StrategyArrakisUsdcDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0x34EbEc0AE80A2d078DE5489f0f5cAa4d3aaEA355", "name": "PurchaseHook", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/20/2023"}
