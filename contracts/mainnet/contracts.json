@@ -8541,3 +8541,7 @@
 {"address": "0x4C424155997DD42435D137fDecfC64Ea619a5978", "name": "IMXVault", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "1/22/2023"}
 {"address": "0xe5dC0b65139A38fcB4DB4aC8E1375f22a250784b", "name": "AggregatorVault", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/22/2023"}
 {"address": "0xFC8070e692C1c3C9705656809a76183cCfA709f7", "name": "CurvewstMooVault", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/21/2023"}
+{"address": "0x3da38285eabc5a3b20a51c8091d44d8586d1df35", "name": "Lender", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/22/2023"}
+{"address": "0x00001e0800ef386e00005ad9e11c82c8b800bf4f", "name": "Factory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "1/22/2023"}
+{"address": "0x00000000a6f937bcb46f1db682ce4f0cdd99afb1", "name": "RateModel", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/22/2023"}
+{"address": "0x338D6B6d64c63293cb5Ea27c0dE9deE9f2432C1a", "name": "RangoVoyagerFacet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "1/22/2023"}
