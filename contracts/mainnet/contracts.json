@@ -8546,3 +8546,4 @@
 {"address": "0x00000000a6f937bcb46f1db682ce4f0cdd99afb1", "name": "RateModel", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/22/2023"}
 {"address": "0x338D6B6d64c63293cb5Ea27c0dE9deE9f2432C1a", "name": "RangoVoyagerFacet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "1/22/2023"}
 {"address": "0xE5D31ccBD02C61Ea613920eD086255c64F2495E7", "name": "RangoVoyagerFacet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "1/22/2023"}
+{"address": "0xbd491e561266bf8577dee673b2f780c813918da6", "name": "DripAddress", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "1/22/2023"}
