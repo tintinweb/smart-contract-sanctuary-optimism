@@ -8553,3 +8553,7 @@
 {"address": "0x22c4c7cce7771e41c2e97ded588d3803b5b5e1f9", "name": "TimedLockerV3", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/22/2023"}
 {"address": "0x6aFFA63B7a206BBD1510eb8AcD782D2361A6d034", "name": "LiquidityLockerNFT", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/22/2023"}
 {"address": "0x6C67B73EbA5D52c9a59E290fB8fF65D040a6f59b", "name": "Caesium", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 22, "settings": "", "date": "1/22/2023"}
+{"address": "0xa3e62c1c567d255f25849c8c0b76351e6871da28", "name": "NomisScore", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "1/23/2023"}
+{"address": "0x291120Ffa233285f82a741a2970FaF246FE5e88c", "name": "StrategyUsdPlusDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/23/2023"}
+{"address": "0xC33d93AbCB103eDB8a3368D78B4739a9d0DBF4D8", "name": "StrategyUsdPlusDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/23/2023"}
+{"address": "0xfFaA489Fc2e19b507CD70960166D64aE98AfC031", "name": "GalaxyCoder", "compiler": "0.8.16", "balance": "108 wei", "txcount": 13, "settings": "-", "date": "1/23/2023"}
