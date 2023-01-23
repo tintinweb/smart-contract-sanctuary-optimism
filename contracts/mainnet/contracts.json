@@ -8557,3 +8557,10 @@
 {"address": "0x291120Ffa233285f82a741a2970FaF246FE5e88c", "name": "StrategyUsdPlusDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/23/2023"}
 {"address": "0xC33d93AbCB103eDB8a3368D78B4739a9d0DBF4D8", "name": "StrategyUsdPlusDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/23/2023"}
 {"address": "0xfFaA489Fc2e19b507CD70960166D64aE98AfC031", "name": "GalaxyCoder", "compiler": "0.8.16", "balance": "108 wei", "txcount": 13, "settings": "-", "date": "1/23/2023"}
+{"address": "0x2f5347c3299b1e14d1a470527d6de9987f6cc8f1", "name": "CircleOfHell", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 15, "settings": "-", "date": "1/23/2023"}
+{"address": "0x7707964B4C24A6b8b7B747F7507F56818857A7C2", "name": "TributeMinion", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/23/2023"}
+{"address": "0x2a9886Bd3Dc34f05d56650105F5239F441FA2EDd", "name": "BaalAndVaultSummoner", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/23/2023"}
+{"address": "0x7e988A9db2F8597735fc68D21060Daed948a3e8C", "name": "BaalSummoner", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/23/2023"}
+{"address": "0x17234C0Ae25AF09fAf57B9D5ea2B93C1f220E800", "name": "Baal", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/23/2023"}
+{"address": "0x8124Cbb807A7b64123F3dEc3EF64995d8B10d3Eb", "name": "Shares", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/23/2023"}
+{"address": "0x0444AE984b9563C8480244693ED65F25B3C64a4E", "name": "Loot", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/23/2023"}
