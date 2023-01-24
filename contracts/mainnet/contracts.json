@@ -8564,3 +8564,12 @@
 {"address": "0x17234C0Ae25AF09fAf57B9D5ea2B93C1f220E800", "name": "Baal", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/23/2023"}
 {"address": "0x8124Cbb807A7b64123F3dEc3EF64995d8B10d3Eb", "name": "Shares", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/23/2023"}
 {"address": "0x0444AE984b9563C8480244693ED65F25B3C64a4E", "name": "Loot", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/23/2023"}
+{"address": "0xeFe98fdc079238825a8B953b60350603eDDE41Da", "name": "VaultOperator", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/24/2023"}
+{"address": "0xA6e8F7a652785C56efDe13E4fC03B3BC4C6fe218", "name": "StakedCLRToken", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x3b11cEa427a3C96Ed9771335F2567f80f4226ab6", "name": "LMTerminal", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x98764589F3e94A94E4B171a4d6902DeB5543676E", "name": "NonRewardPool", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x330c43d22bd65a60ffea93a197f04e87faa27b70", "name": "Vyper_contract", "compiler": "vyper:0.2.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x1Cf748Bb5BF15D3712CbeD53730D98495142bAA2", "name": "VaultOperator", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/24/2023"}
+{"address": "0xd46db083de31c64af3f680f139a31ff37bac004f", "name": "Vyper_contract", "compiler": "vyper:0.2.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x529b3d8c8407ec218cb798ec2d59032400d0fa9c", "name": "LinkToken", "compiler": "0.4.16", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "1/23/2023"}
+{"address": "0x688f5bc31a0d16fb589f1e0e801748885492e5fe", "name": "LiquidityLocker", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/23/2023"}
