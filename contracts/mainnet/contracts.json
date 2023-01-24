@@ -8573,3 +8573,4 @@
 {"address": "0xd46db083de31c64af3f680f139a31ff37bac004f", "name": "Vyper_contract", "compiler": "vyper:0.2.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/24/2023"}
 {"address": "0x529b3d8c8407ec218cb798ec2d59032400d0fa9c", "name": "LinkToken", "compiler": "0.4.16", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "1/23/2023"}
 {"address": "0x688f5bc31a0d16fb589f1e0e801748885492e5fe", "name": "LiquidityLocker", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/23/2023"}
+{"address": "0x55735ed5e4aae92249a8091af984ca8ce1404c77", "name": "AaveFlashLoan", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/24/2023"}
