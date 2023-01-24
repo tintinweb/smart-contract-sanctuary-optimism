@@ -8593,3 +8593,4 @@
 {"address": "0xDa26b8EB86ddF2028533f82a6f5451A232373f8a", "name": "SportPositionalMarketManager", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/24/2023"}
 {"address": "0x9FB0Ac544e9E6426b4b440DbE50A3A10B5905c48", "name": "FundFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/24/2023"}
 {"address": "0x266b5d4717661F4Ef37Af4379c066ab8E046BB22", "name": "ThalesAMM", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x3dEfAf45093c01A5b0A34587Ea3726b911d523a8", "name": "SportPositionalMarketData", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/24/2023"}
