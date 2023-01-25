@@ -8654,3 +8654,10 @@
 {"address": "0x032540E69963235B3A1F56e61f8659A425655083", "name": "CrossChainAdapter", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/25/2023"}
 {"address": "0x5e04a0576409c8bb7978ce3ee9db9fa13518a1f6", "name": "LinkToken", "compiler": "0.4.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/25/2023"}
 {"address": "0xf833c43b765af5e16a685c62b21b863c8d0321ec", "name": "BasicToken", "compiler": "0.4.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/25/2023"}
+{"address": "0x7E8B7b3aD23CAA7155603Db3F51e4529fdc606C2", "name": "PrizeDistributionFactoryV2", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/25/2023"}
+{"address": "0x85c0d1c1714da886052c1b04c42ff7076ff5e222", "name": "DrawExecutor", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/25/2023"}
+{"address": "0x2Eb3F768a00Ec81E8A0AC337870572907d3B953d", "name": "PrizeTierHistoryV2", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/25/2023"}
+{"address": "0xCd5FE81278FEbf3a9323eFC9F68AEcCAeAE8BE2C", "name": "OptimisticAsserter", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/25/2023"}
+{"address": "0x15c32F81Df9B00b97B68148B6BdeB72D57f24845", "name": "FTokenAccumulator", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "1/25/2023"}
+{"address": "0x18DFd867a29Fa57d5Cf23Ad0EB9f2Cf477b488Df", "name": "StrategyGammaUsdcDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/25/2023"}
+{"address": "0xf1E736Bd81a64f7BBb42882628Cab7754b11D956", "name": "StrategyArrakisUsdcDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/25/2023"}
