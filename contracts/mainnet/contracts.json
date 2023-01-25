@@ -8649,3 +8649,8 @@
 {"address": "0xA9Aa2974887ec0debCc2EF8fD642F5DDb64F02Bd", "name": "ERC20Vault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/24/2023"}
 {"address": "0xc02a7B4658861108f9837007b2DF2007d6977116", "name": "AllowAllValidator", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/24/2023"}
 {"address": "0x5A8Ecb195889Ee7425D217c1E569B65BCEB5E92f", "name": "ProtocolGovernance", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/24/2023"}
+{"address": "0x9043CF6B9319b07f52D9C8d8964A8B457A64e0Ca", "name": "ThalesAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/25/2023"}
+{"address": "0xf2d86d42F460D9Df40eC807AbC02Add8521a727F", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/25/2023"}
+{"address": "0x032540E69963235B3A1F56e61f8659A425655083", "name": "CrossChainAdapter", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/25/2023"}
+{"address": "0x5e04a0576409c8bb7978ce3ee9db9fa13518a1f6", "name": "LinkToken", "compiler": "0.4.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/25/2023"}
+{"address": "0xf833c43b765af5e16a685c62b21b863c8d0321ec", "name": "BasicToken", "compiler": "0.4.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/25/2023"}
