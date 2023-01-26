@@ -8669,3 +8669,15 @@
 {"address": "0xdF50cd348B018D955BD08d7A3FE6121Be14BEaa9", "name": "OFTWrapper", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/25/2023"}
 {"address": "0xfeD78b2d1DAeb1B82C528293c73601dd8436B383", "name": "CrossChainAdapter", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/26/2023"}
 {"address": "0x63F072928cAC9FFD799c6d0F985F9Ee3985e9a84", "name": "PositionalMarketData", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/26/2023"}
+{"address": "0x6878Ae3c863f6Ebd27B47C02F6B32aAC8B0BA07E", "name": "KeyManager", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/26/2023"}
+{"address": "0x3813D02352273Daf0dDB10a6994F73F552642772", "name": "DappadToken", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/26/2023"}
+{"address": "0xB5bc6369bc2Dc8969B18f6C25488EC0a38cA637f", "name": "ValidatorAnnounce", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/26/2023"}
+{"address": "0x56f52c0A1ddcD557285f7CBc782D3d83096CE1Cc", "name": "OverheadIgp", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/26/2023"}
+{"address": "0x6cA0B6D22da47f091B7613223cD4BB03a2d77918", "name": "TransparentUpgradeableProxy", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/26/2023"}
+{"address": "0xAb311C7DAE251C1eB24c5A5409d47a415828d5E5", "name": "InterchainGasPaymaster", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/26/2023"}
+{"address": "0x9818BC9C4E09B1c542235dC969Ad1c6136899Ad1", "name": "VaultManagerLiquidationBoost", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/26/2023"}
+{"address": "0x340372e89ba6e021A93716944DC2dE36E360f346", "name": "HedgeExchanger", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/26/2023"}
+{"address": "0x9cC64cd56700F749671Da9cBb88dCb158760B0c7", "name": "SwapFactory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/26/2023"}
+{"address": "0x08275C76545fa01463AE0BC0a5a74893BeAC4F86", "name": "OneInch", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/26/2023"}
+{"address": "0xfdC435caebED2728e275F32Fa4D179975dc2cF74", "name": "UnlockFactory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/26/2023"}
+{"address": "0x8C19Aa33F97475334dD312656a14051ED7d5d4c5", "name": "AirdropOnPurchaseHook", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/26/2023"}
