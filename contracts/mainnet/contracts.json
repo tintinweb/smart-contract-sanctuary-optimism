@@ -8667,3 +8667,5 @@
 {"address": "0x60B828Bd57B35078f728c8A40D768600410e796d", "name": "YearnWrapper", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/25/2023"}
 {"address": "0x1FA23Ee1319F6f3f2973FD41f83a08CdD99fEA5d", "name": "YearnWrapper", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/25/2023"}
 {"address": "0xdF50cd348B018D955BD08d7A3FE6121Be14BEaa9", "name": "OFTWrapper", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/25/2023"}
+{"address": "0xfeD78b2d1DAeb1B82C528293c73601dd8436B383", "name": "CrossChainAdapter", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/26/2023"}
+{"address": "0x63F072928cAC9FFD799c6d0F985F9Ee3985e9a84", "name": "PositionalMarketData", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/26/2023"}
