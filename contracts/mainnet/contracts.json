@@ -8681,3 +8681,11 @@
 {"address": "0x08275C76545fa01463AE0BC0a5a74893BeAC4F86", "name": "OneInch", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/26/2023"}
 {"address": "0xfdC435caebED2728e275F32Fa4D179975dc2cF74", "name": "UnlockFactory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/26/2023"}
 {"address": "0x8C19Aa33F97475334dD312656a14051ED7d5d4c5", "name": "AirdropOnPurchaseHook", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/26/2023"}
+{"address": "0xC1cB3b7cbB3e786aB85ea28489f332f4FAEd5Bc4", "name": "EACAggregatorProxy", "compiler": "0.6.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/26/2023"}
+{"address": "0xbeD744818e96AAD8a51324291a6f6Cb20A0c22be", "name": "AttestationStation", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "1/26/2023"}
+{"address": "0xd7BCc814EBD86935A17E2d343eEaF8F80e2075Eb", "name": "L2Replica", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/26/2023"}
+{"address": "0xeD47D3538fC700C65908e1A8575666f5598E49Ee", "name": "L2Replica", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/26/2023"}
+{"address": "0x85B4de1AC543B458B78FA544eeDf0b99fdd46e98", "name": "TokenClaimV3", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/26/2023"}
+{"address": "0xa6341045540ca361A383797Be6b6d952AB1d374D", "name": "TokenClaim", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/26/2023"}
+{"address": "0x9A5F94Ec2a5C3d03e979dd8e71Df32009e1F8E4A", "name": "DappadPool", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/26/2023"}
+{"address": "0x0EB4DbB2ee5CCC7cF77AEf1D9C2f82C0D586e125", "name": "Stake", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/26/2023"}
