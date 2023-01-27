@@ -8689,3 +8689,17 @@
 {"address": "0xa6341045540ca361A383797Be6b6d952AB1d374D", "name": "TokenClaim", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/26/2023"}
 {"address": "0x9A5F94Ec2a5C3d03e979dd8e71Df32009e1F8E4A", "name": "DappadPool", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/26/2023"}
 {"address": "0x0EB4DbB2ee5CCC7cF77AEf1D9C2f82C0D586e125", "name": "Stake", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/26/2023"}
+{"address": "0xB016e83d81e6073De6cbB06BCb2299e1AD071E11", "name": "SynthetixPerpsV2MarketContractGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/27/2023"}
+{"address": "0x267D170956179B242d472c3223a6C68d8ba33633", "name": "SynthetixPerpsV2MarketAssetGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/27/2023"}
+{"address": "0x8e9647eA12931C0ecAb3c0Cb044168E02A70b72F", "name": "LyraOptionMarketContractGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/27/2023"}
+{"address": "0x32f9B6969E91fcbF9EE7c077272cc4E0145ED439", "name": "DhedgeSuperSwapper", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/27/2023"}
+{"address": "0xfB4a499126b75568d260e11a2B66E06C5A91EDeD", "name": "DhedgeUniV3V2Router", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/27/2023"}
+{"address": "0xB687162d66280074Bf2784902B57F3F1212297E5", "name": "DhedgeVeloV2Router", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/27/2023"}
+{"address": "0x0f9b80fc3c8b9123D0aEf43Df58ebDBC034A8901", "name": "Seaport", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/26/2023"}
+{"address": "0x3E173b825ADEeF9661920B91A8d50B075Ad51bA5", "name": "ConduitController", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/26/2023"}
+{"address": "0x4b919D68b71f6AEd2d1715EB21a09Fd6c4d428Cf", "name": "ARN", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/26/2023"}
+{"address": "0xce6A6b6935A1aB3aF7Be53fbc8A149791b418278", "name": "StrategyCommonSolidlyGaugeLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/26/2023"}
+{"address": "0x5E932AA064EFD6F031c0B991C519317884bCD1F1", "name": "UniswapV3Feature", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/26/2023"}
+{"address": "0xFEAd4c05220a8fDdc74008AE43199BaDc3BecaF9", "name": "FillQuoteTransformer", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "1/26/2023"}
+{"address": "0xBE5a56990DF7F105d38C85440FA39703d5C09ab2", "name": "OptimismBridgeAdapter", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/26/2023"}
+{"address": "0xD24E1CdD2F9c0A070F73081B5f79BdD0d42EFA2f", "name": "AccessControlledOffchainAggregator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "1/26/2023"}
