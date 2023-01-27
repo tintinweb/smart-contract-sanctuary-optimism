@@ -8723,3 +8723,15 @@
 {"address": "0x3347F15601be15F426689D652794f64fd90e7A6e", "name": "RouterFacet", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/27/2023"}
 {"address": "0x69606C71501B7251B32eD9C782766198857188B9", "name": "GovernanceFacet", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/27/2023"}
 {"address": "0xD1f633f02F5362eDD60eD11B5f1223e196E44115", "name": "OwnershipFacet", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/27/2023"}
+{"address": "0x08b8abCE1Ac67b0Be4d5dAb70dEe950E99938E9F", "name": "PairList", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/27/2023"}
+{"address": "0x9b0EfA67e8112d8EA2eB3C86C798B2bb88467335", "name": "VxPremia", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/27/2023"}
+{"address": "0xdbf18a83b22ed49451a5c0a44ea734f7168a4fff", "name": "OptimismSwaps", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "1/27/2023"}
+{"address": "0x91fcD3921151E115BbCE687aca6369f3c44d4b92", "name": "Treasury", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/27/2023"}
+{"address": "0xA9a03d51996b455817642c4D26A52B1c08eb0e70", "name": "TaxOfficeV2", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/27/2023"}
+{"address": "0xcf514A156Bb711F7A79FC3c6CEB5B88E611F6a1c", "name": "Oracle", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/27/2023"}
+{"address": "0x08E95d640fd42F28060ce4f8b05f9EC8a8147294", "name": "Boardroom", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/27/2023"}
+{"address": "0xC7dE694b89E9314C554D3873D07E91c94338Ecd7", "name": "OPShareRewardPool", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/27/2023"}
+{"address": "0x2Cbcef136F6bFb781C9058c9c15A56495d6E0690", "name": "OPTombGenesisRewardPool", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/27/2023"}
+{"address": "0xbEC49E1053Ceb3eE5de88308553B49c0cd300014", "name": "OPBond", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/27/2023"}
+{"address": "0x5c0D6d4657B00551d9a65659e22eeda580E4516B", "name": "OPShare", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "1/27/2023"}
+{"address": "0xe39845310E18A62d507032e8Fdd6bffBD999B5F9", "name": "OPTomb", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "1/27/2023"}
