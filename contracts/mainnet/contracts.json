@@ -8750,3 +8750,4 @@
 {"address": "0x60761f3a46ddcf98e1a97449e94939cc79354d95", "name": "ThisContract", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "1/28/2023"}
 {"address": "0x176340b6d8812c35227202A50DA9d1724814f50B", "name": "RangoStargateFacet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "1/28/2023"}
 {"address": "0x6d4AEB66b66409813c82A51e1eeb0959bB586779", "name": "RangoAccessManagerFacet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "1/28/2023"}
+{"address": "0x1fff78fd2e139bc1315711dd3ea176bc7028635a", "name": "DegenBoxERC20VaultWrapper", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/28/2023"}
