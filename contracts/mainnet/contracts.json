@@ -8744,3 +8744,9 @@
 {"address": "0xFe6667986f58F2F7ed1e7C17Cee3951d8ABb717f", "name": "RedPacket", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "-", "date": "1/27/2023"}
 {"address": "0x276cf9e7a43d1B9422dEcd1f1d2608f3D588CAad", "name": "WrappedToken", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/27/2023"}
 {"address": "0x719D33Bc63a3474aFd814973f79355724B385e30", "name": "LlamaZip", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/27/2023"}
+{"address": "0xde554e80021254605c5719a8613021a8f6da2a6a", "name": "Liquidator", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/28/2023"}
+{"address": "0xD34d11423ebB6454FB91518AC53C3A202b4eD683", "name": "PremiaMining", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/28/2023"}
+{"address": "0x424b6f579cfac5aee4ddbf57138c1f1bd8aed451", "name": "BorrowerLens", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/28/2023"}
+{"address": "0x60761f3a46ddcf98e1a97449e94939cc79354d95", "name": "ThisContract", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "1/28/2023"}
+{"address": "0x176340b6d8812c35227202A50DA9d1724814f50B", "name": "RangoStargateFacet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "1/28/2023"}
+{"address": "0x6d4AEB66b66409813c82A51e1eeb0959bB586779", "name": "RangoAccessManagerFacet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "1/28/2023"}
