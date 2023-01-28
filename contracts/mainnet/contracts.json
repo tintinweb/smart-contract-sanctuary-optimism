@@ -8735,3 +8735,12 @@
 {"address": "0xbEC49E1053Ceb3eE5de88308553B49c0cd300014", "name": "OPBond", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/27/2023"}
 {"address": "0x5c0D6d4657B00551d9a65659e22eeda580E4516B", "name": "OPShare", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "1/27/2023"}
 {"address": "0xe39845310E18A62d507032e8Fdd6bffBD999B5F9", "name": "OPTomb", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "1/27/2023"}
+{"address": "0xdf4c368264e20736a6c67485b23f073d04300bd3", "name": "Lender", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/28/2023"}
+{"address": "0x315980e4a137633952917a656eceba74c8f39768", "name": "Factory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "1/28/2023"}
+{"address": "0x38b196139abb7de7c0cdbf2da38655bd25e91221", "name": "RateModel", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/28/2023"}
+{"address": "0x4505095a5396a003cafd74517544c0eb00fc5a14", "name": "Liquidator", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/28/2023"}
+{"address": "0x2e6769922b90833962306b1c14846d3615e65a32", "name": "SafeMaker", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "1/28/2023"}
+{"address": "0x9bBdef63594D5FFc2f370Fe52115DdFFe97Bc524", "name": "ValidatorAnnounce", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/28/2023"}
+{"address": "0xFe6667986f58F2F7ed1e7C17Cee3951d8ABb717f", "name": "RedPacket", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "-", "date": "1/27/2023"}
+{"address": "0x276cf9e7a43d1B9422dEcd1f1d2608f3D588CAad", "name": "WrappedToken", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/27/2023"}
+{"address": "0x719D33Bc63a3474aFd814973f79355724B385e30", "name": "LlamaZip", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/27/2023"}
