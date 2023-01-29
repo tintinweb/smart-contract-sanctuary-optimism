@@ -8751,3 +8751,8 @@
 {"address": "0x176340b6d8812c35227202A50DA9d1724814f50B", "name": "RangoStargateFacet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "1/28/2023"}
 {"address": "0x6d4AEB66b66409813c82A51e1eeb0959bB586779", "name": "RangoAccessManagerFacet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "1/28/2023"}
 {"address": "0x1fff78fd2e139bc1315711dd3ea176bc7028635a", "name": "DegenBoxERC20VaultWrapper", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/28/2023"}
+{"address": "0xA9F3B0E7a55bd0820082B1177b8012751f136D0c", "name": "GelatoRefunder", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/29/2023"}
+{"address": "0x77777775f9e218caab33dd1d57fe14bf50f3cb61", "name": "DestinyTemple", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/29/2023"}
+{"address": "0xf5d7d022a2071b7c8a4aa6abf02665d5745983d1", "name": "SafeMaker", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/29/2023"}
+{"address": "0x278ddDE1EA2404C82C5Dd71694bc0058e8789B70", "name": "PremiaMining", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/28/2023"}
+{"address": "0xd8f57856b0e3a95d6891313347ab770e01b0bc32", "name": "ThisContract", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "1/28/2023"}
