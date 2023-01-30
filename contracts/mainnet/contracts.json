@@ -8761,3 +8761,13 @@
 {"address": "0xa0b53faefd94970a18e8436ff587babae1144b8b", "name": "SafeMaker", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/29/2023"}
 {"address": "0x3d7fca6c35ec3d6c1ecf6e8f97edc9a145bcaa42", "name": "SafeMaker", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/29/2023"}
 {"address": "0xe1A957B54E797494FDaDD1b08CBE5478188E18fd", "name": "ShortGammaStrategy", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "1/29/2023"}
+{"address": "0x54592840Db7D820D829E1C48b70C74E3A2912210", "name": "Web3FunctionModule", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/30/2023"}
+{"address": "0x9112eC8FA7bf1137AFa353F6A5101D0386E4940A", "name": "TimeModule", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/30/2023"}
+{"address": "0x091B16Ebc09b3f0aF34c24a92beF1cA9056B48b9", "name": "SingleExecModule", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/30/2023"}
+{"address": "0x3B949C8eFAAAef28Ce4017075494B7a7E0d21719", "name": "ResolverModule", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/30/2023"}
+{"address": "0xc1d56141e6605BfB3177488333241E59ed532921", "name": "ProxyModule", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/30/2023"}
+{"address": "0x16E48Eb19DC3365ff0F498d52183e8366E22868a", "name": "Ops", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/30/2023"}
+{"address": "0x75AAaFFB919877A27475635Fe272ed96602846A8", "name": "OResolverModule", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "1/30/2023"}
+{"address": "0x19a7aa153465FAdc1b28feC0A7C5F65366f2099A", "name": "Sedn", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/29/2023"}
+{"address": "0x43172039020e5665891Ca3469B1DCeAdF76220c9", "name": "SednForwarder", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "1/29/2023"}
+{"address": "0x2622a162135B38CAe6B9ab2d479832E2E3512e0c", "name": "Token", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "1/29/2023"}
