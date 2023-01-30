@@ -8771,3 +8771,17 @@
 {"address": "0x19a7aa153465FAdc1b28feC0A7C5F65366f2099A", "name": "Sedn", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/29/2023"}
 {"address": "0x43172039020e5665891Ca3469B1DCeAdF76220c9", "name": "SednForwarder", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "1/29/2023"}
 {"address": "0x2622a162135B38CAe6B9ab2d479832E2E3512e0c", "name": "Token", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "1/29/2023"}
+{"address": "0x419847b8e0dd5cc71f13cb3c9dbe0c14ad8bd5f9", "name": "OPTIRANDOMAPE", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/30/2023"}
+{"address": "0xbbaa1d0c583d1ccb4154bc6e44a35c1c7aa3a883", "name": "OPTISMOKEDDAPE", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/30/2023"}
+{"address": "0x379b3d5bb5a5795787dd6321f9d59c8e3886aade", "name": "OPTIATIREDAPE", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/30/2023"}
+{"address": "0x8d2334505a260e275daf030520bff88ccebf1635", "name": "OPTIFURIOUSAPE", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/30/2023"}
+{"address": "0x890dfd552ff911f87904086dea9485e8495b8088", "name": "OPTIANNOYEDAPE", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/30/2023"}
+{"address": "0x71Bb2879ac6b9fD2A262c0D9b0e152804b4B2036", "name": "Brokerbot", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/30/2023"}
+{"address": "0x606795077CeF55d61bcffF343Ff0919D1dC497a3", "name": "AllowlistShares", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/30/2023"}
+{"address": "0x418D766706f660e11Ed6f5033554F81084193127", "name": "MultiSigWalletV4", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/30/2023"}
+{"address": "0xe6dc152E7B0C7614F589fA1f54d149cD3CDccc11", "name": "SportPositionalMarketData", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/30/2023"}
+{"address": "0x6B88627e43bE7CbE48Cf616c6576F5aA15423F35", "name": "PositionalMarketData", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "1/30/2023"}
+{"address": "0x1B4688fF2a36b15a836B8278163b77C46f4c106c", "name": "OOFFactory", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "1/30/2023"}
+{"address": "0x7Bae4f06a69C7E6664E52C71465d19ab946F0377", "name": "OpenOracleFramework", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "1/30/2023"}
+{"address": "0x0f5800e1dd2ab20b4a0a8d1787a81b715918a626", "name": "AmarokFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/30/2023"}
+{"address": "0xc57f5958de1ef30cfe17ed602b99182e8d598a3a", "name": "LiFiDiamond", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "1/30/2023"}
