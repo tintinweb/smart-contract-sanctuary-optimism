@@ -8859,3 +8859,7 @@
 {"address": "0x24fb33e701bb05462b9f6bf9d9d9177b919f1dab", "name": "Badges", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/1/2023"}
 {"address": "0x7F804722948571f575D06A52c7A414Ae42f6F89A", "name": "SportsAMMUtils", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/1/2023"}
 {"address": "0x2c59CeF6fb58250aA649b91EcD1f401adA629370", "name": "SportsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/1/2023"}
+{"address": "0x96D17e1301b31556e5e263389583A9331e6749E9", "name": "RILLA", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/1/2023"}
+{"address": "0xD9a5e04Cb49E83EcFEBcB768e4915014D24aC4dc", "name": "ERC20", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/1/2023"}
+{"address": "0x8e0CFA182425Ae40774A4a9a25AF25bfe5B3d511", "name": "PALMManager", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/1/2023"}
+{"address": "0x65b87a8A6c173D9ffdE1F4C1D97187820495c515", "name": "PALMTerms", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/1/2023"}
