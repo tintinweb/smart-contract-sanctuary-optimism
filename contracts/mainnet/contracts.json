@@ -8894,3 +8894,12 @@
 {"address": "0x3090455A284EB87A8dde46d3352Be73C17deaB0A", "name": "ParlayMarketData", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/2/2023"}
 {"address": "0x2e48D87D5D70ad31ca77Edb2dadd748CF2C49f72", "name": "ParlayMarketData", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/2/2023"}
 {"address": "0x3028F7c506EBc6f82f032977943D1f20552b1F90", "name": "AdvertisingBoard", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/2/2023"}
+{"address": "0x62eaa8b180faebfbb0627dbd07e23f27379c147e", "name": "Lender", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "2/2/2023"}
+{"address": "0x95110c9806833d3d3c250112fac73c5a6f631e80", "name": "Factory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 25, "settings": "", "date": "2/2/2023"}
+{"address": "0xbd477956ad74329664f45978a3876b024e3da73d", "name": "RateModel", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "2/2/2023"}
+{"address": "0xbb27ED373d5A86290D8734851bb7a5C698B0267c", "name": "FjordLbpProxyV5", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "2/2/2023"}
+{"address": "0x3C4361c17CC114FDe48F5765ae796289436Ed6E8", "name": "SiclePair", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "2/2/2023"}
+{"address": "0xb5beccf2734c97221379a6c08b718d82023b1498", "name": "AaveV3Optimism", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x314cfa1ba6e88b2b2118ed0becd30d040da232bf", "name": "Chief", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/2/2023"}
+{"address": "0xe23309730391F88FE8754a98be466E03119e00D8", "name": "Staking", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "2/2/2023"}
+{"address": "0x109357Df4b06807A97059bA353c42fE5B6a035cb", "name": "ZonicMarketplace", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/2/2023"}
