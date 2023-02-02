@@ -8874,3 +8874,4 @@
 {"address": "0x3929a552b469c59a563f65aa5a78979f3dd94abf", "name": "ReaperStrategySonne", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/1/2023"}
 {"address": "0x2a06Aca6492285A68beA6823600886dA82f64057", "name": "DefiiFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/1/2023"}
 {"address": "0xf956009e95acd67733A381f69ea1335054aF8cdc", "name": "VelodromeOptimismUSDCsUSD", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/1/2023"}
+{"address": "0x9d66365f4910c522f937c9e6dd4a192f6de89636", "name": "OptimismGovernorV1", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/2/2023"}
