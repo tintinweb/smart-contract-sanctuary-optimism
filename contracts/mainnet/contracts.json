@@ -8863,3 +8863,14 @@
 {"address": "0xD9a5e04Cb49E83EcFEBcB768e4915014D24aC4dc", "name": "ERC20", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/1/2023"}
 {"address": "0x8e0CFA182425Ae40774A4a9a25AF25bfe5B3d511", "name": "PALMManager", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/1/2023"}
 {"address": "0x65b87a8A6c173D9ffdE1F4C1D97187820495c515", "name": "PALMTerms", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/1/2023"}
+{"address": "0x68b1EeD049BeaFae0aFfBcf8a620C7b1522Dcbf8", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 45, "settings": "-", "date": "2/2/2023"}
+{"address": "0x7893405d9d968a4e3637897F4FD734cA59F338F6", "name": "UniswapV3UniversalRouterACLUUPS", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x3529c22Db72A486201C1C588dF3e8611cbFE7bcF", "name": "UniswapV3SwapRouterACLUUPS", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0xAac67BACf732D60A560cABb2694609a3E6336771", "name": "RemintProceedsTreasury", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x56B9A06F8A0f4160aE090F7747e4c2Fe9F30D6E6", "name": "L2EventLogger", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x4E3B5aA7C38B108B04c986aA5484be27b66c3849", "name": "L2TokenClaimBridge", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x782e6dD4fe454aa3534FE92050014CC6eaB7BD20", "name": "ReaperStrategySonne", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x9b280e4623ce52781f0200a3a17f0760b844f751", "name": "ReaperStrategySonne", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x3929a552b469c59a563f65aa5a78979f3dd94abf", "name": "ReaperStrategySonne", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/1/2023"}
+{"address": "0x2a06Aca6492285A68beA6823600886dA82f64057", "name": "DefiiFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/1/2023"}
+{"address": "0xf956009e95acd67733A381f69ea1335054aF8cdc", "name": "VelodromeOptimismUSDCsUSD", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/1/2023"}
