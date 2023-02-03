@@ -8935,3 +8935,9 @@
 {"address": "0xe374110815588d8d7319541Bb2a083261F8FE1CE", "name": "NFTAirDrop", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
 {"address": "0xBd39115fC389B9a063aF22679B49d035E1f1De58", "name": "Multisend", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
 {"address": "0xd34EF425817EC92E4b5416DaE1c3EA5aFD5EAFE6", "name": "Restake", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
+{"address": "0x2a017f2fb369f4ca061b8d8a922bb05100e8f8c3", "name": "V3Utils", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
+{"address": "0x019f6109690f7218417bdeB96cD7C5F51975186b", "name": "MatrixSC99", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
+{"address": "0x5825b94eDF44A4C13d98c450dECE862ACF5E58d8", "name": "ShareOwnerSC99", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
+{"address": "0xfc06235a276419bde0a031b92e9043ef019043c3", "name": "TimelockController", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "2/3/2023"}
+{"address": "0xda917380247b48382674bd159d75d75314cb21fb", "name": "BorrowingVault", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "2/3/2023"}
+{"address": "0x817F8B68480010806c222E51aFE8ca1947F2bb64", "name": "ZonicMarketplace", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
