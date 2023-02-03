@@ -8928,3 +8928,10 @@
 {"address": "0x8F2A653cA534B9FAD0257C3C8Dc55227Ff22531c", "name": "UniswapV3UniversalRouterACLUUPS", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
 {"address": "0x32af8c4568788c7aeeea5537a028b9074bc26f12", "name": "Frogtimism", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "2/3/2023"}
 {"address": "0xb55381A2AFA6804B32c367e6Ed5a78754EbF036b", "name": "AclPriceFeedAggregatorOptimism", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
+{"address": "0xd688F768769173c8f6FE2f00aA6D2448674508F1", "name": "OptimismPrices", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
+{"address": "0x0a3a48101e195ad727a8483989e26bb1445b4170", "name": "TOPPCRYPTOSCOLL", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/3/2023"}
+{"address": "0x7Efcd4C1Ff21fFcBa1b6a245A9e385b4Ff45D6DD", "name": "FlashProtocolProxyV2", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
+{"address": "0xafd08562434d2ffbe2a1302dcf7a3533902e6380", "name": "Coinvise", "compiler": "0.7.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
+{"address": "0xe374110815588d8d7319541Bb2a083261F8FE1CE", "name": "NFTAirDrop", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
+{"address": "0xBd39115fC389B9a063aF22679B49d035E1f1De58", "name": "Multisend", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
+{"address": "0xd34EF425817EC92E4b5416DaE1c3EA5aFD5EAFE6", "name": "Restake", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
