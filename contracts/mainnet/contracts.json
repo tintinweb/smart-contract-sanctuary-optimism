@@ -8922,3 +8922,9 @@
 {"address": "0x60b05d558c9ad8ea666e66e4ebb3ac8cc55ec2b4", "name": "Borrower", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "2/2/2023"}
 {"address": "0x1cebdbbb7d45512c06522db481e7698905f8eb42", "name": "Borrower", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "2/2/2023"}
 {"address": "0xa992d6288c47c2497ed50a623ab702bc2a4ea2a0", "name": "Borrower", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "2/2/2023"}
+{"address": "0xE0fa68b4d3Fca2518eA923D65507A11f20135356", "name": "SportsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
+{"address": "0x10B7c6D50A244927e91735dc03a1271fB2fdDc08", "name": "ZonicMarketplace", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
+{"address": "0xfe345beAd75f7B672673542dA061BA5324b58c9B", "name": "UniswapV3SwapRouterACLUUPS", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
+{"address": "0x8F2A653cA534B9FAD0257C3C8Dc55227Ff22531c", "name": "UniswapV3UniversalRouterACLUUPS", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
+{"address": "0x32af8c4568788c7aeeea5537a028b9074bc26f12", "name": "Frogtimism", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "2/3/2023"}
+{"address": "0xb55381A2AFA6804B32c367e6Ed5a78754EbF036b", "name": "AclPriceFeedAggregatorOptimism", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
