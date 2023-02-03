@@ -8903,3 +8903,22 @@
 {"address": "0x314cfa1ba6e88b2b2118ed0becd30d040da232bf", "name": "Chief", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/2/2023"}
 {"address": "0xe23309730391F88FE8754a98be466E03119e00D8", "name": "Staking", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "2/2/2023"}
 {"address": "0x109357Df4b06807A97059bA353c42fE5B6a035cb", "name": "ZonicMarketplace", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0xD9988b4B5bBC53A794240496cfA9Bf5b1F8E0523", "name": "RouteProcessor", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
+{"address": "0xC6f1f50C9363CB074e04A96Ef6772219F670B6bB", "name": "CapstackStrategySonne", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/3/2023"}
+{"address": "0x17744b586a6e47a45fa98d080141139f87314e82", "name": "ConnextRouter", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
+{"address": "0x24E72207a078558BF9018dcF97D7f580E79B9221", "name": "BorrowingVaultFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
+{"address": "0xF33141BC4E9D1d92a2Adba2fa27A09c2DA2AF3eB", "name": "ClipperPermitRouter", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
+{"address": "0x9de0ce8aaa2772f9db00d223ce9ca17fc430943b", "name": "FujiOracle", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
+{"address": "0x9A69D610f2D970657da3820C0BE9b2AD7d9F5d2b", "name": "OneNetAggregatorsSOL", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/2/2023"}
+{"address": "0x9A591786c198D31693858f66d3636B1d328C794f", "name": "OneNetAggregatorsAVAX", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/2/2023"}
+{"address": "0xc51298dc7B96F4eCaeF7f7bA68803BB0E90eA229", "name": "OneNetAggregatorsUNI", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/2/2023"}
+{"address": "0xF559df60DEa79D9AA137DCd98b5c42bFB9b883a2", "name": "OneNetAggregatorsMATIC", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/2/2023"}
+{"address": "0xA23BE6f7EFfe9ea7dA3AC3452e2740DdF26CFa20", "name": "OneNetAggregatorsLINK", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/2/2023"}
+{"address": "0x9f871Fc8E2a9Aa09b6181eB366F218aA860F6967", "name": "OneNetAggregatorsAAVE", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/2/2023"}
+{"address": "0xfc3181de393eaa0f19e75761d11b7c2fb9cef75a", "name": "BorrowerLens", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "2/2/2023"}
+{"address": "0xaf8c1c2384c9de947ed2fc93457aeb9cfca72286", "name": "LenderLens", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "2/2/2023"}
+{"address": "0x3e24f42f17436347e76121b5e9c632e0d3a66fcb", "name": "Router", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 26, "settings": "", "date": "2/2/2023"}
+{"address": "0x1f76900b7a3757dc54f12f84a4f3df4440af8a05", "name": "FrontendManager", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "2/2/2023"}
+{"address": "0x60b05d558c9ad8ea666e66e4ebb3ac8cc55ec2b4", "name": "Borrower", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "2/2/2023"}
+{"address": "0x1cebdbbb7d45512c06522db481e7698905f8eb42", "name": "Borrower", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "2/2/2023"}
+{"address": "0xa992d6288c47c2497ed50a623ab702bc2a4ea2a0", "name": "Borrower", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "2/2/2023"}
