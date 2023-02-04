@@ -8941,3 +8941,12 @@
 {"address": "0xfc06235a276419bde0a031b92e9043ef019043c3", "name": "TimelockController", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "2/3/2023"}
 {"address": "0xda917380247b48382674bd159d75d75314cb21fb", "name": "BorrowingVault", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "2/3/2023"}
 {"address": "0x817F8B68480010806c222E51aFE8ca1947F2bb64", "name": "ZonicMarketplace", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
+{"address": "0x8bd16Ab048895911Cda3843b5C49A601b13538c8", "name": "ZonicMarketplace", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/4/2023"}
+{"address": "0x232e2d4cd1a169876f65edb8f8b3bcbbb27dca0d", "name": "HelloWorld", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/4/2023"}
+{"address": "0x67cf8325974c1ef558ad0bbee13ff0d734a9decb", "name": "HelloWorld", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/4/2023"}
+{"address": "0xc1005691cf12a1ee5cb311debd6dae29ce57804f", "name": "TransparentUpgradeableProxy", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/4/2023"}
+{"address": "0x4f89214a1eec1171772c2fbb71019da9a24ff61a", "name": "OrigamiMembershipToken", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/4/2023"}
+{"address": "0xb554a62ba375ff57bb1ef9bf015c4680e54d476a", "name": "ProxyAdmin", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/4/2023"}
+{"address": "0xab87d5CD0a5c0c1d0D452a47D19c2b59Bd78FCe8", "name": "HyperLPool", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
+{"address": "0x37E68A751B6bF0fB786D9a1c7F3e166445b507ff", "name": "HyperLPRouter", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
+{"address": "0x4577c9dcFBC100F5e1f1c8D0731772AED444CE60", "name": "HyperLPFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
