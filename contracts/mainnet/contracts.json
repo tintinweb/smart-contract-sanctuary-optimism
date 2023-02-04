@@ -8950,3 +8950,5 @@
 {"address": "0xab87d5CD0a5c0c1d0D452a47D19c2b59Bd78FCe8", "name": "HyperLPool", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
 {"address": "0x37E68A751B6bF0fB786D9a1c7F3e166445b507ff", "name": "HyperLPRouter", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
 {"address": "0x4577c9dcFBC100F5e1f1c8D0731772AED444CE60", "name": "HyperLPFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
+{"address": "0x176E4072d036EDEed3bDc70f5f4ec44c1e8C141a", "name": "FullFeatureToken", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 12, "settings": "", "date": "2/4/2023"}
+{"address": "0x129f339B4923A8812EcD5524f5C54dD3Ca94e7a6", "name": "GalaxyCoder", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 7, "settings": "-", "date": "2/4/2023"}
