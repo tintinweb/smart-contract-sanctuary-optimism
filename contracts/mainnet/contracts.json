@@ -8952,3 +8952,9 @@
 {"address": "0x4577c9dcFBC100F5e1f1c8D0731772AED444CE60", "name": "HyperLPFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/3/2023"}
 {"address": "0x176E4072d036EDEed3bDc70f5f4ec44c1e8C141a", "name": "FullFeatureToken", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 12, "settings": "", "date": "2/4/2023"}
 {"address": "0x129f339B4923A8812EcD5524f5C54dD3Ca94e7a6", "name": "GalaxyCoder", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 7, "settings": "-", "date": "2/4/2023"}
+{"address": "0xC129aa12F6EEF44B4220742d04D75f7162a0d2cd", "name": "StrategyRebalanceStakerUniV3", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/4/2023"}
+{"address": "0xCDB9b7dede43f964CAc9A7324947f22826904Ad4", "name": "UniV3Vault", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/4/2023"}
+{"address": "0x224e42Cc2766b5c721D011cc129BdAc6306a7c3c", "name": "AlgebraV3Rebalancer", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/4/2023"}
+{"address": "0x7E1C14BDA3bEC5A5585060fBFE68Bb8575D7DDE4", "name": "UniswapCalculator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/4/2023"}
+{"address": "0x75Cb553D140eDDD3686b821602B1A18C85D2b286", "name": "ControllerV7", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/4/2023"}
+{"address": "0xa224B527f8F374d7b41AB3D002121854a409d596", "name": "ZonicMarketplace", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/4/2023"}
