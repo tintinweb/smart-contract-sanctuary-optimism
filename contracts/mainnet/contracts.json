@@ -8973,3 +8973,12 @@
 {"address": "0x58E073f91a03035C302E473d39f1540983007e42", "name": "TidePoolMath", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/5/2023"}
 {"address": "0x0C58D389C38b2be00DA99F042F6d9bb2e8498634", "name": "PoolActions", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/5/2023"}
 {"address": "0x40D050ab3204cBC009E016619aFbA402c689CF93", "name": "FactoryValidator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/5/2023"}
+{"address": "0xE6Db391A46B16936d0A92C1072B97922fE14de2d", "name": "ZonicGiftBoxClaim", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/5/2023"}
+{"address": "0x24CA75DA573cE58bFE2Bfe5F9304BE550c43ab05", "name": "ZonicGiftBoxClaim", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/5/2023"}
+{"address": "0xEe49EEe54C1db447930460A35bfa2F0A6244Dd5A", "name": "ZonicGiftBoxClaim", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/5/2023"}
+{"address": "0x72E568561Ed5be315f7E4DBe1434164D49866750", "name": "ZonicGiftBoxClaim", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/5/2023"}
+{"address": "0xf53D8C55520A217f0f91741094d64adcb4f28387", "name": "ZonicGiftBoxClaim", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/5/2023"}
+{"address": "0x4844ffc00127a27bb852cbe1da863faf3ce20a27", "name": "Vault_Synths", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/5/2023"}
+{"address": "0x0ad0c26cb273058e71187605a5649be29ff32ef2", "name": "CollateralBook", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "2/5/2023"}
+{"address": "0x06ae145e5c1508a98f9844f3189d60348b9b0137", "name": "isoUSDToken", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/5/2023"}
+{"address": "0xBf0b83Fc99289389c43de4fDaf55eEb159c41177", "name": "ZonicGiftBoxClaim", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/5/2023"}
