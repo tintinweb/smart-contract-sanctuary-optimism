@@ -8982,3 +8982,5 @@
 {"address": "0x0ad0c26cb273058e71187605a5649be29ff32ef2", "name": "CollateralBook", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "2/5/2023"}
 {"address": "0x06ae145e5c1508a98f9844f3189d60348b9b0137", "name": "isoUSDToken", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/5/2023"}
 {"address": "0xBf0b83Fc99289389c43de4fDaf55eEb159c41177", "name": "ZonicGiftBoxClaim", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/5/2023"}
+{"address": "0x7CA317eD2311C96E96f028f0C029c04E65558aC0", "name": "ZonicGiftBoxClaim", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/5/2023"}
+{"address": "0x71d5eFA26E5bCAF29b0B43c4106Ad9AcBD4aD199", "name": "ZonicGiftBoxClaim", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/5/2023"}
