@@ -8962,3 +8962,14 @@
 {"address": "0x70006b785aa87821331a974c3d5af81cde5bb999", "name": "X7TreasurySplitterV3", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/4/2023"}
 {"address": "0x70001ba1ba4d85739e7b6a7c646b8aba5ed6c888", "name": "X7EcosystemSplitterV2", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/4/2023"}
 {"address": "0x1324fdfcca5bdaa2f2351486772bf51e35f37fcc", "name": "ShareValueHelper", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/4/2023"}
+{"address": "0xadA2b85FD39ADAc673EdE55a0Abb35F1aBd01b78", "name": "ZonicGiftBoxClaim", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/5/2023"}
+{"address": "0xEe1559796eebcF8BBA798F364Dff1eeaB72cf105", "name": "ZonicGiftBoxClaim", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/5/2023"}
+{"address": "0x6332F086750ff3e53d5C581f4dD0Ad9E1201ED36", "name": "TidePool", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "2/5/2023"}
+{"address": "0x60B255CA64fff3546f28bfE8f5AfcF61D39abBde", "name": "TidePool", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "2/5/2023"}
+{"address": "0x854e522d183d6e88589eF3524ce1cD216e4cAE20", "name": "TidePool", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "2/5/2023"}
+{"address": "0x7cD82490F4C25Fc2488538caCEc7d7D241B79053", "name": "TidePool", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "2/5/2023"}
+{"address": "0x532b931e5062e5904bcb1783d5151d956f7626b1", "name": "InitializableUpgradeabilityProxy", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 334, "settings": "", "date": "2/5/2023"}
+{"address": "0x1e2F34ac2Aa5Ec7aF68921F937232b7fAAc9508f", "name": "TidePoolFactory", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "2/5/2023"}
+{"address": "0x58E073f91a03035C302E473d39f1540983007e42", "name": "TidePoolMath", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/5/2023"}
+{"address": "0x0C58D389C38b2be00DA99F042F6d9bb2e8498634", "name": "PoolActions", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/5/2023"}
+{"address": "0x40D050ab3204cBC009E016619aFbA402c689CF93", "name": "FactoryValidator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/5/2023"}
