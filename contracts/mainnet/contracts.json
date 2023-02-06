@@ -9032,3 +9032,11 @@
 {"address": "0xafBcb41c5D5A388440Eb11FA59D45D09a5d3c212", "name": "StrategyRubiconUsdt", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/6/2023"}
 {"address": "0x839c9c5b89486Fe9Ed79D8845Ead073bE39DD3fc", "name": "WSLFantasyLeague", "compiler": "0.8.6", "balance": "0.075 Ether", "txcount": 16, "settings": "", "date": "2/6/2023"}
 {"address": "0x4E522BC4d759F4635F0A37F4D1ea0BCBB5419Ae5", "name": "WSLNFT", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 36, "settings": "", "date": "2/6/2023"}
+{"address": "0xFD49a007D9fADf8904849edbef1B3344E42142Ff", "name": "FTokenAccumulatorV2", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "2/6/2023"}
+{"address": "0xBa1C01DF6fFa5A313b3EAeF17197d2EE5223e7F8", "name": "Web3FunctionModule", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/6/2023"}
+{"address": "0xF3255C9a91f471e2ee712D1b38D8eE5a4d4dF849", "name": "TimeModule", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/6/2023"}
+{"address": "0x84A3c9d827Ab8EDfCf64Ec1FeDe06Df0F84F7234", "name": "SingleExecModule", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/6/2023"}
+{"address": "0x310119Eb6Bd16ec1A80d30cbe211f9287CeD3ed1", "name": "ResolverModule", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/6/2023"}
+{"address": "0x4C416F12B4c24559A38d5A93940d4b98e0aEF4D7", "name": "ProxyModule", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/6/2023"}
+{"address": "0x6C42e4c6eA536095344967Dd7e87597Bb2eb7146", "name": "Ops", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/6/2023"}
+{"address": "0x00000000000006c7676171937C444f6BDe3D6282", "name": "Seaport", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "2/6/2023"}
