@@ -9020,3 +9020,15 @@
 {"address": "0x74001e463b3c7dc95d96a1fdbe621678c24d47da", "name": "X7LendingDiscountAuthorityV1", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/6/2023"}
 {"address": "0x7de8ab0dd777561ce98b7ef413f6fd564e89c1da", "name": "XchangeDiscountAuthority", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/6/2023"}
 {"address": "0x3980CbE7e1682C983F12eB8D2f7D0ff764037BD4", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "2/6/2023"}
+{"address": "0x706c9f2dd328e2c01483ecf705d2d9708f4ab727", "name": "PWNDeployer", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/6/2023"}
+{"address": "0x920df046848ee6729b3f143ac7dfa5a9bc95305a", "name": "SynthetixPerpConnector", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/6/2023"}
+{"address": "0x561fa02773cc4414c104e8c59e97981578a2a299", "name": "BasicConnector", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/6/2023"}
+{"address": "0x9f4e24e48d1cd41fa87a481ae2242372bd32618c", "name": "FxStorage", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/6/2023"}
+{"address": "0x91647166eC4d4314b21Fe605086498e723aA35d7", "name": "ABPayout", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/6/2023"}
+{"address": "0x9Ff488b48F7709d560e0076a8e231762a7D07903", "name": "ABVault", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/6/2023"}
+{"address": "0xf2b8b50142645A343963fc1308EE68cC6d178f00", "name": "ABSuperToken", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/6/2023"}
+{"address": "0x345Db956656Fe91cF65a47e33347BD05618b20cb", "name": "StrategyReaperSonneDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/6/2023"}
+{"address": "0x314768Ad11925aAb3Fbd5755169086c6AFFF9e0C", "name": "StrategyRubiconDai", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/6/2023"}
+{"address": "0xafBcb41c5D5A388440Eb11FA59D45D09a5d3c212", "name": "StrategyRubiconUsdt", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/6/2023"}
+{"address": "0x839c9c5b89486Fe9Ed79D8845Ead073bE39DD3fc", "name": "WSLFantasyLeague", "compiler": "0.8.6", "balance": "0.075 Ether", "txcount": 16, "settings": "", "date": "2/6/2023"}
+{"address": "0x4E522BC4d759F4635F0A37F4D1ea0BCBB5419Ae5", "name": "WSLNFT", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 36, "settings": "", "date": "2/6/2023"}
