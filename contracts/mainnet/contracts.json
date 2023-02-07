@@ -9074,3 +9074,9 @@
 {"address": "0x14d582327df7a9885c299173dad6ae855a3e046d", "name": "PolyImplementations", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "2/7/2023"}
 {"address": "0x436c89f77f6b6fbfe14d97cd9244e385fae94fea", "name": "PolyConnectors", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/7/2023"}
 {"address": "0xd567e18fdf8afa58953dd8b0c1b6c97adf67566b", "name": "PolyList", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
+{"address": "0x987Ef19BA1B52bFaE2Bf8D81c42DBd7e21e089bF", "name": "VeloStableVaultTokenFactory", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/7/2023"}
+{"address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20", "name": "OptimismMintableERC721Factory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
+{"address": "0x7719B38f7fc66d551fab4E7ad375Fbb2dFEe7f33", "name": "Migration_EltaninOptimism", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
+{"address": "0xf1F839fdd467E4087eADBbB330990077889e79c5", "name": "L2ERC721Bridge", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
+{"address": "0x653b58c9D23De54E44dCBFbD94C6759CdDa7f93D", "name": "Proxy", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/7/2023"}
+{"address": "0x57D64D41ca26Fc2860C10C94BAbbf461785d12BD", "name": "StrategyKyberLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
