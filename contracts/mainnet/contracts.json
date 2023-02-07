@@ -9062,3 +9062,15 @@
 {"address": "0x48bd8AD006477C54521B493A32a284952870D039", "name": "WaveContract", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "2/7/2023"}
 {"address": "0x91d983791eaa1c6d9cddba155ccf0c7daae62b8f", "name": "BrokerProxy", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/7/2023"}
 {"address": "0x27acd47c0cb9b94064bb08c56b189ed65ae5cf57", "name": "Mochi", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
+{"address": "0x2399EbAc94686377132dbd05fbdDae9B22B2a9b9", "name": "DraggableShares", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
+{"address": "0xaE52FDaaDEbfe4D943546d3f60640Ba6959B8fcb", "name": "MultiSigCloneFactory", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/7/2023"}
+{"address": "0xEEF314399f7d0C3E7eADd6bdcBDb8767176fc6c7", "name": "DraggableShares", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
+{"address": "0xe507Ad5146AB13f18F853F214E56cA41b961d7DB", "name": "Migration_EltaninOptimism", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
+{"address": "0xcffD7A615A6e9Cb9713209D7dDda37123Cc34dc3", "name": "Sedn", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
+{"address": "0x358b7d1a3b7e5c508c40756242f55991a354cd41", "name": "BeefyBoost", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/7/2023"}
+{"address": "0xba07e67860391d98a7019073319c4ae37875af29", "name": "MainImplementation", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
+{"address": "0x7bfa659e247a70b501cf2e19a51ebfee28028db3", "name": "DefaultImplementation", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
+{"address": "0x7ba95ca22c2da423924088d72a0825f6e9eabc92", "name": "PolyAccount", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
+{"address": "0x14d582327df7a9885c299173dad6ae855a3e046d", "name": "PolyImplementations", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "2/7/2023"}
+{"address": "0x436c89f77f6b6fbfe14d97cd9244e385fae94fea", "name": "PolyConnectors", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/7/2023"}
+{"address": "0xd567e18fdf8afa58953dd8b0c1b6c97adf67566b", "name": "PolyList", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
