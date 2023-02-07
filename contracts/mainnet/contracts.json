@@ -9055,3 +9055,10 @@
 {"address": "0x5b9315CE1304DF3B2A83B2074cbF849D160642Ab", "name": "DataReceiver", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/6/2023"}
 {"address": "0x1ce81290Eb4c10cC9Fa71256799665423e87b628", "name": "OracleFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/6/2023"}
 {"address": "0xC56209cccD32297460383e3e032FAE0636FB4302", "name": "MigrationTool", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/6/2023"}
+{"address": "0xd7ef973de2761e2623f83397533688c5fdc0763a", "name": "AccountResolver", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
+{"address": "0x6A060BF6579318c15138160Ee1f1d225fcC9D409", "name": "OracleSidechain", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
+{"address": "0x349d00aa934FdA90D3ef41A7697Dcd8E483a8806", "name": "ABRelay", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
+{"address": "0xfDdae88913F6f7eE7daf2C2DBd0a7F8EC970Aece", "name": "WaveFactory", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/7/2023"}
+{"address": "0x48bd8AD006477C54521B493A32a284952870D039", "name": "WaveContract", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "2/7/2023"}
+{"address": "0x91d983791eaa1c6d9cddba155ccf0c7daae62b8f", "name": "BrokerProxy", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/7/2023"}
+{"address": "0x27acd47c0cb9b94064bb08c56b189ed65ae5cf57", "name": "Mochi", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
