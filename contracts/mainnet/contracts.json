@@ -9118,3 +9118,17 @@
 {"address": "0x740015c39da5d148fca25a467399d00bce10c001", "name": "X7LendingPoolV1", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/8/2023"}
 {"address": "0x7fF9e32C4D8359b19b7269220E73fb12Afa300C9", "name": "rETHBPTComp", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/8/2023"}
 {"address": "0x068D9D09DDC1Cf2b66A4C32eD74fFE68Db0b5f1B", "name": "CeazorVaultR", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "2/8/2023"}
+{"address": "0xA7Be1Db53d5c2e1A57B6a6d4761c5E2A220629B9", "name": "Rewarder", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/8/2023"}
+{"address": "0xe5D98f2C3007502F590500c44b6b01e7780287D8", "name": "MasterChef", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "2/8/2023"}
+{"address": "0x3803856585A7fbC6A3bCa94A0b9C49a48af90DD3", "name": "CliqueOPIssuerV2", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/8/2023"}
+{"address": "0x958299ff542abB9EdF7A1DA9B43D6Dfb837fbf32", "name": "Rewarder", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/8/2023"}
+{"address": "0x7F4fAA83cA220c142b9C36b3a85E541ad3e7510a", "name": "MasterChef", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "2/8/2023"}
+{"address": "0x18A054ccC4c8Fd8C5CE5A266d29773dD23B1C18e", "name": "StrategyKyberLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/8/2023"}
+{"address": "0x0538c544a51fd75648cde17e95ecf1bde2030feb", "name": "scroll", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/8/2023"}
+{"address": "0x43a7ECA60d12B3d289e1290Ad638b45dBfA7181f", "name": "UniswapV2Router01IntermediaryV2", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/8/2023"}
+{"address": "0x49302E520187e44ac2A545d39E3DC2827859F5b7", "name": "StrategyKyberLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/8/2023"}
+{"address": "0x6dFc0e12643a23f0642945D4cc54FeD72d0D5A37", "name": "StrategyKyberLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/8/2023"}
+{"address": "0xdAf1a86B6E4467A8C4412372B5C78ba5Bf9c241c", "name": "ThalesAMM", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/8/2023"}
+{"address": "0x651f2652ef9ab426A2c41a690C2503B0a29257EB", "name": "StrategyKyberLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/8/2023"}
+{"address": "0x33A2341dA45447300f6c7bBF6bEf48E70D026cB1", "name": "StrategyKyberLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/8/2023"}
+{"address": "0xF3937d9d5178994Bb5374Cc6f79876ebAc431EeF", "name": "StrategyKyberLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/8/2023"}
