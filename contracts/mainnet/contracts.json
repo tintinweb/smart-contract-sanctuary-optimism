@@ -9100,3 +9100,21 @@
 {"address": "0x4A6f369B1E2ef92C991D96831f3e1B4006a4C661", "name": "StrategyKyberLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
 {"address": "0x43934bbc3d96f3263800d1da6c9bc2d4e0f3b44e", "name": "VeloStableVaultToken", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "2/7/2023"}
 {"address": "0x4d75ba5306875017765FAa952081771235EBaEB5", "name": "StrategyKyberLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
+{"address": "0x7101a9392EAc53B01e7c07ca3baCa945A56EE105", "name": "X7101", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "2/8/2023"}
+{"address": "0x7102dc82ef61bfb0410b1b1bf8ea74575bf0a105", "name": "X7102", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "2/8/2023"}
+{"address": "0x7103ebdbf1f89be2d53eff9b3cf996c9e775c105", "name": "X7103", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/8/2023"}
+{"address": "0x7da0aaD0f0b1Af993Df722567B045105fbbf510C", "name": "X7DAOInitialLiquidityTimeLock", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/8/2023"}
+{"address": "0x7125c4105d728359cd3073d567f366926f5ca10c", "name": "X7RInitialLiquidityTimeLock", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/8/2023"}
+{"address": "0x71009a7ee233af8fb42eee5dbe61ea92ea55b10c", "name": "X7100InitialLiquidityTimeLock", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/8/2023"}
+{"address": "0x7105e64bf67eca3ae9b123f0e5ca2b83b2ef2da0", "name": "X7DAO", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "2/8/2023"}
+{"address": "0x70008f18fc58928dce982b0a69c2c21ff80dca54", "name": "X7R", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "2/8/2023"}
+{"address": "0x7105faa4a26ed1c67b8b2b41bec98f06ee21d105", "name": "X7105", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "2/8/2023"}
+{"address": "0x7104D1f179Cc9cc7fb5c79Be6Da846E3FBC4C105", "name": "X7104", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "2/8/2023"}
+{"address": "0x08e680514Fd46931d2911e55398faC15FD1a0bc6", "name": "SmartWallet", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/8/2023"}
+{"address": "0x16d2765942503888964c0643CB1d7163070e5D7f", "name": "SmartWalletFactory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/8/2023"}
+{"address": "0x816621f3cc691838390edfD751F4DC4C987a93e0", "name": "EventDispatcher", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/8/2023"}
+{"address": "0xA5d1Bac0fc68FF8188FAEeB7BA734D076F3360Ad", "name": "PeripheralPool", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/8/2023"}
+{"address": "0x7410F132Fb548dd70E0F0Ea997AD1b04f13d458B", "name": "ChainlinkPriceFeedV1R1", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/8/2023"}
+{"address": "0x740015c39da5d148fca25a467399d00bce10c001", "name": "X7LendingPoolV1", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/8/2023"}
+{"address": "0x7fF9e32C4D8359b19b7269220E73fb12Afa300C9", "name": "rETHBPTComp", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/8/2023"}
+{"address": "0x068D9D09DDC1Cf2b66A4C32eD74fFE68Db0b5f1B", "name": "CeazorVaultR", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "2/8/2023"}
