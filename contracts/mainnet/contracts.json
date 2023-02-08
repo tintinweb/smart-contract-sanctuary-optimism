@@ -9080,3 +9080,23 @@
 {"address": "0xf1F839fdd467E4087eADBbB330990077889e79c5", "name": "L2ERC721Bridge", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
 {"address": "0x653b58c9D23De54E44dCBFbD94C6759CdDa7f93D", "name": "Proxy", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/7/2023"}
 {"address": "0x57D64D41ca26Fc2860C10C94BAbbf461785d12BD", "name": "StrategyKyberLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
+{"address": "0xbC99aa9bD55d3f8431Ecec24Da03AEc1D6e62754", "name": "WeightedPool", "compiler": "0.7.1", "balance": "-", "txcount": 0, "settings": "", "date": "2/8/2023"}
+{"address": "0x0F474fe6c39Ff7Af82a8d3f6acDED09587e0402C", "name": "Exchange", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/8/2023"}
+{"address": "0xfCDCBA599b2261f878CC9c244b2814FaE47F9b5B", "name": "BurnableERC20", "compiler": "0.8.8", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/8/2023"}
+{"address": "0x320a04b981c092884a9783cde907578f613ef773", "name": "ComplexRewarderTime", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/8/2023"}
+{"address": "0xb25157bf349295a7cd31d1751973f426182070d6", "name": "MiniChefV2", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/8/2023"}
+{"address": "0xaEe7400A6e567e133EA53e71AB018e13c555A024", "name": "StrategyKyberLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/8/2023"}
+{"address": "0xfa173706F94216689Ab879D8b21d082C027936c3", "name": "StrategyKyberLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/8/2023"}
+{"address": "0xe2E901AB09f37884BA31622dF3Ca7FC19AA443Be", "name": "ComposableStablePoolFactory", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/8/2023"}
+{"address": "0xA0DAbEBAAd1b243BBb243f933013d560819eB66f", "name": "WeightedPoolFactory", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/8/2023"}
+{"address": "0xc5a39712229a109Fee54fD2d1Cb78F9A3151382a", "name": "SolidlyDexHandler", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
+{"address": "0x36Df0A76a124d8b2205fA11766eC2eFF8Ce38A35", "name": "UniswapV2DexHandler", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
+{"address": "0x6108FeAA628155b073150F408D0b390eC3121834", "name": "OptiSwap", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 11, "settings": "", "date": "2/7/2023"}
+{"address": "0x74001c747b6cc9091ee63bc9424dff633fbac617", "name": "X7InitialLiquidityLoanTerm003", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/7/2023"}
+{"address": "0x740019a6b3a9cf3bd193986a560b05726143b217", "name": "X7InitialLiquidityLoanTerm002", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/7/2023"}
+{"address": "0x7400165e167479a3c81c8fc8cc3df3d2a92e9017", "name": "X7InitialLiquidityLoanTerm001", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/7/2023"}
+{"address": "0x7DE8063E9fB43321d2100e8Ddae5167F56A50060", "name": "XchangeRouter", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/7/2023"}
+{"address": "0x7ca54e9aa3128bf15f764fa0f0f93e72b5267000", "name": "X7LendingPoolReserve", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/7/2023"}
+{"address": "0x4A6f369B1E2ef92C991D96831f3e1B4006a4C661", "name": "StrategyKyberLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
+{"address": "0x43934bbc3d96f3263800d1da6c9bc2d4e0f3b44e", "name": "VeloStableVaultToken", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "2/7/2023"}
+{"address": "0x4d75ba5306875017765FAa952081771235EBaEB5", "name": "StrategyKyberLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/7/2023"}
