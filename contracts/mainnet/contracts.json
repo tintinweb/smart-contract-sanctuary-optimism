@@ -9132,3 +9132,11 @@
 {"address": "0x651f2652ef9ab426A2c41a690C2503B0a29257EB", "name": "StrategyKyberLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/8/2023"}
 {"address": "0x33A2341dA45447300f6c7bBF6bEf48E70D026cB1", "name": "StrategyKyberLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/8/2023"}
 {"address": "0xF3937d9d5178994Bb5374Cc6f79876ebAc431EeF", "name": "StrategyKyberLP", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/8/2023"}
+{"address": "0xfCf904A84B2Dfeb54C850C3615b6E8290E6340D7", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/8/2023"}
+{"address": "0x7c9631346d39a3b10519711f7507ebd5d7d850e0", "name": "BorrowingVault", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "2/8/2023"}
+{"address": "0xAF23C9B13631459d223e551189b19AF5De4CdD20", "name": "Admin", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/8/2023"}
+{"address": "0x43Cf1aC6D0f202d59A3B9cEbA59727204c86f8EE", "name": "UniProxy", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "2/8/2023"}
+{"address": "0xa5bb05e0e846a431e08d8220b3554cf6b3f3d65b", "name": "UniswapV2Router02", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/8/2023"}
+{"address": "0xbfe484b54916b293efed0f5022fb0927499d93b9", "name": "UniswapV2Factory", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/8/2023"}
+{"address": "0x56d6a080067a5c144481223d89175a689cdf84cc", "name": "PoolRegistry", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/8/2023"}
+{"address": "0x8DF597153Fc312A77930a50cf09483202A6b97d0", "name": "Router", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/8/2023"}
