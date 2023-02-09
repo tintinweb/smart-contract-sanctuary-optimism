@@ -9144,3 +9144,8 @@
 {"address": "0xf984eb2B8a7eF780245a797A2fCcd82f346409ca", "name": "ERC4626LinearPool", "compiler": "0.7.1", "balance": "-", "txcount": 0, "settings": "", "date": "2/9/2023"}
 {"address": "0xa3B9515A9c557455BC53F7a535A85219b59e8B2E", "name": "ERC4626LinearPoolFactory", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/9/2023"}
 {"address": "0xC5cc7ce1f5C14635f5A6882df13872F3E64995Fa", "name": "AddressProvider", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "2/8/2023"}
+{"address": "0xe0ee02485ca907754b3a63c03f1aa6f0c7443085", "name": "MarketLens", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "2/9/2023"}
+{"address": "0xe7ca1f5e54cc0be6c544f32cce714fb484b0dfc4", "name": "AmarokFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "2/9/2023"}
+{"address": "0x4FdFF384F51Bd5e128e53B09EFFED79a39fB654e", "name": "CurveAcl", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/9/2023"}
+{"address": "0x368C1C8A30c6A26B0dA0Cd515F1D1F861Eb47383", "name": "UniswapV3UniversalRouterACLUUPS", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/9/2023"}
+{"address": "0xA6D137901061AdaC94624181d75D56013d85148C", "name": "UniswapV3SwapRouterACLUUPS", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/9/2023"}
