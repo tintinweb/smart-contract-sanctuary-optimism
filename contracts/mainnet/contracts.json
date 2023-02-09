@@ -9140,3 +9140,7 @@
 {"address": "0xbfe484b54916b293efed0f5022fb0927499d93b9", "name": "UniswapV2Factory", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/8/2023"}
 {"address": "0x56d6a080067a5c144481223d89175a689cdf84cc", "name": "PoolRegistry", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/8/2023"}
 {"address": "0x8DF597153Fc312A77930a50cf09483202A6b97d0", "name": "Router", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/8/2023"}
+{"address": "0xFEFfeEDfB3Af7C06edbB1a94790D7D4022e10206", "name": "ERC4626LinearPoolRebalancer", "compiler": "0.7.1", "balance": "-", "txcount": 0, "settings": "", "date": "2/9/2023"}
+{"address": "0xf984eb2B8a7eF780245a797A2fCcd82f346409ca", "name": "ERC4626LinearPool", "compiler": "0.7.1", "balance": "-", "txcount": 0, "settings": "", "date": "2/9/2023"}
+{"address": "0xa3B9515A9c557455BC53F7a535A85219b59e8B2E", "name": "ERC4626LinearPoolFactory", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/9/2023"}
+{"address": "0xC5cc7ce1f5C14635f5A6882df13872F3E64995Fa", "name": "AddressProvider", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "2/8/2023"}
