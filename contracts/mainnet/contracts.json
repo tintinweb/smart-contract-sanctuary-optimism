@@ -9169,3 +9169,18 @@
 {"address": "0x7a40e6f4d4661ea66a2115748d1cde3d41c00c38", "name": "Address", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/9/2023"}
 {"address": "0xc67bc38af25f041ff93455c5c8dc7cd901802391", "name": "DexForwarderOptimism", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/10/2023"}
 {"address": "0x74674dafd6f4495e7f63f7637e94b8b89b2f01db", "name": "Receiver", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "2/10/2023"}
+{"address": "0xc5E1687895A563a43d956EE1D71B4c9Fe9425a34", "name": "OptimisticGovernor", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/10/2023"}
+{"address": "0xc8d95B9a7a0C7f36cb97175e806B3B96D117cFb0", "name": "RigoblockGovernanceStrategy", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "2/10/2023"}
+{"address": "0x5F8607739c2D2d0b57a4292868C368AB1809767a", "name": "RigoblockGovernanceProxy", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "2/10/2023"}
+{"address": "0xE5D8204f8335e9786ea7Ce382771B865fE73a304", "name": "RigoblockGovernance", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "2/10/2023"}
+{"address": "0x66Ac11c106C3670988DEFDd24BC75dE786b91095", "name": "Exchange", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/10/2023"}
+{"address": "0xc1AdDa7605d2DC47Dd91A930c978Cd6a18D2D760", "name": "RigoblockGovernanceFactory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/10/2023"}
+{"address": "0x0ccC76540E087b2E7567F7BFf80d7EEA0d4F00aC", "name": "ChainlinkFeedStrategyV2", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/10/2023"}
+{"address": "0xC800146c7D3f4FF427d0d240CbEE816959516b5C", "name": "SmartWalletFactory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/10/2023"}
+{"address": "0x0f487826E362145335770d2Ba82D9777E19BDB66", "name": "PriceFeedRouterV2", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/10/2023"}
+{"address": "0x8A09a117B2250d9f252951cae31FB2461Bc7E007", "name": "TransferRouterAcl", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/10/2023"}
+{"address": "0x6bed89D653B8b9Fb0d54876E2Bd7B791c1c11af7", "name": "TransferRouter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/10/2023"}
+{"address": "0x242f4EFD26A7a24c503d6E6dfe0F52d3916C3657", "name": "OneInchAggregationRouterV5Acl", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/10/2023"}
+{"address": "0xF5eF02fe7A773fF508F665D8b6b14f16F180AC69", "name": "SwapRouterAccessControl", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/10/2023"}
+{"address": "0x068b456B328cdBa612B56Bb973564dE7BB71B6c1", "name": "NonfungiblePositionManagerAccessControl", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/10/2023"}
+{"address": "0x7B970C578B354F0F816Ec0fEf3b236096C11E156", "name": "AddressProvider", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "2/10/2023"}
