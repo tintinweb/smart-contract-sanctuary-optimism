@@ -9167,3 +9167,5 @@
 {"address": "0x4e93d2d16de8281e2646f90db5525bb7ec2a6a75", "name": "StrategyCurveEthPoolsClonable", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/9/2023"}
 {"address": "0xbe9a9b1b07f027130e56d8569d1aea5dd5a86013", "name": "TransferOnion", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 985, "settings": "", "date": "2/9/2023"}
 {"address": "0x7a40e6f4d4661ea66a2115748d1cde3d41c00c38", "name": "Address", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/9/2023"}
+{"address": "0xc67bc38af25f041ff93455c5c8dc7cd901802391", "name": "DexForwarderOptimism", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/10/2023"}
+{"address": "0x74674dafd6f4495e7f63f7637e94b8b89b2f01db", "name": "Receiver", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "2/10/2023"}
