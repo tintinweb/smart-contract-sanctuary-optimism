@@ -9162,3 +9162,8 @@
 {"address": "0x03565a2016E3A6c069469F560897E23EB4433421", "name": "xDonate", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "2/9/2023"}
 {"address": "0xA7500B47C62cf21daa0015372dE2E1395ab6f59B", "name": "xDonate", "compiler": "0.8.17", "balance": "0.001 Ether", "txcount": 3, "settings": "", "date": "2/9/2023"}
 {"address": "0xC364b427f104308732Cd065E8805EE55B0f629d6", "name": "xDonate", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/9/2023"}
+{"address": "0xC6b309fdc8f3e0Eb20c0F0691F2a81f2FC8C3e36", "name": "Marketplace", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/10/2023"}
+{"address": "0xcEc52660da787a91287E81a9ca13707dFd57625b", "name": "xDonate", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/10/2023"}
+{"address": "0x4e93d2d16de8281e2646f90db5525bb7ec2a6a75", "name": "StrategyCurveEthPoolsClonable", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/9/2023"}
+{"address": "0xbe9a9b1b07f027130e56d8569d1aea5dd5a86013", "name": "TransferOnion", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 985, "settings": "", "date": "2/9/2023"}
+{"address": "0x7a40e6f4d4661ea66a2115748d1cde3d41c00c38", "name": "Address", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/9/2023"}
