@@ -9205,3 +9205,9 @@
 {"address": "0xf59E31f738EEF10CA94845B3Be78a0a626f2a4A5", "name": "AGovernance", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "2/11/2023"}
 {"address": "0xbe57ea6b6ba0b01d58b09c3a8042a166917dcf12", "name": "EthereumDeposits", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/11/2023"}
 {"address": "0x40f82346205bff4b48de61274bbabeb9b3503a1b", "name": "OptimisticCoder", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/11/2023"}
+{"address": "0x40a3E5778f66835265602f92D507AeC708c2C0AD", "name": "UniProxy", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/11/2023"}
+{"address": "0x0AaAE1b57d92545ba68D75eb96c2A499fA154996", "name": "Admin", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/11/2023"}
+{"address": "0xb69c154030ce89340cdceca8eed93283499a8276", "name": "SolidlyLikeVolatileLPLevSwapper", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/11/2023"}
+{"address": "0x601c5634c8435ceea8e87d0b5404c206f1e305db", "name": "SolidlyLikeVolatileLPSwapper", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/11/2023"}
+{"address": "0x3a163ed7044a33af1b331ea4a2fcbbc26d63b7f9", "name": "SolidlyLikeVolatileLPLevSwapper", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/11/2023"}
+{"address": "0x70b868191b588384b96233cad7c27457026a7493", "name": "SolidlyLikeVolatileLPSwapper", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/11/2023"}
