@@ -9201,3 +9201,5 @@
 {"address": "0x822f59A5bceb71Ed7B8082d4Dbbb57607F84847d", "name": "TriadFi", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 7, "settings": "-", "date": "2/10/2023"}
 {"address": "0x93e11BE33b25D562635558348DA0Dd5f74D8377B", "name": "MerkleDropV2", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/11/2023"}
 {"address": "0x18894535be1a02f091b1eaee8a987dc39ba4899c", "name": "TokenVesting", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 54, "settings": "", "date": "2/10/2023"}
+{"address": "0x5e0a1a8233c5947294dba4f8e7f03e8715726679", "name": "EscrowContract", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "2/11/2023"}
+{"address": "0xf59E31f738EEF10CA94845B3Be78a0a626f2a4A5", "name": "AGovernance", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "2/11/2023"}
