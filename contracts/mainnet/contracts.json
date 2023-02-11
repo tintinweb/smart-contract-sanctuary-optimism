@@ -9203,3 +9203,5 @@
 {"address": "0x18894535be1a02f091b1eaee8a987dc39ba4899c", "name": "TokenVesting", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 54, "settings": "", "date": "2/10/2023"}
 {"address": "0x5e0a1a8233c5947294dba4f8e7f03e8715726679", "name": "EscrowContract", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "2/11/2023"}
 {"address": "0xf59E31f738EEF10CA94845B3Be78a0a626f2a4A5", "name": "AGovernance", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "2/11/2023"}
+{"address": "0xbe57ea6b6ba0b01d58b09c3a8042a166917dcf12", "name": "EthereumDeposits", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/11/2023"}
+{"address": "0x40f82346205bff4b48de61274bbabeb9b3503a1b", "name": "OptimisticCoder", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/11/2023"}
