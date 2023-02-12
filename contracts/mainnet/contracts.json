@@ -9211,3 +9211,11 @@
 {"address": "0x601c5634c8435ceea8e87d0b5404c206f1e305db", "name": "SolidlyLikeVolatileLPSwapper", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/11/2023"}
 {"address": "0x3a163ed7044a33af1b331ea4a2fcbbc26d63b7f9", "name": "SolidlyLikeVolatileLPLevSwapper", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/11/2023"}
 {"address": "0x70b868191b588384b96233cad7c27457026a7493", "name": "SolidlyLikeVolatileLPSwapper", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/11/2023"}
+{"address": "0x9683629c4f6f553b34217811de0c4ff8cd0ccc9f", "name": "Vault_Lyra", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/12/2023"}
+{"address": "0xf76da2d3656e1cc5ca2fbb9663c89f7d8aae20fc", "name": "VelodromeVolatileLPLevSwapper", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/12/2023"}
+{"address": "0x79533f85479e04d2214305638b6586b724bec951", "name": "VelodromeVolatileLPSwapper", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/12/2023"}
+{"address": "0xAe654fCCFDfd4bF3A843BE5dEf8d49ee659bBDbF", "name": "Dexible", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "2/11/2023"}
+{"address": "0xf807506B804753F4eE0b0C3027e399A1a2489e44", "name": "CommunityVault", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/11/2023"}
+{"address": "0x8721c2A2AC9E9Ff72558f31485a1D81ff7F08C3D", "name": "DXBL", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/11/2023"}
+{"address": "0x98bf3e7da6f5a81630730d538715e35d8c0d3ede", "name": "VelodromeVolatileLPLevSwapper", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/11/2023"}
+{"address": "0xac6c439253987be9aff6aac047ec8501ea13d512", "name": "VelodromeVolatileLPSwapper", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/11/2023"}
