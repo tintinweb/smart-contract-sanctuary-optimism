@@ -9230,3 +9230,5 @@
 {"address": "0x6833021919cc5A3586B591a7a3f7550796Cdc586", "name": "PrivatePool", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/12/2023"}
 {"address": "0x2EeF65E16Ec1d71cd948d95d7Bf1E0feCd491aE1", "name": "PresalePool", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/12/2023"}
 {"address": "0x67a86Fe2aB25dc42fCd1BE9E8A3A596c4D842F09", "name": "ZonicGiftBoxClaim", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/12/2023"}
+{"address": "0x978933276b30d566139e12a2bf433f8f9736fe00", "name": "Altair", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/12/2023"}
+{"address": "0x6c0833eDE9937c977aDeA380848C115211c85C4b", "name": "ibBPTComp", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/12/2023"}
