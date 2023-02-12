@@ -9219,3 +9219,7 @@
 {"address": "0x8721c2A2AC9E9Ff72558f31485a1D81ff7F08C3D", "name": "DXBL", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/11/2023"}
 {"address": "0x98bf3e7da6f5a81630730d538715e35d8c0d3ede", "name": "VelodromeVolatileLPLevSwapper", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/11/2023"}
 {"address": "0xac6c439253987be9aff6aac047ec8501ea13d512", "name": "VelodromeVolatileLPSwapper", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/11/2023"}
+{"address": "0x15Aa12Ce70Cbaf2113c5B1CC10dd12CE9Cf3520A", "name": "RangoStargateFacet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "2/12/2023"}
+{"address": "0x20901438624553c5B5cA8f37EDe5E067a288A863", "name": "RangoAccessManagerFacet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "2/12/2023"}
+{"address": "0x0a524485540a8b278b6ff35f27B4239692eceA96", "name": "Sedn", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/12/2023"}
+{"address": "0x28fE830aa4678eB12A7584a2b7af81e7458e6C01", "name": "Sedn", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/12/2023"}
