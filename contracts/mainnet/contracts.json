@@ -9223,3 +9223,10 @@
 {"address": "0x20901438624553c5B5cA8f37EDe5E067a288A863", "name": "RangoAccessManagerFacet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "2/12/2023"}
 {"address": "0x0a524485540a8b278b6ff35f27B4239692eceA96", "name": "Sedn", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/12/2023"}
 {"address": "0x28fE830aa4678eB12A7584a2b7af81e7458e6C01", "name": "Sedn", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/12/2023"}
+{"address": "0xA8D571827b04F0050cD835792090B2161b730a89", "name": "PoolFactory", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/12/2023"}
+{"address": "0xa141ACab3bA87EB23931D1b3DD6d3B46E5a9924B", "name": "PoolManager", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/12/2023"}
+{"address": "0xd5b74d79e1885193CA72f3e8fcF32191eD0F5933", "name": "TokenLocker", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/12/2023"}
+{"address": "0xF6CA9556B8Fb0CDf992eF20ad7F6C389552A5eE5", "name": "FairPool", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/12/2023"}
+{"address": "0x6833021919cc5A3586B591a7a3f7550796Cdc586", "name": "PrivatePool", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/12/2023"}
+{"address": "0x2EeF65E16Ec1d71cd948d95d7Bf1E0feCd491aE1", "name": "PresalePool", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/12/2023"}
+{"address": "0x67a86Fe2aB25dc42fCd1BE9E8A3A596c4D842F09", "name": "ZonicGiftBoxClaim", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/12/2023"}
