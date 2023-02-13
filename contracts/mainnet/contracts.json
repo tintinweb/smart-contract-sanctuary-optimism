@@ -9232,3 +9232,4 @@
 {"address": "0x67a86Fe2aB25dc42fCd1BE9E8A3A596c4D842F09", "name": "ZonicGiftBoxClaim", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/12/2023"}
 {"address": "0x978933276b30d566139e12a2bf433f8f9736fe00", "name": "Altair", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/12/2023"}
 {"address": "0x6c0833eDE9937c977aDeA380848C115211c85C4b", "name": "ibBPTComp", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/12/2023"}
+{"address": "0x702f75b59498645f2fd5dcded0b50d7fb2f0fd2b", "name": "Tester", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/13/2023"}
