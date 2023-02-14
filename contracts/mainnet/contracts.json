@@ -9272,3 +9272,9 @@
 {"address": "0x6acC550248f0Ef1A99f2B39af530197fcE7c3184", "name": "ThalesAMMUtils", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/13/2023"}
 {"address": "0x9dAF141C5B0D98Ec2C21e717A359F941286B2a48", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "2/13/2023"}
 {"address": "0x4Cf9f9075225591F2a4A8C024bd6F3C2B8D7fe11", "name": "StrategyEts", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/13/2023"}
+{"address": "0x7b8fa4540246554e77fcff140f9114de00f8bb8d", "name": "GenericV3ListingEngine", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/14/2023"}
+{"address": "0x8130F278Cb34D7c1e536ad43c215D289c3c23C23", "name": "ABSuperToken", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "2/14/2023"}
+{"address": "0xb0cd054ff1b233b366468331a898da7fd5c06988", "name": "OPTIBOAT", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/14/2023"}
+{"address": "0xEf9865A2D2dc2322d8B4e6aC84b13d4121EBFf4A", "name": "SportPositionalMarketData", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/14/2023"}
+{"address": "0x24f7870bEB5cb08baC25b942485f90E81e5b0534", "name": "FundManager", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/14/2023"}
+{"address": "0x319168638cc10E9926d233949C0d779e867Bc8Fa", "name": "FiberRouter", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/14/2023"}
