@@ -9303,3 +9303,7 @@
 {"address": "0xfe76366a986b72c3f2923e05e6ba07b7de5401e4", "name": "BridgeLogic", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/14/2023"}
 {"address": "0xd1b3e25fd7c8ae7caddc6f71b461b79cd4ddcfa3", "name": "BorrowLogic", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/14/2023"}
 {"address": "0x04a02e3e65Fed5d93e3B7Bf7eB3E5beEa5dd212a", "name": "ExporterDataCollector", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/14/2023"}
+{"address": "0x6Fd879830D9b1EE5d4f9ef12f8D5deE916bebD0b", "name": "BatchClaimer", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/14/2023"}
+{"address": "0x2787CC20e5ECb4BF1bfB79eAE284201027683179", "name": "MultipleMerkleDistributor", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/14/2023"}
+{"address": "0xf32772a43b9c40d2e1b9abea7272db1c17b5e70d", "name": "VelodromeWrapper", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 16, "settings": "", "date": "2/14/2023"}
+{"address": "0x38d8B3b68D765dF7D49779D08C38BDD1fFF83B32", "name": "Socket", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "2/14/2023"}
