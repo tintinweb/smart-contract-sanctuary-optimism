@@ -9307,3 +9307,12 @@
 {"address": "0x2787CC20e5ECb4BF1bfB79eAE284201027683179", "name": "MultipleMerkleDistributor", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/14/2023"}
 {"address": "0xf32772a43b9c40d2e1b9abea7272db1c17b5e70d", "name": "VelodromeWrapper", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 16, "settings": "", "date": "2/14/2023"}
 {"address": "0x38d8B3b68D765dF7D49779D08C38BDD1fFF83B32", "name": "Socket", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "2/14/2023"}
+{"address": "0xfcE89DC614A171978438c65dD0acCd0782168B99", "name": "Multicall", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/15/2023"}
+{"address": "0x15b95920c68ae9b60ae4cac84ba8bacc482fe98b", "name": "OrigamiGovernanceToken", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/15/2023"}
+{"address": "0x071f113b36a13cab991ba3e94cd48c27aa148600", "name": "TransparentUpgradeableProxy", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "2/15/2023"}
+{"address": "0x8a40d1d5fd9c781e2eca06c78181f038ee4f4aa0", "name": "OrigamiGovernanceToken", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/15/2023"}
+{"address": "0xe21f6b2a09bb27149e1afec31d05675bcf581fed", "name": "CREATE3Factory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/15/2023"}
+{"address": "0xdcc596169da6b994b995152031485005b0a0eabb", "name": "SafeChecker", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/15/2023"}
+{"address": "0x00000000000066F8295B13Fb252b7f873CBBA71d", "name": "Multicaller", "compiler": "0.8.18", "balance": "-", "txcount": 0, "settings": "", "date": "2/15/2023"}
+{"address": "0x4Ae8ad57912e207f5bFaFbF2e90486e5feab1634", "name": "OptimismBuyAdapter", "compiler": "0.7.5", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/14/2023"}
+{"address": "0xB6EBBB9f9957556Fd798927ae7c250759a235407", "name": "OptimismAdapter01", "compiler": "0.7.5", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/14/2023"}
