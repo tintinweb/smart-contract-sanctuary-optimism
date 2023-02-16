@@ -9423,3 +9423,17 @@
 {"address": "0x2C403D12181BEA77ba642496b9e74d3689C5b7DE", "name": "CronusToken", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/16/2023"}
 {"address": "0x9ae039F9de94542f6f1b3FBA60223E6aA4f411Af", "name": "HighTableVault", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "2/16/2023"}
 {"address": "0x752bc92211d1ecbb31f84e57c9dfc39a15df9cfa", "name": "OrbiterXRouter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/16/2023"}
+{"address": "0xC687c60106200b45c0A09c46FB117820207765f2", "name": "AaveV3Module", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/16/2023"}
+{"address": "0x40FEd316F640fe2A1527d87718Ea44aFF1138706", "name": "CreditLineFactory", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/16/2023"}
+{"address": "0xE1f0e22DE16842498634B08C68f8a7a4716fBf87", "name": "CreditLine", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/16/2023"}
+{"address": "0xf844826e986a2ad77Bf24a491Fe1D8b9ef2d3B03", "name": "CreditLineLib", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/16/2023"}
+{"address": "0xBD8FdDa057de7e0162b7A386BeC253844B5E07A5", "name": "SelfMintingRegistry", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/16/2023"}
+{"address": "0x61b6f67f5f997dc31a050548285957fde1cf526d", "name": "ERC721SeaDrop", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/16/2023"}
+{"address": "0x58Ba258B7A3c044824b273F2cc81992005B2Ede1", "name": "YearnLinearPoolRebalancer", "compiler": "0.7.1", "balance": "-", "txcount": 0, "settings": "", "date": "2/16/2023"}
+{"address": "0x81fC12C60ee5b753cf5fD0ADC342dFb5f3817E32", "name": "YearnLinearPool", "compiler": "0.7.1", "balance": "-", "txcount": 0, "settings": "", "date": "2/16/2023"}
+{"address": "0xbe25A1086DE2b587B2D20E4B14c442cdA2437945", "name": "BullaInstantPayment", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "2/16/2023"}
+{"address": "0x6985d6af038f177438a6681d1F64d4409Dc8AaC2", "name": "BatchCreate", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/16/2023"}
+{"address": "0x0af8C15D19058892cDEA66C8C74B7D7bB696FaD5", "name": "BullaClaimERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/16/2023"}
+{"address": "0xce704a7Fae206ad009852258dDD8574B844eDa3b", "name": "BullaBanker", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/16/2023"}
+{"address": "0xe14e624b29bcda2ec409bbbf97037fede3803797", "name": "BullaManager", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/16/2023"}
+{"address": "0xcEF0d419FF8775b11b835E75766B71058FFE265A", "name": "Shadowfighters", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "2/16/2023"}
