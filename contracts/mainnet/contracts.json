@@ -9410,3 +9410,16 @@
 {"address": "0x283d88d97ba922c8f8717dc97eed6c3976b7bc7c", "name": "ReaperStrategyGranarySupplyOnly", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/15/2023"}
 {"address": "0xfe9aF934a9d1Bd4109d0d698635c19385389e85f", "name": "QuestFactory", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "2/15/2023"}
 {"address": "0x673b7720bfC95Af27EE8ed83c386334b8fc477A0", "name": "VeloVaultTokenFactory", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "2/15/2023"}
+{"address": "0x8efd012977DD5C97E959b9e48c04eE5fcd604374", "name": "AnycallV7Proxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/16/2023"}
+{"address": "0x6bC6E050b3dB999A322093C6c8144Da517F04508", "name": "AnyCallV7Upgradeable", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/16/2023"}
+{"address": "0xc75B1860F553012a16de727b2bb2402aaF73eB03", "name": "AnycallV7Config", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "2/16/2023"}
+{"address": "0x2Fc1aF4b7B031bD39af7009E0a62694A795F7B00", "name": "AnycallExecutorProxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "2/16/2023"}
+{"address": "0x6c24baa5469c04f18dbbbf020682f5fba9303a4e", "name": "ProxyAdmin", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/16/2023"}
+{"address": "0x42921049ccf54fa9e5e97185bbf8a07b2ccd77d6", "name": "AnycallExecutorUpgradeable", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/16/2023"}
+{"address": "0x0fef60b5edfe011e49c743297ffd96a5a4c1347f", "name": "AccessCoins", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "2/16/2023"}
+{"address": "0xd285A07765147235FCc90D96a77D56193096fB73", "name": "WrapperFactory", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/16/2023"}
+{"address": "0xb10a04e0E1a735A0eB35Adb04d6D06BCB8dbeDaE", "name": "LZ20WrapperDestination", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/16/2023"}
+{"address": "0xca06B1F0eE12510085115b00b43360eF6c90C6B0", "name": "LZ20WrapperSource", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/16/2023"}
+{"address": "0x2C403D12181BEA77ba642496b9e74d3689C5b7DE", "name": "CronusToken", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/16/2023"}
+{"address": "0x9ae039F9de94542f6f1b3FBA60223E6aA4f411Af", "name": "HighTableVault", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "2/16/2023"}
+{"address": "0x752bc92211d1ecbb31f84e57c9dfc39a15df9cfa", "name": "OrbiterXRouter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/16/2023"}
