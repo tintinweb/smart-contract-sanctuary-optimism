@@ -9896,3 +9896,9 @@
 {"address": "0xddde0c1bb69fc81d9ec13bc82e96d52fea2ea4d6", "name": "UniswapV3PriceFeed", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/2/2023"}
 {"address": "0x13d17a3520b6f38d9f4fdee7d0398899846c8e3a", "name": "ChainlinkPriceFeedV3", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/2/2023"}
 {"address": "0x838D75D0BC06fe3c6B16CdE179026B18481a4A42", "name": "ABPayoutDestruct", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/17/2023", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x29dda7156d9b0476c2a94e84e340d83977661a86", "name": "Perp_Booster_Demo", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "3/2/2023"}
+{"address": "0x4a994a401a83a2a8de1fe58c45f532e32d9d9b2c", "name": "MulticallX", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "3/2/2023"}
+{"address": "0x1d8f23cffda7c259a1a5d2dc776309acb3afda59", "name": "LIFuelFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "3/2/2023"}
+{"address": "0x3d2f5a97b70Ee178bC0a7Ad2068406e6d62C8b52", "name": "SwapModule", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/2/2023"}
+{"address": "0x193209391242b585ae0aa6029ddd23f9ef99b779", "name": "SynthetixPerpConnector", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/2/2023"}
+{"address": "0x838D75D0BC06fe3c6B16CdE179026B18481a4A42", "name": "ABPayoutDestruct", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/17/2023", "err": "Exception('unable to find source-code. rate limited? retry..')"}
