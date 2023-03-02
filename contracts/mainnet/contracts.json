@@ -9870,3 +9870,23 @@
 {"address": "0xd12f0c754c7bd95712eefde95f8c6fab237bbbb2", "name": "CompoundERC4626Factory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 11, "settings": "", "date": "3/1/2023"}
 {"address": "0xff26a319f125291abc37eda4d6ff06850e732689", "name": "CompoundERC4626Factory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/1/2023"}
 {"address": "0x838D75D0BC06fe3c6B16CdE179026B18481a4A42", "name": "ABPayoutDestruct", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/17/2023", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x093Ee278B874a969c7580F89bb7BA038c03aCd1E", "name": "AvoDepositManagerProxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/2/2023"}
+{"address": "0xc2bF5F60F9904E6d3263305ae9247F01AA6b4f58", "name": "AvoDepositManager", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "3/2/2023"}
+{"address": "0x2aa82f32f58100a403ac9b7d0aef96d094fe21c3", "name": "SmartHoldPublic", "compiler": "0.8.17", "balance": "0.01 Ether", "txcount": 2, "settings": "", "date": "3/1/2023"}
+{"address": "0x013299CC6Fd6149E6ee8E5610001dFe31212b8e3", "name": "VotableUri", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/1/2023"}
+{"address": "0xE55A395d98dAd2D4B0F1C1186dE828EeD9a4F5AB", "name": "Vineyard", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "3/1/2023"}
+{"address": "0x7439039Db38380357a4eFDF6cBD6193F53fEA287", "name": "Vinegar", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/1/2023"}
+{"address": "0xdb546Cb703A8aBbE8b98155b9E56Dd0e69C37426", "name": "SpellParams", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/1/2023"}
+{"address": "0x0685B1770F8A48CA1812AB68F627cBF23e7c5bEa", "name": "SaleParams", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/1/2023"}
+{"address": "0x1dA535492b761630aA15248eB93a8875D8E9Cc59", "name": "RoyaltyManager", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/1/2023"}
+{"address": "0xbF386d8f4B2A045Fe8A5cd670e58A52A01af5fF3", "name": "Multicall", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/1/2023"}
+{"address": "0x22E9E9Ba27A80054dF01A12CeAFc4f4699360eAA", "name": "Grape", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/1/2023"}
+{"address": "0xB7261f780b779D881f6742437499b1c59c2bFfb5", "name": "GiveawayToken", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/1/2023"}
+{"address": "0xd2f570F0bd8AC97D153fCf7B3BDe646A74c99f0d", "name": "Cellar", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/1/2023"}
+{"address": "0x94b9977d46b3c09923E8B73e5DECfc873009EffA", "name": "WineBottle", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/1/2023"}
+{"address": "0xDc4096412eE81e9552F1798f4a09C73290cBEAdc", "name": "Badge", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/1/2023"}
+{"address": "0x792fB90718Af95777856C3EF6F24e97e4436EdD2", "name": "Alchemy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/1/2023"}
+{"address": "0xC90e001D24Fc128f94A42a34b655A9DDA50699D7", "name": "AddressStorage", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/1/2023"}
+{"address": "0xbd2d41dbbc5a13b1c883f6c62b14924aeaef4483", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "3/1/2023"}
+{"address": "0x90f4D8dEdA37641D038079b99178A0a0D38367C6", "name": "ZKEdition", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/1/2023"}
+{"address": "0x838D75D0BC06fe3c6B16CdE179026B18481a4A42", "name": "ABPayoutDestruct", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/17/2023", "err": "Exception('unable to find source-code. rate limited? retry..')"}
