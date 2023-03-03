@@ -9967,3 +9967,10 @@
 {"address": "0x04aa94f9e529645b2cf65027ef45fed47a3cff66", "name": "MummyClubNFT", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "3/3/2023"}
 {"address": "0xdc7dbb61e31d7a79376063791183a6488e16c9ce", "name": "Ether", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/3/2023"}
 {"address": "0x838D75D0BC06fe3c6B16CdE179026B18481a4A42", "name": "ABPayoutDestruct", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "2/17/2023", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x3a4f2a6c7e1e641afad6300553a0bb82d6c46a2e", "name": "AaveV3OptCapsPayloadFeb26", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/3/2023"}
+{"address": "0x8Fe6Fdc03eBa902A2C259FaF53ECe2aD7A5C4d78", "name": "ParlayVault", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/3/2023"}
+{"address": "0x8E33B6508cc7D807a12115d144480165c4CbF074", "name": "HeyResearchLab", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/3/2023"}
+{"address": "0x246ecfcb12f4BE8f6b2EC398E5F1DcFE80e630a4", "name": "MultiSender", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "3/3/2023"}
+{"address": "0x149a692a94eEe18e7854CEA1CEaab557618D4D46", "name": "TokenInfo", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/3/2023"}
+{"address": "0xa4F9D2107E5A7a8A512CFB01170dd4d456Adf0f1", "name": "StrategySushiswapUsdcUsdt", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/3/2023"}
+{"address": "0x2860d1a5f75d7b40ace8cf20bc83d1e7dd3335d3", "name": "OpBull", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "-", "date": "3/3/2023"}
