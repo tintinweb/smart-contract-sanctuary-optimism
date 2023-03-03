@@ -9974,3 +9974,16 @@
 {"address": "0x149a692a94eEe18e7854CEA1CEaab557618D4D46", "name": "TokenInfo", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/3/2023"}
 {"address": "0xa4F9D2107E5A7a8A512CFB01170dd4d456Adf0f1", "name": "StrategySushiswapUsdcUsdt", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/3/2023"}
 {"address": "0x2860d1a5f75d7b40ace8cf20bc83d1e7dd3335d3", "name": "OpBull", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "-", "date": "3/3/2023"}
+{"address": "0xB917F30BEFf3d2A8dbe3005a95280C533e4704F3", "name": "MultiSigWallet", "compiler": "0.4.15", "balance": "0.000476468496711889 Ether", "txcount": 1, "settings": "", "date": "3/3/2023"}
+{"address": "0xEff33Ab0474F593EF9CF7E5BaaccDA950cdBaae7", "name": "MultiSigWallet", "compiler": "0.4.15", "balance": "0.000024677543217279 Ether", "txcount": 1, "settings": "", "date": "3/3/2023"}
+{"address": "0x18570ab7ff88c0b44640a6b80a1f81166781ef2e", "name": "DiagonalOrgProxy", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "3/3/2023"}
+{"address": "0xdb38228542d9c692b635e97925f1e25f8235609d", "name": "DiagonalTimelockController", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "3/3/2023"}
+{"address": "0x7ba2b21092d98e68fc1d46273ab925f76985f03b", "name": "DiagonalOrg", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "3/3/2023"}
+{"address": "0xd3eafc164d3918ae3cdf8865a7acd8f0f6266258", "name": "DiagonalOrgBeacon", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/3/2023"}
+{"address": "0xefa652ae969425fa84259b6cb2c1e370265e2903", "name": "DiagonalRegistry", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "3/3/2023"}
+{"address": "0x241aaf8fdc16895181330cb65e1fb7b6a3590e7a", "name": "DiagonalRegistryProxy", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "3/3/2023"}
+{"address": "0x91b67c4c769745715093facb277895b0f25a4a27", "name": "DiagonalDeployer", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "3/3/2023"}
+{"address": "0x6f70d87634539035Dc0785F43Cc35E724fA00bB6", "name": "Rewarder", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 18, "settings": "", "date": "3/3/2023"}
+{"address": "0x3349ff0B2190B3E18C6A6202E5A4bd6BbE45d36a", "name": "MasterChef", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 36, "settings": "", "date": "3/3/2023"}
+{"address": "0x0216aA7398ABCDCf4c7d66472d3aF791BA0b577D", "name": "Rewarder", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "3/3/2023"}
+{"address": "0x714e4bfc72314fDd858a667462031c8651758b12", "name": "MasterChef", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/3/2023"}
