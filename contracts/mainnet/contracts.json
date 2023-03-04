@@ -9989,3 +9989,7 @@
 {"address": "0x714e4bfc72314fDd858a667462031c8651758b12", "name": "MasterChef", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/3/2023"}
 {"address": "0x6271d381f198cf7561370c7d5692b1f32a69df99", "name": "plosToken", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "3/4/2023"}
 {"address": "0x8cba6c9a8924de84cd463342b4638b7f2620714c", "name": "FES", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/4/2023"}
+{"address": "0x6798289f978A96Ca6EB0929c788Ab45f57BA40e5", "name": "ZonicTransfer", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "3/4/2023"}
+{"address": "0x9d48a6D21b436F7f886354BFAfDB8870AE03B297", "name": "Factory", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "3/4/2023"}
+{"address": "0xe7b00bF5F8DC6F5193c27B9422E9521BD2ED4395", "name": "HomenetServiceCFarmBeetsStablePool", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/4/2023"}
+{"address": "0x14A155e5E8cCe2B703a8463a95eE60FF1b0b23D7", "name": "CFarmBeetsOptimisticSteadyBeets", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/4/2023"}
