@@ -9987,3 +9987,5 @@
 {"address": "0x3349ff0B2190B3E18C6A6202E5A4bd6BbE45d36a", "name": "MasterChef", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 36, "settings": "", "date": "3/3/2023"}
 {"address": "0x0216aA7398ABCDCf4c7d66472d3aF791BA0b577D", "name": "Rewarder", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "3/3/2023"}
 {"address": "0x714e4bfc72314fDd858a667462031c8651758b12", "name": "MasterChef", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/3/2023"}
+{"address": "0x6271d381f198cf7561370c7d5692b1f32a69df99", "name": "plosToken", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "3/4/2023"}
+{"address": "0x8cba6c9a8924de84cd463342b4638b7f2620714c", "name": "FES", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/4/2023"}
