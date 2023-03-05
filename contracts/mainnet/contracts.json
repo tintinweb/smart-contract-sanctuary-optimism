@@ -9995,3 +9995,8 @@
 {"address": "0x14A155e5E8cCe2B703a8463a95eE60FF1b0b23D7", "name": "CFarmBeetsOptimisticSteadyBeets", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/4/2023"}
 {"address": "0x8f6F1287f450167F915F576761Ab5AC5a5B11281", "name": "CFarmVelodrome", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/4/2023"}
 {"address": "0x6d7C68b7aBeF577A4E3CF97C484C27b5f4E2E389", "name": "HomenetServiceCFarmVelodrome", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/4/2023"}
+{"address": "0x4b94A66A9B831ECC746aD7a7DaC5901493888c8a", "name": "FlattenPinkLock02", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/5/2023"}
+{"address": "0xF118C74703399A70934DD63794a9d154916E0AEf", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "3/5/2023"}
+{"address": "0xd59a46E7b04cA62E961E432Dafaf56fA37ad5c5F", "name": "HStargate", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/5/2023"}
+{"address": "0x9b824Dd3eC24280E40EF43015ccF3073bF4CC7A9", "name": "HFunds", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/5/2023"}
+{"address": "0x7a05e6faf8eb3deab20c0f3182836faff51f4bb1", "name": "MetaVote", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 8, "settings": "-", "date": "3/5/2023"}
