@@ -10008,3 +10008,12 @@
 {"address": "0x6E5FB45A1C640db457763d8b28956632701Efa24", "name": "Game", "compiler": "0.8.1", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "3/5/2023"}
 {"address": "0x4F46191bC4865813cbd2Ea583046BEa165b7Af8F", "name": "ChamberV1_WETHSNX_Sonne", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 12, "settings": "", "date": "3/5/2023"}
 {"address": "0x7b44d15c256b6c60d60a8d7c858a883a01bfd4d4", "name": "SignatureDropDeployer", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/5/2023"}
+{"address": "0xe7f967ed990c4db5262b592a3e5b70e29dd585c3", "name": "SeriousPhilosophyOptimismContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "3/6/2023"}
+{"address": "0xC17cFA4f7cbd30184606D67967c2e7e481cBA943", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "3/6/2023"}
+{"address": "0xdc1d0FEEACb72A29B372CbcB685562947a302791", "name": "UniSwapV3", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/6/2023"}
+{"address": "0x98039d95df6e9135d9295393e2782dad2eb31698", "name": "VeVeloController", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/6/2023"}
+{"address": "0x6f7413e93f4221048eb51c10645c7377d5750eb3", "name": "ConveyorSwapAggregator", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/6/2023"}
+{"address": "0x3afBa15C076e5c393315c2dD957f3F336163037B", "name": "HedgeExchanger", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/5/2023"}
+{"address": "0x0F25F66138b5C9e1c6F532E83f5DCd10068e8967", "name": "RebaseToken", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/5/2023"}
+{"address": "0xDD092AD21D5a255AEc521D670681b08731063bc7", "name": "StakingPool", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/5/2023"}
+{"address": "0x1203CDceaD2500bccd251811fD5FeDb2026fb499", "name": "LameFrog", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 31, "settings": "-", "date": "3/5/2023"}
