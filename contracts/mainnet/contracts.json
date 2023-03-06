@@ -10017,3 +10017,16 @@
 {"address": "0x0F25F66138b5C9e1c6F532E83f5DCd10068e8967", "name": "RebaseToken", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/5/2023"}
 {"address": "0xDD092AD21D5a255AEc521D670681b08731063bc7", "name": "StakingPool", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/5/2023"}
 {"address": "0x1203CDceaD2500bccd251811fD5FeDb2026fb499", "name": "LameFrog", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 31, "settings": "-", "date": "3/5/2023"}
+{"address": "0xc647AB2caB7D6da6081703382ECf2814D8b7C03c", "name": "GamesOddsObtainer", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/6/2023"}
+{"address": "0x8aeb89d5c689c2cf373fe8b56c7a0cd5bdc74ce6", "name": "EIP1967Proxy", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "3/6/2023"}
+{"address": "0x72e6b59d4a90ab232e55d4bb7ed2dd17494d62fb", "name": "BobVault", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/6/2023"}
+{"address": "0x86c3ffee349a7cff7ca88c449717b1b133bfb517", "name": "TransparentUpgradeableProxy", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "3/6/2023"}
+{"address": "0x49581e5575f49263f556b91daf8fb41d7854d94b", "name": "V3RateStrategyFactory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/6/2023"}
+{"address": "0xe194c91b336cD0c175Ba53022d96B1E889cE491d", "name": "VaultConfig", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/6/2023"}
+{"address": "0x2FD9089f03B9BA5A2F5EdF2af7E3E09f062d6698", "name": "KtbUniArbitrageur", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 30, "settings": "", "date": "3/6/2023"}
+{"address": "0x77d0864f979F3eCCB656a7Ce31166e4E3FEBd7bA", "name": "KtbArbitrageur", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 175, "settings": "", "date": "3/6/2023"}
+{"address": "0x86033092913D14a898eCba70C147659485F8EA1A", "name": "QuoteVault", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/6/2023"}
+{"address": "0x7cBC2a1B25B530B84cfB7643c9Ae15e3926381f7", "name": "BaseVault", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/6/2023"}
+{"address": "0x2d05b2B25DB42Ec0bb2d0FBF0E814798f0B313A2", "name": "VaultToken", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/6/2023"}
+{"address": "0x05ac722EADBB916A859A656dB12543a1F8942F2C", "name": "PerpPositionManager", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/6/2023"}
+{"address": "0x6019a048a40a32f29A6a077ad70e9CaEf2cBaf31", "name": "AIToken", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/6/2023"}
