@@ -10063,3 +10063,7 @@
 {"address": "0xBCe871E9623f22D6D199A65dFdA9516b5652Be45", "name": "StrategySushiswapUsdcUsdt", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/6/2023"}
 {"address": "0x2113a7d5d203Be717083746Bc6040c3fB8673389", "name": "StakingThales", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/6/2023"}
 {"address": "0xbC4BBD7Adb2f1dd79e40dD4029bcFf97BE9bb1F7", "name": "TherundownConsumer", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/6/2023"}
+{"address": "0xafc64807fe3cA0bE116F282937ae77E819168AAB", "name": "CryptoversalBooksNftBooksContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/7/2023"}
+{"address": "0x00000000000001ad428e4906aE43D8F9852d0dD6", "name": "Seaport", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 691, "settings": "", "date": "3/7/2023"}
+{"address": "0x4c2ea8b348cd4a95d6b58f0aeaa64afb8588df58", "name": "MoodDiary", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "3/7/2023"}
+{"address": "0x7F3dB2C9D4A52D78C4eEAECe4CDD5dc32Ab5d433", "name": "NostradamusS", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 5, "settings": "-", "date": "3/6/2023"}
