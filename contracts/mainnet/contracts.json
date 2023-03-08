@@ -10154,3 +10154,6 @@
 {"address": "0x95Df20d5F5D7C92BA929e5C41e0c20eA4B59476A", "name": "VotingEscrow", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/8/2023"}
 {"address": "0xB48a842f447eEDC353f9fa3B290C8351B9410305", "name": "UniswapV3NonfungiblePositionGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/7/2023"}
 {"address": "0xA8266193F0d9671e0A0Fcb372F877520F77131dc", "name": "UniswapV3AssetGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/7/2023"}
+{"address": "0x7902f3c60f05b5a6b7e4ce0cac11cb17bc8e607c", "name": "AaveV3OptRatesUpdateMar7", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/8/2023"}
+{"address": "0xc45376BE05153316b01E06FC3e341feF51283322", "name": "NFTRewardSC99", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/8/2023"}
+{"address": "0xD713c649F15003e3f93d66cD69c2537FadB888c1", "name": "Test", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "3/8/2023"}
