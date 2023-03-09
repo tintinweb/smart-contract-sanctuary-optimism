@@ -10177,3 +10177,12 @@
 {"address": "0x2F2103F22D790AC5fB1c1C071EAfbdE5Ca85817B", "name": "TherundownConsumer", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/9/2023"}
 {"address": "0x71B9B0F6C999CBbB0FeF9c92B80D54e4973214da", "name": "CoingeckoOracle", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "3/9/2023"}
 {"address": "0xdD69DB25F6D620A7baD3023c5d32761D353D3De9", "name": "OFT", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "3/9/2023"}
+{"address": "0xC20B7A0b0FcD54E40d65646c3E149c0445Ed86b0", "name": "TherundownConsumer", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/9/2023"}
+{"address": "0x72edbe3f4a4a7b6a48249cb28f44dbeabfaf927b", "name": "Swappy", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "3/9/2023"}
+{"address": "0x78519939115ec561be9e207abfe72c502613a4c6", "name": "VariableGaugeProxy", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/9/2023"}
+{"address": "0xac62a8f9d5d2cfb0ad41580322a77f7f67415e29", "name": "BribeFactory", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/9/2023"}
+{"address": "0x3f5d2d77f5577ce7c577e236acd3d3c928d50cfe", "name": "StableGaugeProxy", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/9/2023"}
+{"address": "0x7b85803e9f6110152ebd05545cffc380055173e2", "name": "BribeFactory", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/9/2023"}
+{"address": "0x011b93B7E5DB3f9D7dAb916641861D40E43e183d", "name": "SwitchCelerSender", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/9/2023"}
+{"address": "0xd85f437c99c0fda171fc218cb0f568b4bbf37fc8", "name": "AdminGaugeProxy", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/9/2023"}
+{"address": "0xef6324543322bc69e9af144b9b9bc20c03d213d0", "name": "MasterBarbarian", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "3/9/2023"}
