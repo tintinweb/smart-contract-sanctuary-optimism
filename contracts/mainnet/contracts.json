@@ -10186,3 +10186,4 @@
 {"address": "0x011b93B7E5DB3f9D7dAb916641861D40E43e183d", "name": "SwitchCelerSender", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/9/2023"}
 {"address": "0xd85f437c99c0fda171fc218cb0f568b4bbf37fc8", "name": "AdminGaugeProxy", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/9/2023"}
 {"address": "0xef6324543322bc69e9af144b9b9bc20c03d213d0", "name": "MasterBarbarian", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "3/9/2023"}
+{"address": "0xba0b3eb3ac3b4fac78ed26d15e7d2bffe406e123", "name": "VagobondMagazineNftBooksContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/9/2023"}
