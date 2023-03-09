@@ -10162,3 +10162,14 @@
 {"address": "0xd1276f06d6618309edce6f8d59e1b80ca96d993b", "name": "ERC1155NFT", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/8/2023"}
 {"address": "0xC4E6c4Cfa8F89776e0623d2f77b87160D6Ab6cf0", "name": "RewardSC99", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/8/2023"}
 {"address": "0x5897aA557176dA79FE78a168EA9cC945CF50A541", "name": "FjordLbpProxyV6", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "3/8/2023"}
+{"address": "0xfdbfa723212e3b8f1eb0e1e578795a50f20f6c7e", "name": "Admin", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/8/2023"}
+{"address": "0x90265ddc7959c098eb277d9d3e1529fce16d90b1", "name": "StakingRewards", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "3/8/2023"}
+{"address": "0x36Df169DBf5CE3c6f58D46f0addeF58F01381232", "name": "BatchLiquidator", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "3/8/2023"}
+{"address": "0xba8559dfa1f2b767cea440fb1ede9bfb4a9f518e", "name": "StakingRewardsZap", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/8/2023"}
+{"address": "0xb54d1833aca99b0e50dfcc7f55a9165c6805bb9f", "name": "StakingRewardsRegistry", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "3/8/2023"}
+{"address": "0x18830f8CC6A4bf2D71baeaf59B1A2f983F69bE01", "name": "yDonate", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "3/8/2023"}
+{"address": "0xab07c4a0a667295a177c9bc28163e2713967e081", "name": "ERC20FriendlyRewardModule", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "3/8/2023"}
+{"address": "0x5e215c92f310521d207fb959b7de7bdf99a243bc", "name": "ERC721StakingModule", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "3/8/2023"}
+{"address": "0x81de054e1240a4fa853b29f974a36330e6eb14a7", "name": "Pool", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 627, "settings": "", "date": "3/8/2023"}
+{"address": "0x0DA8faF638640eb96c503F4Dd7eA7108b88EeF94", "name": "yDonate", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "3/8/2023"}
+{"address": "0x505bf64ced9cd2a073bb91c9902ba5da25c79893", "name": "ERC1155NFT", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/8/2023"}
