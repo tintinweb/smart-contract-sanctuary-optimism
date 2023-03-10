@@ -10187,3 +10187,13 @@
 {"address": "0xd85f437c99c0fda171fc218cb0f568b4bbf37fc8", "name": "AdminGaugeProxy", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/9/2023"}
 {"address": "0xef6324543322bc69e9af144b9b9bc20c03d213d0", "name": "MasterBarbarian", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "3/9/2023"}
 {"address": "0xba0b3eb3ac3b4fac78ed26d15e7d2bffe406e123", "name": "VagobondMagazineNftBooksContract", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/9/2023"}
+{"address": "0xCb3665FcBbb0F7Ab0b4afe18E3E25AbD627074D5", "name": "OneInchAggregationV5ACLUUPS", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/10/2023"}
+{"address": "0xb71966fb5CCBA2E30C06Fd9E9750ccc5a5e81d8D", "name": "AggregationRouterV4ACL", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/10/2023"}
+{"address": "0x87573a0177CEC4A8CAAa4Be6e33A3b4CA0Fe8D17", "name": "CurveAcl", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/10/2023"}
+{"address": "0xD140ADB61D4E3E3978d4f32ac6B92240FF6E3A6e", "name": "FillQuoteTransformer", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "3/10/2023"}
+{"address": "0x0030D79aF00325A5B4577a7d5976492A93db114B", "name": "AvoAaveV3ImportOptimism", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "3/10/2023"}
+{"address": "0x1814d6E8E85bd58C6fccC9Bdf82a6d1931A825Bd", "name": "AvoAaveV3ImportPermitOptimism", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "3/10/2023"}
+{"address": "0xcc2c5c84d397584c9b6ed3135a99e779b6c9efcd", "name": "Burner", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/9/2023"}
+{"address": "0x8e8736F9f1b6036aF95dB4454FcE3118F9bBCecd", "name": "MerkleDropV2", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/9/2023"}
+{"address": "0xcbb386b801ec72a5ab02aeb723decd12f96ede41", "name": "Recoup", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "3/9/2023"}
+{"address": "0x75F68002fd99C700160F4287D76c2fA8B9603B58", "name": "OptimismBridgeAdapter", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/9/2023"}
