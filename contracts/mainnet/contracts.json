@@ -10210,3 +10210,7 @@
 {"address": "0xb18c42ec40a258ed7970cca8a532a90bd2dbacab", "name": "TorAddressRegister", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "3/10/2023"}
 {"address": "0x6c36ceD2298CC5a61257C85388851C91fC9DE189", "name": "SportAMMLiquidityPool", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/10/2023"}
 {"address": "0x53275529Cf0BA240896f37EB2beE17C6C79FAECE", "name": "ParlayVault", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/10/2023"}
+{"address": "0xe6FB1aD7CDe0688866f9Ab1f8dD7aE38b57C1E54", "name": "VelodromeTWAPAggregator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/11/2023"}
+{"address": "0x0898f96352a2ddeb86De0F357E86D8Ddc1D8b4c6", "name": "DecentralistProxyFactory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/10/2023"}
+{"address": "0x1053fe820b68D71b2a3cE4565b285B6bDAbAaF74", "name": "Decentralist", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "3/10/2023"}
+{"address": "0x7a64B8C3451487b7b74043334Fb986FfEcD3430e", "name": "Vyper_contract", "compiler": "vyper:0.3.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "3/10/2023"}
