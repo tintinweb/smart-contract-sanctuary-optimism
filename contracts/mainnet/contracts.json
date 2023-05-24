@@ -10714,3 +10714,9 @@
 {"address": "0x66122b72CB0e1386c83411623EaeEe42F4D36180", "name": "Opti2", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "5/10/2023"}
 {"address": "0xf6Daa62cf94845F57F30Fa590C97a390251f1659", "name": "WrappedToken", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "5/10/2023"}
 {"address": "0xB897C81Fa890ae81D3b9665C76fe610b696330B8", "name": "ParlayMarketsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/10/2023"}
+{"address": "0x5b10FeA6c4f16D73ff447906604Ed9F448498Ac9", "name": "ParlayMarketsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/24/2023"}
+{"address": "0xa35E6a72670950335AD701ed9f4bA65B5fa99e9C", "name": "ParlayVerifier", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/24/2023"}
+{"address": "0xb101015cEECD11d8f5bf57Be8604365cFc889F79", "name": "PikaTokenGenerationPublic", "compiler": "0.8.7", "balance": "2 Ether", "txcount": 3, "settings": "", "date": "5/24/2023"}
+{"address": "0xC0c4ef73Fa8D3D31325BBC0C1Bbc965f8e4a43ad", "name": "Registry", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/24/2023"}
+{"address": "0xe0bec4f45aef64cec9dcb9010d4beffb13e91466", "name": "VeToken", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "5/24/2023"}
+{"address": "0x79D7464e7F2E2BDeFC4AeE763C01162dE5F9613F", "name": "HopFacet", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/24/2023"}
