@@ -10802,3 +10802,8 @@
 {"address": "0xbbd0e0Cd7e4CcDa1365C15E99bfAb9E8d63Fb5f3", "name": "AlluoOmnivault", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/25/2023"}
 {"address": "0x7D5ba536ab244aAA1EA42aB88428847F25E3E676", "name": "KyberSwapElasticLM", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "5/25/2023"}
 {"address": "0x35BE3F4fd8239A35a7F120756D4D69e5C5e10870", "name": "KSElasticLMHelper", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/25/2023"}
+{"address": "0x000000bBc098E3185b8A8119357843f83fEc35a9", "name": "Factory", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/25/2023"}
+{"address": "0x640cf0c438d5c7c39479935856329f6bc5d2d52a", "name": "Account", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/25/2023"}
+{"address": "0xabd4171d1be4ec3970992bc0e697342ea0bd913d", "name": "Events", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/25/2023"}
+{"address": "0xd02813baf080d06fc6f706cf93f5daa96d6edb17", "name": "Settings", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/25/2023"}
+{"address": "0xDF2907Ca4db97764a17dD223BA434FfC23B17f17", "name": "VeloPriceFeed", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "5/25/2023"}
