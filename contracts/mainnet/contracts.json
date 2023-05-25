@@ -10773,3 +10773,11 @@
 {"address": "0x16f5F4336E4C8b421da3b7cCE15C0F9fCFDe7F74", "name": "VeloPriceFeed", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/24/2023"}
 {"address": "0x1F563a8BE28acdCc5546543a227aFb9373586eD0", "name": "WstETHAdapterOptimism", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/24/2023"}
 {"address": "0xb8e1c585dbd3414b15a48e10a20f187a2a8374d5", "name": "Aspirine_Contract", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "5/24/2023"}
+{"address": "0x8888041Bec38d8d430185e1fB9A14442Fe9F13e2", "name": "StargateFacet", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/25/2023"}
+{"address": "0xeb41f8dc0a92a93dd7de4bc8084289e074b981ba", "name": "HyphenFacet", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/25/2023"}
+{"address": "0x5bC914924dD7AA0b9aA0E415CaE56e10EF674999", "name": "SwapFacet", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/25/2023"}
+{"address": "0x00000f312c54d0dd25888ee9cdc3dee988700000", "name": "NetworkController", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/25/2023"}
+{"address": "0x22A40E84403F7CeE1c7Cd386e6dcc9e9b80E8e84", "name": "PaperERC1155Template", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/24/2023"}
+{"address": "0xC42a8Fd593FA53C8779280CAee685a84CDf9b014", "name": "DropsPriceOracleOptimism", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "5/24/2023"}
+{"address": "0x96d61648dbc12c3d1c3f0f0e1d53f14eeb504ea1", "name": "MirrorRendererV2", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/24/2023"}
+{"address": "0xE241C6e48CA045C7f631600a0f1403b2bFea05ad", "name": "OmniVotingEscrowChild", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "5/24/2023"}
