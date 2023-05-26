@@ -10807,3 +10807,49 @@
 {"address": "0xabd4171d1be4ec3970992bc0e697342ea0bd913d", "name": "Events", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/25/2023"}
 {"address": "0xd02813baf080d06fc6f706cf93f5daa96d6edb17", "name": "Settings", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/25/2023"}
 {"address": "0xDF2907Ca4db97764a17dD223BA434FfC23B17f17", "name": "VeloPriceFeed", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "5/25/2023"}
+{"address": "0x87aFc932a440BAC07a50aed721eB04F4859a63A7", "name": "LootVault", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/26/2023"}
+{"address": "0x0531789eDca5f6e641B8D3Ae48eF9fDa4660c76d", "name": "LootDAI", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/26/2023"}
+{"address": "0xae2256438642571ef56bfce46b8ec869d6e4d456", "name": "PauserFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "5/26/2023"}
+{"address": "0x4ce7526b22d48320210874c22c661311c06c62db", "name": "MulticallFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "5/26/2023"}
+{"address": "0xafda94c905502354865fad469ced3e3bfeece93a", "name": "DataTransferFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "5/26/2023"}
+{"address": "0x781702ef2a9a18b8840b0770c6851acd2b261bdf", "name": "BridgeFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "5/26/2023"}
+{"address": "0x57917e45a99cc31a91471266fdcefb5b9002ed9b", "name": "AggregatorFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "5/26/2023"}
+{"address": "0xC94bF98cFe43D8C891D4eE43a47435Be361e5d15", "name": "SignatureVerifier", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/26/2023"}
+{"address": "0xdd975f8d5B2F20D574e6777001e236a05f4AE3c4", "name": "Hasher", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/26/2023"}
+{"address": "0xB442582F235cF3d039a81F067b02F5e66f34A57c", "name": "OpenExecutionManager", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "5/26/2023"}
+{"address": "0x0A523D8d8e2ad6f6623B3318A59743546CAe6163", "name": "TransmitManager", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "5/26/2023"}
+{"address": "0x2344621d5aA6e784e8C6f4c54b0B29Dd9c3Ad4B6", "name": "Socket", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "5/26/2023"}
+{"address": "0x1CaB023A0cb8178163Fb47dE7C63C3192767cc26", "name": "FastSwitchboard", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 12, "settings": "", "date": "5/26/2023"}
+{"address": "0x929625aCcE321770c747C38CC989B689EE823d90", "name": "OptimisticSwitchboard", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "5/26/2023"}
+{"address": "0x7E6dA87FE69306CaAED675fFe4e7dC0FfE3bFe4D", "name": "OptimismSwitchboard", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "5/26/2023"}
+{"address": "0x321767762d66A69A8CCFE07d1b9805d314707B59", "name": "SocketBatcher", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 18, "settings": "", "date": "5/26/2023"}
+{"address": "0x29829A795d2A592eDD87378E5346F9fc17DD6033", "name": "Counter", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "5/26/2023"}
+{"address": "0x3C0Fd0B42aa46F03f6cF5e305Ed9B2Ce402847eF", "name": "SelfCompoundor", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/26/2023"}
+{"address": "0x751593Ee25C328236A77fa127D1Db2D9D2b9222f", "name": "OneClicks", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "5/26/2023"}
+{"address": "0xb923b7604869e94751e8655884fDa3Af821D1ED1", "name": "QuadratBoosterFactory", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/26/2023"}
+{"address": "0x784f498944b7477682E4058d98CCCdc3f8C0BaD1", "name": "StrategyVesperUsdc", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/26/2023"}
+{"address": "0x98886804A69676d2C8DbF578D49F7985A552984b", "name": "SwapToken", "compiler": "0.8.17", "balance": "0.0000006 Ether", "txcount": 10, "settings": "", "date": "5/26/2023"}
+{"address": "0x373798a76752c42fc4E0eD068EA8C3f2CE05467C", "name": "Wallet", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "5/26/2023"}
+{"address": "0x46Ba38BdD4EC8c37D35e0bb75d22b89ae9ede90a", "name": "ZkBridgeOracle", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/26/2023"}
+{"address": "0xAA45a6e4e1E6e43c14B366Dd0228874fb1DC0eF9", "name": "Observability", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/26/2023"}
+{"address": "0x4e0AfBa59894060369881f4Bc9ba05731A4119f1", "name": "ConsensualNonTransferableTokenManager2", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/26/2023"}
+{"address": "0x0266115EBa50E6EE69C067C0D6c5d542E9b40Bd5", "name": "ERC721Generative", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/26/2023"}
+{"address": "0x970a9F248Fc6AE03BB255E8863Cd6fc36E631e5d", "name": "ERC721General", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/26/2023"}
+{"address": "0x79307CeE06153CA7986759B0727023A2472F395B", "name": "ERC721SingleEdition", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/26/2023"}
+{"address": "0xd698911B1Bb2a9c849Bf5e2604aF110766f396b6", "name": "ERC721Editions", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/26/2023"}
+{"address": "0xa594011DB733d09C1EEB347fb2f7dFc99d118ba1", "name": "EditionsMetadataRenderer", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/26/2023"}
+{"address": "0x9AcDfE8020c3c191F7aA158e1c155F12e55c9717", "name": "AuctionManager", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/26/2023"}
+{"address": "0xFafd47bb399d570b5AC95694c5D2a1fb5EA030bB", "name": "ERC1967Proxy", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/26/2023"}
+{"address": "0x8087039152c472Fa74F47398628fF002994056EA", "name": "MintManager", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/26/2023"}
+{"address": "0xC5402e0BAF74c1042D72749cB8cA78c58dD93D6f", "name": "MinimalForwarder", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/26/2023"}
+{"address": "0x0032613d5c87346d02a5ac4b37553b801fee06ee", "name": "DefiEdgeTwapStrategy", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 114, "settings": "", "date": "5/26/2023"}
+{"address": "0xd3b276dd747db1c996cbee1edb5a80cb29e26929", "name": "DefiEdgeStrategy", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 203, "settings": "", "date": "5/26/2023"}
+{"address": "0x6e380ad5D15249eF2DE576E3189fc49B5713BE4f", "name": "OriginalTokenVaultV2", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 20, "settings": "", "date": "5/26/2023"}
+{"address": "0xbCC80B1158f608E91c5ad53b3bC330b33b354996", "name": "ZkBridgeOracle", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/26/2023"}
+{"address": "0xc6a4e73586dc56213f1aeffd8dc9887557c6e61a", "name": "optimism", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/26/2023"}
+{"address": "0x68627ff75a62dffbcad9a1e7fd0b1beee0ae7774", "name": "optimism", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/26/2023"}
+{"address": "0xF2d39FaeE1f598A024a57da2E5f18542f444942D", "name": "PoolBase", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/26/2023"}
+{"address": "0x6f93039f35510738a4c1c038699911054980b755", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "5/25/2023"}
+{"address": "0x1F4C2c9501e548f01b1F0973A90b4cDa68040509", "name": "GWLPUniPositionValue", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/25/2023"}
+{"address": "0x0d9606fF84A568cd04dFdf412c8c835A7f2Ff712", "name": "GrowiLPBeta", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/25/2023"}
+{"address": "0x00000006d4f91eb81122d888100acfed6f3da9ea", "name": "Factory", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "5/25/2023"}
