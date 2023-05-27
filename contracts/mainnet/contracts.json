@@ -10875,3 +10875,4 @@
 {"address": "0x8D1dd97397264A00C6975EbDB12285A64CadF1fB", "name": "VaultReader", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/27/2023"}
 {"address": "0xF9d602A6825cE5E4dAF34EAb0f3ed086fB734d97", "name": "SwapRouter", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/27/2023"}
 {"address": "0x8888881FA4b02bd6A5628BB34463Cc2570888888", "name": "ArrngController", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "5/27/2023"}
+{"address": "0xCb1205AC28693bEda01e0B66e9B4d06231609bFD", "name": "FTokenAccumulatorV3", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "5/27/2023"}
