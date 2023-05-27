@@ -10853,3 +10853,19 @@
 {"address": "0x1F4C2c9501e548f01b1F0973A90b4cDa68040509", "name": "GWLPUniPositionValue", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/25/2023"}
 {"address": "0x0d9606fF84A568cd04dFdf412c8c835A7f2Ff712", "name": "GrowiLPBeta", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/25/2023"}
 {"address": "0x00000006d4f91eb81122d888100acfed6f3da9ea", "name": "Factory", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "5/25/2023"}
+{"address": "0xd525c81912e242d0e86bc6a05e97a7c9ad747c48", "name": "ERC20BondToken", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "5/27/2023"}
+{"address": "0xf75dafffaf63f5d935f8a481ee827d68974fd992", "name": "BondFixedTermSDA", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "5/27/2023"}
+{"address": "0xf7f9a96cdbfefd70bda14a8f30ec503b16bce9b1", "name": "BondFixedTermFPA", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "5/27/2023"}
+{"address": "0xf70fdaae514a8b48b83cada51c0847b46bb698bd", "name": "BondFixedTermOFDA", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "5/27/2023"}
+{"address": "0xf705da9476a172408e1b94b2a7b2ef595a91c29b", "name": "BondFixedTermOSDA", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "5/27/2023"}
+{"address": "0xfe05da9fffc72027c26e2327a9e6339670cd1b90", "name": "BondFixedExpiryOSDA", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "5/27/2023"}
+{"address": "0xfe0fda2acb13249099e5edac64439ac76c7ef4b6", "name": "BondFixedExpiryOFDA", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "5/27/2023"}
+{"address": "0xfef9a53aa10ce2c9ab6519aee7df82767f504f55", "name": "BondFixedExpiryFPA", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "5/27/2023"}
+{"address": "0xfe5da6ad5720237d19229e7416791d390255e9aa", "name": "BondFixedExpirySDA", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "5/27/2023"}
+{"address": "0x007fe70dc9797c4198528ae43d8195fff82bdc95", "name": "BondFixedExpiryTeller", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "5/27/2023"}
+{"address": "0x007f7735baf391e207e3aa380bb53c4bd9a5fed6", "name": "BondFixedTermTeller", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "5/27/2023"}
+{"address": "0x007a66a2a13415db3613c1a4dd1c942a285902d1", "name": "BondAggregator", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "5/27/2023"}
+{"address": "0x007a0f48a4e3d74ab4234adf9ea9eb32f87b4b14", "name": "RolesAuthority", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 38, "settings": "", "date": "5/27/2023"}
+{"address": "0x06B299186813a1fa9280A38509f488072D9B9F36", "name": "UniswapV3Factory", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/27/2023"}
+{"address": "0x4ac875594420b4f093a0eddf569873569910c60f", "name": "TOP", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/26/2023"}
+{"address": "0x5A4c63B7487B7b988Ee6B7377424b49FBbB70dD7", "name": "StargateFeeLibraryV07", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "5/26/2023"}
