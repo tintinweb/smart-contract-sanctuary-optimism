@@ -10879,3 +10879,8 @@
 {"address": "0x7f303824186841b43a66b60683ee01cda21efe33", "name": "Vesting", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "5/28/2023"}
 {"address": "0xd97034fba5d3e2009de935d665cb8c5d0bad15d7", "name": "MerkleDistributor", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "5/28/2023"}
 {"address": "0xEEfe8171dC249960D730b19F3406E40c8C22C567", "name": "StrategyBalancerMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/28/2023"}
+{"address": "0x7de800467afce442019884f51a4a1b9143a34fac", "name": "XchangeFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "5/29/2023"}
+{"address": "0x403F2F3E26Ac75d083d1DBEB7cD733e9a7D06A48", "name": "SymbiosisBridge", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/29/2023"}
+{"address": "0x763b6a2063130bdb30c5242420Cbc7649B00982C", "name": "CoboFactory", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "5/29/2023"}
+{"address": "0xC16D238C5d5b8186189f86Ad96d9840642c42A42", "name": "CoboFactory", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/29/2023"}
+{"address": "0xfbf6f37f81c1b1c395fc0ef073c15cf0adf6cbf7", "name": "Reward_Contract", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "5/29/2023"}
