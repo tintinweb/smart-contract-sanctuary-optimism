@@ -10946,3 +10946,5 @@
 {"address": "0xde16ce9ae3c6d788ca6de1e19e6bc6ae81e0630b", "name": "SynthetixPerpResolver", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/30/2023"}
 {"address": "0x7B195EF8d0F1D244f4bFf52339F95DCED670cDB1", "name": "AirdropReward", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "5/30/2023"}
 {"address": "0x08C68b4E09A063E13E974d1055238C3D53Ca8b90", "name": "AirdropHelper", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "5/30/2023"}
+{"address": "0xb1b2eeF380f21747944f46d28f683cD1FBB4d03c", "name": "RouterETH", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/30/2023"}
+{"address": "0xC02670867efac6D988F40878a5559a8D96002A56", "name": "YTokenGateway", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/30/2023"}
