@@ -10937,3 +10937,12 @@
 {"address": "0x048E77257dF92787Cc1AF4015B6E9a7D521775a2", "name": "LPToken", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/30/2023"}
 {"address": "0x52d7096812b8d37D351E424E541b9a5424fd63f2", "name": "LPToken", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/30/2023"}
 {"address": "0x6055896622859F91399b5E69EE45e90cD087F5c3", "name": "Pool", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/30/2023"}
+{"address": "0x8eC81eB82488A754Ffcf21E7387F350e44854ab5", "name": "OptimismYearnRewardCollector", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/30/2023"}
+{"address": "0x9f50f4122b3d66397859c146e3489b4c0f66e17d", "name": "TransferFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "5/30/2023"}
+{"address": "0x2bf91dce25b34e80fc915339af115e6ca82a0883", "name": "SynthetixPerpResolver", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/30/2023"}
+{"address": "0x1baa02fd3744b299723f2e3ad2b7c241bea1afa5", "name": "Boomerang", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/30/2023"}
+{"address": "0x8c9fabf2285ee615e9cabdbbebd854db128b1985", "name": "Boomerang", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/30/2023"}
+{"address": "0x288320624972877Cd64A1CB98D1342E7e1785024", "name": "LayerZeroBridgeToken", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/30/2023"}
+{"address": "0xde16ce9ae3c6d788ca6de1e19e6bc6ae81e0630b", "name": "SynthetixPerpResolver", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/30/2023"}
+{"address": "0x7B195EF8d0F1D244f4bFf52339F95DCED670cDB1", "name": "AirdropReward", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "5/30/2023"}
+{"address": "0x08C68b4E09A063E13E974d1055238C3D53Ca8b90", "name": "AirdropHelper", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "5/30/2023"}
