@@ -10925,3 +10925,15 @@
 {"address": "0x9129E834e15eA19b6069e8f08a8EcFc13686B8dC", "name": "GaugeWorkingBalanceHelper", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/30/2023"}
 {"address": "0x6c1ae54a10fc93a7373777c34d1a2de6ede44822", "name": "PulseStrategyV2", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 11, "settings": "", "date": "5/29/2023"}
 {"address": "0xa02dd3aa2522d3dbe579f1251e0444d3efb38741", "name": "UniV3Helper", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/29/2023"}
+{"address": "0x6c6Bc8190f7d3F2A8ad01860EB93781A853051E0", "name": "RebaseHelper", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "5/30/2023"}
+{"address": "0xaa3bbc3c4F3F8E78b910dBC8C00B14b66F0E4429", "name": "Multicall2", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/30/2023"}
+{"address": "0x47fd36abceeb9954ae9ea1581295ce9a8308655e", "name": "FeeRecipientProxy", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "5/30/2023"}
+{"address": "0xd48bB747853363C59e07E60a33f148f838571C62", "name": "OmniCounter", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "5/30/2023"}
+{"address": "0x65AeA6E943E58a98dC06111DBE40bAF4f93cC6bF", "name": "SpritzBridgeV2", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "5/30/2023"}
+{"address": "0x5841678B748938a9862184d2aC7485ce0759a214", "name": "PrivateVaultAccessDeployer", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/30/2023"}
+{"address": "0x5D0095cE7BdC970498df1484989C34822aB861cB", "name": "StargateFacet", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/30/2023"}
+{"address": "0xB456Cfe536bdE2798d4f9a52f23678b170295641", "name": "StargateFacet", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/30/2023"}
+{"address": "0x8c817dE3199dF67F5B9c734fBF6b5EF7DeeC7B21", "name": "DiamondManagerFacet", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/30/2023"}
+{"address": "0x048E77257dF92787Cc1AF4015B6E9a7D521775a2", "name": "LPToken", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/30/2023"}
+{"address": "0x52d7096812b8d37D351E424E541b9a5424fd63f2", "name": "LPToken", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/30/2023"}
+{"address": "0x6055896622859F91399b5E69EE45e90cD087F5c3", "name": "Pool", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/30/2023"}
