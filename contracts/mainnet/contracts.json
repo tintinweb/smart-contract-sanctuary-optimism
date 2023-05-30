@@ -10920,3 +10920,8 @@
 {"address": "0xf96D1F6F31E3E8B905e9970DD8EAbC71095a6276", "name": "Router1Facet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "5/29/2023"}
 {"address": "0x094E427e26116A55ccb7633Af1e8Aa603b4e0aD8", "name": "OneClicks", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "5/29/2023"}
 {"address": "0xa673810C62c2BfaF261614F72bC01e79bC6F19fA", "name": "CoinSenderClaimV2", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/29/2023"}
+{"address": "0xd76d084908b0a03543a20eda683bec595637c013", "name": "SynthetixLimitOrders", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/30/2023"}
+{"address": "0xeCc9dd5D6ddBF997616FEA7aE887b9b276d37C02", "name": "OneClicks", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "5/30/2023"}
+{"address": "0x9129E834e15eA19b6069e8f08a8EcFc13686B8dC", "name": "GaugeWorkingBalanceHelper", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/30/2023"}
+{"address": "0x6c1ae54a10fc93a7373777c34d1a2de6ede44822", "name": "PulseStrategyV2", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 11, "settings": "", "date": "5/29/2023"}
+{"address": "0xa02dd3aa2522d3dbe579f1251e0444d3efb38741", "name": "UniV3Helper", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/29/2023"}
