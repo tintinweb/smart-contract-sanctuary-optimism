@@ -11000,3 +11000,15 @@
 {"address": "0x568b87725Aa56861c908D94Db7c7E93edD15d818", "name": "SwapFacet", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/31/2023"}
 {"address": "0xaA2D82bec65FCb902Fa85A31233a7579CF75A34b", "name": "FeeUtilsV2", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "5/31/2023"}
 {"address": "0xAb9ddf762Be0480563694904E22E77DCa6143cc5", "name": "AlluoStrategyHandler", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/31/2023"}
+{"address": "0xd044a308d1d0504d5ad05d9c623174156931c005", "name": "Badges", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/31/2023"}
+{"address": "0x000cfd8c16b1b7f62a2c738e96f18f573d7e0000", "name": "fuckuouuuuu", "compiler": "0.4.26", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "5/31/2023"}
+{"address": "0x12e4844258F76c07c6E4437d6C9Ba3dF7d81c723", "name": "Treasury", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/31/2023"}
+{"address": "0x0557B0a016166FA113CC090869C3d98bBFE911Fa", "name": "Pool", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/31/2023"}
+{"address": "0x50acdea593801b190f33d3ba8b592cf5d7d116f7", "name": "CVGGIO", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "5/31/2023"}
+{"address": "0xed99d0fcdb1952e06a7be055eafca4f76fc65473", "name": "DragonFruit", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/31/2023"}
+{"address": "0xE02F11277cfa84C696370C097c51848C6a6523b3", "name": "GyroConfig", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/31/2023"}
+{"address": "0x32Acb44fC929339b9F16F0449525cC590D2a23F3", "name": "FreezableTransparentUpgradeableProxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "5/31/2023"}
+{"address": "0xeFe2aFE3F2e03eaD747C61ff0fdabb1697441D84", "name": "VPoolWrapperUpgrader", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/31/2023"}
+{"address": "0x918B1df459f3caeD6224Aa7f0C21AdA55df164DC", "name": "PoolRewardsWrapperUpgrader", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/31/2023"}
+{"address": "0x22E7f6359Ee5A65B7e769838F983daC90FEd259e", "name": "VPoolWrapper", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/31/2023"}
+{"address": "0xC954A6e12D9D6Ca3f2c6aa8f286D7a4B302c611E", "name": "PoolRewardsWrapper", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/31/2023"}
