@@ -11012,3 +11012,6 @@
 {"address": "0x918B1df459f3caeD6224Aa7f0C21AdA55df164DC", "name": "PoolRewardsWrapperUpgrader", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/31/2023"}
 {"address": "0x22E7f6359Ee5A65B7e769838F983daC90FEd259e", "name": "VPoolWrapper", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/31/2023"}
 {"address": "0xC954A6e12D9D6Ca3f2c6aa8f286D7a4B302c611E", "name": "PoolRewardsWrapper", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/31/2023"}
+{"address": "0x085515c2ed7b498df5e2d508fe2f28733d2f137c", "name": "YearnTokenAdapterOptimism", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/31/2023"}
+{"address": "0x0A86aDbF58424EE2e304b395aF0697E850730eCD", "name": "YearnStakingToken", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "5/31/2023"}
+{"address": "0x728dDDa91e57078794Fc7BE6acb84D7cC51d760a", "name": "SolidlyAave", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "5/31/2023"}
