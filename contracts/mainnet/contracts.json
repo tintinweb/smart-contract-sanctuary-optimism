@@ -11050,3 +11050,11 @@
 {"address": "0x70619E0bD4B0191564e888700f3eB1318fC73926", "name": "LyraQuoter", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/1/2023"}
 {"address": "0x3702D060cbB102b6AebF40B40880F77BeF3d7225", "name": "FrendLend", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/1/2023"}
 {"address": "0x5369F71e1Fe238f0e6D938c734E2D2aE7296F362", "name": "BullaFinance", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/1/2023"}
+{"address": "0x37Ac9c4A26DB589EE35215c7053009eE645585Bb", "name": "DebtManager", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/1/2023"}
+{"address": "0xa232cf1aC685eb46eb3AEf2f2C2dB30313472C15", "name": "QuestFactory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/1/2023"}
+{"address": "0xD2476AF3bA1928aC01ED068dfdf34598B6190155", "name": "ERC721TokenNativeGaslessMintFactory", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/1/2023"}
+{"address": "0xeE10fB52432E427F38063bFD26598B099DA44325", "name": "ERC721SoulboundTokenNativeGaslessMintImpl", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/1/2023"}
+{"address": "0xF577959C9071751599b4596C299168d576A55428", "name": "ERC721TokenNativeGaslessMintImpl", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/1/2023"}
+{"address": "0xA9b6721694538d4C1AAf13AE1E227c37526F649f", "name": "ERC721SoulboundTokenImpl", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/1/2023"}
+{"address": "0xb175F9058F70a8cb887126d6c598B5356047feB8", "name": "ERC721TokenImpl", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/1/2023"}
+{"address": "0x34020412914efe1ca69a363e6298f06545c263bb", "name": "ReaperStrategyGranary", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/1/2023"}
