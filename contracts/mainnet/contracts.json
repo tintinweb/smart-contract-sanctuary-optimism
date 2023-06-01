@@ -11044,3 +11044,9 @@
 {"address": "0x5e2899Be3DB7223eE87D061236410369A4bc68a3", "name": "UxuyProtocol", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/1/2023"}
 {"address": "0x137DFa803359229F8546ADF469eeD668786e5E28", "name": "UxuyBridge", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "6/1/2023"}
 {"address": "0x70860C133221126650ca40BDfE80cFB29D1C974a", "name": "UxuySwap", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "6/1/2023"}
+{"address": "0x5735f4eeaa4e48cf251714da91142e661699c1cf", "name": "ANIMAKAMI", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/1/2023"}
+{"address": "0x56f0ab29080d794cfbcf3d3c885cd814df014c2a", "name": "BLT", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/1/2023"}
+{"address": "0x4bac21c040740d5add78fcdf10e205d7523fa2ce", "name": "OPHS", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/1/2023"}
+{"address": "0x70619E0bD4B0191564e888700f3eB1318fC73926", "name": "LyraQuoter", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/1/2023"}
+{"address": "0x3702D060cbB102b6AebF40B40880F77BeF3d7225", "name": "FrendLend", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/1/2023"}
+{"address": "0x5369F71e1Fe238f0e6D938c734E2D2aE7296F362", "name": "BullaFinance", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/1/2023"}
