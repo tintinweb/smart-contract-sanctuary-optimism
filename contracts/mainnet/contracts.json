@@ -11081,3 +11081,9 @@
 {"address": "0xa51c2a7444Ab95f3E79FD5fB62141c780943AE85", "name": "OFTV2", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/2/2023"}
 {"address": "0xef216c6ddece3a38262f2371a728a92e149673b1", "name": "ClaimReward", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "6/2/2023"}
 {"address": "0x83972008B55Aee44eC6DF368f7d8aa25793e24a0", "name": "Transport", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/2/2023"}
+{"address": "0x3b022384b5127b4cd4aeeb96b0f53e979dfad3f3", "name": "Timur", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/2/2023"}
+{"address": "0x6B1504D719B448B0A2B38d10Ff145adA2cb85081", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/2/2023"}
+{"address": "0xad9c7a93269b036f4a38375a0ff372f7b6fb3a1d", "name": "BloxPostNFT", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/2/2023"}
+{"address": "0x9F4eB655197c546770176CE034B4D5Aa98f059C2", "name": "QuadratBoosterFactory", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/2/2023"}
+{"address": "0x189c3f9dcAfe968Be3620cC58274E7c5DF057C7c", "name": "DexillaExchangeV3", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/2/2023"}
+{"address": "0x866a4B7ac6a77bfc1BEDE3b04fa1b9851b86eF1c", "name": "SwapperUpgrader", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/2/2023"}
