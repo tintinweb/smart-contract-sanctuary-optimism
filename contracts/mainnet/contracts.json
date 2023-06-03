@@ -11090,3 +11090,7 @@
 {"address": "0x4e9282cAe4180476c1f1f9ef75D26259212CB157", "name": "FullFeatureToken", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/2/2023"}
 {"address": "0x5FfeB6F31C0e6A67ed09a21647187EA3c145bF96", "name": "InstadappCREATE3Factory", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "6/2/2023"}
 {"address": "0x1839d4cf577baf20758d5dc96f93c4dcb8073d57", "name": "KOP", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/2/2023"}
+{"address": "0xb500e9a45b298a7b3c8bd10b31b5dc06e16692e1", "name": "DagoraMembershipsV1", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/3/2023"}
+{"address": "0x3972abe81a3e765A99bc50791309E08ee050e0B1", "name": "Accountant", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/3/2023"}
+{"address": "0x0c65160A099Df6807A5C6595aDa1022a3D963F58", "name": "DagoraMembershipsV1", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/3/2023"}
+{"address": "0x411c166474432c59aea0af9e1369f0dc08c1c5a5", "name": "AddrMapper", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/2/2023"}
