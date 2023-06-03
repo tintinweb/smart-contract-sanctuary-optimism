@@ -11094,3 +11094,5 @@
 {"address": "0x3972abe81a3e765A99bc50791309E08ee050e0B1", "name": "Accountant", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/3/2023"}
 {"address": "0x0c65160A099Df6807A5C6595aDa1022a3D963F58", "name": "DagoraMembershipsV1", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/3/2023"}
 {"address": "0x411c166474432c59aea0af9e1369f0dc08c1c5a5", "name": "AddrMapper", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/2/2023"}
+{"address": "0x3d4145B9161f7b573FBdF70a9849c8478fa7BD0f", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/3/2023"}
+{"address": "0x2BA1f7E899948153D8377f77dBb9AF25443ff728", "name": "LiquidSteak", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/3/2023"}
