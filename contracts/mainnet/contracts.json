@@ -11100,3 +11100,6 @@
 {"address": "0x49405Ce1c1A0F554f98A2C099D6eA622F3cdCB39", "name": "Erc20Valuer", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/4/2023"}
 {"address": "0xf5604a93CaDDb18a4ba8Ee8f3F20324CA286dcAE", "name": "OracleWrapper", "compiler": "0.6.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/4/2023"}
 {"address": "0x88a7DA508a7dd4571E86C0AAb4747943302914C5", "name": "OracleWrapper", "compiler": "0.6.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/4/2023"}
+{"address": "0x0b56DEE153A67c14EA36a396A4c87bc16b59A92b", "name": "ONFT721Psi", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "6/4/2023"}
+{"address": "0x20C285c8738f84AbBF09FB0c867bABd1713e403e", "name": "ONFT721Psi", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/4/2023"}
+{"address": "0x9F968c94e8e40790AC164b788C15FdC16c41f615", "name": "SpritzBridgeV2", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/4/2023"}
