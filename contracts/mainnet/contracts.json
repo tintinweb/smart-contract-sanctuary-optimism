@@ -11103,3 +11103,14 @@
 {"address": "0x0b56DEE153A67c14EA36a396A4c87bc16b59A92b", "name": "ONFT721Psi", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "6/4/2023"}
 {"address": "0x20C285c8738f84AbBF09FB0c867bABd1713e403e", "name": "ONFT721Psi", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/4/2023"}
 {"address": "0x9F968c94e8e40790AC164b788C15FdC16c41f615", "name": "SpritzBridgeV2", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/4/2023"}
+{"address": "0x1B61BD8Cc32D77c6aa1EfE27eF51223b8c078e78", "name": "Diamond", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "6/4/2023"}
+{"address": "0xa8428c7879e5556fedc36f0912fd6803bb9ddcf1", "name": "DiamondCutFacet", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/4/2023"}
+{"address": "0xda48ed06a0a99fa67aa65ec020a8ce20608b3d93", "name": "DiamondLoupeFacet", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/4/2023"}
+{"address": "0x99613a6cd4fb176d795f3042ce5ef3a42caf86cb", "name": "OwnershipFacet", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/4/2023"}
+{"address": "0x460ada5b10e09fb4d1626262b12e7ffc0ca9dc64", "name": "SupplyFacet", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/4/2023"}
+{"address": "0x085c39e6df7e510cde9b82bc0f41886471c985d3", "name": "SupplyAdminFacet", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/4/2023"}
+{"address": "0xea9f7b9376e7f39dff8ed680ed49cd358cc48a30", "name": "YieldFacet", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/4/2023"}
+{"address": "0xb914f993655e664da5cb5a30c8e0a5d13a5d9253", "name": "AccessFacet", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/4/2023"}
+{"address": "0x54bd35d64a16da4f6bf0ffab80bc61ac02913e3b", "name": "PartnerFacet", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/4/2023"}
+{"address": "0xcE2fE00d755Ed116B85D665713161e5CBB2eF822", "name": "PointFacet", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/4/2023"}
+{"address": "0x04a951e7A7777A80B421DF2b32D0859a24b7AE85", "name": "FiToken", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "6/4/2023"}
