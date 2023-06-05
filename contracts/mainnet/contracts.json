@@ -11152,3 +11152,15 @@
 {"address": "0x0ae0a1ae2703a27bc518fd7d9dcb3f6c69cfccd2", "name": "HopFacetPacked", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
 {"address": "0x4dc509f0bb4db1faeba81f5f13583ff3d95f938d", "name": "HopFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "6/5/2023"}
 {"address": "0x5e3dc14bfc5af89c2c34a24e2c1ba6430b9f4fd2", "name": "CBridgeFacetPacked", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x14F98dcf918a451a15f3A11d824C65906bDDc296", "name": "CryptoPoolAdapter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x47745Eb27a2bda483b0aFb87fDB5c501c718facA", "name": "CryptoRouterV2", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x58Fb937b18738eda389B478264A36496B200A0d9", "name": "FrontHelper", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x3961611942F5F3604593137cf36100dCDc8291b3", "name": "SynthesisV2", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0xBf69E6c43Deb44bA41C320b75aE4118200f976E8", "name": "SynthFactory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0xBf0b5D561b986809924f88099c4FF0e6BccE60c9", "name": "PortalV2", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x1b6750C990a4e5ada61f64F5917d47662561523e", "name": "AddressBook", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x5cF21A9899e679448284427C0Baca807fAd6bB8F", "name": "WhitelistV2", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x48686c24697fe9042531b64d792304e514e74339", "name": "LzIndirectOFTV2", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 23, "settings": "", "date": "6/5/2023"}
+{"address": "0x4cA8b6F7F2490b6eE783C6eF06EC505f0A3F22cD", "name": "CoinsenderNftsClime", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0xb976f21c75D0245e94d3949C79F48BE6c745175d", "name": "LiquidityGeneratorToken", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "6/5/2023"}
+{"address": "0xeb945a3d81de2626432365c0c29f33f580abc39b", "name": "Bulk", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 4, "settings": "-", "date": "6/5/2023"}
