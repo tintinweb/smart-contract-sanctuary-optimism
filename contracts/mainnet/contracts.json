@@ -11114,3 +11114,7 @@
 {"address": "0x54bd35d64a16da4f6bf0ffab80bc61ac02913e3b", "name": "PartnerFacet", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/4/2023"}
 {"address": "0xcE2fE00d755Ed116B85D665713161e5CBB2eF822", "name": "PointFacet", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/4/2023"}
 {"address": "0x04a951e7A7777A80B421DF2b32D0859a24b7AE85", "name": "FiToken", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "6/4/2023"}
+{"address": "0xB48dC7335BF5350337DA5e77bE23900F33c0b538", "name": "AlluoVoteExecutor", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0xb48a3b1e403E5737e6609014F67B782f7b4940B5", "name": "MintDeposit", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/4/2023"}
+{"address": "0x3E5366923EbB86D9cC67E7B7FD3dee6C18ABF0a0", "name": "GuardedVeloTWAP", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/4/2023"}
+{"address": "0xe2f7c65451dbd9f66b122f8912eebee24fdc91f4", "name": "TipJar", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 6, "settings": "-", "date": "6/4/2023"}
