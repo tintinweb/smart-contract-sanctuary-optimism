@@ -11118,3 +11118,37 @@
 {"address": "0xb48a3b1e403E5737e6609014F67B782f7b4940B5", "name": "MintDeposit", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/4/2023"}
 {"address": "0x3E5366923EbB86D9cC67E7B7FD3dee6C18ABF0a0", "name": "GuardedVeloTWAP", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/4/2023"}
 {"address": "0xe2f7c65451dbd9f66b122f8912eebee24fdc91f4", "name": "TipJar", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 6, "settings": "-", "date": "6/4/2023"}
+{"address": "0x58bF21e7a425c92C4Af55928FfA9b28a38f7d2cc", "name": "StargateWithdrawAuthorizer", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0xccfe8311399c26112ea6f20c3d7623c63b402a95", "name": "Upload", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 4, "settings": "-", "date": "6/5/2023"}
+{"address": "0x73a08503931Bd6763C4CD60013802025F1fCc3D2", "name": "StargateDepositAuthorizer", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0xe6f35629e03E755CC2f977DaAC0E45663B66c8E2", "name": "StargateClaimAuthorizer", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x89860FA1046F64Bf8AdF2E7A3556507c0fDa2D65", "name": "FeesTreasury", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x8524e4fBA45Eb8e70e22A1B9d3974DEfEe86bB42", "name": "ArgusRootAuthorizer", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x1552C84f6f09B6117dD95996d8220B37Ca6BDC4F", "name": "ZeroXBotAuthorizer", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x41e5C89Bb2207AaF9ae07441f64b0b822aB8a6ac", "name": "ArgusViewHelper", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x881C1695A5D6B0F251BcBb7BaB08Ec589c171cBc", "name": "ArgusAccountHelper", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x83C7513604A7a4BfCA7A94f916bE7F2bA6b695e9", "name": "StargateClaimAuthorizer", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x7Ba3CC542b70f8F1D6282dae222235D42CFd34CD", "name": "ParaswapBotAuthorizer", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x07f2AD9A6299E89019793706Ae39A780b49CDdDc", "name": "OneinchV5Authorizer", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x8C230beB7649b016e52E85CF50777d3253068d6a", "name": "TransferAuthorizer", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x54815296e3b5ed59Ec50be739Fa7CcA4E8de5eC0", "name": "FuncAuthorizer", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x3D89555e239209F6Aa708520302eD8B4eD859791", "name": "FlatRoleManager", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x37E369301beddd49574d22A7fa034d596766004B", "name": "CoboSafeAccount", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x543a21679f2AAD98b04c6850D227812BaCe171E8", "name": "BalancerPoolDataQueries", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x53cb5e5ba164396a3c635b741b7ac13461d67129", "name": "fERC20Minter", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "6/5/2023"}
+{"address": "0xDB51F8A55245A2D6dE6bf46e685B7906ac20a97c", "name": "StandardToken", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "6/5/2023"}
+{"address": "0xE406Ebc90b69e599D735F93C6923c7159B7494e0", "name": "StandardToken", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "6/5/2023"}
+{"address": "0xf15B31A7d7064905006CC765C427537F05530090", "name": "Timelock", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x17C6768F438F1C67A70889dCFfE49C665CcfE769", "name": "PriceOracleProxyUSD", "compiler": "0.5.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/5/2023"}
+{"address": "0x517f3b82c0260348aee4d603264e86795bbe22ec", "name": "Bulk", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "6/5/2023"}
+{"address": "0xf6bca0076ea90385ef37615ad0b84324b97b2c33", "name": "Bulk", "compiler": "0.8.19", "balance": "42 wei", "txcount": 799, "settings": "", "date": "6/5/2023"}
+{"address": "0xf7b9ea5f936b2b59451c6755e22d32627e47f954", "name": "Bulk", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 52, "settings": "-", "date": "6/5/2023"}
+{"address": "0x6B00d5CCD1b099Fb9A0269DFd14cce46775655A9", "name": "AlluoVoteExecutor", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0xfecE55912861a401738604c52998604ba45115a1", "name": "StargateWithdrawAuthorizer", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x2148c4F124029c3A18CFcC7A86A67A5Bf4D88658", "name": "StargateDepositAuthorizer", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x92DdB2B7D17FF42078AFFf98721F6d1E38083ED6", "name": "StargateClaimAuthorizer", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0xd051545b5b01ef9ae5eb5af317f079e5f0865b50", "name": "MerkleDistributor", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x4cf6c406f004b7b588ec8638fbd2cc2215d87c90", "name": "MultichainFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "6/5/2023"}
+{"address": "0x0ae0a1ae2703a27bc518fd7d9dcb3f6c69cfccd2", "name": "HopFacetPacked", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
+{"address": "0x4dc509f0bb4db1faeba81f5f13583ff3d95f938d", "name": "HopFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "6/5/2023"}
+{"address": "0x5e3dc14bfc5af89c2c34a24e2c1ba6430b9f4fd2", "name": "CBridgeFacetPacked", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/5/2023"}
