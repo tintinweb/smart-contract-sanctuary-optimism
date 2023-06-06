@@ -11165,3 +11165,17 @@
 {"address": "0xb976f21c75D0245e94d3949C79F48BE6c745175d", "name": "LiquidityGeneratorToken", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "6/5/2023"}
 {"address": "0xeb945a3d81de2626432365c0c29f33f580abc39b", "name": "Bulk", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 4, "settings": "-", "date": "6/5/2023"}
 {"address": "0x00003d1cef5f30e34510198cb045e4ae0aa20000", "name": "ClaimRewards", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "6/5/2023"}
+{"address": "0x9aad556467420fc50216b8585071dc7cdd6f63f5", "name": "BatchTools", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "6/6/2023"}
+{"address": "0x23bf2c8e672c1e17037cc7d29086b86d27e84c16", "name": "TransparentUpgradeableProxy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 21, "settings": "", "date": "6/6/2023"}
+{"address": "0xe08a603abf0e887ad5d538c02f8a29db84e5d797", "name": "MitchMinter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/6/2023"}
+{"address": "0x43276109f164b54ad437110aff1d3b0e2304dda9", "name": "ProxyAdmin", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/6/2023"}
+{"address": "0x385e9f438a8b5ca54bc87e2b826fb7adfdc3fd7f", "name": "GoldenEggMetadata", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/6/2023"}
+{"address": "0x00000000c417a48cd096067520747607a0331f0e", "name": "OpenGoldenEggMetadata", "compiler": "0.8.19", "balance": "-", "txcount": 0, "settings": "", "date": "6/6/2023"}
+{"address": "0x5bcf5773bcf1f131a0cad5c74aa9be1a80b63c55", "name": "SoundCreatorV1", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/6/2023"}
+{"address": "0x00000000ee37e4f29070cab8c6a73cb43f2dd73d", "name": "SoundEditionV1_2", "compiler": "0.8.19", "balance": "-", "txcount": 0, "settings": "", "date": "6/6/2023"}
+{"address": "0x2a3a42c653e427f4d44ea47007a99ee6bbae65af", "name": "SAM", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/6/2023"}
+{"address": "0x1a36729fc276c3649da2cf1eb986d7dabd5d5d99", "name": "RangeEditionMinterV2", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/6/2023"}
+{"address": "0x65d21a94c78a5f9ef68a2be141d0c91afc51a7d3", "name": "MerkleDropMinterV2", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/6/2023"}
+{"address": "0x03bD8E1d20D0474A4E44ffF85D651ce0aEC5b81c", "name": "TokenizedStrategy", "compiler": "0.8.18", "balance": "-", "txcount": 0, "settings": "", "date": "6/6/2023"}
+{"address": "0x85e2861b3b1a70c90d28dfec30ce6e07550d83e9", "name": "Yearn Vault Factory", "compiler": "vyper:0.3.7", "balance": "-", "txcount": 0, "settings": "", "date": "6/5/2023"}
+{"address": "0x86eaa8f8cee74338a1e7b4078a9c7817fe7a6a27", "name": "EatMeNFT", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "6/5/2023"}
