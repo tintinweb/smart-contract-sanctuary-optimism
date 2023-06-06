@@ -11179,3 +11179,9 @@
 {"address": "0x03bD8E1d20D0474A4E44ffF85D651ce0aEC5b81c", "name": "TokenizedStrategy", "compiler": "0.8.18", "balance": "-", "txcount": 0, "settings": "", "date": "6/6/2023"}
 {"address": "0x85e2861b3b1a70c90d28dfec30ce6e07550d83e9", "name": "Yearn Vault Factory", "compiler": "vyper:0.3.7", "balance": "-", "txcount": 0, "settings": "", "date": "6/5/2023"}
 {"address": "0x86eaa8f8cee74338a1e7b4078a9c7817fe7a6a27", "name": "EatMeNFT", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "6/5/2023"}
+{"address": "0xc8E869070ab3316fD71B2d082cC9b19fe16A90fe", "name": "MultiSender", "compiler": "0.4.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/6/2023"}
+{"address": "0x9af02523431E9Ec1Cc649c75aB0322fF34cde337", "name": "CryptoRouterV2", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "6/6/2023"}
+{"address": "0x530aF883f135F135BE12A69DC33296fb8149f593", "name": "SynthesisV2", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/6/2023"}
+{"address": "0x1748c669f852dfa521f0c971a68e15465ecda161", "name": "Events", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/6/2023"}
+{"address": "0x4e5039d9c8a0f0c2272860f0392ff86c26738322", "name": "Factory", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/6/2023"}
+{"address": "0xd50C0e1abE53f706c41B400c587ddeBCadBF8045", "name": "BalancerPoolDataQueries", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/6/2023"}
