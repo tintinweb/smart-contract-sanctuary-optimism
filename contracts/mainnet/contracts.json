@@ -11185,3 +11185,9 @@
 {"address": "0x1748c669f852dfa521f0c971a68e15465ecda161", "name": "Events", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/6/2023"}
 {"address": "0x4e5039d9c8a0f0c2272860f0392ff86c26738322", "name": "Factory", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/6/2023"}
 {"address": "0xd50C0e1abE53f706c41B400c587ddeBCadBF8045", "name": "BalancerPoolDataQueries", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/6/2023"}
+{"address": "0xB50dE748784599e6FC9F3976E2aD0f2Fc5117e86", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/6/2023"}
+{"address": "0x0c2c95b24529664fe55d4437d7a31175cfe6c4f7", "name": "AaveV3OPMAIFixes_20230606", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/6/2023"}
+{"address": "0xecf0378c12890e60765c762627e62b4a55a47ceb", "name": "BabyCheemsIdo", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/6/2023"}
+{"address": "0xa209739e4861386476c112078bd748fa653a2335", "name": "OpBabyCheems", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/6/2023"}
+{"address": "0x9873f645cb179eef8cbe442b59936f513fa7f440", "name": "UniversalRewardsDistributor", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/6/2023"}
+{"address": "0x366f95e80382bcc4432e7a41ec78d1112bed9172", "name": "ArcTrader", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/6/2023"}
