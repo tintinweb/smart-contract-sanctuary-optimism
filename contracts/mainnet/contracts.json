@@ -11203,3 +11203,4 @@
 {"address": "0x4c2BA62e549df0c34a0e93948AF417f76D0E92Ad", "name": "VPoolTokenOracle", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/7/2023"}
 {"address": "0x88f7f844bDeB0a6c02197f7eF85280AB7c2b0F3e", "name": "TransparentUpgradeableProxy", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "6/7/2023"}
 {"address": "0xEdC5689308b3a5704803165D509Df9d6d3dD4f66", "name": "DebtManager", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/7/2023"}
+{"address": "0x0004da2d1cc451419eccd3bff9948ccc2cb40000", "name": "ClaimAirdrops", "compiler": "0.4.26", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "6/7/2023"}
