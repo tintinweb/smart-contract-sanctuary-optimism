@@ -11191,3 +11191,9 @@
 {"address": "0xa209739e4861386476c112078bd748fa653a2335", "name": "OpBabyCheems", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/6/2023"}
 {"address": "0x9873f645cb179eef8cbe442b59936f513fa7f440", "name": "UniversalRewardsDistributor", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/6/2023"}
 {"address": "0x366f95e80382bcc4432e7a41ec78d1112bed9172", "name": "ArcTrader", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/6/2023"}
+{"address": "0x888811b3DFC94566Fc8F6aC5e86069981a50B490", "name": "ENSRegistry", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "6/7/2023"}
+{"address": "0x888811e68250624944575f8725b9364dB6eFe943", "name": "Multicall3", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "6/7/2023"}
+{"address": "0x88881190D24e8ecA11F0262972cff8081b2AFc45", "name": "Root", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 27, "settings": "", "date": "6/7/2023"}
+{"address": "0x227f1F14213beCE5c084c41fD73b9F4f7C48C108", "name": "WidoCrossSender", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/7/2023"}
+{"address": "0x7Fb69e8fb1525ceEc03783FFd8a317bafbDfD394", "name": "WidoCrossReceiver", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/7/2023"}
+{"address": "0xf4d566565fE2128E25440840B45010c23Dca6C43", "name": "PegToken", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/7/2023"}
