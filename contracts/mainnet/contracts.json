@@ -11204,3 +11204,10 @@
 {"address": "0x88f7f844bDeB0a6c02197f7eF85280AB7c2b0F3e", "name": "TransparentUpgradeableProxy", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "6/7/2023"}
 {"address": "0xEdC5689308b3a5704803165D509Df9d6d3dD4f66", "name": "DebtManager", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/7/2023"}
 {"address": "0x0004da2d1cc451419eccd3bff9948ccc2cb40000", "name": "ClaimAirdrops", "compiler": "0.4.26", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "6/7/2023"}
+{"address": "0xE93ECa6595fe94091DC1af46aaC2A8b5D7990770", "name": "VerifyingPaymaster", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/8/2023"}
+{"address": "0xf88f2005caf11a477af2e383feeb4b9125739191", "name": "DD", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/8/2023"}
+{"address": "0x7a2cccd7abfdde2dc8c8e78b32507ad21f933036", "name": "DOD", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/8/2023"}
+{"address": "0x72209247847b2f92440bc835b230310c69ea238b", "name": "GMO", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/8/2023"}
+{"address": "0xc03f0436c13acdf1fd66a94e0eb62e5487899ccb", "name": "RSK", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/8/2023"}
+{"address": "0x748b854efbeadad9a9ed3bea54413b3403b48053", "name": "MultiplyOnboarderShamanSummoner", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/7/2023"}
+{"address": "0x90dad9115fedde3d51b7e5fa95aaee6e49a878e1", "name": "MultiplyOnboarderShaman", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/7/2023"}
