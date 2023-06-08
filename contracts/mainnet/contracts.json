@@ -11267,3 +11267,12 @@
 {"address": "0x0F190195eD1BcabAfE872E801cd69401B192F48C", "name": "MS_Contract", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "6/8/2023"}
 {"address": "0xc9ba77c9b27481b6789840a7c3128d4f691f8296", "name": "BalancesOf", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/8/2023"}
 {"address": "0xCe4F05e51b7Edb3454134306A84864d35d6fF734", "name": "ProtectedMultiPath", "compiler": "0.7.5", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/8/2023"}
+{"address": "0xf3A92c8Aea760a3af04A8ee59017cB9B6B834F18", "name": "DirectSwap", "compiler": "0.7.5", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/8/2023"}
+{"address": "0x8547bD5fb04737dD879d76472164eb25C47FC40b", "name": "SimpleSwapNFT", "compiler": "0.7.5", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/8/2023"}
+{"address": "0xe2137168CdA486a2555E16c597905854C84F9127", "name": "ProtectedSimpleSwap", "compiler": "0.7.5", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/8/2023"}
+{"address": "0xd63B7691dD98fa89A2ea5e1604700489c585aa7B", "name": "SimpleSwap", "compiler": "0.7.5", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/8/2023"}
+{"address": "0x29ff7b9c945158ccd973b7c190a73ab9e110fc74", "name": "DhSignalTCRSummoner", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/8/2023"}
+{"address": "0x898fc00771c148257a7edbdAD33c1469F4420740", "name": "DhSignalTCR", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/8/2023"}
+{"address": "0x505eCDF2f14Cd4f1f413d04624b009A449D38D7E", "name": "StargateFeeLibraryV07", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 15, "settings": "", "date": "6/8/2023"}
+{"address": "0xf02480fcFAB8B6C9A37236F71D5358b4c88a2e7F", "name": "RewardsDistributor", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/8/2023"}
+{"address": "0xdaaa557c85f0128f8263182560ffc55f50bb100c", "name": "OPT", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/8/2023"}
