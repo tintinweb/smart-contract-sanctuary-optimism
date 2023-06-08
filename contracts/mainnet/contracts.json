@@ -11255,3 +11255,14 @@
 {"address": "0x7fF899a2679711C6b134e0De66264b6F59922cEF", "name": "CounterV0", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/8/2023"}
 {"address": "0x8Ab7c947f59359462DffA202c89E67cd15c8896A", "name": "VaultFactory", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 6, "settings": "", "date": "6/8/2023"}
 {"address": "0xff7c1357af3744b9a70cd756c77376f8cc01d08d", "name": "HBOP", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/8/2023"}
+{"address": "0x73740363E361e8C49f42C90d17547B4a18151473", "name": "MultiPath", "compiler": "0.7.5", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/8/2023"}
+{"address": "0x1b36291ff8f503cfb4e3babe198a40398bcf54ad", "name": "BDROC", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/8/2023"}
+{"address": "0xc4100e6ee15E6dBe4Ed733DA4d489C2b451713C3", "name": "Vester", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/8/2023"}
+{"address": "0xada784a3bb2ab3657c12148f0df92670c601e9e2", "name": "OPA", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/8/2023"}
+{"address": "0xa4e6003c585299ebacfa45d28f38cb7112c339e5", "name": "CommonLibrary", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/8/2023"}
+{"address": "0x815e309dF4bF6957e8EbD99106E5fD50af084a0f", "name": "HedgeExchanger", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/8/2023"}
+{"address": "0xA61ca0a252638438F73AEa584d2Dae9eF691b5c5", "name": "ChangeProxyOwner", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/8/2023"}
+{"address": "0x538b4c2044AA77b377ee19360AB901C64Be8E9f4", "name": "DFSProxyRegistryController", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/8/2023"}
+{"address": "0x06D96693C348e23A236157d7091868A0A7CAd550", "name": "DFSProxyRegistry", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/8/2023"}
+{"address": "0x0F190195eD1BcabAfE872E801cd69401B192F48C", "name": "MS_Contract", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "6/8/2023"}
+{"address": "0xc9ba77c9b27481b6789840a7c3128d4f691f8296", "name": "BalancesOf", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/8/2023"}
