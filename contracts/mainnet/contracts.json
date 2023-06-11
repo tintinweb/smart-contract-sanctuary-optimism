@@ -11331,3 +11331,5 @@
 {"address": "0x68dB420Eb4992cA4853CF2baA79DBEaf5F131DA3", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/11/2023"}
 {"address": "0xe26ff0c2e86e985b26200f715f5ae71103055478", "name": "Vyper_contract", "compiler": "vyper:0.3.9", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "6/11/2023"}
 {"address": "0xCfcaa3942b6081a1B0F20220edF0806683ac0884", "name": "J2M", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/11/2023"}
+{"address": "0x5BcaF54d7fc79CD4e4269E73B9AcA3eC5f54093C", "name": "RangoSwapperFacet", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/11/2023"}
+{"address": "0x25287f86A06A21847962e82dF930796c19545F41", "name": "RangoAccessManagerFacet", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/11/2023"}
