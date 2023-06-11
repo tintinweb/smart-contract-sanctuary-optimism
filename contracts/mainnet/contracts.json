@@ -11328,3 +11328,5 @@
 {"address": "0x8c04d05876d54914f4d3b066b884c0a2a66d40e3", "name": "Treasury", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/11/2023"}
 {"address": "0xe98482dc01392a2f1236BCFE448EE3D26cf4e296", "name": "ProposalVoting", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/11/2023"}
 {"address": "0x28B857261EfDBAF9d395c8c5F5A0BE32f99c6abb", "name": "HackathonToken", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "6/11/2023"}
+{"address": "0x68dB420Eb4992cA4853CF2baA79DBEaf5F131DA3", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/11/2023"}
+{"address": "0xe26ff0c2e86e985b26200f715f5ae71103055478", "name": "Vyper_contract", "compiler": "vyper:0.3.9", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "6/11/2023"}
