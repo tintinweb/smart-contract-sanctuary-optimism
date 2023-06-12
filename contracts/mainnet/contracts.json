@@ -11362,3 +11362,6 @@
 {"address": "0xeddd0c58205f2149c039efdfd8e6bd25970bec85", "name": "Mauser", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/12/2023"}
 {"address": "0x4bdd6CdD602041a6F57Bc2a12C7d5667e4694e5E", "name": "OptimizedTransparentUpgradeableProxy", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 34, "settings": "", "date": "6/12/2023"}
 {"address": "0xd77756E8AF1c41c6DfAbf61E41DE6FAE28e648F8", "name": "BscBlockUpdater", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/12/2023"}
+{"address": "0xf76D2b169A3feBDCB08545Bf2DC750C6d59D405E", "name": "VaultChild", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/12/2023"}
+{"address": "0x4aDE0865D78cd84237d6F60b7D6E33e7900D441F", "name": "FeeCollector", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/12/2023"}
+{"address": "0x7e565b2a86965580eb2b70a2c92376d4a2bf895d", "name": "Multicall3", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/12/2023"}
