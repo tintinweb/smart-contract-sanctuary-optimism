@@ -11365,3 +11365,14 @@
 {"address": "0xf76D2b169A3feBDCB08545Bf2DC750C6d59D405E", "name": "VaultChild", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/12/2023"}
 {"address": "0x4aDE0865D78cd84237d6F60b7D6E33e7900D441F", "name": "FeeCollector", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/12/2023"}
 {"address": "0x7e565b2a86965580eb2b70a2c92376d4a2bf895d", "name": "Multicall3", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/12/2023"}
+{"address": "0xb0BE48F722a8AD727b99064EE18b715e9757e959", "name": "DexillaExchangeV4", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/12/2023"}
+{"address": "0x566b0f1dde5ad7ab3c2cd3ebbaa07622283e818b", "name": "PoolMetadataRegistry", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/12/2023"}
+{"address": "0xbce67CD3a2b97c17BdA92764ea81b3Ef5F06cCFC", "name": "LiquidStake", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/12/2023"}
+{"address": "0xd932f8ef895efc23d3ca7ac3670f4ca660505f50", "name": "onMobile", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/12/2023"}
+{"address": "0xF2e18E4870CA2572B26D59f0C63D7A17EE8F1918", "name": "ConnectV2AaveV3Optimism", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/12/2023"}
+{"address": "0x12BB890508c125661E03b09EC06E404bc9289040", "name": "RACAV2Token", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 59, "settings": "", "date": "6/12/2023"}
+{"address": "0xd1974664D191A9CA1CfCF483066F9E2B942D5ed9", "name": "ExternalRewardDistributor", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/12/2023"}
+{"address": "0x3b8075483E51ab78d81CAa5300f7f20a5386d04C", "name": "ExternalRewardDistributor", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/12/2023"}
+{"address": "0xc793f56f74b0e3E78fB3a6d55b75E2ca636E5340", "name": "ExternalRewardDistributor", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/12/2023"}
+{"address": "0xA714aA2c155EdB64DAD72CD568A43784137A24d8", "name": "Comptroller", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/12/2023"}
+{"address": "0xfDbA28D084E157938CFca7e7091C17bc4D6CD2f0", "name": "SynapseBridgeImpl", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/12/2023"}
