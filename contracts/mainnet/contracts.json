@@ -11500,3 +11500,19 @@
 {"address": "0x10ff3F7eEFd237551026Dbeda6B8a88a35BF6DB0", "name": "PositionManager", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "6/14/2023"}
 {"address": "0x0cce27ce6f81470afebe6453c2d36a7ca738eb40", "name": "SynthetixLimitOrders", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/14/2023"}
 {"address": "0x6931ebe462d0a6799569f23138fdcc431a4adea7", "name": "Bulk", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "6/14/2023"}
+{"address": "0xf1777e069f89b9c73f874b9d9e41fbe6fc2779d5", "name": "Origin", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/14/2023"}
+{"address": "0xE0196c910c9b5FD143dEb91510C55817D6FAaD1f", "name": "Migration_MerakOptimismStep1", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/14/2023"}
+{"address": "0x1abe03dc4706ae47c4f2ae04eebe5c8607c74e17", "name": "PeanutV3", "compiler": "0.8.15", "balance": "0.010889235368734187 Ether", "txcount": 129, "settings": "", "date": "6/14/2023"}
+{"address": "0xe07d8594ca4fa3f34c66ff49be1b1352b2f8b64d", "name": "DForceOptimism", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/14/2023"}
+{"address": "0xc377e6e13426739f14e411dd88af8056e2dcaba4", "name": "BorrowingVaultFactory2", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/14/2023"}
+{"address": "0xb71073364b78debe996d041bb340ff4f03ff23d9", "name": "FujiOracle", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/14/2023"}
+{"address": "0xcb76e0143cf98f29bed72d606770af61bd3b0919", "name": "ConnextHandler", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/14/2023"}
+{"address": "0x0b26945b5239b3cdf5d2ff7b27815a54e933deab", "name": "TimelockController", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "6/14/2023"}
+{"address": "0xd1aa6767ba125ff8ce187ba8810ba781094f66e3", "name": "Chief", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "6/14/2023"}
+{"address": "0x25204a85dBC29300ce60133cedA267aAdb73CfBD", "name": "LinkAvailableBalanceMonitor", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/14/2023"}
+{"address": "0xEb5A14a0a5A9e36aD20CFFFFa4a8797015F25EAE", "name": "DeggkiesOP", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 30, "settings": "", "date": "6/14/2023"}
+{"address": "0x3294c78eff4c652bac17cce1c566af83699ee166", "name": "Test", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/14/2023"}
+{"address": "0xa003dFBA51C9e1e56C67ae445b852bdEd7aC5EEd", "name": "TestToken", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/14/2023"}
+{"address": "0x793a0Bb089c6787e84277f08179DAC594eDb9443", "name": "Faucet", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/14/2023"}
+{"address": "0x945fd405773973d286de54e44649cc0d9e264f78", "name": "AaveV3OptPriceFeedsUpdate_20230613_Payload", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/14/2023"}
+{"address": "0x0a31527a8dE2Ee97BBD8cCE14Db8E8826a0b6C4f", "name": "OFT Bridger", "compiler": "vyper:0.3.7", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/14/2023"}
