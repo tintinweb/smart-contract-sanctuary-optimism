@@ -11618,3 +11618,7 @@
 {"address": "0x8d9f2a5d56fe0d16120bd55f0e7fe5e871302e1d", "name": "LT", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/15/2023"}
 {"address": "0xFfeF365c3e005fA5c80b7FC1B40F2B3756b53319", "name": "SNXHedgerGovernanceWrapper", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/15/2023"}
 {"address": "0x3A75175020ef28fB7D62161B90340D73873ab71E", "name": "OptionTokenGovernanceWrapper", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/15/2023"}
+{"address": "0x1124f030264d0eed8cf8a2523d0bcddc3c9bca7d", "name": "POSTER", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/15/2023"}
+{"address": "0xaffc0a0438c4d7e72ad2890f4a49419ce5048d18", "name": "GMWUW", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/15/2023"}
+{"address": "0x178ef45faa028cfb105c7caf9113e71f1a2870c0", "name": "FRST", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/15/2023"}
+{"address": "0x769728b5298445ba2828c0f3f5384227fbf590c5", "name": "VestingMerkleDistributor", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/15/2023"}
