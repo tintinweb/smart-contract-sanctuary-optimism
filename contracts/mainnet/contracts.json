@@ -11689,3 +11689,13 @@
 {"address": "0x8283fea1f7a80ba36adfe13ff51fb4e823841c85", "name": "ClaimMatchingLib", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/15/2023"}
 {"address": "0xce14127ea902d04f427764252279135d8a2de7d6", "name": "AuthMatchingLib", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/15/2023"}
 {"address": "0x34ef840af38dfedcf638c424079f6568bf52ae49", "name": "Gknmi", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/15/2023"}
+{"address": "0xa985b0adb56fe0d80fc7be9d3f5a936db33eb0e3", "name": "syxtvs", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/16/2023"}
+{"address": "0xb06dd472a437c18fcc308a983b2fcaf081040779", "name": "da", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/16/2023"}
+{"address": "0x493f5073baecbe199f2d46498a3b401f7524d98f", "name": "OPSAK1337", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/16/2023"}
+{"address": "0x904CD8Dd61482853d22E0A3cABb94Fe889eE8380", "name": "ReaperVaultERC4626", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/16/2023"}
+{"address": "0xCcFD57Aa70610E66D8fFC09Ee1489d473F7f8192", "name": "ReaperVaultERC4626", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/16/2023"}
+{"address": "0x7ff31163ca0d53ab9f6b4bfc9c43de0b324001e7", "name": "fkmk", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/16/2023"}
+{"address": "0xcf32c043aa2441e8948be14eec49e9f280cb5781", "name": "ReaperSwapper", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/16/2023"}
+{"address": "0xb2af500c94F7b4DFF189120c97cb25d8ad5aa028", "name": "PoolRewardsUpgrader", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/16/2023"}
+{"address": "0x78649ecde1dd50bbb80455a0c7492efb1aecb843", "name": "ReaperSwapper", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/16/2023"}
+{"address": "0x69685c20db3cf157da4e87ea25c16d76d041a5c9", "name": "ReaperStrategySonne", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/16/2023"}
