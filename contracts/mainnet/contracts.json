@@ -11745,3 +11745,9 @@
 {"address": "0x7d655cb4e5ca4b406266864a1ef2591427090103", "name": "abr", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/17/2023"}
 {"address": "0x9434324fefd90d69b5e266fc9c1ba29edb88882e", "name": "MNFD", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/17/2023"}
 {"address": "0x1259adb07e35df973daaf065da492586a3199098", "name": "MoR", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/17/2023"}
+{"address": "0x75c037b54c25101078ed2ded7f9fd7e475fe23e1", "name": "RecycleFactory", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/18/2023"}
+{"address": "0xc47375e2ada9396c89c3b62e2b99df3700b72de6", "name": "VTS", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/18/2023"}
+{"address": "0xcf252645f7c8f610c467d05e686a999fa21469e5", "name": "NJM", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/18/2023"}
+{"address": "0xE8A8EE48F6aCc0c414b20b05BbefbEE82D6EdFB8", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "6/18/2023"}
+{"address": "0x6ae9185d83d0c0ed504ce651f3728b81307860bb", "name": "RetrowaveIndustrialDreams", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/18/2023"}
+{"address": "0x9dd58a1174128ed762f4a52527ab7fd93ea4f4cb", "name": "eacc", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/18/2023"}
