@@ -11803,3 +11803,11 @@
 {"address": "0xbf52aedc630b442b7fbd2f174ca60329da035ba6", "name": "SKEY", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/19/2023"}
 {"address": "0xa9B203773C68b4EDc17d4bD1151f6b2bbEB36Bc8", "name": "StargateImplL2V2", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/19/2023"}
 {"address": "0x8e258BEEf8e860B21AFbdb649B1FF26f7B149677", "name": "ParlayMarketMastercopy", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/19/2023"}
+{"address": "0xf3e840f1b2403564a8d275523e868b1da742d1d3", "name": "SUU", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/19/2023"}
+{"address": "0x903a9422950987b391fbbf8d0150cdcdcba7f80a", "name": "StealthModuleFactory", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/19/2023"}
+{"address": "0xfccc69aa4d53428c8c30817c8c1895362c71439b", "name": "OPM", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/19/2023"}
+{"address": "0x7290B2e039DBD2c95C40A5d9d15da7d84Fda2337", "name": "BeefyContractDeployer", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/19/2023"}
+{"address": "0x78c5c7aeb5f768dbaa0e729525981d3f710737be", "name": "Yearn Token Vault", "compiler": "vyper:0.3.3", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "6/19/2023"}
+{"address": "0x59aa83062301259eb23c2785efa886c32d0e46d1", "name": "PXL", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/19/2023"}
+{"address": "0xf1cd78fd8920babfaf011f87624f14dd889b3ed5", "name": "RM", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/19/2023"}
+{"address": "0x3ae7b88cf6d3249c126548686313dc7f92fd4b9e", "name": "R4E", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/19/2023"}
