@@ -11796,3 +11796,10 @@
 {"address": "0xce8aef7f6b13101aca01b5cea93b1738d35423d0", "name": "SNAG", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/19/2023"}
 {"address": "0xe8647A54f1bfB122B5Efa7bB994E14C285B41310", "name": "CourseFactory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/19/2023"}
 {"address": "0x8618d0cd6c1815385cee8cd732c8e1c0baff3888", "name": "NGW", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/19/2023"}
+{"address": "0x416c9C053Bb551c20a0d794EC08E607e24dc70E1", "name": "StakingThales", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/19/2023"}
+{"address": "0x1582272e85E4f058018F933F7aD924250BAB1881", "name": "ParlayMarketsAMM", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/19/2023"}
+{"address": "0xef3afe7d80721a3ea53252d07a7ffb84ab5ab65b", "name": "SBV", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/19/2023"}
+{"address": "0x2Bc8aE379f7dB9310e92daa074Fcc7CaF89C5c55", "name": "ParlayAMMLiquidityPool", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/19/2023"}
+{"address": "0xbf52aedc630b442b7fbd2f174ca60329da035ba6", "name": "SKEY", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/19/2023"}
+{"address": "0xa9B203773C68b4EDc17d4bD1151f6b2bbEB36Bc8", "name": "StargateImplL2V2", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/19/2023"}
+{"address": "0x8e258BEEf8e860B21AFbdb649B1FF26f7B149677", "name": "ParlayMarketMastercopy", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/19/2023"}
