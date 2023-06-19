@@ -11770,3 +11770,6 @@
 {"address": "0xbdff9f9c14d07480601f34fdc8ac8db86225e9e3", "name": "sno", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/18/2023"}
 {"address": "0x4b608e662a28bf9deb0f0f804958556f07618407", "name": "Bulk", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 259, "settings": "-", "date": "6/18/2023"}
 {"address": "0xa6952329aa77edfc00673cae7b86b241fb627967", "name": "mic", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/18/2023"}
+{"address": "0x93Ab345c38edF7d72707236F5d82F92Fbd0eDeCe", "name": "CoreIssuerV2", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/19/2023"}
+{"address": "0x45b9d4eda9e58981dcb8bdf2dff4d5d3fa904253", "name": "MDJ", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/19/2023"}
+{"address": "0x00496c29e48302f1d56cbfe2ba3f0127c430a2d2", "name": "W54006", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/19/2023"}
