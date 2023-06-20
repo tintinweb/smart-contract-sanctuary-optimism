@@ -11831,3 +11831,15 @@
 {"address": "0x927314536A55faF469CeB2Ec82DB44b59A062204", "name": "ClearingHouseConfig", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/20/2023"}
 {"address": "0x8c43F2910902b26FA7635a81088bF615EC618861", "name": "AccountBalance", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/20/2023"}
 {"address": "0x8d5b91692d33e25693903a02cD6FFd27c5062bb2", "name": "CapstackStrategySonne", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/20/2023"}
+{"address": "0x275a6e066b42a9bd06dc23c7ba40ec23671f3033", "name": "SUU3", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/20/2023"}
+{"address": "0x173bc6294c4509ca154205e59d3e176d708f8076", "name": "ETHRLTS", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/20/2023"}
+{"address": "0xb926d9f5e935555e89a253eb6fa65f263b34341b", "name": "CT", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/20/2023"}
+{"address": "0x46545580b7712233843442126707ba43ab85c7ce", "name": "MXJXN", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/20/2023"}
+{"address": "0xeD1cAE43dc55ebD150a229950a8d42F3379F071B", "name": "StrategySushiStableFarm", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/20/2023"}
+{"address": "0x7CB59d76EEDeBD0889c851C82a8498150a1651fd", "name": "YearnStaking", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/20/2023"}
+{"address": "0xac8581f3eff6d8e3b4a6ac8a2a43fcc8fd161ca4", "name": "creamxbt", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/20/2023"}
+{"address": "0xa769ddfaCCCC894312788f48C0504004Fb211686", "name": "CumulativeMerkleDistributor", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/20/2023"}
+{"address": "0x5d0febf546f21be9f33b0ffb6798bfdc69688f85", "name": "W54007", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/20/2023"}
+{"address": "0x547ec7092bec9a74eadca3f08b63827dc74df449", "name": "CMENIGMA", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 6, "settings": "-", "date": "6/20/2023"}
+{"address": "0xCe672de0D2d38944716c21BCA7DB1164685Af2aC", "name": "StrategyDummyImplementation", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/20/2023"}
+{"address": "0xff6771a9565F18638faB2972BA7Fc798ad8bCad0", "name": "StrategyProxy", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "6/20/2023"}
