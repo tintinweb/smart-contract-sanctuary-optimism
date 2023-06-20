@@ -11811,3 +11811,12 @@
 {"address": "0x59aa83062301259eb23c2785efa886c32d0e46d1", "name": "PXL", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/19/2023"}
 {"address": "0xf1cd78fd8920babfaf011f87624f14dd889b3ed5", "name": "RM", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/19/2023"}
 {"address": "0x3ae7b88cf6d3249c126548686313dc7f92fd4b9e", "name": "R4E", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/19/2023"}
+{"address": "0xD05DA7B4071BBF8a5c5Ef9fAA23a9D23cB943702", "name": "StrandsVault", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "6/20/2023"}
+{"address": "0x1ec6d7f1a1fc0eca90965d70b6a4d7b0b89d7688", "name": "cc", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/20/2023"}
+{"address": "0xB50520fCB44bC5D80A9DDF0136dB990684B75d5e", "name": "Tenet", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "6/20/2023"}
+{"address": "0x239a98974F011Ef59D9ebcf5f5Abb11Bef13A238", "name": "HolographGeneric", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/20/2023"}
+{"address": "0xd9e9c178811a93bfcC849C054F41e2Ab2C5f3288", "name": "HolographERC721", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/20/2023"}
+{"address": "0xa9A01b6639610217Ad1b8ec69E581f28f4A82E9a", "name": "HolographERC20", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/20/2023"}
+{"address": "0x5dc5d8e3b227cd842495115c067ec587a45bc502", "name": "StealthModuleFactory", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/20/2023"}
+{"address": "0xe2723cb7012d27e576331f8137cd5a2414d2cde8", "name": "Gong", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/20/2023"}
+{"address": "0x841e271485e256ee6ba3b7d807c8aa8fcbade546", "name": "SHAW", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/19/2023"}
