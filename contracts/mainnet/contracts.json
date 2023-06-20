@@ -11820,3 +11820,14 @@
 {"address": "0x5dc5d8e3b227cd842495115c067ec587a45bc502", "name": "StealthModuleFactory", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/20/2023"}
 {"address": "0xe2723cb7012d27e576331f8137cd5a2414d2cde8", "name": "Gong", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/20/2023"}
 {"address": "0x841e271485e256ee6ba3b7d807c8aa8fcbade546", "name": "SHAW", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/19/2023"}
+{"address": "0xEB0F592b88f1A3b63D81b6324A9490e8bFE62070", "name": "ParlayAMMLiquidityPool", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/20/2023"}
+{"address": "0x9C7dc5B770237A4F009bE91a4081765DC3B47A64", "name": "LeechTransporter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/20/2023"}
+{"address": "0x518130ECFC4F231D856e7af7c3c09492aC4c1943", "name": "LeechRouter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/20/2023"}
+{"address": "0x6debda2555b46758b3f01446cc58aac1654b434e", "name": "AMISM", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/20/2023"}
+{"address": "0x49755AaE322b9c6b76c7843BCF5aFa5B11CBA99B", "name": "Vault", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/20/2023"}
+{"address": "0xF482304D9D9fC5629E45f4077A3a2DbCEda15890", "name": "Exchange", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/20/2023"}
+{"address": "0x8914Bb02e93CF66bb30Cd39870d247a1Ea7284ED", "name": "CollateralManager", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/20/2023"}
+{"address": "0xa7127bB76ebA78B3467f1CcE20daf84F179DF5a7", "name": "ClearingHouse", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/20/2023"}
+{"address": "0x927314536A55faF469CeB2Ec82DB44b59A062204", "name": "ClearingHouseConfig", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/20/2023"}
+{"address": "0x8c43F2910902b26FA7635a81088bF615EC618861", "name": "AccountBalance", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/20/2023"}
+{"address": "0x8d5b91692d33e25693903a02cD6FFd27c5062bb2", "name": "CapstackStrategySonne", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/20/2023"}
