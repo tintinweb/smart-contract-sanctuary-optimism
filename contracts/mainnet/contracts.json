@@ -11843,3 +11843,12 @@
 {"address": "0x547ec7092bec9a74eadca3f08b63827dc74df449", "name": "CMENIGMA", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 6, "settings": "-", "date": "6/20/2023"}
 {"address": "0xCe672de0D2d38944716c21BCA7DB1164685Af2aC", "name": "StrategyDummyImplementation", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/20/2023"}
 {"address": "0xff6771a9565F18638faB2972BA7Fc798ad8bCad0", "name": "StrategyProxy", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "6/20/2023"}
+{"address": "0x9313Cfe7eAC6C708F00FC84cb5cE375C583de9d7", "name": "StrategyVelodromeFarm", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/20/2023"}
+{"address": "0xf198d02b5d87656dd9ed64d46db7fc191a409774", "name": "V4Router", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/20/2023"}
+{"address": "0x93c5c8f462256ab48562c23bcadf36bb6a4958c4", "name": "V5Router", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/20/2023"}
+{"address": "0xdfb453656a14c8e9ad3f4095483ce3328977eb47", "name": "RouterFactory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/20/2023"}
+{"address": "0x971e3c3fe5d51c952e86b33fbe541406934ca402", "name": "FJBV4", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 13, "settings": "", "date": "6/20/2023"}
+{"address": "0xaf09bc7bc75919eda5e067ccb09ddc54c29df3ef", "name": "PerpetualPositionRouter", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/20/2023"}
+{"address": "0x59a9a626deeae864737b62eefc40abab8fddd169", "name": "DepositRouter", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/20/2023"}
+{"address": "0xbf2870611603b2f02b8616e0fe65c60f7657a0f4", "name": "PerpetualRouterFactory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 46, "settings": "", "date": "6/20/2023"}
+{"address": "0xdf8403cd57ccb6cd5e083e8187d80799a8c3bc17", "name": "FBR", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/20/2023"}
