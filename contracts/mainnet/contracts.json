@@ -11868,3 +11868,9 @@
 {"address": "0xade850bf6de778a207dc44e610fe7a45272fece9", "name": "OneInchConnector", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/21/2023"}
 {"address": "0xd34f4fae4d5ea96f15cb26af0e45a90eabcd7b47", "name": "BasicConnector", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/21/2023"}
 {"address": "0xa4965dc079a6891c6f26fcd723991357d839c2d9", "name": "MatchaConnector", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/21/2023"}
+{"address": "0x84328d0c18b3eed2ab9736fcdb09153c8757354b", "name": "RAFTS", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/21/2023"}
+{"address": "0x44bb7237df325dbd01801862eddddd0d5aead34f", "name": "UniversalRewardsDistributor", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/21/2023"}
+{"address": "0x06a4a480bd21ef65e8d82f83a8a5e5b397ff573c", "name": "W54008", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/21/2023"}
+{"address": "0x0fe38dcc905ec14f6099a83ac5c93bf2601300cf", "name": "Vyper_contract", "compiler": "vyper:0.3.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/21/2023"}
+{"address": "0x59c136501e57ea13956c0b241b2f5d0018b3ada8", "name": "asdw", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/21/2023"}
+{"address": "0x2fa3bc9cfe48294b685557dad046f839ff5b1518", "name": "OPCS", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/21/2023"}
