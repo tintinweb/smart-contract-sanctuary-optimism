@@ -11852,3 +11852,10 @@
 {"address": "0x59a9a626deeae864737b62eefc40abab8fddd169", "name": "DepositRouter", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/20/2023"}
 {"address": "0xbf2870611603b2f02b8616e0fe65c60f7657a0f4", "name": "PerpetualRouterFactory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 46, "settings": "", "date": "6/20/2023"}
 {"address": "0xdf8403cd57ccb6cd5e083e8187d80799a8c3bc17", "name": "FBR", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/20/2023"}
+{"address": "0x02308be45cbe8d7c6c9ebd646abdb3ebf9e3ea16", "name": "gfdg", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/21/2023"}
+{"address": "0xd9f3ac74b00342644a4a2909e1852268ab35c32a", "name": "JJPV", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/21/2023"}
+{"address": "0xfc52fbce4cddc2b3277967323afc9a86035d4eea", "name": "ED", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/21/2023"}
+{"address": "0xD0d0CF7be1273b9267e1a80c5DE867748FB84B14", "name": "CoSoul", "compiler": "0.8.2", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/21/2023"}
+{"address": "0xc7983ed52dc0f2a8c64ac3c46d774bcf22445883", "name": "W54007", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/21/2023"}
+{"address": "0xe3f84c604e5ed3f35c6918d72cc303f70b36511e", "name": "ClaimAirdrops", "compiler": "0.4.26", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "6/21/2023"}
+{"address": "0x8e909e2a13E42DFe4F4ef16BF03C434DBc723557", "name": "Retrieve", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 10, "settings": "-", "date": "6/21/2023"}
