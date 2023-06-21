@@ -11859,3 +11859,12 @@
 {"address": "0xc7983ed52dc0f2a8c64ac3c46d774bcf22445883", "name": "W54007", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/21/2023"}
 {"address": "0xe3f84c604e5ed3f35c6918d72cc303f70b36511e", "name": "ClaimAirdrops", "compiler": "0.4.26", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "6/21/2023"}
 {"address": "0x8e909e2a13E42DFe4F4ef16BF03C434DBc723557", "name": "Retrieve", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 10, "settings": "-", "date": "6/21/2023"}
+{"address": "0x67a9e34A763395266612FFc8c9305eB2Fca4d4bE", "name": "MerkleDistributor", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/21/2023"}
+{"address": "0xea20f88a49b8ab6f30d6a9b86ae961be68614e44", "name": "ZLPZRO", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/21/2023"}
+{"address": "0xc8Db2B4d011f5B9C53a5807103f6f229B21a407B", "name": "StakingThales", "compiler": "0.5.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/21/2023"}
+{"address": "0x2Ff16F29Bf90237aF51D6287710f3493a03fD88b", "name": "AlluoStrategyHandler", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/21/2023"}
+{"address": "0xee3dd0adace9b29b56f7176e6190c2e7bfe54594", "name": "SynthetixSpotConnector", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/21/2023"}
+{"address": "0x0a54608c6bfa09a5e95a3824154d59005ae03bcd", "name": "SynthetixPerpConnector", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/21/2023"}
+{"address": "0xade850bf6de778a207dc44e610fe7a45272fece9", "name": "OneInchConnector", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/21/2023"}
+{"address": "0xd34f4fae4d5ea96f15cb26af0e45a90eabcd7b47", "name": "BasicConnector", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/21/2023"}
+{"address": "0xa4965dc079a6891c6f26fcd723991357d839c2d9", "name": "MatchaConnector", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/21/2023"}
