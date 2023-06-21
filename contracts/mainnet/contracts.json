@@ -11874,3 +11874,6 @@
 {"address": "0x0fe38dcc905ec14f6099a83ac5c93bf2601300cf", "name": "Vyper_contract", "compiler": "vyper:0.3.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/21/2023"}
 {"address": "0x59c136501e57ea13956c0b241b2f5d0018b3ada8", "name": "asdw", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/21/2023"}
 {"address": "0x2fa3bc9cfe48294b685557dad046f839ff5b1518", "name": "OPCS", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/21/2023"}
+{"address": "0xba12b88b6a7b80b22026716b8da5c6e53bdf950d", "name": "VYNN", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "6/21/2023"}
+{"address": "0x078359223234798e036f551c4facc724325783ba", "name": "JKTN", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/21/2023"}
+{"address": "0x9e08c6710410006ddd2ad4cf613d7ccd8cd5ac7c", "name": "K6166", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/21/2023"}
