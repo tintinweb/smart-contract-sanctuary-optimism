@@ -11932,3 +11932,20 @@
 {"address": "0x1455fC43430651075A6e285583e7EBC2AEBDF28e", "name": "ERC721EditionsDFS", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/21/2023"}
 {"address": "0xaF4d61951A425BA60ac1E7EA6d51e92d2F4748E4", "name": "ERC721SingleEditionDFS", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/21/2023"}
 {"address": "0x51a557b35384c0c0f8028b88ea944ded00d30754", "name": "OpenEditionERC721", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/21/2023"}
+{"address": "0x75ce102850256ddfe47f15ef6568203899b07e7e", "name": "yo", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/22/2023"}
+{"address": "0x78B6f6E65E30a5d3ed5B4Ac6B35d65aBd7448Fd9", "name": "LinkAvailableBalanceMonitor", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/22/2023"}
+{"address": "0xf0707bf504e0801f948c88f20f507a47a2e2a184", "name": "CDX", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/22/2023"}
+{"address": "0x708E6Ba79b2093A81f2DCFc7d660057768EAB756", "name": "CatchMeCard", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "6/22/2023"}
+{"address": "0x9e1D8FD5563C3723e98539b0DD0972f6e1Bd5a4d", "name": "EtherspotPaymaster", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/22/2023"}
+{"address": "0x3c1a683b8fb1f1c23f205de39bbd601a4e6daf80", "name": "VPDZPR", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/22/2023"}
+{"address": "0x2f771DCa6Ffa3879e48355E8A4aF5b81d82A6164", "name": "EtherspotWalletFactory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/22/2023"}
+{"address": "0x380b8b2caefe4d9019bd2c803b072f246b58d600", "name": "Velodrome Finance veNFT Sugar v1", "compiler": "vyper:0.3.7", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "6/22/2023"}
+{"address": "0x21A4a5C00Ab2fD749ebEC8282456D93351459F2A", "name": "Vester", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 234, "settings": "", "date": "6/22/2023"}
+{"address": "0x093a02e82c2dfa1cc6fc95b47b28ecb2654921bf", "name": "CLO", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/22/2023"}
+{"address": "0x3cb59414747cf7a2cdfe2cb1f626a3f3991dc5d9", "name": "gfhfghfgh", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/22/2023"}
+{"address": "0x848a034f70f5573f147c54992285d6c86fb37b5e", "name": "eblnadndnfd", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/22/2023"}
+{"address": "0xd0a36f2ed527eda6c374460dad6e9f23dbda846a", "name": "GasEstimater", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/22/2023"}
+{"address": "0x243fd194901a0828433a1e414e7ebca56ce321bc", "name": "SCH", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/22/2023"}
+{"address": "0xe22e35887837778284361eac18fe2dded2f4d396", "name": "gor", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/22/2023"}
+{"address": "0x0cf4be2fcb7baf393a394330fd5f35a5f2f35250", "name": "OptL0", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/22/2023"}
+{"address": "0xeb8adcd8d8ca06f890e7063332e8976925edcdcd", "name": "gaga", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/22/2023"}
