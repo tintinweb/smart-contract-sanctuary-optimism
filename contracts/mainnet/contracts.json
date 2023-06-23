@@ -11958,3 +11958,8 @@
 {"address": "0x34d488e1c563e78d3a4c10f627419f466f28389b", "name": "W54009", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/22/2023"}
 {"address": "0x75d199EfB540e47D27D52c62Da3E7daC2B9e834F", "name": "DistributorController", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/22/2023"}
 {"address": "0x88d8e4ff3d2bb692dc2da0b114a5e1749e325b2e", "name": "OP721", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "6/22/2023"}
+{"address": "0x1a47e8dF0BF32ae0aDb8B3554e2Ee813d8EB4133", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/23/2023"}
+{"address": "0x42bce84cad703463a999106f403b6852086d7a1c", "name": "UTL", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/23/2023"}
+{"address": "0x1881a65eb86fab7533afdc2dc6f66d3099c1b005", "name": "MiiiiM", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "6/23/2023"}
+{"address": "0x680f5da83cc5327203ef6ddec4b941363fa37086", "name": "MirrorRendererV2", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/22/2023"}
+{"address": "0x79b6d9e8aed712414583f92befc900263cc53735", "name": "NXN", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/22/2023"}
