@@ -12041,3 +12041,10 @@
 {"address": "0x0ef82dab14798e63f1b99479ba689e3f6a6feb6c", "name": "MinterAgent", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/24/2023"}
 {"address": "0xea130282a60f17baf526f5e9853035a942a37a98", "name": "MRK", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/24/2023"}
 {"address": "0x04da47cc6db306eef191bbef2b455b9b9aa90b3d", "name": "YBNL", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/24/2023"}
+{"address": "0x984e4fcec3545e525ada2b50ef685920398b8fec", "name": "PSTR", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/25/2023"}
+{"address": "0xBF458FF5E88377B65cfbEf3099A7c6200a81B84D", "name": "MozaicLP", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/25/2023"}
+{"address": "0x7ba0c030358995b63d9d965C999DD6Af3AC7F46b", "name": "StargatePlugin", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/25/2023"}
+{"address": "0xB895f39CB9DdC3f6428A767E5017a8C96b0c38A7", "name": "Vault", "compiler": "0.8.9", "balance": "0.13 Ether", "txcount": 10, "settings": "", "date": "6/25/2023"}
+{"address": "0xB76B9e1Ed34c5D5b1D204098DD80E881D249b750", "name": "MozBridge", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 12, "settings": "", "date": "6/25/2023"}
+{"address": "0xF5Ed98abFc4F8A5D9e6c82C3719841a37c61fCb5", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/25/2023"}
+{"address": "0x0bd54fbbfdd9cccafb0300055d93117f47c7b320", "name": "W54011", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/25/2023"}
