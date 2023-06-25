@@ -12059,3 +12059,15 @@
 {"address": "0x6dd0228f679b2b2f2791039d30f2ee593e93b57d", "name": "RROP", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/25/2023"}
 {"address": "0xac6770ee5e96ff819c49f1e05460158880928fad", "name": "A4C", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/25/2023"}
 {"address": "0x73156b3750ec1047a73cde3fd684d3a9afde69d0", "name": "OWOP", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/25/2023"}
+{"address": "0x3B1d860AC03aa4FaAC49E1AEd2ca36cEb3dA506C", "name": "FeeManager", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/25/2023"}
+{"address": "0x6026bcea17f77c6ae419712c531215faca7290d4", "name": "ZCJ", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/25/2023"}
+{"address": "0x0939c14186d4b1f66c53cb62d7c0de856416150a", "name": "BB", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/25/2023"}
+{"address": "0x1bc756a6d516eb231861fe27e306961180c3b0c3", "name": "LoopFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/25/2023"}
+{"address": "0xc069fc0cff93ccc271a0d06371908866591a33a5", "name": "WOMEN", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/25/2023"}
+{"address": "0x294e37a33439594a0e32b1f20232e44d17e87601", "name": "Lock", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/25/2023"}
+{"address": "0x839E8a3827b567391D54e2828B6A75B27a053fdF", "name": "ZKEdition", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/25/2023"}
+{"address": "0x56f14A0f3874070fC950b50b59bE942Edc0B6aaF", "name": "DCNTVaultNFT", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/25/2023"}
+{"address": "0xb63F1AF6639bB53d21F31b621bF1088E8226565B", "name": "DCNT4907A", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/25/2023"}
+{"address": "0xF342c94D81c6064941af6E511ea6B4b4Ef39F1c5", "name": "DCNT721A", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/25/2023"}
+{"address": "0x94e85aEACF2Fb5BF2433EFf74CaFc4f8F34Fb1b9", "name": "DCNTSDK", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/25/2023"}
+{"address": "0x8bbd036d018657e454f679e7c4726f7a8ece2773", "name": "VeloFarmerV2", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/25/2023"}
