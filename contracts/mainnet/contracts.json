@@ -12048,3 +12048,11 @@
 {"address": "0xB76B9e1Ed34c5D5b1D204098DD80E881D249b750", "name": "MozBridge", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 12, "settings": "", "date": "6/25/2023"}
 {"address": "0xF5Ed98abFc4F8A5D9e6c82C3719841a37c61fCb5", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/25/2023"}
 {"address": "0x0bd54fbbfdd9cccafb0300055d93117f47c7b320", "name": "W54011", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/25/2023"}
+{"address": "0x1ef34ea9440eff79dbd45dab8c64d7f2ebca2a11", "name": "xac", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/25/2023"}
+{"address": "0x0a03a0d79d0a32f547eff7165033722a189095ea", "name": "GAC", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/25/2023"}
+{"address": "0x3fc7d75f9288877a8b786b07904d4e960bc86e55", "name": "CGPT", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/25/2023"}
+{"address": "0x002b83f6166f467c430d2154bc30d46f6d5f501c", "name": "DocRegistryL2", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/25/2023"}
+{"address": "0xE1E8ff8e51DA7066CB1009a4c1dE68AE2d095655", "name": "PriceOracle", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "6/25/2023"}
+{"address": "0x9AE6C9d00Fde0e0F774693Ca6099d06dfe2001C6", "name": "StorageOrderCompatible", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "6/25/2023"}
+{"address": "0x22e993d9108dbde9f32553c3fd0a404acd2b7150", "name": "VerifyingPaymaster", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/25/2023"}
+{"address": "0x22fa3580f997e2296a2d552be19300274ab8bd3c", "name": "PepeToken", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 55, "settings": "", "date": "6/25/2023"}
