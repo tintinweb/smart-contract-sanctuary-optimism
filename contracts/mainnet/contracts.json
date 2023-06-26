@@ -12105,3 +12105,27 @@
 {"address": "0x49cAda63ebCf10abd0B3b68e5741Be0d3ea3E2CB", "name": "SynthSwap", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
 {"address": "0xc16ce14b864f3611e2491a7042ec4091d8eef94b", "name": "Settings", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
 {"address": "0xcdb74244e7fcb222a60e20f4ecdd178588c544de", "name": "Factory", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/26/2023"}
+{"address": "0x8f0d122ac655ef556a8f71bef01a2b3035a0f19a", "name": "TRB", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
+{"address": "0xbf22489c82cc40739839a1d82dd601de9713a98b", "name": "MockERC721WithArt", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/26/2023"}
+{"address": "0x708916e053f3bc426011003bb1538f66f5cadac7", "name": "VeArtProxy", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
+{"address": "0x77862c3059d923d4c56f565ddd20cceead446003", "name": "Trig", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
+{"address": "0xeaafc66fdc9b985482b0fd79adb7f3faf63c6ad9", "name": "PerlinNoise", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
+{"address": "0x27cd69439004a18f0926a9febb350c14c4db3a3a", "name": "VeArtProxy", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
+{"address": "0xc19ecdf3c7f0c54bdcb181794e0f449f51723799", "name": "Trig", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
+{"address": "0xfa156bcc169e25f785a0a0b9a4b8c49a58f64417", "name": "PerlinNoise", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
+{"address": "0x67da4c35be01233d45fdbc0283ebdfc60cab0f5c", "name": "MockERC721WithArt", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/26/2023"}
+{"address": "0x5eac584772d91f70a88c7a0cca2ddc13373b22d1", "name": "VeArtProxy", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
+{"address": "0x01869ad962abc2dfc0545e2ff43e42fe2c2292d9", "name": "Trig", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
+{"address": "0xfbea0ab2eb7d28063334c57e541b6d0cec46a2da", "name": "PerlinNoise", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
+{"address": "0x7fEA6786D291A87fC4C98aFCCc5A5d3cFC36bc7b", "name": "UpgradeableProxy", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "6/26/2023"}
+{"address": "0x2027d4726b3cf138f4b6d0900b71dfc47a149c29", "name": "VeArtProxy", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
+{"address": "0xd7d3c277abb7ef55c79844ab0c3f8f8d9a765f77", "name": "Trig", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
+{"address": "0x61fca351d1f555b815e450ae480b4a3036bcf93b", "name": "PerlinNoise", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
+{"address": "0xb8D76a79B60449deda533B9eeE68a1efcCc9a04C", "name": "MinimalWallet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "6/26/2023"}
+{"address": "0xc3a77152e7C91109438fEc3962E778E2123Cb26e", "name": "FactoryDeployer", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "6/26/2023"}
+{"address": "0x66fc62c1748E45435b06cF8dD105B73E9855F93E", "name": "EnsoWalletFactory", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "6/26/2023"}
+{"address": "0xb6Bc9B50b4AC1397AB03d8a24d8fa529a5070ff0", "name": "EnsoWallet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "6/26/2023"}
+{"address": "0x277D98D33b7F44921d4230697DeF8d1D56aBAa62", "name": "EnsoBeacon", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/26/2023"}
+{"address": "0xcF5e48278AFE8e2277fbae0D8e40830C22130337", "name": "StargatePlugin", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "6/26/2023"}
+{"address": "0x2369bBf24E64DbAE6090d043663B7C1B20edcCA3", "name": "FeesTakerController", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
+{"address": "0x000000000adac1de790e7c635887cfa7c40c161d", "name": "WethConverter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/26/2023"}
