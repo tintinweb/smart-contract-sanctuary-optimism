@@ -12080,3 +12080,14 @@
 {"address": "0xdb3bf25d0a33075d3033516f5b3b94c5e64b7391", "name": "PAINT", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/25/2023"}
 {"address": "0xc38464250f51123078bbd7ea574e185f6623d037", "name": "opxV2", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/25/2023"}
 {"address": "0xcb20BF89D08C5230CC7f60bda6AeA38f63347fc7", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/25/2023"}
+{"address": "0x8030d7FfD9557737108E3E185b5b1E9E372aabDb", "name": "BeefyUniversalAdapter", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
+{"address": "0xbDdfC2541681Bb00d63C69cfd9AB560498D039af", "name": "LeechTransporter", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
+{"address": "0xddDEdDD8dDf243Ba4b62D87581BDB0221bADACc8", "name": "LeechRouterOptimism", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
+{"address": "0x8B2Aa4422516ad161b038583D2870807Fd9A6EDa", "name": "KtbArbitrageur", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/26/2023"}
+{"address": "0x8E2eD564d8Cb8fb39C6529E90694da8b868F5A20", "name": "QuoteVault", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/26/2023"}
+{"address": "0x30D7993Fc5DBc95487E18813CcCD6Fc40F9a1eF1", "name": "BaseVault", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/26/2023"}
+{"address": "0x8Ec065De81a012fAd3E78E5Fb59d7039d05b2970", "name": "Strands250", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "6/26/2023"}
+{"address": "0x68D6B739D2020067D1e2F713b999dA97E4d54812", "name": "TokenApprove", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/26/2023"}
+{"address": "0xdd05f9f074bf031fad5b367182d8bc05efad1679", "name": "StandardToken", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
+{"address": "0x27888cee6FC9A84475e550bCC4B93A8af9c76eEe", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
+{"address": "0xA47110Ba4b88Ab2c62D1456AD3446A1f44ed84D5", "name": "THE_Contract", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "6/26/2023"}
