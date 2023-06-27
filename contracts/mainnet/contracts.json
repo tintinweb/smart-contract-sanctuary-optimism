@@ -12174,3 +12174,16 @@
 {"address": "0x419fc1bf7a721f1ab06f642c7859b542546ba696", "name": "NenoFactory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
 {"address": "0x47a935bc5e3e04e6b889ac051294959281783e4b", "name": "L2_Records_ENS_Resolver", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 4, "settings": "-", "date": "6/27/2023"}
 {"address": "0x7f7368046AD88d27Dc274280eE93D1C2a9E00677", "name": "PikaFeeReward", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/27/2023"}
+{"address": "0xd99a1cB53EB3cd191C75FD5A8848667240Eb596E", "name": "UnitedGabrielNationToken", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "6/27/2023"}
+{"address": "0x6e57806138cb011a0c8f95becb9574c3dda04483", "name": "NextAlchemicToken", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
+{"address": "0x6a0578eb112b6e8b1c0adfe9923ae84c837722d2", "name": "W54015", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/27/2023"}
+{"address": "0xc850013fc01a264018d58d112000e32835d15fbc", "name": "Receiver", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/27/2023"}
+{"address": "0x197665cf627bb1e4e3d140e805bc2e78b89bd301", "name": "HopFacetPacked", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/27/2023"}
+{"address": "0x0d26d248d4e80377f1d794ab88090e76b0903ede", "name": "CelerIMFacetImmutable", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/27/2023"}
+{"address": "0x5414b82985e995d5eb8ec57e928c5d738ff9827b", "name": "VeArtProxy", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
+{"address": "0x7f7570b5201e97f75a36aa395d0252e34e755601", "name": "Trig", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
+{"address": "0x108f3a947ddf00d4f2576a69098181b1e5f64d8c", "name": "PerlinNoise", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
+{"address": "0xcb69500a81af9d8ac5949af0c05543feca2d2051", "name": "MockERC721WithArt", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "6/27/2023"}
+{"address": "0x2f45d5ea9763c63b256d0c6325fae1f8be8c7b76", "name": "VeArtProxy", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
+{"address": "0x74ec7872844d5befcdfced62f47f21f9f49583b1", "name": "Trig", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
+{"address": "0x66cddc18ee9fb6e0c6b717b39de0a124272183be", "name": "PerlinNoise", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
