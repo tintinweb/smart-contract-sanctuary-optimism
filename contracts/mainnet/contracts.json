@@ -12129,3 +12129,13 @@
 {"address": "0xcF5e48278AFE8e2277fbae0D8e40830C22130337", "name": "StargatePlugin", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "6/26/2023"}
 {"address": "0x2369bBf24E64DbAE6090d043663B7C1B20edcCA3", "name": "FeesTakerController", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
 {"address": "0x000000000adac1de790e7c635887cfa7c40c161d", "name": "WethConverter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/26/2023"}
+{"address": "0x3f1840df5694d23b201702d67743AdEb463eAB43", "name": "BeefyStrategyUniversal", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
+{"address": "0x89551F2D461d804F074a0339f41ACE340cBA214c", "name": "AlluoStrategyHandler", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
+{"address": "0x4A31dfEf0f8cBAd10D93B5bAE35552154d2d7B06", "name": "AlluoVoteExecutor", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
+{"address": "0xB2C6b6819e56DBE5C721172e1c3cd656Db774118", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
+{"address": "0x0000003e829c180ee307664a2bd69292b5ed0000", "name": "ClaimRewards", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "6/27/2023"}
+{"address": "0x4ce64a5dc8a0a4f47269d12aed85e2f4f1e88ecf", "name": "mm", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/26/2023"}
+{"address": "0xf82f74f537c46c0ef5761a5fef2f8bf06f28986e", "name": "SquidAdapter", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
+{"address": "0x49244385bd56f557ce5201d8504c6d7f42da8ef6", "name": "StargateAdapter", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
+{"address": "0xc14ee6b248787847527e11b8d7cf257b212f7a9f", "name": "SushiXSwapV2", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "6/26/2023"}
+{"address": "0xfccd5237b1139213173256b9bfefbb4355241e1a", "name": "la76", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
