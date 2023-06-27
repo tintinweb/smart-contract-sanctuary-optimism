@@ -12139,3 +12139,13 @@
 {"address": "0x49244385bd56f557ce5201d8504c6d7f42da8ef6", "name": "StargateAdapter", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
 {"address": "0xc14ee6b248787847527e11b8d7cf257b212f7a9f", "name": "SushiXSwapV2", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "6/26/2023"}
 {"address": "0xfccd5237b1139213173256b9bfefbb4355241e1a", "name": "la76", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/26/2023"}
+{"address": "0x9d124E66401880d7B18a3a4B66d4de9CB030215f", "name": "UniswapV3RouterGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
+{"address": "0x17b4cE6e6C7689176e665C89528fe957D5f97819", "name": "OrderBook", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
+{"address": "0xB67c152E69217b5aCB85A2e19dF13423351b0E27", "name": "PositionManager", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
+{"address": "0x9b86B2Be8eDB2958089E522Fe0eB7dD5935975AB", "name": "PikaPerpV4", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
+{"address": "0xf8Ed6aee2A036aE2b326e9fb09d9CFf40745fE40", "name": "OneInchV5Guard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
+{"address": "0xfea28017e3f269a511665c7b72bf1fb5465794ca", "name": "doge", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/27/2023"}
+{"address": "0x14682a15A63E034653Fa58E0C7c51D3A0bF3D28F", "name": "SpritzPayV3", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
+{"address": "0xc48bf98562C407356C0b9949f956a0A74fcE3D9C", "name": "ParaswapModule", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
+{"address": "0x2474680A3475ede148B5270f7736Cae6d63c06D5", "name": "SlippageAccumulator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/27/2023"}
+{"address": "0x8a17f5292563d6d15d5700a5bd44700ebf45f330", "name": "ATEST", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/27/2023"}
