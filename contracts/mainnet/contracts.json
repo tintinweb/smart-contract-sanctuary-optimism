@@ -12214,3 +12214,11 @@
 {"address": "0x3a79b1fde37d2362725f8ed9d4ccf5015b7ea0d8", "name": "GoS", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/28/2023"}
 {"address": "0xa10e7b000c372A50000072f5209914F25A9C24B4", "name": "TeaVaultV3Pair", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/28/2023"}
 {"address": "0x08750E60a128A1912c4261215CC433B76db5Dcc9", "name": "StargateProtocol", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "6/28/2023"}
+{"address": "0x1d11b9babbe531c9bc2d34fccdd53a43f7449658", "name": "VeloRewards", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "6/28/2023"}
+{"address": "0x623f8a4510b3ed9d96d03cb2e298dcb31e314bc2", "name": "Art", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/28/2023"}
+{"address": "0x1B597bFBAA7cB065b1a361114FC095E15ddc5247", "name": "ZeroExContractGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/28/2023"}
+{"address": "0x51940187e3071513Ec1334D4D04eac08a63A14Bb", "name": "ZeroExContractGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/28/2023"}
+{"address": "0x4e6cb38aE03b567C12c09cFAF495E6fBA77215b5", "name": "ZeroExContractGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/28/2023"}
+{"address": "0x47048B3f30D22aC3f08Ba08a750d751d87C73e1A", "name": "ZeroExContractGuard", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/28/2023"}
+{"address": "0xeabeb71789465b3f644076352bdcc0286d427cfa", "name": "PaV", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/28/2023"}
+{"address": "0x9a7b9e323e7753e195b2d4d8e1f77d952f5270c0", "name": "drtretdsg", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/28/2023"}
