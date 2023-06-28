@@ -12187,3 +12187,11 @@
 {"address": "0x2f45d5ea9763c63b256d0c6325fae1f8be8c7b76", "name": "VeArtProxy", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
 {"address": "0x74ec7872844d5befcdfced62f47f21f9f49583b1", "name": "Trig", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
 {"address": "0x66cddc18ee9fb6e0c6b717b39de0a124272183be", "name": "PerlinNoise", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
+{"address": "0x1Ee9Af9cF41970903A33d7D60c55cd435DC4f27E", "name": "BaseNSCloudStaking", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/28/2023"}
+{"address": "0x4e3846743f9255798ccf1f873a73246656d28560", "name": "OmniCounter", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/28/2023"}
+{"address": "0x64fda2F7b42B14e2714175f5B0D4552B74770189", "name": "StrategyBalancerComposableMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/28/2023"}
+{"address": "0x19ead00ce8961cffca0551244dc07d87e6ff8f7e", "name": "CrowdFinancingV1Factory", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
+{"address": "0x4ea7b069b1b9087cb4542efecfc121c21924f0e0", "name": "DataQuiltRegistryV1", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
+{"address": "0xe89f69a4c668d9739c2c93bd0d011b7d8182a4a1", "name": "test", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
+{"address": "0x24379629781d03a0fe67d9712fd2d76a92efef14", "name": "CrowdFinancingV1", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/27/2023"}
+{"address": "0x8d4a36bdea1dbaa9435588aa3635c072c3199365", "name": "KLK", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/27/2023"}
