@@ -12332,3 +12332,16 @@
 {"address": "0xDDe16F9e361C344639d7ff3E28E4Eb6bCE3155dD", "name": "StrategyCommonVelodromeGaugeV2", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2023"}
 {"address": "0x60351ADE4E99641397AeA1886403839ef71844C4", "name": "StrategyCommonVelodromeGaugeV2", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2023"}
 {"address": "0x97855AA6835245C88061A7004B2df9a966CA0676", "name": "ZroRegistry", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "6/29/2023"}
+{"address": "0xAbc2F529a40a1A337E0c1DA12c004B61BcBE2189", "name": "QuestFactory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2023"}
+{"address": "0x8d8C1461B86DFEA1f98fbF149c7f42c9217eB66b", "name": "QuestNFT", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2023"}
+{"address": "0x10cB0A95dcE1D5e0f8796F80c8F08c31A9Af9B5D", "name": "Quest", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2023"}
+{"address": "0x53C09096b1dC52e2Ef223b2969a714eE75Da364f", "name": "Create2Factory", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/29/2023"}
+{"address": "0xB1507336421394Baf99aB23d6B39bd5b1592263E", "name": "ConnextBridger", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/29/2023"}
+{"address": "0x450F8eF3d972060710BFC4615bb69491dfd670f3", "name": "MetamaskClaimer", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/29/2023"}
+{"address": "0x46adEC4182aE274337b31dFAF69520FB37843bEA", "name": "ERC20Claimer2", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/29/2023"}
+{"address": "0x11BbF869250424BEDC5f162094afF8b4A45bE841", "name": "PriceFetcher", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2023"}
+{"address": "0x80cb7e9e015c5331bf34e06de62443d070fd6654", "name": "AaveV3OPEmode_20220622_Payload", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2023"}
+{"address": "0xF265a5663c78A7B7762c3eB301012cdC60B65300", "name": "ZroController", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2023"}
+{"address": "0x4dc6b478ab178ae4cc0df6323a1a2610e972fac0", "name": "SgHelper", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2023"}
+{"address": "0xd881c08dbf4e199881d6bfce1fd1259d85231e1d", "name": "Multicall", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2023"}
+{"address": "0x0451255563e2acA170b2552111837572E7A0BAcD", "name": "OptimismBridgeSender", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/29/2023"}
