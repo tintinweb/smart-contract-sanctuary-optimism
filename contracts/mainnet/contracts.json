@@ -12345,3 +12345,7 @@
 {"address": "0x4dc6b478ab178ae4cc0df6323a1a2610e972fac0", "name": "SgHelper", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2023"}
 {"address": "0xd881c08dbf4e199881d6bfce1fd1259d85231e1d", "name": "Multicall", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2023"}
 {"address": "0x0451255563e2acA170b2552111837572E7A0BAcD", "name": "OptimismBridgeSender", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/29/2023"}
+{"address": "0x1a0a69a267b3e72d22deb970b2cc6296ac31a80c", "name": "Capsule", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/29/2023"}
+{"address": "0x0412961b4b2259bc662505D67D73Ad3584138aE9", "name": "CapsuleMinter", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2023"}
+{"address": "0x68dF2bB8515B32819f0592F277Af6EC0cd85ae08", "name": "CapsuleFactory", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2023"}
+{"address": "0xD8e8D3aB0eC8C42B850694A3F7f80ba909956313", "name": "QuestFactory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2023"}
