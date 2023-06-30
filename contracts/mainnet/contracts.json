@@ -12362,3 +12362,17 @@
 {"address": "0xb393c3f26765173b8896a3c1014204dc44115ff2", "name": "TransparentUpgradeableProxy", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/30/2023"}
 {"address": "0xc61793892220c76813D08f1574440447225f42F2", "name": "Pool", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2023"}
 {"address": "0x040445f0474b7306FF5E86bFB8A8D2139e86Fd06", "name": "GlitterRouter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2023"}
+{"address": "0xf503767Ec06a556B5D03499a2747F2e8BDfcD8a6", "name": "UniversalSigValidator", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/30/2023"}
+{"address": "0xa36fBA0BCa40cD9aD92E7DE2944fDdd50BfF9036", "name": "StrategyVelodromeFarm", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2023"}
+{"address": "0xD752B19130242d94CE86583A03C4E48Cfd5F3979", "name": "StrategySushiStableFarm", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2023"}
+{"address": "0x25e66f746254cd7582E65EF7dE1F10d8883F4640", "name": "BeefyVelodromeV2Zap", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/30/2023"}
+{"address": "0x7b554337FdA6677e9d2e78A565Ba74f4ff4E7c46", "name": "BeefyVelodromeV2Zap", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/30/2023"}
+{"address": "0x0b2f4a0F766608d9c5b61b2e7e1c3f378534124f", "name": "MYKIDSNFTGOV", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "6/30/2023"}
+{"address": "0x6b88A921785b593F05c83BAdAF8bf7Ba9e077b3E", "name": "BeefyVelodromeV2Zap", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2023"}
+{"address": "0x3027da25dc3141cd7b5fece180b2f8214d61259f", "name": "FLYMOONOP", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/30/2023"}
+{"address": "0xFf9C3Ed1D8AbaA63F0aE44c769Eb17ef644a19c0", "name": "TowerPool", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 134, "settings": "", "date": "6/30/2023"}
+{"address": "0x8F530176932fEB8F9520ec6B4C4051A9b47dFe50", "name": "TowerPoolFactory", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 99, "settings": "", "date": "6/30/2023"}
+{"address": "0x81cd30cedabd8aaba7f9f3c659cd1b554e3864a4", "name": "DG", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/30/2023"}
+{"address": "0x1ab15c21a7e58dd899581fbf7d2a06916cf7434a", "name": "PolyEmitter", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2023"}
+{"address": "0x5dEbcAc1C3F62986f20337D2fBe58C458B901315", "name": "LeechRouterOptimism", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2023"}
+{"address": "0xcf498498fef1036bcb5568b4b36f54f27cac39f0", "name": "TST1", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/30/2023"}
