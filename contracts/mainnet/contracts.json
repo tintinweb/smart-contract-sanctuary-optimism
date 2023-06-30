@@ -12349,3 +12349,12 @@
 {"address": "0x0412961b4b2259bc662505D67D73Ad3584138aE9", "name": "CapsuleMinter", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2023"}
 {"address": "0x68dF2bB8515B32819f0592F277Af6EC0cd85ae08", "name": "CapsuleFactory", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2023"}
 {"address": "0xD8e8D3aB0eC8C42B850694A3F7f80ba909956313", "name": "QuestFactory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2023"}
+{"address": "0xe7b42ccce9b20bc1993a33f6f14fcdc46d845851", "name": "ODE", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/30/2023"}
+{"address": "0xa163c591b04242121a2ac9753a8526f63d576f9a", "name": "Clearing", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/30/2023"}
+{"address": "0xf6bd16e3443ee43a49380bf2823f827c41cc8b8b", "name": "W54018", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/30/2023"}
+{"address": "0xa78968ee9a144bd9e31b1450bb57ebf6410d335f", "name": "W54017", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2023"}
+{"address": "0xadceb92913b73b0fe7c74ac9a9749af3c841865c", "name": "ntfy", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2023"}
+{"address": "0x97aBF803c908d7fDb234F6B964bafB3fad72ba7e", "name": "BridgeConnector", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/29/2023"}
+{"address": "0xd31b76e0c312e562a4392a16cb6f34c2ad980a90", "name": "OPNI", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/29/2023"}
+{"address": "0xd7Ab9082D9339aa3F5A405E68C49d346AD535408", "name": "TempHtokenFix", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/29/2023"}
+{"address": "0x24e215A6dBb81De5903Eb1e7CB890546727F75Be", "name": "QuestFactory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2023"}
