@@ -12358,3 +12358,7 @@
 {"address": "0xd31b76e0c312e562a4392a16cb6f34c2ad980a90", "name": "OPNI", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/29/2023"}
 {"address": "0xd7Ab9082D9339aa3F5A405E68C49d346AD535408", "name": "TempHtokenFix", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/29/2023"}
 {"address": "0x24e215A6dBb81De5903Eb1e7CB890546727F75Be", "name": "QuestFactory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/29/2023"}
+{"address": "0x954ac12c339c60eafbb32213b15af3f7c7a0dec2", "name": "PerformanceTokenManagerGamma", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "6/30/2023"}
+{"address": "0xb393c3f26765173b8896a3c1014204dc44115ff2", "name": "TransparentUpgradeableProxy", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/30/2023"}
+{"address": "0xc61793892220c76813D08f1574440447225f42F2", "name": "Pool", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2023"}
+{"address": "0x040445f0474b7306FF5E86bFB8A8D2139e86Fd06", "name": "GlitterRouter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2023"}
