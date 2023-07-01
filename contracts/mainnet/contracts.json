@@ -12410,3 +12410,7 @@
 {"address": "0xeC1c780A275438916E7CEb174D80878f29580606", "name": "L2Coordinator", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/30/2023"}
 {"address": "0x1509706a6c66CA549ff0cB464de88231DDBe213B", "name": "AuraOFT", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/30/2023"}
 {"address": "0xC181Edc719480bd089b94647c2Dc504e2700a2B0", "name": "VoterProxyLite", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/30/2023"}
+{"address": "0x6a808a460a6159179adcdb484c2fc0610c86d4a6", "name": "K0x00001", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/1/2023"}
+{"address": "0x92585a80d65e2e64a2a2c302d0fb85104ffacc67", "name": "KT", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "7/1/2023"}
+{"address": "0xd582226b586ab06f3bf9353f0f2b8618a3544719", "name": "Admin", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/1/2023"}
+{"address": "0x942d6e75465C3c248Eb8775472c853d2b56139fE", "name": "Sector3DAOFactory", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/1/2023"}
