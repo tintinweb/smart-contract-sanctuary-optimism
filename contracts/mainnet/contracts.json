@@ -12376,3 +12376,37 @@
 {"address": "0x1ab15c21a7e58dd899581fbf7d2a06916cf7434a", "name": "PolyEmitter", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2023"}
 {"address": "0x5dEbcAc1C3F62986f20337D2fBe58C458B901315", "name": "LeechRouterOptimism", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2023"}
 {"address": "0xcf498498fef1036bcb5568b4b36f54f27cac39f0", "name": "TST1", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/30/2023"}
+{"address": "0xf4f305ca7920ebf6751875b25c14d58307a1629b", "name": "TASD", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/1/2023"}
+{"address": "0x617ca3a9e454309523b3ea183cff1563dc2f9c4a", "name": "LDSR", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/1/2023"}
+{"address": "0x6d773087b26fd28cf46459ed60c5c7d75bb394f2", "name": "OBridgeERC20", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/1/2023"}
+{"address": "0x8888110038E46D4c4ba75aFF88EaAC6f9aA537c1", "name": "UniversalENSRegistry", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/1/2023"}
+{"address": "0x888811D93EE697768FB2Eb23B4225038Beeb7FDc", "name": "UniversalResolverTemplate", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/1/2023"}
+{"address": "0x4a416d528ebd493580966f764084953a08aa6b94", "name": "nohj", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/1/2023"}
+{"address": "0x1e97925c365cd96d74ec55a04569915c4d65e5e0", "name": "UniProxy", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2023"}
+{"address": "0x5c1012253c42bef153984e486802b1cca1819f88", "name": "MSAGMH", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2023"}
+{"address": "0xc277652201790E5BCA39b1b525D4E2127ec1833c", "name": "ExtraRewardStashV3", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/30/2023"}
+{"address": "0xe0affac3d8e7cbac1e73fcbd0281c3fd2b2cc2a5", "name": "RegistryFactory", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/30/2023"}
+{"address": "0xF044eE152C7D731825280350D876CF760181D96F", "name": "BoosterOwnerLite", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/30/2023"}
+{"address": "0xae69a93945133c00b9985d9361a1cd882d107622", "name": "TokenizedStrategy", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/30/2023"}
+{"address": "0x5a6e1ecc767d949d6da74e76b05dbb4870488ef6", "name": "ReleaseRegistry", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/30/2023"}
+{"address": "0xd1736ebbdefae37503f3ed8d718b61a494f24c1d", "name": "Yearn Vault Factory", "compiler": "vyper:0.3.7", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/30/2023"}
+{"address": "0x734ACE995eaE06cFCBfE6cc33e0F524ab27e4ac1", "name": "MintManager", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2023"}
+{"address": "0x778b5ef98f0C8803F6424bB07412489b2Fbd58B3", "name": "ERC721SingleEditionDFS", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2023"}
+{"address": "0xEC91E9F110245D22D2CE3E25B2201F81FF382977", "name": "ERC721EditionsDFS", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2023"}
+{"address": "0xa95DE682A887A7e7f781F7832CF52a3b59E336F6", "name": "ERC721Generative", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2023"}
+{"address": "0xFAd107F688301db69e99693e00D1D891c44a0913", "name": "ERC721General", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2023"}
+{"address": "0x4AFa58b8c2Dfe756e851d9073aeA95467fc1BBf5", "name": "ERC721SingleEdition", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2023"}
+{"address": "0x8401B48760E70A39e6bBf861ABd050c00362bAE8", "name": "StashFactoryV2", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2023"}
+{"address": "0x2F4CdF0D46F4E3E6D4d37836E73073046138D4f7", "name": "RewardFactory", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/30/2023"}
+{"address": "0xcD1127AC7Ae10A63E44ca3e3a8238D2d2cf1D455", "name": "ERC721Editions", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2023"}
+{"address": "0x7905f66d7131a117442800bd9b22f16bd72678fd", "name": "Velodrome Finance veNFT Sugar v2", "compiler": "vyper:0.3.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2023"}
+{"address": "0x0091C71d454283de77fe5E3b9AB9316c327C24A0", "name": "LeechRouterOptimism", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "6/30/2023"}
+{"address": "0x617963D46B882ecE880Ab18Bc232f513E91FDd47", "name": "SidechainClaimZap", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/30/2023"}
+{"address": "0xf24074a1A6ad620aDC14745F9cc1fB1e7BA6CA71", "name": "PoolManagerLite", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/30/2023"}
+{"address": "0x731886426a3199b988194831031dfb993F25D961", "name": "ProxyFactory", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/30/2023"}
+{"address": "0x87299312C820607f1E7E4d0c6715CEB594306FE9", "name": "TokenFactory", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/30/2023"}
+{"address": "0x37aA9Ad9744D0686df1C7053225e700ce13e31Dd", "name": "KeeperMulticall3", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "6/30/2023"}
+{"address": "0x98Ef32edd24e2c92525E59afc4475C1242a30184", "name": "BoosterLite", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "6/30/2023"}
+{"address": "0xeC1c780A275438916E7CEb174D80878f29580606", "name": "L2Coordinator", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "6/30/2023"}
+{"address": "0x1509706a6c66CA549ff0cB464de88231DDBe213B", "name": "AuraOFT", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "6/30/2023"}
+{"address": "0xC181Edc719480bd089b94647c2Dc504e2700a2B0", "name": "VoterProxyLite", "compiler": "0.6.12", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "6/30/2023"}
