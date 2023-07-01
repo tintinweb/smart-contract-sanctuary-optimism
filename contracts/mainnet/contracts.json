@@ -12414,3 +12414,10 @@
 {"address": "0x92585a80d65e2e64a2a2c302d0fb85104ffacc67", "name": "KT", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "7/1/2023"}
 {"address": "0xd582226b586ab06f3bf9353f0f2b8618a3544719", "name": "Admin", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/1/2023"}
 {"address": "0x942d6e75465C3c248Eb8775472c853d2b56139fE", "name": "Sector3DAOFactory", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/1/2023"}
+{"address": "0x1c9efcae47882a29ccc2f1ab7c132d938d5333a3", "name": "titanMeras", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 2, "settings": "-", "date": "7/1/2023"}
+{"address": "0x9591B50366d82291e4e2BF88ffE52C3B39c8999a", "name": "Velodrome Finance veNFT Sugar v2", "compiler": "vyper:0.3.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/1/2023"}
+{"address": "0x0f137fcfefdd44c2351b22779c9445e7b77f5778", "name": "FrxEthZapper", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/1/2023"}
+{"address": "0xd555dba022e700180df49f3e2648e5788e1a9b10", "name": "GoldY", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/1/2023"}
+{"address": "0x82bbb8326c02a172ba927dff525b60e10dbdcc3a", "name": "BatchTransfer", "compiler": "0.8.9", "balance": "0.0000009995 Ether", "txcount": 3, "settings": "-", "date": "7/1/2023"}
+{"address": "0xC2c932A0AFC7Ca915056DE7051FB1B9A5B2df484", "name": "DysonGetter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/1/2023"}
+{"address": "0x0f1e18302d5caad20cd3b2f3d7ebf27e09d06f42", "name": "io", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/1/2023"}
