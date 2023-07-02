@@ -12435,3 +12435,5 @@
 {"address": "0x3c5b31b158dCaBA76Df46Bd853C8Af3cCf0F0022", "name": "StarLabLayer0", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/1/2023"}
 {"address": "0x8087dE46076212A21EA5cD8b4368BCbd826d7B32", "name": "Sector3Governor", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/2/2023"}
 {"address": "0xe5eC44DD7D49E6edf31878E55DEc12eB79Bd10aE", "name": "SECTOR3", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/2/2023"}
+{"address": "0xE2b35BAb37D137b4CeE4EA2e23FE90D1c668F577", "name": "Security_Contract", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/2/2023"}
+{"address": "0x66440677150b7871F32961E52B4B9d3A46E3C0bC", "name": "Sector3DAO", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "7/2/2023"}
