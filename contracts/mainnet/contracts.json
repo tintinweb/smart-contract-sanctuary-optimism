@@ -12463,3 +12463,4 @@
 {"address": "0x0e6d46bf4af093b8dccd2bddc0daf6f30205abb4", "name": "OpenPeerEscrowsDeployer", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/3/2023"}
 {"address": "0x91579f47f7826471C08B0008eE9C778aaB2989fD", "name": "ChainlinkPriceOracle", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/3/2023"}
 {"address": "0xE7De932d50EfC9ea0a7a409Fc015B4f71443528e", "name": "CErc20Immutable", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/3/2023"}
+{"address": "0x55D26f9ae0203EF95494AE4C170eD35f4Cf77797", "name": "SchemaRegistryUpgradeable", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/3/2023"}
