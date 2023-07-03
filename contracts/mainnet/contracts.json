@@ -12452,3 +12452,4 @@
 {"address": "0xb5a7d90b88AC61C89De72238f78ff2b9730E783a", "name": "ZeroXExecutor", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/2/2023"}
 {"address": "0xa771ddacccdbf06b420ef3fb0f85f1bed0dddf8a", "name": "STRTM", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 35, "settings": "", "date": "7/2/2023"}
 {"address": "0x932fc2db32c1786c24d4e89499ae38bde0477b0d", "name": "BRTZ", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/2/2023"}
+{"address": "0x7438c178BA5B6C014F984478de175951B39A2E24", "name": "StargateImplL2V2", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/3/2023"}
