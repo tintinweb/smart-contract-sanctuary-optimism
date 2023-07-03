@@ -12453,3 +12453,13 @@
 {"address": "0xa771ddacccdbf06b420ef3fb0f85f1bed0dddf8a", "name": "STRTM", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 35, "settings": "", "date": "7/2/2023"}
 {"address": "0x932fc2db32c1786c24d4e89499ae38bde0477b0d", "name": "BRTZ", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/2/2023"}
 {"address": "0x7438c178BA5B6C014F984478de175951B39A2E24", "name": "StargateImplL2V2", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/3/2023"}
+{"address": "0x48f1c87b378f920d8b35f609760368e044f27172", "name": "ZapFrom", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/3/2023"}
+{"address": "0x7ecd56ebb1f5c836b349dd19336d8ffd06b69651", "name": "QuadReader", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/3/2023"}
+{"address": "0xebf9b4db6050517e402c578237326b793bf348ff", "name": "QuadPassport", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/3/2023"}
+{"address": "0x34f00e63f7d35e649e479c13d400f4649ad8aa78", "name": "QuadGovernance", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/3/2023"}
+{"address": "0xe69be61e129870d1ce166a6c55a717b6fd2f4617", "name": "DAEOP", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/3/2023"}
+{"address": "0x2aC4beAEBb2c0DfA24Cc757c233919EE6532921A", "name": "ERC1967Proxy", "compiler": "0.8.9", "balance": "1.682 Ether", "txcount": 63, "settings": "", "date": "7/3/2023"}
+{"address": "0x8c74767c4a1e0c3dc03a5b2e1d8ccff85bbb11c4", "name": "OpenPeerEscrow", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/3/2023"}
+{"address": "0x0e6d46bf4af093b8dccd2bddc0daf6f30205abb4", "name": "OpenPeerEscrowsDeployer", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/3/2023"}
+{"address": "0x91579f47f7826471C08B0008eE9C778aaB2989fD", "name": "ChainlinkPriceOracle", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/3/2023"}
+{"address": "0xE7De932d50EfC9ea0a7a409Fc015B4f71443528e", "name": "CErc20Immutable", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/3/2023"}
