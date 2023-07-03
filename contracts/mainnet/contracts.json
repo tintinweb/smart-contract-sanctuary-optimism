@@ -12464,3 +12464,9 @@
 {"address": "0x91579f47f7826471C08B0008eE9C778aaB2989fD", "name": "ChainlinkPriceOracle", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/3/2023"}
 {"address": "0xE7De932d50EfC9ea0a7a409Fc015B4f71443528e", "name": "CErc20Immutable", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/3/2023"}
 {"address": "0x55D26f9ae0203EF95494AE4C170eD35f4Cf77797", "name": "SchemaRegistryUpgradeable", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/3/2023"}
+{"address": "0x46f81107e99adf80b8ea49ab7281b984f826fbd0", "name": "MerkleDropMinterV2_1", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/3/2023"}
+{"address": "0xf6cbe9226e58f2700b4df42a35cb14078c679076", "name": "MerkleDropMinterV2_1", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/3/2023"}
+{"address": "0xdc2fe45974c30c2c7cd16149dd5fc00b3d31ebde", "name": "RangeEditionMinterV2_1", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/3/2023"}
+{"address": "0xfbbdf5596dc3189e5bf9fed0288d74b67a991e1d", "name": "ConnextModule", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/3/2023"}
+{"address": "0xae76442a5a9e2bf27bb1b2ba4171d1e83bd0277c", "name": "ConnextModuleFactory", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/3/2023"}
+{"address": "0x68e956d60fb904ccb49a80718497b88218a3734c", "name": "AVD_EPIC_NFT", "compiler": "0.7.0", "balance": "0.07 Ether", "txcount": 19, "settings": "", "date": "7/3/2023"}
