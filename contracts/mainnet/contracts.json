@@ -12486,3 +12486,16 @@
 {"address": "0x558c403a907d3b010c10e9afccf652a0b0d09338", "name": "AaveConnector", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/4/2023"}
 {"address": "0x9632833100e5ba6608e6650eb35e4adf01deb6df", "name": "L2RobotKeeper", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/4/2023"}
 {"address": "0x4f830bc2ddac99307a3709c85f7533842bda7c63", "name": "AaveCLRobotOperator", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "7/4/2023"}
+{"address": "0xd998dF250D8bc3384bA0A8458A5a6600BDF2d576", "name": "Brokerbot", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/4/2023"}
+{"address": "0x93e43115bc2e054B23Ae5188b342ADfC8a0d2970", "name": "DraggableShares", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/4/2023"}
+{"address": "0x4BAd7c3b78a6D3af0d906435379409660E759F4D", "name": "Shares", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/4/2023"}
+{"address": "0x50a2eaef23e3743fd5e2224d57ef6cecfc68ee07", "name": "MinereumEvmOrdinals", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/4/2023"}
+{"address": "0x8bf576e789c14a6578de1cae7e3cea6fa57b0d83", "name": "UrsaAssetsLogic", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/4/2023"}
+{"address": "0x57a1c411bc39EFA256CCb8Dc49Ea56DFe2aAe3b5", "name": "AvoForwarder", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/4/2023"}
+{"address": "0x00000f7748595E46527413574A9327942E744e91", "name": "ChainlinkOracleAggregator", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/4/2023"}
+{"address": "0x00000080707B487Ee6453eBBaD8c55A5Dc38D407", "name": "BiconomyTokenPaymaster", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/4/2023"}
+{"address": "0xba5bc27617626d1b978ce11eb41e314921def618", "name": "vu2", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/4/2023"}
+{"address": "0x00F8E23bA4be9D44c01Eae6D1a31AA0c20159A07", "name": "PingPong", "compiler": "0.8.12", "balance": "0.005547454686564862 Ether", "txcount": 3, "settings": "", "date": "7/4/2023"}
+{"address": "0xBDc009aBc700f638e72b124c3613ac79bF185A9e", "name": "AvoForwarder", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/4/2023"}
+{"address": "0xdf6bf33F53Cc2360085D25Fa9F847e2B3C0EfF3A", "name": "AvoWallet", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/4/2023"}
+{"address": "0xb575E0Aa094a98DA0f4db4fA0F7680F1A657e3eb", "name": "AvoWallet", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/4/2023"}
