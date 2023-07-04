@@ -12470,3 +12470,8 @@
 {"address": "0xfbbdf5596dc3189e5bf9fed0288d74b67a991e1d", "name": "ConnextModule", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/3/2023"}
 {"address": "0xae76442a5a9e2bf27bb1b2ba4171d1e83bd0277c", "name": "ConnextModuleFactory", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/3/2023"}
 {"address": "0x68e956d60fb904ccb49a80718497b88218a3734c", "name": "AVD_EPIC_NFT", "compiler": "0.7.0", "balance": "0.07 Ether", "txcount": 19, "settings": "", "date": "7/3/2023"}
+{"address": "0xa2e08590f6f0ed44a65361defce090c00e8e6e10", "name": "WidoZapperVelodromeV2", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/4/2023"}
+{"address": "0x2a36f87b2ec3de23617907461aa3da0cc4bc3f1f", "name": "CREATE3Factory", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/4/2023"}
+{"address": "0xc8874cbe24a99970368652169f9b6b9f840e08af", "name": "W54021", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/3/2023"}
+{"address": "0x949512401f46d8ecc36aee6ba157b06ca85fb11f", "name": "ITAV1", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/3/2023"}
+{"address": "0x0fb5ae2351fe751ee79beaff37ff6812a37bd8da", "name": "ITC", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/3/2023"}
