@@ -12508,3 +12508,11 @@
 {"address": "0x0d423d31b65ec77fbedae91b5d7c96148546ca3e", "name": "UniV3Vault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/4/2023"}
 {"address": "0x2e8866d6aefb5c6b17cd4895425592cdda799d95", "name": "PegahsNFT", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/4/2023"}
 {"address": "0xf80ada1ff6b1468990127c3a80ae7de4c8a27b9a", "name": "Security_Contract", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/4/2023"}
+{"address": "0x7d97161d3b9eabc2c5c6cb09adb0c6e41c4c049d", "name": "BalancerV2Portal", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
+{"address": "0x7b7cdf4270d52774e3112d062e17ff39120ce85e", "name": "UniswapV2Portal", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
+{"address": "0xD3ac293B49066D5965A268D7d51839Af55EBd151", "name": "AcrossFacet", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
+{"address": "0x43838f0c0d499f5c3101589f0f452b1fc7515178", "name": "PortalsRouter", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
+{"address": "0xac8a335fb32064b21b123abe8a2247a898a580f6", "name": "PortalsMulticall", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
+{"address": "0x12c7b9f76906be2d14d4861ca422bd71bc388601", "name": "rjms", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/5/2023"}
+{"address": "0x8fB9eCD91723FE037012133Ef8c4C767cf0D4514", "name": "StargateImplL2V2", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
+{"address": "0x2f88a98D55adE5e7b42c7BaFB9673cF479f7AEEa", "name": "AcrossFacet", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
