@@ -12516,3 +12516,8 @@
 {"address": "0x12c7b9f76906be2d14d4861ca422bd71bc388601", "name": "rjms", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/5/2023"}
 {"address": "0x8fB9eCD91723FE037012133Ef8c4C767cf0D4514", "name": "StargateImplL2V2", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
 {"address": "0x2f88a98D55adE5e7b42c7BaFB9673cF479f7AEEa", "name": "AcrossFacet", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
+{"address": "0x8b42d2A6FDd74eE31c28240dA144d5264106e83C", "name": "RoyaltyManager", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
+{"address": "0x747cff1cd9d6b4a600afab29d22579ec3eedbee8", "name": "PRBProxy", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/5/2023"}
+{"address": "0xd42a2bb59775694c9df4c7822bffab150e6c699d", "name": "PRBProxyRegistry", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/5/2023"}
+{"address": "0xd17206EC4D268D0E55bb08A369b6864f1178B81d", "name": "DelegateRegistry", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
+{"address": "0x54EF24C79BfB60A897a93783fB22F3C072604f79", "name": "NFT721Bridge", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
