@@ -12499,3 +12499,12 @@
 {"address": "0xBDc009aBc700f638e72b124c3613ac79bF185A9e", "name": "AvoForwarder", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/4/2023"}
 {"address": "0xdf6bf33F53Cc2360085D25Fa9F847e2B3C0EfF3A", "name": "AvoWallet", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/4/2023"}
 {"address": "0xb575E0Aa094a98DA0f4db4fA0F7680F1A657e3eb", "name": "AvoWallet", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/4/2023"}
+{"address": "0xfDaDB6C796f49aA75A4d18887D93efD74e4059D9", "name": "NFT721Bridge", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
+{"address": "0xf2237122129980b9795132bec8118b73057fa50a", "name": "W54022", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/5/2023"}
+{"address": "0xaffd7f3826c890a13e87325e211669a3eeb27d28", "name": "NextAlchemicToken", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
+{"address": "0x060c4Cb78f1a4508aD84CF2A65C6df9AFE3253Fe", "name": "VaultFeeReward", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
+{"address": "0x835a179a9E1A57f15823eFc82bC460Eb2D9d2E7C", "name": "OrderBook", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/5/2023"}
+{"address": "0xdd9e6d6a358640af0a0c291d7916a37e84aa40bc", "name": "UniV3VaultGovernance", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/4/2023"}
+{"address": "0x0d423d31b65ec77fbedae91b5d7c96148546ca3e", "name": "UniV3Vault", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/4/2023"}
+{"address": "0x2e8866d6aefb5c6b17cd4895425592cdda799d95", "name": "PegahsNFT", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/4/2023"}
+{"address": "0xf80ada1ff6b1468990127c3a80ae7de4c8a27b9a", "name": "Security_Contract", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/4/2023"}
