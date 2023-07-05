@@ -12521,3 +12521,13 @@
 {"address": "0xd42a2bb59775694c9df4c7822bffab150e6c699d", "name": "PRBProxyRegistry", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/5/2023"}
 {"address": "0xd17206EC4D268D0E55bb08A369b6864f1178B81d", "name": "DelegateRegistry", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
 {"address": "0x54EF24C79BfB60A897a93783fB22F3C072604f79", "name": "NFT721Bridge", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
+{"address": "0x8dd30a9f82c02c9633090568c3927d527eccfd96", "name": "Trig", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
+{"address": "0x23664de97ecb4d71bec13fea57d5deb990eb36c7", "name": "PerlinNoise", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
+{"address": "0x9a92b76fA1782f60bcaf76E7DDa1e2b8Dc9e2493", "name": "VesperAdapter", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
+{"address": "0xB61a23EC0c576d6864Ee81522B6D2d60300C8351", "name": "VelodromeV2Adapter", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
+{"address": "0xF24a56cA4d5BD33ecB04A9f4734e6E8D57C51880", "name": "VelodromeAdapter", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
+{"address": "0xdd9e5dab49d8394660d4fe2383692448e3944d2b", "name": "TokenBuyer", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
+{"address": "0x31d2cfcfd44e0e1f5c36d065e665b56b6354ea5c", "name": "CozyMultiOraclePriceFeed", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
+{"address": "0xc2a9a0d746535cec8dd841651172396dea38464c", "name": "Payer", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
+{"address": "0x4d6ec0e31c9177c696fb49c2ad04ab766e91f38f", "name": "OptimismL1Proxy", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
+{"address": "0xcbc35d6028dd4f70ab1d6ce84ccc46aa7df74a03", "name": "MO", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/5/2023"}
