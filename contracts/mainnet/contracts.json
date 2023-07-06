@@ -12580,3 +12580,4 @@
 {"address": "0xcA4CdC9eEd85D9cE0b8eEf74457480364068AF9e", "name": "BeethovenCheckpointer", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/6/2023"}
 {"address": "0xf2330127099f61a79139aa145c0b83b0afb1b110", "name": "FeeManager", "compiler": "0.8.17", "balance": "0.00088 Ether", "txcount": 1, "settings": "", "date": "7/6/2023"}
 {"address": "0x8D81d98A98E75A496b523b1bf2070518755C36D4", "name": "MetamaskClaimer", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/6/2023"}
+{"address": "0xcfb78866a2243c4fcb8a793838fcfeb42b5bd7ba", "name": "LFT", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/6/2023"}
