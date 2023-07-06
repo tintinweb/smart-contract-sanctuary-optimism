@@ -12533,3 +12533,19 @@
 {"address": "0xcbc35d6028dd4f70ab1d6ce84ccc46aa7df74a03", "name": "MO", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/5/2023"}
 {"address": "0xece2255020879cb165d2b6881afa224108e592c6", "name": "MockERC721WithArt", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/5/2023"}
 {"address": "0x31f599953a0b68c109a181b7ced7b0757f337cf1", "name": "VeArtProxy", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
+{"address": "0xdDecC5735eC2b65C0b110d1DEdFCC90877ef8177", "name": "OpenOcean", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/6/2023"}
+{"address": "0xd23aa7EdF42CD3Fc4CD391faAbc0c207B1c86542", "name": "BribeFactory", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "7/6/2023"}
+{"address": "0x4177b6f4C38A2ee94606e10049691393643b80ae", "name": "BribeMarket", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/6/2023"}
+{"address": "0xa9b08B4CeEC1EF29EdEC7F9C94583270337D6416", "name": "BribeVault", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "7/6/2023"}
+{"address": "0x833a79e66d2cE0d5F5fdF8d213c9c02192cdF999", "name": "RewardHarvesterClaim", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/6/2023"}
+{"address": "0x4573F58461acd1a6C743d9CDE34A142Ca18B6873", "name": "RewardHarvester", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/6/2023"}
+{"address": "0xcA795Dc6f668add4801D2B92cF36C8FBcBEb8Ac4", "name": "RewardSwapper", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/6/2023"}
+{"address": "0x7354BB6842E421773E7b78f8875A1B85991677c0", "name": "RewardDistributor", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/6/2023"}
+{"address": "0xE110AF9Bc0C40bEAA8b797c5B45D8b4299BD5ab7", "name": "Metis", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 12, "settings": "", "date": "7/6/2023"}
+{"address": "0xb6184450f75ad46f79ffbfd5b859f9bf55f534ae", "name": "Core", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/6/2023"}
+{"address": "0xde9f5a3037ec17a297eaca7545b90db2cb7e6845", "name": "Core", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/6/2023"}
+{"address": "0x47c9ac4caa98b99522b664750042f70e7c2a4e54", "name": "W54023", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/6/2023"}
+{"address": "0x4a487b5501584ce74d17f86e8a5d4dafb0bd5013", "name": "Executor", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/6/2023"}
+{"address": "0xd2b1d1b75a0f226722b3a174dae54e6dd14af1a1", "name": "Velodrome Finance LP Sugar v2", "compiler": "vyper:0.3.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/6/2023"}
+{"address": "0xd4DCB4E92B0F434f1297D5239A3AaD875E25F675", "name": "RubiconMarket", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
+{"address": "0x92ef06dbccf841194437afac61bbcd5e3530fadb", "name": "Hopscotch", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "7/5/2023"}
