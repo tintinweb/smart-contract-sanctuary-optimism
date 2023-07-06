@@ -12549,3 +12549,17 @@
 {"address": "0xd2b1d1b75a0f226722b3a174dae54e6dd14af1a1", "name": "Velodrome Finance LP Sugar v2", "compiler": "vyper:0.3.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/6/2023"}
 {"address": "0xd4DCB4E92B0F434f1297D5239A3AaD875E25F675", "name": "RubiconMarket", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/5/2023"}
 {"address": "0x92ef06dbccf841194437afac61bbcd5e3530fadb", "name": "Hopscotch", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 9, "settings": "", "date": "7/5/2023"}
+{"address": "0x318B2dc987697A3a7eA49224a9A8A88930A70718", "name": "ONFTFactory", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/6/2023"}
+{"address": "0x0D4F5B6442e6025e5865ddc5a94d03B0DffbEB33", "name": "OmniseaDropsRepository", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/6/2023"}
+{"address": "0xe6BA7158a440D9458fa72DceC0EA128512d0eFfb", "name": "OmniseaDropsFactory", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/6/2023"}
+{"address": "0x9F2B000B8912406DC392b23BF6e5aE9BFD70A128", "name": "OmniseaDropsManager", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/6/2023"}
+{"address": "0x6ef0871ed810f323eA516A77B0988353b667dfa4", "name": "OmniseaDropsScheduler", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/6/2023"}
+{"address": "0x26D6Cd7a0871634Dc330235d59b9D8e480470A2E", "name": "LeechRouterOptimism", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/6/2023"}
+{"address": "0x9ddB9DC20E904206823184577e9C571c713d2c57", "name": "EtherspotPaymaster", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/6/2023"}
+{"address": "0x2061749f6138c1e6c86ecdcc25789e2cde867675", "name": "PEPEC", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/6/2023"}
+{"address": "0x7C5FecD1B1A26d43E48B6cc028d19e6e75E8107D", "name": "ShowerRoom", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/6/2023"}
+{"address": "0x54d7BfF9551E61e9E02304f1C96B1C1db884eD9f", "name": "QuoteVault", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/6/2023"}
+{"address": "0x66457156E8a26322733966705a06E6Db6257b543", "name": "BaseVault", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/6/2023"}
+{"address": "0x041B45C60e478c0E9e139C7e20A126a817cDf491", "name": "TokenLockV2Simple", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/6/2023"}
+{"address": "0x1AD7c8E6b1f29979AdC042820b33338A9E187a90", "name": "TokenLockV3", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/6/2023"}
+{"address": "0xbb96D85d19BAE402Fa37EcF6106F05aD71825032", "name": "SquidRouter", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/6/2023"}
