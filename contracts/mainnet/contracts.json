@@ -12578,3 +12578,5 @@
 {"address": "0xdd6a5674a41fe7a3c2cff3d0fc1773e83d2c53ad", "name": "sai7illustrationsOP721", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/6/2023"}
 {"address": "0x71750f82f0C056Ae3f7b302740B4E54A07b80e22", "name": "WYZToken", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/6/2023"}
 {"address": "0xcA4CdC9eEd85D9cE0b8eEf74457480364068AF9e", "name": "BeethovenCheckpointer", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/6/2023"}
+{"address": "0xf2330127099f61a79139aa145c0b83b0afb1b110", "name": "FeeManager", "compiler": "0.8.17", "balance": "0.00088 Ether", "txcount": 1, "settings": "", "date": "7/6/2023"}
+{"address": "0x8D81d98A98E75A496b523b1bf2070518755C36D4", "name": "MetamaskClaimer", "compiler": "0.8.3", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/6/2023"}
