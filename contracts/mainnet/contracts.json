@@ -12633,3 +12633,9 @@
 {"address": "0x3bed4d42859593a1f16934b8c24792e781052348", "name": "RecurringGrantDrop", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/7/2023"}
 {"address": "0xae88c4e320c284aed8c89c45946e895cb262f55e", "name": "WeeklyGrant", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/7/2023"}
 {"address": "0x1D31B21Fe28Af5f73b8e8Ae0C900504BbC7D151c", "name": "AltitudeFee", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/7/2023"}
+{"address": "0xceCB301c2e2A04dD631428C386DD21db70716F8a", "name": "Metis", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 12, "settings": "", "date": "7/7/2023"}
+{"address": "0x8765472fF328E26EBB1429a41c98eC7e797F89f0", "name": "LinearVestingVault", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/7/2023"}
+{"address": "0x8803a023eaee909d6c8a40564d05cfad42dd086c", "name": "LZCOptimism", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "7/7/2023"}
+{"address": "0x26D8b2b0ec4256fc78ec0688d589Ae660a4d9dF2", "name": "RewardDistributor", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/7/2023"}
+{"address": "0x5a7e585Eb2047CbC7F492e959C23a998e7a49053", "name": "VeWFireStaking", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/7/2023"}
+{"address": "0xC8e5aB4a8DC74163481eF67366D6d266a81C8b90", "name": "VeWFireToken", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "7/7/2023"}
