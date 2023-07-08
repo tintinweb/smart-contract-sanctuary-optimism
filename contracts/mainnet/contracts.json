@@ -12644,3 +12644,9 @@
 {"address": "0x21d8284c498A2Dad0213aFf6ae20e48305767183", "name": "Operator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/7/2023"}
 {"address": "0xc9FFaCbdbE074BfEC120A89Cd459DbE218143713", "name": "ERC20Redemption", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "7/7/2023"}
 {"address": "0x00077c791a93ee1Dc1c87F92520fAd0A45f00000", "name": "SmartContract", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/7/2023"}
+{"address": "0x03Df70538334f98a5fB71dd6341d3bc6dd104B9E", "name": "StrategyPikaV4", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/8/2023"}
+{"address": "0x00000000001bd30ded5fc00a1e04420d15c80096", "name": "Layerr20", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/8/2023"}
+{"address": "0x0000000000ca814ae01460b2f4797d0f34d38a7d", "name": "Layerr721A", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/8/2023"}
+{"address": "0x0000000000f7a60f1c88f317f369e3d8679c6689", "name": "Layerr721", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/8/2023"}
+{"address": "0x0000000000c480563ccbc2832fb38ea654387922", "name": "Layerr1155", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/8/2023"}
+{"address": "0x000000000000d58696577347f78259bd376f1bec", "name": "LayerrMinter", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/8/2023"}
