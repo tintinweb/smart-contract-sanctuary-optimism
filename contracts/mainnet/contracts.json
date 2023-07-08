@@ -12650,3 +12650,7 @@
 {"address": "0x0000000000f7a60f1c88f317f369e3d8679c6689", "name": "Layerr721", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/8/2023"}
 {"address": "0x0000000000c480563ccbc2832fb38ea654387922", "name": "Layerr1155", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/8/2023"}
 {"address": "0x000000000000d58696577347f78259bd376f1bec", "name": "LayerrMinter", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/8/2023"}
+{"address": "0x49Ca6d0e819E83471575bD4e140ab9a9f4e954d5", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/8/2023"}
+{"address": "0x9C9d17bEE150E4eCDf3b99baFA62c08Cb30E82BC", "name": "EASUpgradeable", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/8/2023"}
+{"address": "0x426950774eb6f2d6511bc604dd6d986079a207cd", "name": "MJ", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/8/2023"}
+{"address": "0xb6e627b94bf7284d74543b363de1a950c8f8dc54", "name": "tajajac", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/8/2023"}
