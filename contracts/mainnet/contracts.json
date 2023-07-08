@@ -12639,3 +12639,8 @@
 {"address": "0x26D8b2b0ec4256fc78ec0688d589Ae660a4d9dF2", "name": "RewardDistributor", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/7/2023"}
 {"address": "0x5a7e585Eb2047CbC7F492e959C23a998e7a49053", "name": "VeWFireStaking", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/7/2023"}
 {"address": "0xC8e5aB4a8DC74163481eF67366D6d266a81C8b90", "name": "VeWFireToken", "compiler": "0.8.4", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "7/7/2023"}
+{"address": "0x893b9e6838847342636b465ea24c3fbebd467cc5", "name": "W54025", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/8/2023"}
+{"address": "0x3ca75d28f3a3f9d5c5b914459e2daa4f4b012a89", "name": "VAA", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/7/2023"}
+{"address": "0x21d8284c498A2Dad0213aFf6ae20e48305767183", "name": "Operator", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/7/2023"}
+{"address": "0xc9FFaCbdbE074BfEC120A89Cd459DbE218143713", "name": "ERC20Redemption", "compiler": "0.8.12", "balance": "0 Ether", "txcount": 3, "settings": "-", "date": "7/7/2023"}
+{"address": "0x00077c791a93ee1Dc1c87F92520fAd0A45f00000", "name": "SmartContract", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/7/2023"}
