@@ -12654,3 +12654,11 @@
 {"address": "0x9C9d17bEE150E4eCDf3b99baFA62c08Cb30E82BC", "name": "EASUpgradeable", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/8/2023"}
 {"address": "0x426950774eb6f2d6511bc604dd6d986079a207cd", "name": "MJ", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/8/2023"}
 {"address": "0xb6e627b94bf7284d74543b363de1a950c8f8dc54", "name": "tajajac", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/8/2023"}
+{"address": "0xd165bB2dABED1b79FB892a2a2836533da893D36a", "name": "Raffle", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/8/2023"}
+{"address": "0xc59a419c53C91b04f6b308619447f283AC885536", "name": "AssetVault", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/8/2023"}
+{"address": "0x9E7e69Cc9D2e34aa03c93baE1DE5c689CA128452", "name": "Distributor", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/8/2023"}
+{"address": "0x29443c7E435c15d7F492f07A7cbc90b4e5Bd1c88", "name": "VaultDepositRouter", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/8/2023"}
+{"address": "0x0E1fb9eB5A394C889879952A74AE299C80C1e196", "name": "VaultFactory", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/8/2023"}
+{"address": "0x53E1f125E64112D96452fD5dF77165cB4e14942b", "name": "WinnerAirnode", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "7/8/2023"}
+{"address": "0xCa4577A04c512a0Ee06322b043250186cB5Aea19", "name": "FairHub", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/8/2023"}
+{"address": "0x00000f7365cA6C59A2C93719ad53d567ed49c14C", "name": "BiconomyTokenPaymaster", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/8/2023"}
