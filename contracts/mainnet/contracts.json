@@ -12665,3 +12665,8 @@
 {"address": "0x5b414093362a7c768273d5f0405744b8c09556a8", "name": "Airdrop", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 306, "settings": "", "date": "7/9/2023"}
 {"address": "0x88a89866439F4C2830986B79cbe6f69d1Bd548BB", "name": "BIKE", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 9, "settings": "-", "date": "7/9/2023"}
 {"address": "0xbedfaf7657d82db11ab241aff7c619d7d6456390", "name": "W54026", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/9/2023"}
+{"address": "0x38CE7534Aad2CB671eBE0C6b60625254389768f9", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "7/9/2023"}
+{"address": "0x731069e9a45b351792379dec4810b22124212033", "name": "BLLY4", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 7, "settings": "", "date": "7/9/2023"}
+{"address": "0x5b7b8b487d05f77977b7abeec5f922925b9b2afa", "name": "AlphaProVaultFactory", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "7/9/2023"}
+{"address": "0xfaf1af4dc761dba157227a3c06cec9a7486d8a07", "name": "AlphaProVault", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/9/2023"}
+{"address": "0xb4bcaf59416cef7ec421b3d100508f44b2fb8431", "name": "TBF", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "7/9/2023"}
