@@ -12671,3 +12671,12 @@
 {"address": "0xfaf1af4dc761dba157227a3c06cec9a7486d8a07", "name": "AlphaProVault", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/9/2023"}
 {"address": "0xb4bcaf59416cef7ec421b3d100508f44b2fb8431", "name": "TBF", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 10, "settings": "", "date": "7/9/2023"}
 {"address": "0x5acef0614eb48876eb4af0714aed95ae17926ac0", "name": "ThriveCoinRewardSeasonIERC20", "compiler": "0.8.14", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/9/2023"}
+{"address": "0x6777eb8d569eEAAd5cA46f4cd6D7B29ae2abD3C0", "name": "Registry", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/10/2023"}
+{"address": "0xD6b372151BEF2cF43DEb54f65F45c48CA7f12BFe", "name": "Accountant", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/10/2023"}
+{"address": "0x6Ca92F61B58151CD75201722dADddA113fE0E9A5", "name": "PikaFeeReward", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/10/2023"}
+{"address": "0xe17B96C213f6a7280f84e0D1C6dCF3C268050Ab7", "name": "Origins", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/10/2023"}
+{"address": "0x85603119C938750Dfb5904f8a501b64F3F3A01D2", "name": "AddressRegistry", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 42, "settings": "", "date": "7/10/2023"}
+{"address": "0x1602cCEf627EaBfDc85F3C4c12204E01616D2084", "name": "MintManager", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/9/2023"}
+{"address": "0x3f4c57e0f8a787beba102226c5b9d28159a157ef", "name": "W54027", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/9/2023"}
+{"address": "0x00000000000d351e7df55d1a7e8045daf6c998e2", "name": "LayerrRenderer", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/9/2023"}
+{"address": "0x0000000000799dfe79ed462822ec68ef9a6199e6", "name": "LayerrWallet", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/9/2023"}
