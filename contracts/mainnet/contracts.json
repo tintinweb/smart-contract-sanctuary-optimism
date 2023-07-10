@@ -12680,3 +12680,11 @@
 {"address": "0x3f4c57e0f8a787beba102226c5b9d28159a157ef", "name": "W54027", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/9/2023"}
 {"address": "0x00000000000d351e7df55d1a7e8045daf6c998e2", "name": "LayerrRenderer", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/9/2023"}
 {"address": "0x0000000000799dfe79ed462822ec68ef9a6199e6", "name": "LayerrWallet", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/9/2023"}
+{"address": "0xD1C2A4bf357a1f7A4A1594d4fa5dbd175648b09D", "name": "KtbArbitrageurQuoter", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/10/2023"}
+{"address": "0x065047856f2Ca23D80B6068f29BE56958698f965", "name": "KtbArbitrageur", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/10/2023"}
+{"address": "0x51c6c87fe4b9B8806aB76c0186543fD2A1ca1beB", "name": "KtbArbitrageurQuoter", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/10/2023"}
+{"address": "0xf03Dc4dA56e9B72dE94320675a985E76C9CD4098", "name": "KtbArbitrageur", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 3, "settings": "", "date": "7/10/2023"}
+{"address": "0xa3bb41f9430e23e31274b8bff5452c7adeea600b", "name": "go", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/10/2023"}
+{"address": "0xa2C203d7EF78ed80810da8404090f926d67Cd892", "name": "Merkly", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "7/10/2023"}
+{"address": "0xb6c94bdf3f824de5a1c666ef99e07db4103098b1", "name": "Merkly", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/10/2023"}
+{"address": "0x1a76cd34d7d344eb57291d4539192262d007b576", "name": "YearnStrategy", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/10/2023"}
