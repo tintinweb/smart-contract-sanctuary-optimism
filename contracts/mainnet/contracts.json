@@ -12688,3 +12688,14 @@
 {"address": "0xa2C203d7EF78ed80810da8404090f926d67Cd892", "name": "Merkly", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 5, "settings": "", "date": "7/10/2023"}
 {"address": "0xb6c94bdf3f824de5a1c666ef99e07db4103098b1", "name": "Merkly", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/10/2023"}
 {"address": "0x1a76cd34d7d344eb57291d4539192262d007b576", "name": "YearnStrategy", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/10/2023"}
+{"address": "0x6df7bf308abaf673f38db316ecc97b988ce1ca78", "name": "Create3Factory", "compiler": "0.8.20", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/10/2023"}
+{"address": "0xD3b01bC0A6c8F31a40E37D031ff407F4E2ad1115", "name": "ConfidencePresale", "compiler": "0.8.0", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/10/2023"}
+{"address": "0xE3504aAed7AFD7cBcA8A22175726fFBA9A80cec2", "name": "PostOffice", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/10/2023"}
+{"address": "0xb0AD4711099e67Ea50af480018623c426279d13e", "name": "CapsuleProxy", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/10/2023"}
+{"address": "0xbDDAC3069F4E26F4e4F445926c8Eeb9DCB68c26B", "name": "AuraViewHelpersLite", "compiler": "0.8.11", "balance": "0 Ether", "txcount": 1, "settings": "-", "date": "7/10/2023"}
+{"address": "0xF708bc4a9a8fa089D5bb0558Eb6ac581b63658D1", "name": "PingPong", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 4, "settings": "", "date": "7/10/2023"}
+{"address": "0x584009e9ede26e212182c9745f5c000191296a78", "name": "PRBProxyRegistry", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/10/2023"}
+{"address": "0x19716d3453c9dd9bf8d8835f10f55e953a909d2b", "name": "sss", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/10/2023"}
+{"address": "0xd34574eac5f9da5ea09765f35890af7b2981b1b6", "name": "MAM", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/10/2023"}
+{"address": "0x3ea677ed5a5aa56b0b506c8231f38613a70c91d9", "name": "QuarkToken", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/10/2023"}
+{"address": "0x2ad339352e448628fb536c1fca50230e6ee84778", "name": "WUSDC", "compiler": "0.8.13", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/10/2023"}
