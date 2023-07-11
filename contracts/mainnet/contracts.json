@@ -12801,3 +12801,12 @@
 {"address": "0xe89fa795611a1da4cf5e4c7ec908f4244f13aad1", "name": "WeeklyGrant", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/11/2023"}
 {"address": "0x7d8ee5298bd0b4857c245be223d9ba5a64faeb0a", "name": "RecurringGrantDrop", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 8, "settings": "", "date": "7/11/2023"}
 {"address": "0x924481dd36f80e4c124d0018d941add526f5aff5", "name": "WeeklyGrant", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/11/2023"}
+{"address": "0x29664f19EA2FdaDfE262C6057Cdc8BC3bAd44299", "name": "StrategyPikaV4", "compiler": "0.8.6", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/11/2023"}
+{"address": "0xadf86b537ef08591c2777e144322e8b0ca7e82a7", "name": "StaticATokenFactory", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/11/2023"}
+{"address": "0x209ad99bd808221293d03827b86cc544bca0023b", "name": "StaticATokenLM", "compiler": "0.8.10", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/11/2023"}
+{"address": "0x77A0Df59d1d73B12B07Bcded0611279D8801ee96", "name": "ComposableStablePool", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 0, "settings": "", "date": "7/11/2023"}
+{"address": "0x043A2daD730d585C44FB79D2614F295D2d625412", "name": "ComposableStablePoolFactory", "compiler": "0.7.1", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/11/2023"}
+{"address": "0x77c045e0a320aa25dfc750787e253822f94eaae5", "name": "EscrowswapV1", "compiler": "0.8.18", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/11/2023"}
+{"address": "0xe021c07930be03e61d6eae5dd4b7b80cd4246d0c", "name": "DJOPE", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/11/2023"}
+{"address": "0xe72edEc20D6c65A046Ae96c3DdecFB93F5CfA52C", "name": "StargateImplL2V2", "compiler": "0.8.7", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/11/2023"}
+{"address": "0xd88e9bb12f9e103F8a273AAe954cD023D934f17C", "name": "InterchainAccountRouter", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/11/2023"}
