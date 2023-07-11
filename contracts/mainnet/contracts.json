@@ -12743,3 +12743,15 @@
 {"address": "0x047ee5313f98e26cc8177fa38877cb36292d2364", "name": "Pairing", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/10/2023"}
 {"address": "0x08b4B3be5BFAB1Be319599Ce8e41C3DA7FE7F3F8", "name": "ClipperFarmingHelper", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/10/2023"}
 {"address": "0x82E0b8cDD80Af5930c4452c684E71c861148Ec8A", "name": "MetaBridge", "compiler": "0.8.1", "balance": "0.02 Ether", "txcount": 65165, "settings": "", "date": "7/10/2023"}
+{"address": "0x1dcb05a5887d5d14f8840fbf1054dad6b913c4d5", "name": "W54028", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/11/2023"}
+{"address": "0x5855caaa1a3bbb31229444511f66d007eede6783", "name": "xShrapDest", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/11/2023"}
+{"address": "0x51bab0f24fb5bf86ed7e0f24c1fc1e312fc86417", "name": "PulseStrategyV2Helper", "compiler": "0.8.9", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/11/2023"}
+{"address": "0xEe8369A567af599E7ae75CF19dd815C7f3350A54", "name": "QuestFactory", "compiler": "0.8.16", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/11/2023"}
+{"address": "0xe597e855c7a1dece16999bda392be05651b9f41b", "name": "BAYC", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/11/2023"}
+{"address": "0xc3ade933119fe7232966db4739194811fb6e1398", "name": "POLIS", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/10/2023"}
+{"address": "0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67", "name": "SafeProxyFactory", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 30, "settings": "-", "date": "7/10/2023"}
+{"address": "0xeDCF620325E82e3B9836eaaeFdc4283E99Dd7562", "name": "TokenCallbackHandler", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "-", "date": "7/10/2023"}
+{"address": "0x9641d764fc13c8B624c04430C7356C1C7C8102e2", "name": "MultiSendCallOnly", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 11, "settings": "-", "date": "7/10/2023"}
+{"address": "0x9b35Af71d77eaf8d7e40252370304687390A1A52", "name": "CreateCall", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 0, "settings": "-", "date": "7/10/2023"}
+{"address": "0x58FCe385Ed16beB4BCE49c8DF34c7d6975807520", "name": "SignMessageLib", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 0, "settings": "-", "date": "7/10/2023"}
+{"address": "0xc962E67D9490E154D81181879ddf4CD3b65D2132", "name": "Safe", "compiler": "0.7.6", "balance": "0 Ether", "txcount": 0, "settings": "-", "date": "7/10/2023"}
