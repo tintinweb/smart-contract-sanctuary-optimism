@@ -12888,3 +12888,11 @@
 {"address": "0xed4e008425575b0F9f2CF3eb3Ba3554706D3C311", "name": "sePSPStakingMigratorV1", "compiler": "0.8.19", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/12/2023"}
 {"address": "0xd62d850b9d312592dd4d5d15271f40b1dbc12489", "name": "W54029", "compiler": "0.8.17", "balance": "0 Ether", "txcount": 2, "settings": "", "date": "7/12/2023"}
 {"address": "0x43b007888191ad30aa4548599a7bf5fa8cbd90f9", "name": "BorrowingVaultUpgradeable", "compiler": "0.8.15", "balance": "0 Ether", "txcount": 1, "settings": "", "date": "7/12/2023"}
+{"address": "0x3b8481eb0328ace5da55f997671b6264c601355a", "name": "SismoConnectVerifier", "compiler": "0.8.20", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/12/2023"}
+{"address": "0x1c4bd61f5b19750ffb7b0b2d97c77dcf68f49152", "name": "TransparentUpgradeableProxy", "compiler": "0.8.20", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/12/2023"}
+{"address": "0x0568ece836a0881cd305ad53046ab51467b0886a", "name": "HydraS3Verifier", "compiler": "0.8.20", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/12/2023"}
+{"address": "0x027aca627f7d13572a54ac2d027a770ca3ef22c8", "name": "ClaimMatchingLib", "compiler": "0.8.20", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/12/2023"}
+{"address": "0x89f40fd037e62eaec7511b0711f781aa57a3e96f", "name": "AuthMatchingLib", "compiler": "0.8.20", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/12/2023"}
+{"address": "0x1849754be236a199d5d81f077bf4c3f8e13ed16b", "name": "ReaperStrategyStabilityPool", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/12/2023"}
+{"address": "0x461d1f33763ef647104c69e924049656d7846a3e", "name": "BeefyWrapper", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "7/12/2023"}
+{"address": "0x3eE6107d9C93955acBb3f39871D32B02F82B78AB", "name": "ReaperVaultERC4626", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "7/12/2023"}
