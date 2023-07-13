@@ -12922,3 +12922,16 @@
 {"address": "0x6AFeb9EDd6Cf44fA8E89b1eee28284e6dD7705C8", "name": "KSElasticLMHelper", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/13/2023"}
 {"address": "0x8d68b789c2042d801874d04cbfe514bbad470f0e", "name": "MaxX", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "7/13/2023"}
 {"address": "0xE62ffEcb572824E07c7bAD1429BDaDE3f27C8e2f", "name": "Econames", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/13/2023"}
+{"address": "0x16b261AC4b931e45ca8Bb23D39C3357FCDe1A06B", "name": "SwapHelper2Optimism", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/13/2023"}
+{"address": "0x25A04707b81071f29a241D6590Eb97796d6Ac1eC", "name": "DeltaNeutralHell", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "7/13/2023"}
+{"address": "0x9d629ae7c4d20ada87276784571890e6cb384f34", "name": "kiwusu", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "7/13/2023"}
+{"address": "0x166a3cb122d3053a5a468e3bffc5fff4aa91e568", "name": "BosonToken", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/13/2023"}
+{"address": "0x8acb5c2c34a1ae154a949b57758fb5296bf86738", "name": "LeptonToken", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/13/2023"}
+{"address": "0x83613dea871c38c2a2a98068cf136964dc828a68", "name": "WAAGH", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "7/13/2023"}
+{"address": "0xe0138c596939cc0d2382046795bc163ad5755e0e", "name": "SablierV2NFTDescriptor", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/13/2023"}
+{"address": "0x7f45f1ea57e9231f846b2b4f5f8138f94295a726", "name": "Velodrome Finance LP Sugar v2", "compiler": "vyper:0.3.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/13/2023"}
+{"address": "0x6caf080dae3fbebea89f4b4d321644f45458b19f", "name": "Velodrome Finance LP Sugar v2", "compiler": "vyper:0.3.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/13/2023"}
+{"address": "0xC570c434ba30a2fa5C07E590833246E18aa6B0a3", "name": "HATHackersNFT", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/13/2023"}
+{"address": "0x96484f2aBF5e58b15176dbF1A799627B53F13B6d", "name": "BatchRelayerLibrary", "compiler": "0.7.1", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/13/2023"}
+{"address": "0xFE1862BdCAf17ADf2D83eEb0Da98dAE04492F4f7", "name": "BalancerRelayer", "compiler": "0.7.1", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/13/2023"}
+{"address": "0x52cbE0f49CcdD4Dc6E9C13BAb024EABD2842045B", "name": "OffchainOracle", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/13/2023"}
