@@ -12946,3 +12946,4 @@
 {"address": "0x0248b38a06f19926079b4483b0b3dc0b9b4ab8a6", "name": "PerlinNoise", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/13/2023"}
 {"address": "0x5976d4c3bcfc1c5f90ab1419d7f3ddf109cea35a", "name": "GoodNodes", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "7/13/2023"}
 {"address": "0xe8d00d5205a81735b7309974a14cc8e79df312f8", "name": "TAJL", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "7/13/2023"}
+{"address": "0x27f11918740060bd9Be146086F6836e18eedBB8C", "name": "EtherspotWalletFactory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/13/2023"}
