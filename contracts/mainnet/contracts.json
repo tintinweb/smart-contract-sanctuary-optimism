@@ -12896,3 +12896,14 @@
 {"address": "0x1849754be236a199d5d81f077bf4c3f8e13ed16b", "name": "ReaperStrategyStabilityPool", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/12/2023"}
 {"address": "0x461d1f33763ef647104c69e924049656d7846a3e", "name": "BeefyWrapper", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "7/12/2023"}
 {"address": "0x3eE6107d9C93955acBb3f39871D32B02F82B78AB", "name": "ReaperVaultERC4626", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "7/12/2023"}
+{"address": "0xca423977156bb05b13a2ba3b76bc5419e2fe9680", "name": "OdosRouterV2", "compiler": "0.8.8", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "7/13/2023"}
+{"address": "0xF54E930a446D494E9B21cd4b8f3DdBE8477E3ECb", "name": "Erc20Redeemer", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/13/2023"}
+{"address": "0x264f1FF0F1224970046109a45D3d922c83b20c8D", "name": "ZeroXExecutor", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/13/2023"}
+{"address": "0xe98f9f30cb834C6d86AE7D49f7448C125C793a07", "name": "Accountant", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/13/2023"}
+{"address": "0x90013415F29DB01cE083d2311D1f2e1ff5F82654", "name": "Transport", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/13/2023"}
+{"address": "0x4FcC3f6E491d4e7DF57a3a630e491712aC8f283c", "name": "Registry", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/13/2023"}
+{"address": "0x49421E40D3C4Ec58bBdB13D38B410C47d4Af3357", "name": "VxPremia", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/13/2023"}
+{"address": "0x63ae06183a6b710ec233528c96e52697d839174e", "name": "ffJOY", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/12/2023"}
+{"address": "0xc4E017b3277D4926657Ce87bB93659d9B05D0a66", "name": "FloorDropMintpass", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "7/12/2023"}
+{"address": "0x00337a31aee3ed37f5d5fbf892031d0090da2eef", "name": "WormholeRelayer", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/12/2023"}
+{"address": "0x27428dd2d3dd32a4d7f7c497eaaa23130d894911", "name": "SimpleProxy", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "7/12/2023"}
