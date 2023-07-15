@@ -12970,3 +12970,4 @@
 {"address": "0x6666b2df7a328cf775778ebad368f5f13e39ec4c", "name": "Splitter", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/13/2023"}
 {"address": "0x0a16cb36b553ba2bb2339f3b206a965e9841d305", "name": "RestrictedTeam", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/13/2023"}
 {"address": "0x6d85e63480ae2602568f8245385f0430dac67ae3", "name": "Fee", "compiler": "0.8.20", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/13/2023"}
+{"address": "0x5218134903ee06103124a452af31856d86034c5c", "name": "BalanceScanner", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "7/15/2023"}
