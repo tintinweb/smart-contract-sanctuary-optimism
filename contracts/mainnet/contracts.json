@@ -13008,3 +13008,6 @@
 {"address": "0x72C0e1CaBC58557fD014968632Ae9f3d0C55474A", "name": "RubiArbitrageur", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/16/2023"}
 {"address": "0x99249669AcDDB6443850B03e1FAB49743a3519Be", "name": "Stellar", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "7/16/2023"}
 {"address": "0x80130D182ED6D3A99C06166d939E9f0bA864DFC8", "name": "TransparentUpgradeableProxy", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "7/16/2023"}
+{"address": "0xebd011627c0480f90a981681ddbb51890d54856d", "name": "NMKY", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "7/16/2023"}
+{"address": "0x0f5d1cfc789052bf0898eefee509adbc5a3c33a9", "name": "Batcher", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "7/16/2023"}
+{"address": "0x20279b6d57ba6d3ef852f34800e43e39d46d6487", "name": "Merkly", "compiler": "0.8.19", "balance": "0.0002825 ETH", "txcount": 17, "settings": "", "date": "7/16/2023"}
