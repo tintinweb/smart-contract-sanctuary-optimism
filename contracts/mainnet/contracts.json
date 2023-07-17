@@ -13011,3 +13011,12 @@
 {"address": "0xebd011627c0480f90a981681ddbb51890d54856d", "name": "NMKY", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "7/16/2023"}
 {"address": "0x0f5d1cfc789052bf0898eefee509adbc5a3c33a9", "name": "Batcher", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "7/16/2023"}
 {"address": "0x20279b6d57ba6d3ef852f34800e43e39d46d6487", "name": "Merkly", "compiler": "0.8.19", "balance": "0.0002825 ETH", "txcount": 17, "settings": "", "date": "7/16/2023"}
+{"address": "0xf8a0ddcab48bb71ab5368c7fe5c26d581fa98009", "name": "ECVB", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/17/2023"}
+{"address": "0x296405ce92055195146066d5aab6ce5d4e8cdb5e", "name": "ShuOP", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "7/17/2023"}
+{"address": "0xA6B28D6deea98d36696C354025f114a33BaDe3e6", "name": "Stellar", "compiler": "0.8.8", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "7/17/2023"}
+{"address": "0x1e2faed390be7945acbf22fc25173c4bdda3ea45", "name": "RBACTimelock", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "7/16/2023"}
+{"address": "0xD97D7ac05C48e91B84DA4aCe56665B2adC03fF8f", "name": "SimpleAccountFactory", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/16/2023"}
+{"address": "0x052a5cE14090174D3fa253bC33604Fedf143D67e", "name": "Create2Deployer1", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "7/16/2023"}
+{"address": "0x76fFb8B75c37aC3C3849C8b3603aF8A1AA9245f5", "name": "UniversalChainsONFT721", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/16/2023"}
+{"address": "0xcf448277bf50d817fc1245cb7bb2620dad4fb508", "name": "ManyChainMultiSig", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 11, "settings": "-", "date": "7/16/2023"}
+{"address": "0x2dc55d29208110be8ee8ce3ca64f7eb206403371", "name": "CL", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/16/2023"}
