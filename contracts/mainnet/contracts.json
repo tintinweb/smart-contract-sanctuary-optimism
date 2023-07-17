@@ -13051,3 +13051,9 @@
 {"address": "0xa946e257DBB90b261292f070FA7984C7AB6136b4", "name": "RubiArbitrageur", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/17/2023"}
 {"address": "0x4FBa8bE889342427a857C13Fd4366EDCC94bAb18", "name": "Origins", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/17/2023"}
 {"address": "0xfC51F922d1F4b67E39461d3E13b3aD88Bc2E24D7", "name": "Origins", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 20, "settings": "", "date": "7/17/2023"}
+{"address": "0xd68e69e2b5ae5bab29ff2dd363ce1685465df531", "name": "SpartanSynthverse", "compiler": "0.8.20", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "7/17/2023"}
+{"address": "0xfec47ce995b4f3c0e42ef4d477150313a4d22211", "name": "StargateAdapter", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/17/2023"}
+{"address": "0xb8004d351cc32dd4cf203d1ec75b1b6dd99aeb0a", "name": "SushiXSwapV2", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "7/17/2023"}
+{"address": "0xab8226fe8f2c73df43878bc911fa38141f2977f4", "name": "acxToken", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/17/2023"}
+{"address": "0xec16bd5874a10e5c171810fea8d7f6c9236a55b2", "name": "vaultFactory", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 69, "settings": "", "date": "7/17/2023"}
+{"address": "0xb46eE2E4165F629b4aBCE04B7Eb4237f951AC66F", "name": "AlchemixConnextGateway", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/17/2023"}
