@@ -13089,3 +13089,10 @@
 {"address": "0xde6b4964c4384bcdfa150a4a8be9865c5b91e29c", "name": "Vault", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "7/18/2023"}
 {"address": "0x91001550d523216E91E9E099234B4D48Ab77BB7E", "name": "StakingThalesBonusRewardsManager", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/18/2023"}
 {"address": "0xab4b1Cb0e9ccdAB5C30ca6c54230e2Ed8dE2A840", "name": "Referrals", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/18/2023"}
+{"address": "0x8e2984590b7f0ec51938bf8ecd3417fbf509b367", "name": "ds", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/18/2023"}
+{"address": "0x15e84C14Eb8598e4673f9687401A4Bd39fCA155C", "name": "AvoAuthoritiesListProxy", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/18/2023"}
+{"address": "0x5902d17e80a763b5EFc1EEc1e652c00867AB27cd", "name": "AvoGasEstimationsHelper", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/18/2023"}
+{"address": "0x83E443EF4f9963C77bd860f94500075556668cb8", "name": "ChainlinkRateProviderFactory", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/18/2023"}
+{"address": "0xAeD330234df8071538b72cEB110C70786C0EB2d1", "name": "RethOracle", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/18/2023"}
+{"address": "0x29c6e54f6ec2785c0fcfd6619e6115ccbeae1abe", "name": "MS", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "7/18/2023"}
+{"address": "0x000000000000a89360A6a4786b9B33266F208AF4", "name": "MulticallerWithSigner", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/18/2023"}
