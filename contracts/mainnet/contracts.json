@@ -13129,3 +13129,9 @@
 {"address": "0x89865676cbc34a530393ED2ECa6619F75856EdC8", "name": "QuestFactory", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/19/2023"}
 {"address": "0xc1ae3b4bd73cbc443ec5c8802e2820b4c19c4229", "name": "Ramp", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "7/18/2023"}
 {"address": "0xF1265fF14084Ee6C1D14e9aA4A6a39d78aff1cE2", "name": "MozBridge", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "7/18/2023"}
+{"address": "0x082c9cb8E6Bffc08AEeE638A2E1A93a7dE477c92", "name": "PikaFeeReward", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "7/19/2023"}
+{"address": "0x962654fE9534c616fe1F3Bd7c12065d54551BCb8", "name": "StakingThalesBonusRewardsManager", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/19/2023"}
+{"address": "0x0745f926121c4237329730e5af0187ad5a742505", "name": "Pokus", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "7/19/2023"}
+{"address": "0x622A3549a3c857095f7172e76A92bd58979C7B76", "name": "PikaTokenReward", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "7/19/2023"}
+{"address": "0x02346855c03253e320604700bb1a6f2e06d94cf9", "name": "TianlongCloudStaking", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 144, "settings": "", "date": "7/19/2023"}
+{"address": "0xdc839cc20e0DAEe5352a6C0d1AAB4015786cd12A", "name": "PikaFeeReward", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 76, "settings": "", "date": "7/19/2023"}
