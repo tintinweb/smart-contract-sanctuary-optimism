@@ -13161,3 +13161,16 @@
 {"address": "0xb77f5d8a3e0e22a4ef89312960cb5f59dd97d4f5", "name": "UnipilotStrategy", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/20/2023"}
 {"address": "0xa0a722cb46435609b9500d92cf12fcfab7fc1925", "name": "OPTICS", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/20/2023"}
 {"address": "0xa50e03e1a206c74d312ee7c06da5ae7324cb09de", "name": "TIGER", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/20/2023"}
+{"address": "0x8dd5622010f7cff47fb15f4d7adbf893d4bd4a92", "name": "MerklyRefuel", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "7/20/2023"}
+{"address": "0x8cFC1C9279bAD831261aa6bAB111fed097c7805d", "name": "DebtPreviewer", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/20/2023"}
+{"address": "0x16748Cb753A68329cA2117a7647aA590317EbF41", "name": "DebtManager", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/20/2023"}
+{"address": "0x5Fac76625d6EDB765Db2cE612B5eA4e7bbB8253b", "name": "RangoCometIntermediary", "compiler": "0.8.8", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "7/20/2023"}
+{"address": "0xC5d1D387Fa6f316849f628793f0bcc455466877c", "name": "ClearpoolLens", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/20/2023"}
+{"address": "0xF55Ec6E723d58CD9E84B9542e8335EBE4896f150", "name": "CosineInterestRateModel", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/20/2023"}
+{"address": "0xE746cd792677F894ba1B8eCEBB84Bf006BA6A2D7", "name": "Auction", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/20/2023"}
+{"address": "0xCE3Fec90A05992dF1357651FEF6D143FeeC7Ca16", "name": "MembershipStaking", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/20/2023"}
+{"address": "0x3B0bbd7E5877d64aD5886dDe14ca5cEecC29D55B", "name": "PoolMaster", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/20/2023"}
+{"address": "0xB90c0Dd210756FdD51F25c0CB333DcAd8AbA1BAC", "name": "PoolFactory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/20/2023"}
+{"address": "0x8f813bc36261669e8f75e1ebc341b6845b0d7824", "name": "ReaperStrategyStabilityPool", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/20/2023"}
+{"address": "0xF0869b188e8BC49f02F9B1518Eb22f325F981087", "name": "TokenHelper", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/20/2023"}
+{"address": "0xdf6b26ac202f349b7813f95b4853406971942ad4", "name": "GLA", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "7/20/2023"}
