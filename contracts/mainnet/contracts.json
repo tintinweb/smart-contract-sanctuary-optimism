@@ -13151,3 +13151,13 @@
 {"address": "0x7B982810a2af69Ad2BC407Ad89ceFBb53d8497D4", "name": "CartesiMathV2", "compiler": "0.8.20", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/19/2023"}
 {"address": "0x6D4651D8325C651C26f9cfACc097EfE32D9c4bB2", "name": "Bitmask", "compiler": "0.8.20", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/19/2023"}
 {"address": "0x06016071419f005ced89bba0ed18ce9e45dfe0da", "name": "ReaperStrategySonne", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/19/2023"}
+{"address": "0xe25A6C911dB7EEc7b3692B750Ad2c2E315e14D6A", "name": "StableUtils", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/20/2023"}
+{"address": "0x9a3e4671485B00ee59D36325e8736CF9aa8e256c", "name": "BalancerUpgradeable", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/20/2023"}
+{"address": "0x072AcB25cE7579F8B4da69356416B2bd34914078", "name": "SwapExecutor", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/20/2023"}
+{"address": "0x60d75a9b71c5755bc712b242872925673ef827ff", "name": "TESTY", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/20/2023"}
+{"address": "0x6900c436CF15D6D0016dC71A5CE5ADe843031eFd", "name": "UnipilotPassiveFactory", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/20/2023"}
+{"address": "0x9c7cB0BB03044D6c1c472b26058bFA61B9956D22", "name": "UnipilotActiveFactory", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/20/2023"}
+{"address": "0x3275df3a5017b204449f929c84232586cb23c133", "name": "ShoutOutTheNumberYouLikeContract", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "7/20/2023"}
+{"address": "0xb77f5d8a3e0e22a4ef89312960cb5f59dd97d4f5", "name": "UnipilotStrategy", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/20/2023"}
+{"address": "0xa0a722cb46435609b9500d92cf12fcfab7fc1925", "name": "OPTICS", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/20/2023"}
+{"address": "0xa50e03e1a206c74d312ee7c06da5ae7324cb09de", "name": "TIGER", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/20/2023"}
