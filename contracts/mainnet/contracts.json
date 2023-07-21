@@ -13182,3 +13182,9 @@
 {"address": "0x4829B4E552036006B0CaecECCee6DD9c6642BA1c", "name": "NFTEarthOFT", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 30, "settings": "", "date": "7/21/2023"}
 {"address": "0xCc6a58Cc11CA55346359518AFd187d5395728132", "name": "FeeDistributor", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/20/2023"}
 {"address": "0xeb46e2da8e6232e3ba269464af6968f7fcacd042", "name": "MerklyRefuel", "compiler": "0.8.19", "balance": "0.0000171624 ETH", "txcount": 7, "settings": "", "date": "7/20/2023"}
+{"address": "0x02048Cb6be76DB99bEc28553eDD1184Dd7B7C5Db", "name": "DavosBridge", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/21/2023"}
+{"address": "0x5F8d42635A2fa74D03b5F91c825dE6F44c443dA5", "name": "StakingRewards", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 130, "settings": "", "date": "7/21/2023"}
+{"address": "0x3dC60bE8092C851c3f512eDbFe3b61Fc40D33bb9", "name": "ExtraInterestBearingToken", "compiler": "0.8.18", "balance": "-", "txcount": 0, "settings": "", "date": "7/21/2023"}
+{"address": "0x32fd2d044df3ab52975efa8d694196ea11137ed5", "name": "Bg", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/21/2023"}
+{"address": "0x5ee7da188f0b78f2ff9ed0d663449917df3cf194", "name": "DataStorageOperator", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/21/2023"}
+{"address": "0x98cEc49cD937DB7b9774BF23c9a613c3A8a8834b", "name": "AlgebraPool", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/21/2023"}
