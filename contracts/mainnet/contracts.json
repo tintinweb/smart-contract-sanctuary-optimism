@@ -13677,3 +13677,11 @@
 {"address": "0x950bf56757264941d7Bc7b9110A1C965Ae1b498D", "name": "DebtPreviewer", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/21/2023"}
 {"address": "0xa8ba4001e3871bb773c032ad72eba9d0931c27cc", "name": "MandB", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "7/21/2023"}
 {"address": "0x0bc67e529d5ac2120dbf100a04edd88e9059fc02", "name": "L0xOP", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 55, "settings": "-", "date": "7/21/2023"}
+{"address": "0xbc18a13dd594b7d7eaa085829006ea2ddd99e78e", "name": "dD", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/1/2023"}
+{"address": "0xBdc9FC8681FCC99abC2350Debd42906D340ae3F0", "name": "FloorDropMintpass", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/1/2023"}
+{"address": "0xd7680c987167966208100ff4e3702f00f07c16ad", "name": "DX911", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/1/2023"}
+{"address": "0x222E9a4EbFD6bd9F7080AC67cB3D1dD8AF29D9be", "name": "DeltaNeutralDollar", "compiler": "0.8.21", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/1/2023"}
+{"address": "0x29d94eB815C5e06E4984a2C7A1Dc05b38644816c", "name": "DeltaNeutralDollar", "compiler": "0.8.21", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/1/2023"}
+{"address": "0x5d461896c925B15CF119Db816824D0A276026947", "name": "SwapHelperOptimisticEthereumUniswapV3", "compiler": "0.8.21", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/1/2023"}
+{"address": "0xa21da8794092846c3d510256e6f2a194a5370201", "name": "Usje", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/1/2023"}
+{"address": "0x0dacc9c9ffb34c846aef127d714f8bea68bc48d4", "name": "TypoMinter", "compiler": "0.8.18", "balance": "0.002664 ETH", "txcount": 59, "settings": "-", "date": "8/1/2023"}
