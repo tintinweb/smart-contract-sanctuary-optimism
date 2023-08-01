@@ -13685,3 +13685,8 @@
 {"address": "0x5d461896c925B15CF119Db816824D0A276026947", "name": "SwapHelperOptimisticEthereumUniswapV3", "compiler": "0.8.21", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/1/2023"}
 {"address": "0xa21da8794092846c3d510256e6f2a194a5370201", "name": "Usje", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/1/2023"}
 {"address": "0x0dacc9c9ffb34c846aef127d714f8bea68bc48d4", "name": "TypoMinter", "compiler": "0.8.18", "balance": "0.002664 ETH", "txcount": 59, "settings": "-", "date": "8/1/2023"}
+{"address": "0x33ff52d1c4b6973cd5af41ad53dd92d99d31d3c3", "name": "LPStaking", "compiler": "0.8.21", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "8/1/2023"}
+{"address": "0x1fFb5A42bf44339aAb64D8A97ee1643d8DBe09Fb", "name": "DeltaNeutralDollar", "compiler": "0.8.21", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/1/2023"}
+{"address": "0x860f4c60e07cca0809b814818be792caf837f6ee", "name": "Cos", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/1/2023"}
+{"address": "0xa8b1e2a1235e2b30b32233b9176867a05b48dc3e", "name": "Ramp", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/1/2023"}
+{"address": "0xce454B42f142B779B9C9453955d8eA660c230d52", "name": "ProtoStaker", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/1/2023"}
