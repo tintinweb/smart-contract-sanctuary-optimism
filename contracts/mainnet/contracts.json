@@ -13736,3 +13736,5 @@
 {"address": "0xd570a4F3b5E4057674cd7963Df0e4Ee5C2e96fC5", "name": "XERC20Factory", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "8/2/2023"}
 {"address": "0x534d2AAc03dCd0Cb3905B591BAf04C14A95426AB", "name": "DirectPayoutStrategyImplementation", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/2/2023"}
 {"address": "0xB9fd0d433d2ca03D26A182Dc709bA1EccA3B00cC", "name": "DummyVotingStrategy", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/2/2023"}
+{"address": "0xF95f44Af18C3462884A798c779B390caeDC91EbD", "name": "PoolLogic", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/2/2023"}
+{"address": "0x227f070ed2afd8744ef059959b8a8b8e8edc6c0f", "name": "UniversalPermit2Adapter", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/2/2023"}
