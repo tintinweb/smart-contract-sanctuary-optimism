@@ -13722,3 +13722,17 @@
 {"address": "0x0D78Cde141c1e1E84E3b7b33F702A37CEc9c3519", "name": "SurpriseBox", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/2/2023"}
 {"address": "0xcE2a13c2B6ab6F15B7AEEc272F65D4d8b11e4619", "name": "OCToken", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 14, "settings": "", "date": "8/2/2023"}
 {"address": "0x38CeaE487d084536337E84345447FdFB8764b121", "name": "OCToken", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/2/2023"}
+{"address": "0xd1898A60Cc897F9eC74e0D843BB082f979c02623", "name": "SynthetixV3AssetGuard", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/2/2023"}
+{"address": "0x0FA0F1D9d1533E4d74730aeAcf83e313d1966350", "name": "LayerZeroBridge", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "8/2/2023"}
+{"address": "0x8f5454526Fe627Dc3c6d926cfC76F63642d8641F", "name": "LayerZeroBridge", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/2/2023"}
+{"address": "0xaa597a5949fa88ac01b0e5f02ac4afbedfe5a361", "name": "Mas", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/2/2023"}
+{"address": "0x30F6B9b6485ff0B67E881f5ac80D3F1c70A4B23d", "name": "AlgebraStateMulticall", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/2/2023"}
+{"address": "0x71E8984E39AE7912Fb6Df7140b3324CE029A4D13", "name": "BridgedSuperToken", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/2/2023"}
+{"address": "0xB5396DF393b5c7b3D7b0c3c7288414E877366D3C", "name": "DebtPreviewer", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/2/2023"}
+{"address": "0x80eE33816077a79e6b369a8055829eee815e1B0A", "name": "ProtoStaker", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/2/2023"}
+{"address": "0x93883da6605a0866ac1bc79a2fc9b895d91e890e", "name": "XERC20", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/2/2023"}
+{"address": "0x03360fe329F44c6B0bE4d8C89D2fd4c0151b226E", "name": "BIFI", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "8/2/2023"}
+{"address": "0xDFc4Ba8283657b13410C59EeCD511Bc8dD3Bc558", "name": "CurveReborn", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 45, "settings": "-", "date": "8/2/2023"}
+{"address": "0xd570a4F3b5E4057674cd7963Df0e4Ee5C2e96fC5", "name": "XERC20Factory", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "8/2/2023"}
+{"address": "0x534d2AAc03dCd0Cb3905B591BAf04C14A95426AB", "name": "DirectPayoutStrategyImplementation", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/2/2023"}
+{"address": "0xB9fd0d433d2ca03D26A182Dc709bA1EccA3B00cC", "name": "DummyVotingStrategy", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/2/2023"}
