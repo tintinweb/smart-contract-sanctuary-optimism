@@ -13708,3 +13708,5 @@
 {"address": "0x3f7c9C7d9E69D0CfBfd6f009Cc59ae341F68b738", "name": "LinearVestingVault", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/2/2023"}
 {"address": "0xcd0bbd3803059ebcabf187f8c189ab0400e1c555", "name": "ELEVEN", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/1/2023"}
 {"address": "0xCD93a297152942169FF99bCC6642aDD6d1acB9C3", "name": "KINGWHITEBEAR", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/1/2023"}
+{"address": "0x395942C2049604a314d39F370Dfb8D87AAC89e16", "name": "VeloOracle", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/2/2023"}
+{"address": "0x906e38b198be6ea87b819c7e209b7c0c941aec6f", "name": "Dani", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/2/2023"}
