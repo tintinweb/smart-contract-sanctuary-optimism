@@ -13745,3 +13745,8 @@
 {"address": "0xca794c0cf1236f7acbadb5b532217e7c73774f4f", "name": "RICK", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/2/2023"}
 {"address": "0x054ecAdD4D26EC309E1a3b432Ce310FAAB0B31DF", "name": "PoolManagerLogic", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/2/2023"}
 {"address": "0xfA617E710D4f809375A011c1934a7c3F3B9F271c", "name": "Deployer", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/2/2023"}
+{"address": "0x8730671642c5f0a75779B3aA7bb459f5ccFE3424", "name": "JrtToJarvisConverter", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/3/2023"}
+{"address": "0x900d941F2299167e5457963e347e6607bDC78bb1", "name": "TestEmit", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "8/3/2023"}
+{"address": "0xB059EFDa8120221Ee88A4d40128324f4B5C1dcdC", "name": "SynthetixV3ContractGuard", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/3/2023"}
+{"address": "0xdf2aaed088917b611805af0831da56aac3b10ce1", "name": "ChainlinkComputedFeed", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/3/2023"}
+{"address": "0x6f1D074bf170fcDDE7712Bb8da4C70C5Be86884A", "name": "DexillaExchangeV5", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/3/2023"}
