@@ -13738,3 +13738,10 @@
 {"address": "0xB9fd0d433d2ca03D26A182Dc709bA1EccA3B00cC", "name": "DummyVotingStrategy", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/2/2023"}
 {"address": "0xF95f44Af18C3462884A798c779B390caeDC91EbD", "name": "PoolLogic", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/2/2023"}
 {"address": "0x227f070ed2afd8744ef059959b8a8b8e8edc6c0f", "name": "UniversalPermit2Adapter", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/2/2023"}
+{"address": "0x7777777a456ff23d9b6851184472c08fbda73e32", "name": "ProtocolRewards", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/3/2023"}
+{"address": "0x77777777d5141a9f017ca8f2a42a0e6925bee18a", "name": "ProtocolRewards", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/3/2023"}
+{"address": "0xa3f89b571bc9aa0f09b487789cd578137153361b", "name": "TOTD", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/3/2023"}
+{"address": "0x82040a2591f69752D7F0fDa15c36231Aa03eFBd8", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/2/2023"}
+{"address": "0xca794c0cf1236f7acbadb5b532217e7c73774f4f", "name": "RICK", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/2/2023"}
+{"address": "0x054ecAdD4D26EC309E1a3b432Ce310FAAB0B31DF", "name": "PoolManagerLogic", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/2/2023"}
+{"address": "0xfA617E710D4f809375A011c1934a7c3F3B9F271c", "name": "Deployer", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/2/2023"}
