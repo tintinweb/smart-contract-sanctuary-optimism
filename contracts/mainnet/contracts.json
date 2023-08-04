@@ -13776,3 +13776,8 @@
 {"address": "0x09bCBB15263a5946aADD511155B9F43B45039953", "name": "FlexManager", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "8/3/2023"}
 {"address": "0xB8E828AAc692750ba951C1478f8cEBff15366eB1", "name": "FlexV2", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/3/2023"}
 {"address": "0x1cC5Ccd855Eb55311b03734ff3A0fF67ce54b713", "name": "Crowdfunding", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/3/2023"}
+{"address": "0x2442Af8A16f593472d45adCbA517bd5d943cBC71", "name": "Airdrop", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/4/2023"}
+{"address": "0x6ed2428624da78cfe2daec70be171d1752cdeff8", "name": "AaveEModeHelper", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/4/2023"}
+{"address": "0x26ad790877ddBD5C0dA18b306A79ddD85d20fE40", "name": "RadarEditions", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/3/2023"}
+{"address": "0x0A825ab293A2c6Fd1309c97001881A8d4FBa6eFb", "name": "RadarEditions", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/3/2023"}
+{"address": "0xfC3b1B9A21deBcFb37037FBB0416CF9AF9Af5a9B", "name": "RadarEditions", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/3/2023"}
